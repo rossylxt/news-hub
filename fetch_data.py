@@ -538,6 +538,11 @@ TEAM_NAME_ZH = {
     "bodo glimt": "博德闪耀", "qarabag": "卡拉巴克", "fc copenhagen": "哥本哈根",
     "copenhagen": "哥本哈根", "union saint gilloise": "圣吉罗斯联",
     "kairat almaty": "凯拉特", "pafos": "帕福斯",
+
+    # ---- 西乙/法乙/意乙/英冠等二级联赛（会出现在杯赛赛程里，一并收录官方通行译名）----
+    "rc deportivo la coruna": "拉科鲁尼亚", "real racing club de santander": "桑坦德竞技",
+    "malaga": "马拉加", "monza": "蒙扎", "racing club de lens": "朗斯",
+    "ipswich town": "伊普斯维奇",
 }
 
 
