@@ -9,9 +9,10 @@ fetch_data.py —— 自动抓取真实资讯数据，生成 data.json
   1. 从下面 FEED_SOURCES 中配置的各个真实 RSS 源抓取最新资讯；
   2. 把每条资讯归一化成网站需要的字段结构（与原先 mock 数据字段完全一致）；
   3. 把英文 / 日文等非中文来源的标题、摘要，以及赛事预告里的球队名，
-     自动翻译成简体中文（用 deep-translator 免费调用 Google 翻译，不需要 API Key）；
-     已经是中文的内容会自动跳过翻译，避免多此一举；翻译失败时会重试几次，仍失败则保留原文，
-     不影响抓取流程；
+     自动翻译成简体中文（优先用 deep-translator 免费调用 Google 翻译，不需要 API Key；
+     Google 被限流时自动切换到 MyMemory 这个独立的免费翻译接口兜底）；
+     已经是中文的内容会自动跳过翻译，避免多此一举；两个翻译接口都失败/都被限流时保留原文，
+     不影响抓取流程（下次抓取会再次尝试翻译）；
      球队名、日本球员姓名等专有名词优先查内置的官方/通行中文译名词典（TEAM_NAME_ZH /
      _JP_KANJI_TO_ZH），保证是国内体育媒体通行的准确译名，而不是机器翻译的直译结果；
      词典没有收录的球队再退回机器翻译兜底；
@@ -41,7 +42,7 @@ from datetime import datetime, timedelta, timezone
 
 import feedparser
 import requests
-from deep_translator import GoogleTranslator
+from deep_translator import GoogleTranslator, MyMemoryTranslator
 
 # ==============================================================================
 # 基础配置
@@ -201,6 +202,23 @@ _HAN_RE = re.compile(u"[一-鿿]")
 # 同一次运行内，相同文本只翻译一次并复用结果（球队名等重复率很高，能大幅减少请求数）
 _TRANSLATION_CACHE = {}
 
+# GitHub Actions 的 runner 出口 IP 是共享池，经常被 Google 翻译的免费接口判定为"请求过多"。
+# 一旦在本次运行中检测到限流，就不再继续重试 Google（避免浪费大量指数退避的等待时间），
+# 直接切换到 MyMemory 这个限流策略完全独立的免费接口兜底；两个接口都不可用时才保留原文。
+_GOOGLE_BLOCKED = False
+_MYMEMORY_BLOCKED = False
+
+
+def _looks_like_rate_limit(err):
+    """粗略判断一个翻译异常是否属于"请求过多/限流"类型，用于决定是否切换翻译接口。"""
+    msg = str(err).lower()
+    return (
+        "too many requests" in msg
+        or "429" in msg
+        or "quota" in msg
+        or "limit" in msg
+    )
+
 # 日文汉字与中文简体字形不同的常用字对照（主要覆盖 JAPAN_PLAYER_KEYWORDS 里出现的球员姓名用字）。
 # Google 翻译经常会原样保留日文汉字写法（比如"鎌田"不会自动转成"镰田"），
 # 这里做一次字形规范化，让球员姓名显示为国内媒体通行的简体字写法。
@@ -237,33 +255,63 @@ def needs_translation(text):
 
 def translate_to_chinese(text):
     """把非中文文本翻译成简体中文；已是中文或空文本直接原样返回。
-    Google 翻译免费接口有较严格的限流，因此这里做了三重保护：
+    Google 翻译免费接口在 GitHub Actions 的共享出口 IP 上经常被限流，因此这里做了多重保护：
     1) 同一次运行内对相同文本做缓存，避免重复请求；
     2) 每次成功请求之间固定停顿，主动放慢速度；
-    3) 遇到限流/网络错误时按指数退避重试几次，仍然失败才保留原文并记录警告，
-       保证不会因为翻译服务偶尔抽风而中断整个抓取任务（下次抓取到同一条时会再次尝试翻译）。"""
+    3) 遇到限流/网络错误时按指数退避重试，但只重试很少几次——一旦确认是"请求过多"这类限流错误，
+       就不再对 Google 继续重试（重试也没用，只会白白浪费时间），改用 MyMemory 这个限流策略完全
+       独立的免费翻译接口兜底；
+    4) 两个接口都失败/都被限流时，保留原文并记录警告，不影响抓取流程（下次抓取到同一条时会再次
+       尝试翻译，届时限流很可能已经解除）。"""
+    global _GOOGLE_BLOCKED, _MYMEMORY_BLOCKED
+
     if not text or not needs_translation(text):
         return text
     if text in _TRANSLATION_CACHE:
         return _TRANSLATION_CACHE[text]
 
-    delay = 2.0
     last_err = None
-    for attempt in range(4):
-        try:
-            translated = GoogleTranslator(source="auto", target="zh-CN").translate(text)
-            result = translated.strip() if translated else text
-            result = normalize_jp_kanji_to_zh(result)
-            _TRANSLATION_CACHE[text] = result
-            # 主动限速，降低被翻译接口限流的概率
-            time.sleep(1.2)
-            return result
-        except Exception as e:
-            last_err = e
-            time.sleep(delay)
-            delay *= 2
 
-    log(f"    [警告] 翻译失败（已重试{attempt + 1}次），保留原文：{last_err}")
+    if not _GOOGLE_BLOCKED:
+        delay = 2.0
+        for attempt in range(2):
+            try:
+                translated = GoogleTranslator(source="auto", target="zh-CN").translate(text)
+                result = translated.strip() if translated else text
+                result = normalize_jp_kanji_to_zh(result)
+                _TRANSLATION_CACHE[text] = result
+                time.sleep(1.2)  # 主动限速，降低被翻译接口限流的概率
+                return result
+            except Exception as e:
+                last_err = e
+                if _looks_like_rate_limit(e):
+                    _GOOGLE_BLOCKED = True
+                    log("    [提示] Google 翻译接口本次运行已被限流，改用 MyMemory 接口兜底")
+                    break
+                time.sleep(delay)
+                delay *= 2
+
+    # MyMemory 免费接口单次请求长度有限（约 500 字节），超长文本直接跳过，保留原文
+    if not _MYMEMORY_BLOCKED and len(text.encode("utf-8")) <= 480:
+        delay = 2.0
+        for attempt in range(2):
+            try:
+                translated = MyMemoryTranslator(source="auto", target="zh-CN").translate(text)
+                result = translated.strip() if translated else text
+                result = normalize_jp_kanji_to_zh(result)
+                _TRANSLATION_CACHE[text] = result
+                time.sleep(1.0)
+                return result
+            except Exception as e:
+                last_err = e
+                if _looks_like_rate_limit(e):
+                    _MYMEMORY_BLOCKED = True
+                    log("    [提示] MyMemory 翻译接口本次运行也已被限流，后续内容将保留原文")
+                    break
+                time.sleep(delay)
+                delay *= 2
+
+    log(f"    [警告] 翻译失败，保留原文：{last_err}")
     _TRANSLATION_CACHE[text] = text
     return text
 
