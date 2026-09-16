@@ -1,5 +1,4287 @@
 {
-  "generated_at": null,
-  "news": [],
-  "matchPreviews": []
+  "generated_at": "2026-09-16T13:59:51.701390+00:00",
+  "news": [
+    {
+      "id": "ai_cn-43469fb41284",
+      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "source_url": "https://www.qbitai.com/2026/09/490760.html",
+      "publish_time": "2026-09-16T08:51:02+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-9522878b2730",
+      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+      "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+      "source_url": "https://www.qbitai.com/2026/09/490756.html",
+      "publish_time": "2026-09-16T08:18:44+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-cfff64332c1a",
+      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
+      "summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
+      "source_url": "https://www.qbitai.com/2026/09/490750.html",
+      "publish_time": "2026-09-16T08:09:53+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-c77ce445273f",
+      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
+      "summary": "AI协同办公的新官配，我先磕了",
+      "source_url": "https://www.qbitai.com/2026/09/490686.html",
+      "publish_time": "2026-09-16T07:46:38+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-2d443bd55c15",
+      "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
+      "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
+      "source_url": "https://www.qbitai.com/2026/09/490416.html",
+      "publish_time": "2026-09-16T07:38:18+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-c6714b5bbf2d",
+      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+      "source_url": "https://www.qbitai.com/2026/09/490400.html",
+      "publish_time": "2026-09-16T06:32:31+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-04e4a3a4c1cb",
+      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+      "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+      "source_url": "https://www.qbitai.com/2026/09/490396.html",
+      "publish_time": "2026-09-16T06:23:05+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-8ed712df8619",
+      "title": "量子位2026人工智能年度榜单，正式启动！",
+      "summary": "报名通道已开启，欢迎参与！",
+      "source_url": "https://www.qbitai.com/2026/09/490329.html",
+      "publish_time": "2026-09-16T04:16:10+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-5f7cf919cd41",
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "summary": "从想法到结果，一次对话实现",
+      "source_url": "https://www.qbitai.com/2026/09/490185.html",
+      "publish_time": "2026-09-16T03:40:35+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-662b83ac0d49",
+      "title": "把记忆交给CPU，大模型会变快",
+      "summary": "让GPU去忙生成Token",
+      "source_url": "https://www.qbitai.com/2026/09/489724.html",
+      "publish_time": "2026-09-16T03:07:18+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_intl-a99bbac1fc26",
+      "title": "据报道， SK海力士正在与英特尔就美国制造内存芯片进行谈判",
+      "summary": "SK海力士告诉TechCrunch ，该公司尚未最终确定任何计划或安排。",
+      "source_url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "publish_time": "2026-09-16T13:23:02+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-766bd696566c",
+      "title": "前Infosys首席执行官的人工智能初创公司又获得了5300万美元的$",
+      "summary": "这家帕洛阿尔托初创公司表示，它已经在推出后的几个月内获得了多份七位数的企业合同。",
+      "source_url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "publish_time": "2026-09-16T13:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-5960227fd9e8",
+      "title": "亚马逊在印地语支持下在印度推出Alexa +",
+      "summary": "亚马逊允许所有客户在抢先体验期间使用Alexa +助手。",
+      "source_url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "publish_time": "2026-09-16T10:34:47+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-6a5d552d9722",
+      "title": "Nvidia的Jensen Huang表示，我们不需要人工智能监管—将安全问题留给我们",
+      "summary": "根据Jensen Huang的说法，人工智能并不是“外星人思维”的新形式。它只是硬件和软件，因此每个人工智能产品制造商都可以设计安全性。",
+      "source_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "publish_time": "2026-09-16T00:20:39+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-f5e80ecad197",
+      "title": "人工智能数据中心的繁荣正在与被大型产业蹂躏的城市相撞",
+      "summary": "全国对数据中心建设的强烈抗议已经蔓延到费城，官员们建议在一个已经受到现已倒闭的炼油厂影响的社区进行建设。",
+      "source_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "publish_time": "2026-09-15T21:47:38+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-c8e966977fdf",
+      "title": "Meta现在允许人工智能代理处理WhatsApp Business设置的无聊部分",
+      "summary": "新的WhatsApp Business MCP服务器允许开发人员使用Claude、Cursor、Codex和ChatGPT等AI编码代理来处理设置、消息传递模板、测试和故障排除。",
+      "source_url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "publish_time": "2026-09-15T20:12:53+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-7eb39231f1ba",
+      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+      "source_url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publish_time": "2026-09-15T19:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-837180ecd6ea",
+      "title": "到2035年，美国数据中心的天然气消耗量可能超过德国和日本的总和",
+      "summary": "人工智能的狂热可能会推动美国数据中心成为世界上最大的天然气消费国之一。",
+      "source_url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "publish_time": "2026-09-15T18:29:20+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-1e9eb8a1b0c0",
+      "title": "人工智能代理现在有了告密的地方",
+      "summary": "人工智能联系热线旨在成为一个隐蔽的地方，目睹不当行为的客服代表可以在这里向当局举报。",
+      "source_url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "publish_time": "2026-09-15T17:42:59+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-5e497c447da8",
+      "title": "Meta通过以人工智能为重点的新计划扩展订阅推送",
+      "summary": "Meta One通过Facebook、Instagram和WhatsApp的高级功能捆绑了公司人工智能工具的扩展访问权限。",
+      "source_url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "publish_time": "2026-09-15T17:05:24+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-7ca41db25b66",
+      "title": "OpenAI、Anthropic和谷歌已经就人工智能安全问题进行了数周的谈判",
+      "summary": "OpenAI确认与Anthropic和谷歌DeepMind进行了数周的人工智能安全谈判，因为特朗普的团队驳斥了安全问题，并推动与中国保持同步。",
+      "source_url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "publish_time": "2026-09-15T15:47:03+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-a99284cc094f",
+      "title": "AEO初创公司Profound实现独角兽估值，在上一轮融资后7个月筹集了1.8亿美元的D轮融资",
+      "summary": "在筹集了9600万美元的C轮融资后不到七个月， Profound以18亿美元的估值筹集了1.8亿美元的D轮融资。",
+      "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "publish_time": "2026-09-15T15:22:48+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-7ca90a5021c3",
+      "title": "前TikTok高管构建了一个应用程序，该应用程序使用人工智能来教您如何为照片摆姿势",
+      "summary": "本质上是一个相机应用程序， Superpose使用人工智能分析自拍或照片并生成四个潜在的姿势。",
+      "source_url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "publish_time": "2026-09-15T14:42:37+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-eeef430e6bd8",
+      "title": "在TechCrunch Disrupt 2026上了解如何将您的创业公司从原型转变为生产",
+      "summary": "了解如何在TechCrunch Disrupt 2026上与规模领导者Adrian Macneil （ Foxglove ）、John Mackey （ MBRYONICS ）和Boris Sofman （ Bedrock Robotics…",
+      "source_url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "publish_time": "2026-09-15T14:30:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-1c0a237c0c51",
+      "title": "距离2026年TechCrunch Disrupt展会还有4天时间",
+      "summary": "Disrupt展览的最后一天是9月18日。还剩4天。10月13日至15日，让您的创业公司与1万多名创始人、投资者、运营商和技术领导者见面。",
+      "source_url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publish_time": "2026-09-15T14:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-06261c41c45c",
+      "title": "早期的Anthropic招聘，前METR首席运营官已经找到了控制流氓AI特工的方法",
+      "summary": "他们的初创公司人工智能承销公司(AIUC)在Ribbit Capital牵头的A轮融资中筹集了4000万美元($) ， First Harmonic也参与其中。",
+      "source_url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "publish_time": "2026-09-15T13:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-221b10e9623a",
+      "title": "Salesforce和Nvidia的新推理模型是人工智能实验室应该害怕的一切",
+      "summary": "Salesforce Koa基于Nvidia的开放式Nemotron模型构建，经过培训，可执行销售、营销和客户支持任务。",
+      "source_url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "publish_time": "2026-09-15T12:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-10beddd2fb18",
+      "title": "黄延生接到特朗普的电话，也炫耀了别的东西",
+      "summary": "当Jensen Huang接到特朗普的现场电话时，我们中的一些人更专注于他过去接听的电话。",
+      "source_url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "publish_time": "2026-09-15T01:50:48+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-71b2c4f295f2",
+      "title": "英伟达首席执行官Jensen Huang告诉特朗普“我们不会让[人工智能放缓]发生”",
+      "summary": "尽管埃隆·马斯克（ Elon Musk ）和山姆·奥尔特曼（ Sam Altman ）支持达里奥·阿莫代（ Dario Amodei ）关于减缓人工智能发展步伐的呼吁，但黄延森似乎",
+      "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "publish_time": "2026-09-14T21:51:02+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-4dd932ed2d93",
+      "title": "报告称， OpenAI以3亿美元收购智能手机相机制造商Glass Imaging",
+      "summary": "Glass Imaging由两位前苹果工程师创立，他们曾领导开发苹果肖像模式的团队。",
+      "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "publish_time": "2026-09-14T20:44:14+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "biz_intl-2caf42725f1c",
+      "title": "华尔街认为博通在夏季抛售后有56%的上行空间",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-56-upside-133544963.html",
+      "publish_time": "2026-09-16T13:35:44+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-eebe83e5f877",
+      "title": "美联储会议利率决策预览：股市将如何反应？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/fed-meeting-interest-rate-decision-133204578.html",
+      "publish_time": "2026-09-16T13:32:04+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-f10648c2c99e",
+      "title": "另一家航空公司因财务问题取消所有航班30天",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/economy/articles/another-airline-cancels-flights-30-132729346.html",
+      "publish_time": "2026-09-16T13:27:29+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-418bfe79f166",
+      "title": "人工智能和自动化是Onshoring的关键吗？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/ai-automation-key-onshoring-132643000.html",
+      "publish_time": "2026-09-16T13:26:43+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-ca9110ff9d5b",
+      "title": "由于CLARITY法案失败， XRP下跌9%至1.28 $ ：最需要它的硬币的下一步是什么？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/crypto/articles/xrp-drops-9-1-28-132621984.html",
+      "publish_time": "2026-09-16T13:26:21+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-9bd8c1a403db",
+      "title": "罗斯IRA如何能够保留成千上万的高收益股息收入复利",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/roth-ira-keep-thousands-more-132558066.html",
+      "publish_time": "2026-09-16T13:25:58+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-3423cdded5ab",
+      "title": "Netflix （ NFLX ）新增长引擎的公牛案例",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html",
+      "publish_time": "2026-09-16T13:25:31+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-f8689d0f72f3",
+      "title": "英伟达和SK海力士对美光前景的展望",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sk-hynix-signaling-microns-132500268.html",
+      "publish_time": "2026-09-16T13:25:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-f9169069765c",
+      "title": "是什么让Mettler-Toledo International (MTD)成为一个有吸引力的赌注？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/makes-mettler-toledo-international-mtd-132254501.html",
+      "publish_time": "2026-09-16T13:22:54+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-3fb708bc0e08",
+      "title": "为什么Meta的扎克伯格， Nvidia的黄说不需要人工智能减速",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.investors.com/news/technology/meta-stock-zuckerberg-ai-safety-nvidia-anthropic/?src=A00220&yptr=yahoo",
+      "publish_time": "2026-09-16T13:22:23+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-eb2c62534317",
+      "title": "HIVE子公司BUZZ HPC与ProCogia达成AI基础设施协议",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/hive-subsidiary-buzz-hpc-strikes-132100321.html",
+      "publish_time": "2026-09-16T13:21:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-929e3afd2184",
+      "title": "为什么Axon被敞篷车猛烈抨击：这是现金流",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.investors.com/news/axon-stock-falls-convertible-bond-sp-500/?src=A00220&yptr=yahoo",
+      "publish_time": "2026-09-16T13:20:47+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-1df1191c90a6",
+      "title": "Mesa男子在HOA取消超过$ 977的错过评估后失去了$ 449,328的房屋—律师说这并不罕见",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/real-estate/articles/mesa-man-loses-449-328-132000949.html",
+      "publish_time": "2026-09-16T13:20:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-cdb19f07c5a7",
+      "title": "Cathie Wood预计到2030年SpaceX星际飞船收入将达到10万亿美元$",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
+      "publish_time": "2026-09-16T13:10:47+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-a85bde4d4c9a",
+      "title": "Real REMAX Group (REAX)股票疲软反映了对AI驱动市场变化的担忧",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/real-remax-group-reax-stock-130724417.html",
+      "publish_time": "2026-09-16T13:07:24+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-9387e41221e5",
+      "title": "Bloom Energy Corp. (BE)空头头寸在小盘AI拉力赛中拖累业绩",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-short-position-130509545.html",
+      "publish_time": "2026-09-16T13:05:09+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-1467849a7717",
+      "title": "Oscar Health的ACA大赌博正在获得回报。这是警告。",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.investors.com/news/oscar-health-stock-medical-costs-aca-investor-update/?src=A00220&yptr=yahoo",
+      "publish_time": "2026-09-16T13:02:50+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-5d1e934f3bd1",
+      "title": "今天的股市：道琼斯指数在可能的美联储加息之前上涨，战争评论;英特尔， SK海力士跳跃（现场报道）",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "publish_time": "2026-09-16T12:47:45+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-b8e41d014b7a",
+      "title": "西雅图单身母亲在家教育她的孩子发现她在一只股票上拥有1800万美元$。戴夫·拉姆齐（ Dave Ramsey ）接下来要怎么做",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html",
+      "publish_time": "2026-09-16T12:45:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-06588b56e22b",
+      "title": "8月美国零售销售大幅反弹",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
+      "publish_time": "2026-09-16T12:37:24+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-2066d3381cd3",
+      "title": "LyondellBasell (LYB)在大宗商品市场情绪转变中回溯",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-retraces-amid-shifting-123131175.html",
+      "publish_time": "2026-09-16T12:31:31+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-69b43bc5cc90",
+      "title": "随着收入增长飙升， Alphabet （ GOOG ）飙升24 ％ —但资本支出是否过高$ 1900亿美元？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html",
+      "publish_time": "2026-09-16T12:30:12+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-e34545014df3",
+      "title": "Liberty Capital (GLIBK)以3.6亿美元的协同交易收购Quintillion $",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/liberty-capital-glibk-acquires-quintillion-122805699.html",
+      "publish_time": "2026-09-16T12:28:05+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-645ca31b3701",
+      "title": "Cox收购能否逆转Charter Communications （ CHTR ）的宽带增长担忧？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/cox-acquisition-reverse-charter-communications-122123568.html",
+      "publish_time": "2026-09-16T12:21:23+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-f3fb2c41e5d4",
+      "title": "当强劲的上升趋势遇到看涨情绪时会发生什么？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/happens-strong-uptrends-meet-bullish-122107436.html",
+      "publish_time": "2026-09-16T12:21:07+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-0af3fc624a21",
+      "title": "Robert Half （ RHI ） ：缓慢的招聘恢复能否将以前的购买错误变成赢家？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/robert-half-rhi-slow-recruitment-121817621.html",
+      "publish_time": "2026-09-16T12:18:17+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-5c7d9ece1b36",
+      "title": "标准普尔500指数在首席财务官的警告下卡车运输股票陨石坑",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
+      "publish_time": "2026-09-16T12:17:51+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-a41ad8b416e8",
+      "title": "冲积层抛售17.5%后增加HCA医疗保健(HCA)控股",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/alluvium-increases-hca-healthcare-hca-121528197.html",
+      "publish_time": "2026-09-16T12:15:28+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-4dc23940020e",
+      "title": "债券市场困境可能是美联储的一个因素，但干预被视为不太可能",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/economy/policy/articles/bond-market-woes-likely-factor-100656182.html",
+      "publish_time": "2026-09-16T12:12:19+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-d58f54d3dfbe",
+      "title": "冲积层在疲软时购买了更多瑞安航空（ RYAAY ） —然后在反弹后修剪",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/alluvium-bought-more-ryanair-ryaay-121120647.html",
+      "publish_time": "2026-09-16T12:11:20+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-dcaef81bc4ae",
+      "title": "随着油价上涨，道琼斯期货上涨，美联储加息前收益率下降；市场是否会反弹竞标债券之旅？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "publish_time": "2026-09-16T12:07:50+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-a7d6c33c4241",
+      "title": "比特币和以太坊价格今天， 2026年9月16日星期三：加密价格在CLARITY法案失败后并在美联储决定之前下跌",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html",
+      "publish_time": "2026-09-16T11:25:17+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-662510e13b33",
+      "title": "2026年9月16日（周三）白银价格：白银价格因预期美联储而上涨",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-16-2026-silver-prices-rise-in-anticipation-of-the-fed-105134969.html",
+      "publish_time": "2026-09-16T10:51:34+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-eeaf4b260bb2",
+      "title": "2026年9月16日（周三）金价：金价维持在4300 $区间，等待美联储的决定",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
+      "publish_time": "2026-09-16T10:40:38+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-86b078eac501",
+      "title": "5个迹象表明，您可能非常适合债务结算",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html",
+      "publish_time": "2026-09-16T10:25:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-8dd6994ceba5",
+      "title": "2026年9月16日（星期三）的最佳CD价格：通过Happen Bank赚取高达4.40%的APY",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-16-2026-earn-up-to-440-apy-with-happen-bank-100000125.html",
+      "publish_time": "2026-09-16T10:00:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-d4768823b970",
+      "title": "2026年9月16日（星期三）抵押贷款和再融资利率：利率在美联储利率决定之前有所缓解",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html",
+      "publish_time": "2026-09-16T10:00:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-4f65afb6f6d4",
+      "title": "今日股市：道琼斯指数、标准普尔500指数、纳斯达克指数在美联储关键利率决策之前上涨",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+      "publish_time": "2026-09-16T08:03:56+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-64c7ee67ea53",
+      "title": "您可以使用两张相同的信用卡吗？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html",
+      "publish_time": "2026-09-15T17:50:08+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-87ac3c0128c4",
+      "title": "富爸爸穷爸爸的作者警告历史上最大的崩溃已经开始",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
+      "publish_time": "2026-09-15T17:26:03+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-54c80635e46a",
+      "title": "美联储会议实时更新：美联储利率决策迫在眉睫，交易员预计3年内首次加息",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
+      "publish_time": "2026-09-15T14:34:52+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-212d937825d6",
+      "title": "Costco合作伙伴的破产如何使其最大的竞争对手受益",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+      "publish_time": "2026-09-15T13:33:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-a0091ba083d9",
+      "title": "今天的科技股： OpenAI以1.2万亿美元的估值筹集资金， SK海力士和英特尔采取行动",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-raising-funds-at-12-trillion-valuation-sk-hynix-and-intel-moves-140134624.html",
+      "publish_time": "2026-09-14T14:01:34+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-b74ae1695db8",
+      "title": "HELOC和房屋净值贷款利率今天， 2026年9月16日（星期三） ：为什么锁定低利率如此重要",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-wednesday-september-16-2026-why-locking-in-a-low-rate-is-so-important-100000523.html",
+      "publish_time": "2026-09-14T10:00:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-45046d2a9eac",
+      "title": "2026年9月16日（星期三）最佳高收益储蓄利率：年利率高达4.10%",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-september-16-2026-earn-up-to-410-apy-100000167.html",
+      "publish_time": "2026-09-14T10:00:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-54d59e7b14e3",
+      "title": "什么是债务结算？它是如何运作的，以及它会给您带来哪些代价。",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/personal-loans/article/what-is-debt-settlement-185327526.html",
+      "publish_time": "2026-05-22T18:53:27+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-08f9f8b92e76",
+      "title": "每周对利率最低的抵押贷款机构进行调查：突破7%的门槛",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-14-170834159.html",
+      "publish_time": "2025-11-03T17:08:34+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-3ebce311f4e2",
+      "title": "本周的美联储会议是什么时候？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-this-weeks-fed-meeting-120032072.html",
+      "publish_time": "2025-05-05T12:00:32+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-d33de23d21c2",
+      "title": "美联储加息将如何影响您的银行账户、贷款、信用卡和投资",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/banking/article/how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-investments-220526102.html",
+      "publish_time": "2024-12-17T22:05:26+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-b05e145cf134",
+      "title": "您是否应该在美联储下次会议之前开立CD账户？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/banking/article/open-cd-before-next-fed-meeting-231620040.html",
+      "publish_time": "2024-06-13T23:16:20+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "jp_football_euro-ca4901c03c25",
+      "title": "日本vs香港 試合記録",
+      "summary": "[亚运会A组第1节] （ Su Toyoda ）日本2-0 （上半场1-0 ）香港[Sun] Hisatsugu Ishii （ 39分钟） ， Shuto Nagano （ 89分钟）裁判： Yasin Tuan副裁判： Aziz Far…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458981-458981-fl",
+      "publish_time": "2026-09-16T13:10:35+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-858e896e9346",
+      "title": "设定一个最终点，这将导致亚运会白星的开始...... U-21日本国家队MF Ozeki Tomosho也说， “我想知道下次的决定”",
+      "summary": "[9.16亚运会GL第1节日本2-0香港丰田]助攻，在第一轮中获得白星。U-21日本国家队MF Tomosho Ozeki在第一轮亚运会和香港比赛中获得了最后积分，他在比赛结束后的一次闪电采访中回忆说： “我认为如果再早一点获得额外的积分会…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458984-458984-fl",
+      "publish_time": "2026-09-16T12:41:36+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-ab8a2ae1a467",
+      "title": "很多2-0白星从外线投篮开始......大岩教练在亚洲杯第一轮“这是一场很好的胜利，因为这是第一场比赛”",
+      "summary": "[9.16亚运会GL第1节日本2-0香港丰田]这是一次危险但不令人满意的白星发射。16日， U-21日本国家队在亚运会团体联赛首轮以2比0战胜香港。教练Tsuyoshi Oiwa说： “这很难，因为对方球队的防守非常好，但这是一场很好的胜利…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458983-458983-fl",
+      "publish_time": "2026-09-16T12:34:10+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-e43a6d2d65dc",
+      "title": "积累的最大强度高达中等2 FW。首次入选U-17日本国家队的182cmCB大野隆人（ Shohei ）表示，为了修复国家队，结果和“我打得好”",
+      "summary": "“有很多事情我第一次不知道，但在这里结束是没有意义的。未来会有一场世界杯，所以我真的很想“留下结果”，这样我就可以从现在开始对前往法国的团体施加压力。“ Shohei Takato （埼玉）的DF Takato Ohno （第二年）在第28…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458982-458982-fl",
+      "publish_time": "2026-09-16T12:32:54+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1b1bf963d344",
+      "title": "U-21日本国家队开启亚运会白星赛！石井久嗣是比赛的第一个进球，尽管比赛继续停滞不前，但在比赛结束时增加了长野秀斗",
+      "summary": "【9.16亚运会GL第1节日本2-0香港丰田】16日， U-21日本国家队在亚运会小组赛第一轮对阵香港，以2-0取胜。MF Hisatsugu Ishii在前39分钟内打进了比赛的第一个进球。在44分钟的下半场， Shuto Nagano从…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458980-458980-fl",
+      "publish_time": "2026-09-16T12:22:25+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-539d4ba8debb",
+      "title": "Nissho Gakuen的191厘米GK Takagishi边缘首次入选U-17日本国家队。实现了初中秋季以来设定的目标，通过“只学习”活动成长和吸引力",
+      "summary": "中学時代から目標としてきた年代別日本代表入り。高校3年生の秋になり、ついにそのチャンスを掴んだ。GK高岸縁(日章学園高/3年)が「第28回国際ユースサッカーin新潟」(17日～21日)に臨むU-17日本代表に初選出。191cmの大型守護神が…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458976-458976-fl",
+      "publish_time": "2026-09-16T11:38:37+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1641580a8c93",
+      "title": "日本vs香港 スタメン発表",
+      "summary": "[9.16 アジア大会グループA第1節](豊田ス)※19:30開始主審:ヤーシン・トゥアン副審:アジズ・ファルハン、カルワニ・マノージ[日本]先発GK 1 ピサノアレックス幸冬堀尾DF 6 永野修都DF 15 森壮一朗DF 21 佐藤海宏D…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458974-458974-fl",
+      "publish_time": "2026-09-16T10:26:49+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1c3f74a5f387",
+      "title": "“变得更帅” “有这么酷的事情吗？ ？”我一个接一个地赞扬了Keito Nakamura的发型报告",
+      "summary": "里昂的日本国家队领袖Keito Nakamura更新了他的tik-tok （ @ Keito Nakamura ）并报告了发型。中村道： “我剪了头发！我已经习惯了里昂的生活！”并发布了他们剪头发的场景的视频。说完，他看上去心满意足， “我…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458971-458971-fl",
+      "publish_time": "2026-09-16T10:24:03+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9abe571fd0ec",
+      "title": "香港は大岩Jとのアジア大会初戦へ…キャプテンは40歳のブラジル出身DF、22歳MF市川聡悟も先発入り",
+      "summary": "[9.16 アジア大会GL第1節 日本-香港 豊田ス] U-23香港代表は16日、アジア競技大会のグループリーグ初戦でU-21日本代表と対戦する。午後7時半のキックオフを前にスターティングメンバーを発表した。 香港の最終ラインには、オーバー…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458973-458973-fl",
+      "publish_time": "2026-09-16T09:58:55+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-97989fed130d",
+      "title": "プレミアEAST13戦10発で1年ぶりの代表招集。FW児山雅稀(帝京長岡)が“本職”でU-17W杯メンバー入りのチャンスを掴む",
+      "summary": "1年ぶりの年代別日本代表復帰。本職のFWで結果を残す。U-17日本代表は「第28回国際ユースサッカーin新潟」初戦(17日)のミャンマー戦を翌日に控えた16日午後、新潟県聖籠町内の練習場で前日練習を行った。11対11でビルドアップや守備、そ…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458972-458972-fl",
+      "publish_time": "2026-09-16T09:57:11+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-a692eee839a1",
+      "title": "大岩ジャパンのアジア大会初戦スタメン発表! 荒木合流も海外組不在の19人で香港戦へ…キャプテンは大関",
+      "summary": "[9.16 アジア大会GL第1節 日本-香港 豊田ス] 大岩剛監督が指揮するU-21日本代表は16日、アジア競技大会のグループリーグ初戦でU-23香港代表と対戦する。午後7時半のキックオフを前にスターティングメンバーを発表した。 予想布陣は…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458970-458970-fl",
+      "publish_time": "2026-09-16T09:36:15+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-88981a28ad31",
+      "title": "町田宏树近一年来首次重返德甲！ ！霍芬海姆本赛季首次赢得联赛冠军（ 8件）",
+      "summary": "由于左膝前交叉韧带断裂而长期出局的DF Hiroki Machida于12日在德甲第3节比赛，并在大约一年内首次重返德甲。●海外团体向导●德甲2026-27特色▶喜剧二人组“Yarlens”谈足球播客“Boke Saka”每周五送达",
+      "source_url": "https://web.gekisaka.jp/photonews/world/detail/?458964-458964-pn",
+      "publish_time": "2026-09-16T09:16:10+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-74b28f6a0200",
+      "title": "希瑟·田中（ Heather Tanaka ）领先！ ！利兹（ Leeds ）以四场快速胜利攀升至第三名（ 12张照片）",
+      "summary": "MF田中所属的利兹在15日英超联赛第四节以4比1战胜纽卡斯尔。●海外指南●英超联赛2026-27特色▶喜剧二人组“Yarlens”演讲足球播客“Bokesaka”每周五发布",
+      "source_url": "https://web.gekisaka.jp/photonews/world/detail/?458962-458962-pn",
+      "publish_time": "2026-09-16T09:10:22+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-955db7791a85",
+      "title": "アジア大会、日本と同組は初戦から激戦! タイが2点差から後半3発、Jリーガーも出場…キルギスは痛恨の逆転負け",
+      "summary": "[9.16 アジア大会GL第1節 タイ 3-2 キルギス 豊田ス] アジア競技大会は16日にグループリーグ第1節を行った。U-21日本代表と同組のU-23タイ代表とU-23キルギス代表の対戦は、タイが3-2で勝利した。日本は同日にU-23香…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458967-458967-fl",
+      "publish_time": "2026-09-16T08:55:19+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-f682c615b3d3",
+      "title": "国際ユースサッカーin新潟に臨むU-17日本代表がトレーニング。トレーニングパートナーの帝京長岡DF堀田&MF網中",
+      "summary": "U-17日本代表は15日、国際ユースサッカーin新潟(17日～21日)へ向けたトレーニングを行った。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458957-458957-pn",
+      "publish_time": "2026-09-16T04:16:41+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-57f29eecaeea",
+      "title": "国際ユースサッカーin新潟に臨むU-17日本代表がトレーニング。GKは高岸、木田の2人が参加(4枚)",
+      "summary": "U-17日本代表は15日、国際ユースサッカーin新潟(17日～21日)へ向けたトレーニングを行った。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458946-458946-pn",
+      "publish_time": "2026-09-16T04:13:14+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-0fb2dac2e550",
+      "title": "国際ユースサッカーin新潟に臨むU-17日本代表がトレーニング。FWの平井、児山、高田がゴールを目指す(6枚)",
+      "summary": "U-17日本代表は15日、国際ユースサッカーin新潟(17日～21日)へ向けたトレーニングを行った。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458954-458954-pn",
+      "publish_time": "2026-09-16T04:12:18+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9d0c53fa30df",
+      "title": "国際ユースサッカーin新潟に臨むU-17日本代表がトレーニング。内田、齋藤らMF陣が競争(16枚)",
+      "summary": "U-17日本代表は15日、国際ユースサッカーin新潟(17日～21日)へ向けたトレーニングを行った。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458953-458953-pn",
+      "publish_time": "2026-09-16T04:07:31+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9291754ef3dd",
+      "title": "国際ユースサッカーin新潟に臨むU-17日本代表がトレーニング。DF登録7選手が競争(14枚)",
+      "summary": "U-17日本代表は15日、国際ユースサッカーin新潟(17日～21日)へ向けたトレーニングを行った。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458947-458947-pn",
+      "publish_time": "2026-09-16T03:59:03+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-d17445064916",
+      "title": "アジア大会担当審判員に日本から笠原寛貴主審ら5人",
+      "summary": "アジア競技大会は15日までにサッカー担当審判員を発表した。日本からは笠原寛貴主審、三原純副審、武部陽介副審が選出された。また、女子では杉野杏紗主審と曽根未宇副審が選出されている。 37歳の笠原主審は2025年のU20アジアカップで決勝を担当…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458952-458952-fl",
+      "publish_time": "2026-09-16T03:44:33+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9a93227f6346",
+      "title": "アジア大会に臨むU-21日本代表を応援、地元・愛知から名古屋U-18が練習参加(18枚)",
+      "summary": "U-21日本代表は15日、豊田市内でトレーニング3日目を行った。16日にはアジア競技大会グループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458944-458944-pn",
+      "publish_time": "2026-09-16T02:07:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-b3a1aa808df2",
+      "title": "いよいよアジア大会初戦へ! 4大会ぶり2度目の優勝目指すU-21日本代表:Vol.1(27枚)",
+      "summary": "U-21日本代表は15日、豊田市内でトレーニング3日目を行った。16日にはアジア競技大会グループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458941-458941-pn",
+      "publish_time": "2026-09-16T02:06:55+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-c87a4599a171",
+      "title": "いよいよアジア大会初戦へ! 4大会ぶり2度目の優勝目指すU-21日本代表:Vol.2(39枚)",
+      "summary": "U-21日本代表は15日、豊田市内でトレーニング3日目を行った。16日にはアジア競技大会グループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458942-458942-pn",
+      "publish_time": "2026-09-16T02:06:37+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-0f02d5beb901",
+      "title": "“ロス五輪世代”U-21日本代表をけん引するゲームメイカー・大関友翔(川崎F)(10枚)",
+      "summary": "U-21日本代表は15日、豊田市内でトレーニング3日目を行った。16日にはアジア競技大会グループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458943-458943-pn",
+      "publish_time": "2026-09-16T02:06:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-fdad2c1c75f6",
+      "title": "U-21日本代表の大学勢は3人…福永裕也(京都産業大)、岡部タリクカナイ颯斗(東洋大)、古谷柊介(東京国際大/柏内定)(22枚)",
+      "summary": "U-21日本代表は15日、豊田市内でトレーニング3日目を行った。16日にはアジア競技大会グループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458940-458940-pn",
+      "publish_time": "2026-09-16T02:06:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-a37f8bf69fa7",
+      "title": "アジア大会は愛知開催…ピサノアレックス幸冬堀尾(名古屋)、森壮一朗(岡山)は“ホーム”豊田スタジアムへ(10枚)",
+      "summary": "U-21日本代表は15日、豊田市内でトレーニング3日目を行った。16日にはアジア競技大会グループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458939-458939-pn",
+      "publish_time": "2026-09-16T02:06:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-cf333fb6f79b",
+      "title": "アジア大会前日の人数不足を補う…名古屋U-18の4選手がU-21日本代表の練習に参加",
+      "summary": "地元の大学生と高校生が、アジア競技大会に臨むU-21日本代表の活動を支えた。 U-21日本代表は海外組ら5人が所属クラブの事情や国際Aマッチウィークの影響で合流が遅れており、16日のグループリーグ初戦・香港戦には18人で臨む。大会登録メンバ…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458919-458919-fl",
+      "publish_time": "2026-09-16T01:52:55+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9d4110f9e07e",
+      "title": "「止められる気はしない」横山夢樹(C大阪)は香川真司の言葉を胸に…大岩J屈指ドリブラーがアジア大会へ",
+      "summary": "自信を深めたドリブラーが、自国開催の国際舞台で相手守備陣を切り裂く。U-21日本代表は16日、アジア競技大会のグループリーグ初戦で香港と対戦する。MF横山夢樹(C大阪)は自身の武器について、「今しっかり仕掛けたら止められる気はしないというか…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458932-458932-fl",
+      "publish_time": "2026-09-15T22:10:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-7bb9a28a1b03",
+      "title": "昨夏の初日の丸から着実ステップアップ…古谷柊介(東京国際大/柏内定)が見据える“4年後”への道のり",
+      "summary": "2030年のワールドカップから逆算し、進むべき道を具体的に描いている。アジア競技大会に臨むU-21日本代表FW古谷柊介(東京国際大/柏内定)は、「30年にW杯がある。自分はそこを目指してやっている」と明かした。 千葉県出身の古谷は、柏レイソ…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458931-458931-fl",
+      "publish_time": "2026-09-15T22:10:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-01ff72a3d457",
+      "title": "Jクラブ練習参加で話題「成長できるクラブに」、岡部タリクカナイ颯斗(東洋大)は存在価値示すアジア大会へ",
+      "summary": "大学屈指CBの進路が注目を集めている。アジア競技大会に臨むU-21日本代表DF岡部タリクカナイ颯斗(東洋大)は、今夏に複数のJクラブへ練習参加。直近では横浜F・マリノスの練習の様子を映した動画に姿が映り込んだことでも、SNS上をにぎわせた。…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458930-458930-fl",
+      "publish_time": "2026-09-15T22:10:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-363e0de993f3",
+      "title": "利物浦击败托特纳姆热刺3次投篮，进入卡拉宝杯前16名……远藤没有进入替补席",
+      "summary": "[9.15 Carabao Cup Round 3 Liverpool 3-1 Tottenham] Carabao Cup在15日进行了第三轮比赛。MF远藤所属的利物浦在主场3-1战胜托特纳姆热刺，并决定晋级16强。进入板凳的远藤没有机会…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458928-458928-fl",
+      "publish_time": "2026-09-15T21:00:24+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1ff66c204aa1",
+      "title": "阿森纳7胜！ 16岁的道曼打进2球！在Carabao杯的第一场比赛中打破Maeda的Ipswich",
+      "summary": "[9.15 Carabao Cup Round 3 Ipswich 2-4 Arsenal] Carabao Cup在15日进行了第三轮比赛， Arsenal在第一轮比赛中以4-2得分Ipswich。阿森纳在本赛季的所有七场正式比赛中都取得…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458927-458927-fl",
+      "publish_time": "2026-09-15T20:56:57+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-68bdd1afe38b",
+      "title": "海外組ら不在の異例18人で臨むアジア大会初戦…大岩監督が明かす招集事情、それでも決断した「何物にも代えがたい目的」",
+      "summary": "U-21日本代表は16日、アジア競技大会のグループリーグ初戦で香港と対戦する。15日には豊田市内でトレーニングを実施。終了後には大岩剛監督が取材に応じた。 13日から15人が集結して活動をスタートさせたU-21日本代表は、翌14日に3人が加…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458916-458916-fl",
+      "publish_time": "2026-09-15T13:27:31+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9fe9ce3440dd",
+      "title": "AFCが日本サッカー協会に計3750ドル罰金処分…大宮vsバイエルン、岡山vsパダーボルン開催などで規定違反",
+      "summary": "アジアサッカー連盟(AFC)は今月、日本サッカー協会(JFA)が3件の規定違反を行ったとして、罰金合計3750ドルの処分を下した。処分は今月10日付。いずれも国際試合の開催に伴う書類提出の手続きに規定違反があったという。 7月3日から5日に…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458917-458917-fl",
+      "publish_time": "2026-09-15T12:59:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-e316845bb69e",
+      "title": "Sintroiden vs. Sanji Rowers雄蕊公告",
+      "summary": "[9.2比利时联赛第3节] （ Daio Wasabi Stayen体育场） * 27:30开始[Saint Troyden]开始GK16 Reio Kokubo Brian DF22 Walck Janssen DF23J。PupeDF2…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458107-458107-fl",
+      "publish_time": "2026-09-15T11:20:02+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-39ce9d3d1cbb",
+      "title": "Takehide Kubo相继发布了《Memory Photos》“我最喜欢的是……”我也愿意有资格潜水！ ？",
+      "summary": "15日，日本代表MF Kenei Kubo出现在Sociedad的特色视频中，使用了一些“令人难忘的照片”介绍他的故事。通过Sociedad Japan X (@ RealSociedad_JP)等社交媒体发布的特色视频以“My Life”…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458909-458909-fl",
+      "publish_time": "2026-09-15T11:13:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-a40e2a684684",
+      "title": "U-16日本代表で活躍し、“個人昇格”。U-17日本代表FW高田憲慎(帝京大可児)はチャンスをモノにし、先輩DF鈴木淳之介と同じ舞台への第一歩を刻む",
+      "summary": "U-16世代から“個人昇格”。チャンスをモノにし、憧れの先輩が立った舞台、自身の目標でもある舞台に近づく。FW高田憲慎(帝京大可児高/2年)は追加招集され、国際ユースサッカーin新潟(17日～21日)を戦うU-17日本代表メンバー入りを果た…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458908-458908-fl",
+      "publish_time": "2026-09-15T10:31:47+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-8df3fca8978c",
+      "title": "U-17W杯に懸けている思いは「誰よりも強い」。G大阪で最年少J1デビューのMF岡本新大が“新潟組”のU-17日本代表を引っ張り、結果を残す",
+      "summary": "ガンバ大阪史上最年少J1デビューのMFが、U-17ワールドカップメンバー入りを勝ち取る。U-17日本代表は15日、国際ユースサッカーin新潟(17日～21日)へ向けた新潟合宿2日目のトレーニングを実施。雨の中、7分×2本の紅白戦などを行った…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458897-458897-fl",
+      "publish_time": "2026-09-15T08:31:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-afdee2b8b722",
+      "title": "U-21日本代表がアジア大会初戦に向けた前日練習、海外組ら除く18人でGL第1節・香港戦へ",
+      "summary": "アジア競技大会に臨むU-21日本代表は15日、愛知県・豊田市内で試合前日練習となるトレーニング3日目を行った。あす16日に豊田スタジアムで行われるグループリーグ初戦で香港と対戦する。 ACLEに参加するGK荒木琉偉(G大阪)が16日以降、海…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458896-458896-fl",
+      "publish_time": "2026-09-15T07:44:08+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-30d14d3ca637",
+      "title": "アジア大会に向けた練習2日目を終え…帰路に就くU-21日本代表(14枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は14日、豊田市内でトレーニング2日目を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458886-458886-pn",
+      "publish_time": "2026-09-15T01:54:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-c5bcb4e9ed09",
+      "title": "アジア大会に臨むU-21日本代表のお手伝い…中京大から4人が練習参加(13枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は14日、豊田市内でトレーニング2日目を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458883-458883-pn",
+      "publish_time": "2026-09-15T01:53:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9276f0187b04",
+      "title": "アジア大会初戦は16日…トレーニング2日目を行ったU-21日本代表:Vol.3(24枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は14日、豊田市内でトレーニング2日目を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458881-458881-pn",
+      "publish_time": "2026-09-15T01:52:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4600a633d16e",
+      "title": "アジア大会初戦は16日…トレーニング2日目を行ったU-21日本代表:Vol.2(30枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は14日、豊田市内でトレーニング2日目を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458880-458880-pn",
+      "publish_time": "2026-09-15T01:52:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-d89330e833bd",
+      "title": "アジア大会初戦は16日…トレーニング2日目を行ったU-21日本代表:Vol.1(28枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は14日、豊田市内でトレーニング2日目を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458879-458879-pn",
+      "publish_time": "2026-09-15T01:52:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-45d8c2228622",
+      "title": "U-21日本代表の活動2日目に合流した3人…GK小林将天(松本)、DF佐藤海宏(新潟)、DF森壮一朗(岡山)(20枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は14日、豊田市内でトレーニング2日目を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458878-458878-pn",
+      "publish_time": "2026-09-15T01:51:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-cd57a7a3799a",
+      "title": "2日目のトレーニング行うU-21日本代表は初戦に臨む18人集結…海外組ら5人は不在(8枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は14日、豊田市内でトレーニング2日目を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458884-458884-pn",
+      "publish_time": "2026-09-15T01:50:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1ba1f1611f24",
+      "title": "U-17日本代表の国際ユースサッカーin新潟メンバーで選手変更…追加招集は4人",
+      "summary": "日本サッカー協会(JFA)は14日、国際ユースサッカーin新潟に臨むU-17日本代表の選手変更を発表した。 当初選出されていたMF舘美駿(修徳高)、MF迫田凌和(大宮U18)、DF鮫島充輝(名古屋U-18)がフランス遠征を行うU-17日本代…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458838-458838-fl",
+      "publish_time": "2026-09-15T00:10:21+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-6180d87d509f",
+      "title": "田中弘的先发制人的中间子弹是创纪录的OG ，本赛季的第一个进球也被检查了……利兹以4次快速胜利排在第三位",
+      "summary": "[9.14英超联赛第4节利兹4-1纽卡斯尔]利兹在英超联赛第4节以4-1战胜纽卡斯尔，在15日排名第三。MF田中浩连续两场联赛首发，战绩是自己的进球，但右脚射门带来了先发制人的分数。第一个决定者是从田中的讲义中诞生的。在最初的14分钟内，当…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458874-458874-fl",
+      "publish_time": "2026-09-14T20:53:43+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-bc4ab2073bd2",
+      "title": "加速する仲間のステップアップに正直な思いも…“ロス五輪世代”屈指SB梅木怜(今治)がアジア大会で示す真価",
+      "summary": "自国開催のアジア競技大会で、再びアジアの頂点を目指す。U-21日本代表DF梅木怜(今治)は「絶対に優勝して終えたいというのが一番」と決意を口にした。今年1月のAFC U23アジアカップを制した選手が多く残るチームにも、「仲が良くて、でも練習…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458873-458873-fl",
+      "publish_time": "2026-09-14T20:31:44+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-b58cc62b5614",
+      "title": "地元開催アジア大会に意欲見せるピサノアレックス幸冬堀尾(名古屋)、A代表基準を知るGKの現在地と未来図",
+      "summary": "地元・愛知での国際大会を、さらなる成長への一歩にする。U-21日本代表GKピサノアレックス幸冬堀尾(名古屋)は、アジア競技大会を前に「一試合一試合を全力で戦う。それが後に、それこそオリンピックやワールドカップにつながっていく」と力を込めた。…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458872-458872-fl",
+      "publish_time": "2026-09-14T20:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-6777bc75d139",
+      "title": "Sociedad vs Serta Stamen发布会",
+      "summary": "[9.3西甲第6节] （ Anoeta ） * 28:00开始[Sociedad]开始GK1 Alex Remiro DF2 John Allambull DF5 Igor Sverdia DF6 John Martin DF17 Serg…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458155-458155-fl",
+      "publish_time": "2026-09-14T13:20:01+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-305d6673933a",
+      "title": "中嶋淑乃&宝田沙織でWハット!!なでしこジャパンがアジア競技大会3連覇に好発進",
+      "summary": "[9.14 アジア競技大会グループE 日本8-0タイ 小笠山総合運動公園エコパスタジアム] 大会3連覇へ向け、好発進を決めた。第20回アジア競技大会の女子サッカーで、グループEの日本女子代表(なでしこジャパン)はタイ女子代表と対戦し、8-0…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458866-458866-fl",
+      "publish_time": "2026-09-14T12:25:16+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-56cf1f692baf",
+      "title": "アジア大会に臨むU-21日本代表、3人合流で18人が揃う…海外組ら5人は明後日GL初戦で不在",
+      "summary": "アジア競技大会に臨むU-21日本代表は14日、愛知県・豊田市内でトレーニング2日目を行った。前日まで所属クラブで試合を行っていた3人が合流。また、未合流の海外組ら5人の代わりにトレーニングパートナーとして中京大の選手4人が参加した。 合流し…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458865-458865-fl",
+      "publish_time": "2026-09-14T12:12:24+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-82916679e973",
+      "title": "アジア大会初戦タイ戦を戦うなでしこジャパン先発メンバー発表",
+      "summary": "第20回アジア競技大会で、グループEの初戦・タイ戦を迎える日本女子代表(なでしこジャパン)の先発メンバーが発表になった。キックオフは19時30分。 先発GK 23 大場朱羽DF 5 瀬野有希DF 19 水野蕗奈MF 6 柳瀬楓菜MF 8 榊…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458857-458857-fl",
+      "publish_time": "2026-09-14T10:18:19+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-a317d7758c80",
+      "title": "U-17日本代表のフランス遠征メンバー発表!! W杯直前の活動、“海外版ナショトレ”組からも招集",
+      "summary": "日本サッカー協会(JFA)は14日、フランス遠征に臨むU-17日本代表メンバーを発表した。 優勝した5月のU17アジアカップ以来となる今回の活動では、リモージュ国際大会に参加。今月23日にU-17ウクライナ代表と、同25日にU-17オースト…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458835-458835-fl",
+      "publish_time": "2026-09-14T06:58:42+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-6fa3db71a43f",
+      "title": "开业后仅一个月就被解雇……佐藤龙之介瓦伦西亚和板仓MG ，两人都不成功，更换董事",
+      "summary": "只有一个月左右开放的欧洲联赛于13日宣布更换经理。属于MF Ryunosuke Sato的Valencia （西班牙）和属于DF Itakura的Borussia MG （德国）决定在本赛季剩余时间内使用新系统进行战斗。瓦伦西亚艰难地完成了…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458827-458827-fl",
+      "publish_time": "2026-09-14T03:08:23+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-abfa854a2d58",
+      "title": "ひさびさ集結に笑顔、トレーニング前後のU-21日本代表(14枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は13日、豊田市内でトレーニング初日を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458817-458817-pn",
+      "publish_time": "2026-09-13T23:22:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-dba049f0d49e",
+      "title": "“ロス五輪世代”を率いる大岩剛監督、A代表との兼任決定後初の大会へ(6枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は13日、豊田市内でトレーニング初日を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458818-458818-pn",
+      "publish_time": "2026-09-13T23:21:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4cbe800f6de9",
+      "title": "いざアジア大会へ…U-21日本代表の活動初日は15人が集結:その3(22枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は13日、豊田市内でトレーニング初日を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458815-458815-pn",
+      "publish_time": "2026-09-13T23:21:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1d1fe310998b",
+      "title": "いざアジア大会へ…U-21日本代表の活動初日は15人が集結:その2(22枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は13日、豊田市内でトレーニング初日を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458814-458814-pn",
+      "publish_time": "2026-09-13T23:21:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-795069d729d6",
+      "title": "いざアジア大会へ…U-21日本代表の活動初日は15人が集結:その1(24枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は13日、豊田市内でトレーニング初日を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458813-458813-pn",
+      "publish_time": "2026-09-13T23:21:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1e62516cb42a",
+      "title": "U-21日本代表がアジア大会に向けて始動! 初日はリカバリーメインで整える(9枚)",
+      "summary": "アジア競技大会に臨むU-21日本代表は13日、豊田市内でトレーニング初日を行った。16日のグループリーグ初戦で香港と対戦する。●第20回アジア大会特集",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?458816-458816-pn",
+      "publish_time": "2026-09-13T23:20:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-60747a672db2",
+      "title": "落選続いた“代表タイトル”大会…日の丸で再浮上誓う保田堅心(長崎)「ここがひとつのターニングポイントに」",
+      "summary": "U-21日本代表MF保田堅心(長崎)にとって、代表でタイトルを争う大会は約3年半ぶりとなる。「久しぶりなのですごくワクワクしている」。自国開催のアジア競技大会を前に胸を躍らせ、「この中で本当に優勝できる集団だと思っているので、それをしっかり…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458810-458810-fl",
+      "publish_time": "2026-09-13T21:10:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4d21bb4adba2",
+      "title": "PK戦は「“次も”決めたい」海外とJで研鑽積んだストライカー、道脇豊(いわき)が挑むアジア大会",
+      "summary": "自国開催のアジア競技大会で、新たなインパクトを残す。トレーニング初日を終えたU-21日本代表FW道脇豊(いわき)は「非常に楽しみ。たくさんの方が見てくれる大会だと思う」と胸を躍らせ、「このU-21日本代表のサッカーの強いところを、たくさんの…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458809-458809-fl",
+      "publish_time": "2026-09-13T21:10:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-95f7b98aecb4",
+      "title": "Takenohide Kubo在前两场比赛中出场... Sociedad ，在决赛中以三颗子弹击败A. Madrid",
+      "summary": "[9.13 La Liga Section 5 Sociedad 0-3A Madrid] 13日，西甲在各地举行了第5节比赛，属于MF Kubo Kenyuki的Sociedad以0-3输给了马德里竞技。久保连续两场比赛从板凳上出发， 0…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458812-458812-fl",
+      "publish_time": "2026-09-13T20:58:45+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-b88a2e6bc24d",
+      "title": "巴黎FCvs里昂比赛记录",
+      "summary": "Stade Jean Bouin Paris FC 0-0 （上半场0-0 ） Lyon [Pa] Diego Coppola （ 69分钟） ， Amari Traoré （ 77分钟） [Li] Lois Oppenda （ 63分钟）…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458735-458735-fl",
+      "publish_time": "2026-09-13T15:40:02+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-8ce120b1997a",
+      "title": "美因茨对法兰克福的比赛纪录",
+      "summary": "[Bundesliga Section 3] （欧宝竞技场）美因茨1-3 （上半场0-2 ）法兰克福[Ma] Philip Teatz （ 89分钟） [Fu] Jan Uzun 2 （ 9分钟， 60分钟） ， Jonathan Burk…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458721-458721-fl",
+      "publish_time": "2026-09-13T15:10:02+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4c8b95217a45",
+      "title": "U23アジア杯制覇を知る大関友翔、再び頂点へ「一体感、結束力が大事」短期決戦支える“大岩体制”への信頼",
+      "summary": "“ロス五輪世代”を牽引してきたMF大関友翔(川崎F)が、自国開催のアジア競技大会を心待ちにしている。13日に豊田市内で行われたU-21日本代表の始動後、「発表から時間もあったので、すごく準備もしてきた。気持ちのところもコンディションのところ…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458797-458797-fl",
+      "publish_time": "2026-09-13T14:29:49+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-a791fe865c36",
+      "title": "「アジア杯に出られないのは基本かなとは思う」板倉滉も招集へ…森保監督、9月・10月シリーズ選考は「基本的にはW杯メンバー」",
+      "summary": "日本代表の森保一監督が13日のJ1第7節・浦和対岡山戦を視察後、報道陣の取材に応じ、北中米W杯後の初陣となる9月・10月シリーズの日本代表活動にアジアカップ参加辞退が濃厚となっているDF板倉滉(ボルシアMG)を招集することを明言した。 北中…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458796-458796-fl",
+      "publish_time": "2026-09-13T14:26:31+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-cbe135559951",
+      "title": "次期A代表監督就任も“ロス五輪世代”に集中「目的を見失わないように」大岩監督が語るアジア大会、その位置付け",
+      "summary": "次期A代表監督としてのプレッシャーは感じていない。U-21日本代表の大岩剛監督は13日、アジア競技大会に向けたトレーニング初日の終了後に囲み取材に応じた。来年3月からの日本代表指揮官に就任することが決まって以降、初めて迎える公式大会。周囲か…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458790-458790-fl",
+      "publish_time": "2026-09-13T12:50:44+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-468c2bd94a7f",
+      "title": "“ロス世代”U-21日本代表がアジア大会へ始動! U23アジア杯Vから8か月、大岩監督が自信「悩みより期待」",
+      "summary": "アジア競技大会に臨むU-21日本代表は13日、愛知県・豊田市内で合宿をスタートさせた。豊田スタジアムで行われる16日のグループリーグ初戦でU-23香港代表と対戦する。 オリンピックのアジア版ともいわれるアジア競技大会は1951年に始まり、原…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458775-458775-fl",
+      "publish_time": "2026-09-13T10:58:59+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-90b4d24e775b",
+      "title": "「Beautiful Family」和「Kawaii」日本国家队MF Yasunori Do与他美丽的妻子和女儿表演3次",
+      "summary": "法兰克福日本国家队队长Yasuru Doh于13日更新了他的Instagram （ @ doanritsu ） ，以庆祝他妻子的生日。Doan说： “生日快乐！我钦佩在德国挣扎的外表，作为一个母亲，我不熟悉。祝您度过愉快的一年！”并在妻子抱…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458746-458746-fl",
+      "publish_time": "2026-09-13T03:09:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-75f632d703fa",
+      "title": "Cagliari Yusei Sugawara首次亮相意甲！本季从南安普敦出租的房源",
+      "summary": "[9.12意甲联赛第4节亚特兰大1-2卡利亚里]意甲联赛第4节于12日举行，第9名的卡利亚里在客场亚特兰大2-1中排名第8。日本国家队DF Sugawara Yusuke今年夏天从南安普敦以有限的转会加盟，他在下半场23分钟的比赛中出场。我…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458744-458744-fl",
+      "publish_time": "2026-09-13T01:58:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-e6778b3a49b6",
+      "title": "Keito Nakamura在期待已久的新世界中首次亮相！里昂是敌对的巴黎足球俱乐部和无分平局",
+      "summary": "[9.12 Ligue 1 Section 4 Paris FC 0-0 Lyon] 12日，日本里昂国家队Keito Nakamura在敌人领地举行的法国Ligue 1 Section 4 Paris FC比赛（△ 0-0 ）中首次亮相。…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458743-458743-fl",
+      "publish_time": "2026-09-13T01:44:49+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-dd6cd85998a0",
+      "title": "拥有Itakura的Borussia MG获得了大量5分...... Fujito Suzuki的Freiburg在开场连续三场胜利中排名第一！",
+      "summary": "[9.12 Bundesliga Section 3 Freiburg 5-0 Borussia MG] Bundesliga Section 3于12日举行， Freiburg在主场以5-0击败第17届Borussia MG。他赢得了连续…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458742-458742-fl",
+      "publish_time": "2026-09-13T00:55:46+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-ecc402eb47d5",
+      "title": "Toro Yasunori在日本对抗中进了两球！法兰克福本赛季首次击败佐野海舟满美因茨",
+      "summary": "[9.12德甲联赛第3节美因茨1-3法兰克福]德甲联赛第3节于12日举行，法兰克福第13名以3-1战胜敌方领土上的第5名美因茨。MF Yasutoshi Do和DF Keita Kosugi在雄蕊上打了90分钟。在美因茨， MF Kaish…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458741-458741-fl",
+      "publish_time": "2026-09-12T23:52:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-21faadeb3a7b",
+      "title": "Barcola Premier的第一场比赛，利物浦，与富勒姆陷入第18位并接近尾声",
+      "summary": "[9.12英超联赛第4节利物浦0-0富勒姆]英超联赛12日在各地举行第4节。富勒姆本赛季连续三次击败利物浦，以0-0的无进球平局结束。MF远藤进入替补席，但没有参加比赛。在前九分钟，在限时转会罗马后，首位首发球员科斯塔斯·齐米卡斯（ DF…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458730-458730-fl",
+      "publish_time": "2026-09-12T16:14:18+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-b2392a7e5d47",
+      "title": "阿斯顿维拉Aya Suzuki也为进攻和防守做出了贡献...在不阻止两次N. Forest投篮的情况下失利，并在没有获胜的情况下继续赢得前四场比赛",
+      "summary": "[9.12英超联赛第4节阿斯顿维拉1-2 N森林]英超联赛于12日进行了第4节比赛。铃木彩（ Aya Suzuki ）所属的阿斯顿维拉（ Aston Villa ）在家面对诺丁汉森林（ Nottingham Forest ） ，以1-2输掉…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458729-458729-fl",
+      "publish_time": "2026-09-12T16:09:43+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9ccae358e215",
+      "title": "三支日本国家队同时参加了首映！ ！本赛季的第二场胜利被伊普斯维奇击败，他在前田，蒲田2助攻和C.宫中打球，在冬安紧急情况下打球。",
+      "summary": "[9.12英超联赛第4节水晶宫2-3伊普斯维奇]英超联赛于12日在不同地点举办了第4节，水晶宫以3-2战胜伊普斯维奇。水晶宫的MF Kamata Daichi以右侧阴影开始，并记录了两次助攻，而DF Tomiyasu Kenyo在上半场紧急…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?458726-458726-fl",
+      "publish_time": "2026-09-12T16:00:52+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_euro-0342f8c581b9",
+      "title": "日本がU-20女子W杯GL突破!! 80分の同点弾でイタリアとドロー",
+      "summary": "[9.12 U-20女子W杯D組第3節 イタリア 1-1 日本] U-20日本女子代表は12日、U-20女子ワールドカップD組最終節でイタリアと対戦し、1-1で引き分けてグループ2位通過を決めた。 イタリアは勝ち点6でこの試合を迎えており、…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?458719-458719-fl",
+      "publish_time": "2026-09-12T14:50:56+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-dc6cd4778f9b",
+      "title": "[関東ROOKIE LEAGUE]桐生一はCリーグ2位で入れ替え戦へ。1年生でプリンス関東1部経験のGK米沢仁水、後輩たちに成長の「場を提供してあげたい」",
+      "summary": "最終節(9月12日)で勝てば自力での「2026 関東ROOKIE LEAGUE」Cリーグ制覇とBリーグ昇格。首位・桐生一高(群馬)はDF信澤柑汰とMF齊藤玲空のゴールで2度のリードを奪ったが、帝京三高(山梨)に追いつかれ、後半24分の決勝点…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458935-458935-fl",
+      "publish_time": "2026-09-15T23:59:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-b7f4c2e80327",
+      "title": "[プレミアリーグEAST]1つのポジションを巡って「同期のライバル」と切磋琢磨し続けた日々の集大成!柏U-18GK西川元基がファインセーブ連発で果たした「自分の仕事」",
+      "summary": "[9.13 プレミアリーグEAST第13節 FC東京U-18 1-1 柏U-18 東京ガス武蔵野苑多目的グランド] 試合に出られるか出られないかで、一喜一憂するような時期はもうとっくに乗り越えた。たった1つのポジションを争うライバルを認め、…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458921-458921-fl",
+      "publish_time": "2026-09-15T22:58:36+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-f4161328e8f4",
+      "title": "[関東ROOKIE LEAGUE]習志野が3位からの大逆転でCリーグ制覇。中学時代の悔しさをバネに「試合の流れを自分で変える」GKへ成長した内山真之介がMVPに",
+      "summary": "千葉の伝統校、習志野高が3位からの大逆転で「関東ROOKIE LEAGUE」Cリーグ制覇。Bリーグ復帰とU-16全国大会のミズノチャンピオンシッププレーオフ進出を決めた。 習志野の試合前に、Cリーグ首位の桐生一高(群馬)と2位・中央学院高(…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458922-458922-fl",
+      "publish_time": "2026-09-15T16:24:56+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-d26fd1410b38",
+      "title": "[関東ROOKIE LEAGUE]帝京が4発でBリーグ2位を勝ち取り、入れ替え戦進出。大一番で2G1AのMF石倉翔愛「Aリーグに上がりたい」",
+      "summary": "名門・帝京高(東京)が1年での「関東ROOKIE LEAGUE」Aリーグ復帰に王手をかけた。帝京は9月12日のBリーグ最終節で武南高(埼玉)に4-1で快勝。2位を死守し。Aリーグ9位の日体大柏高(千葉)とのAリーグ・Bリーグ入れ替え戦に進出…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458920-458920-fl",
+      "publish_time": "2026-09-15T14:36:07+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-83576798b338",
+      "title": "[関東ROOKIE LEAGUE]昌平がBリーグ制覇と待望のAリーグ初昇格。台頭中の186cmCB鈴木天翔、U-16全国懸けたプレーオフも「今まで通り、自分たちのサッカーを」",
+      "summary": "待ちに待った昇格だ。昌平高(埼玉)は「2026 関東ROOKIE LEAGUE」B リーグで初優勝。開幕戦で東海大相模高(神奈川)に3-4で敗れたものの、そこから7連勝を記録。最終節を前に優勝とAリーグ初昇格を決めた。 毎年のように昇格候補…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458918-458918-fl",
+      "publish_time": "2026-09-15T13:49:33+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-8fc978738bf8",
+      "title": "12年ぶり日本一の流通経済大DF西川楓人「今までのサッカー概念を覆された」内定先町田での学びを日本一への糧に",
+      "summary": "[9.12 総理大臣杯決勝 流通経済大2-1国士舘大 キューアンドエースタジアムみやぎ] 新しい環境に飛び込むたび、自らを変え、成長してきた。その積み重ねが、12年ぶりの大学日本一へとつながった。流通経済大(関東3)のDF西川楓人(4年=興…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458900-458900-fl",
+      "publish_time": "2026-09-15T11:17:02+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-3af0db934ade",
+      "title": "[MOM5581]柏U-18DF宮野健貴(3年)_「CB転向4か月」のエレガントなレフティ、絶賛進化中!苦手だった守備面でも泥臭く身体を張るハイパフォーマンス!",
+      "summary": "[高校サッカー・マン・オブ・ザ・マッチ][9.13 プレミアリーグEAST第13節 FC東京U-18 1-1 柏U-18 東京ガス武蔵野苑多目的グランド] 本格的にセンターバックへトライし始めてから、まだ4か月あまりしか経っていないけれど、…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458906-458906-fl",
+      "publish_time": "2026-09-15T10:13:07+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-10262c50d09e",
+      "title": "「一番下のチーム」から始まった大学サッカー、総理大臣杯決勝スタメンへ…国士舘大DF嶋村悠の這い上がった4年間",
+      "summary": "[9.12 総理大臣杯決勝 国士舘大1-2流通経済大 キューアンドエースタジアムみやぎ] レギュラー陣の故障が相次いだDFラインの中で、国士舘大(関東4)のDF嶋村悠(4年=高松東高)は、代役だけにとどまらない奮闘をみせた。4年前、「一番下…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458899-458899-fl",
+      "publish_time": "2026-09-15T09:30:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-f09e380fa7f0",
+      "title": "クラブ全体の「健全な競争の原理」の下で伸ばしていく「45分」のその先。FC東京U-18と柏U-18の上位対決はハイレベルな90分の末にドロー決着!",
+      "summary": "[9.13 プレミアリーグEAST第13節 FC東京U-18 1-1 柏U-18 東京ガス武蔵野苑多目的グランド] 小平のピッチ上では、上位対決の看板に違わぬハイクオリティな90分間が繰り広げられた。両チームともにネクストステージの扉を叩き…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458890-458890-fl",
+      "publish_time": "2026-09-15T03:24:50+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-c3bab59795b5",
+      "title": "“再出発”の流通経済大、主将・畑野遼太を中心に乗り越えた試練…「32番」とともにつかんだ夏の大学日本一",
+      "summary": "[9.12 総理大臣杯決勝 流通経済大2-1国士舘大 キューアンドエースタジアムみやぎ] 苦境の中で迎えた再出発の舞台で、主将がチームを頂点へ導いた。流通経済大(関東3)は今春、部員による違法薬物使用が発覚し、約1か月間の活動休止を余儀なく…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458711-458711-fl",
+      "publish_time": "2026-09-15T02:12:34+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-f2901cd91c31",
+      "title": "[関東ROOKIE LEAGUE]「リズムと緩急」のドリブル突破を連発。流経大柏FW安居寛稀は決める力を磨き、活躍中の同級生たちに「食らいつく」",
+      "summary": "[9.12 関東ROOKIE LEAGUE Aリーグ第9節 流通経済大柏高 1-2 日体大柏高 時之栖裾野E1] 活躍中の同級生たちに「食らいつく」ことを目指している。流通経済大柏高(千葉)のFW安居寛稀(1年=ノールチシティー出身)が「2…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458876-458876-fl",
+      "publish_time": "2026-09-15T00:01:36+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-1c21759c1bc8",
+      "title": "[MOM5580]日体大柏FW小森晴瑠(1年)_前線で身体を張り、チームを降格の危機から救う決勝弾!",
+      "summary": "[高校サッカー・マン・オブ・ザ・マッチ][9.12 関東ROOKIE LEAGUE Aリーグ第9節 流通経済大柏高 1-2 日体大柏高 時之栖裾野E1] 執念のゴールでチームを降格の危機から救った。日体大柏高(千葉)は「2026 関東ROO…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458870-458870-fl",
+      "publish_time": "2026-09-14T15:03:17+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-9ac37c385f3d",
+      "title": "[関東ROOKIE LEAGUE]CB今野翔空「みんな気持ち入っていました」。日体大柏が流経大柏との柏ダービーを制し、Aリーグ残留を懸けた入れ替え戦へ",
+      "summary": "[9.12 関東ROOKIE LEAGUE Aリーグ第9節 流通経済大柏高 1-2 日体大柏高 時之栖裾野E1] 12日、日体大柏高(千葉)が「2026 関東ROOKIE LEAGUE」Aリーグ最終節で流通経済大柏高(千葉)に2-1で勝利。…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458869-458869-fl",
+      "publish_time": "2026-09-14T14:23:29+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-91cbbce300fe",
+      "title": "インハイ得点王がポルトガル2部のトップチームで武者修行!アピール、成長の静岡学園FW坂本健悟は帰国後の公式戦で2戦6発!",
+      "summary": "インターハイ得点王の大型ストライカーが、ポルトガル2部のトップチームでアピール、成長をして帰って来ている。静岡学園高(静岡)のFW坂本健悟(3年=大阪市ジュネッスFC出身)が8月にポルトガルへ渡り、同国2部リーグのAVSへ10日間の練習参加…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458862-458862-fl",
+      "publish_time": "2026-09-14T11:51:23+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-c19f32caf76b",
+      "title": "[プレミアリーグEAST]U-17W杯敗退直後にキャプテンと立てた「次なる舞台への誓い」。川崎F U-18DF藤田明日翔は「勝利を連れてくるCB」へさらなる進化を遂げる!",
+      "summary": "[9.12 プレミアリーグEAST第13節 川崎F U-18 3-4 東京Vユース Ankerフロンタウン生田 Ankerフィールド] さまざまなステージで高いレベルを味わってきたからこそ、そこで得てきた基準をチームに還元する責任は十分に感…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458860-458860-fl",
+      "publish_time": "2026-09-14T11:32:27+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-f1b57b692454",
+      "title": "[プリンスリーグ関東1部]9戦負けなしの市立船橋が首位浮上!! 終了間際の決勝弾で甲府U-18に逆転勝利(10枚)",
+      "summary": "[9.13 プリンスリーグ関東1部第11節 市立船橋高 2-1 甲府U-18 グラスポ法典公園球技場] 高円宮杯 JFA U-18サッカープリンスリーグ関東1部第11節2日目が13日に行われ、市立船橋高(千葉)は、2-1でヴァンフォーレ甲府…",
+      "source_url": "https://web.gekisaka.jp/photonews/youth/detail/?458858-458858-pn",
+      "publish_time": "2026-09-14T10:40:56+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-30281917129a",
+      "title": "[MOM5579]東京VユースMF木下晴天(3年)_森下仁志HCから学んだのは「この世界で生きていくために一番必要なこと」。超アグレッシブな右WBが1G1A+90分の全力疾走で勝利の主役に!",
+      "summary": "[高校サッカー・マン・オブ・ザ・マッチ][9.12 プレミアリーグEAST第13節 川崎F U-18 3-4 東京Vユース Ankerフロンタウン生田 Ankerフィールド] とにかくピッチの上を90分間、フルスロットルで駆け抜ける。圧倒的…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458801-458801-fl",
+      "publish_time": "2026-09-14T10:28:09+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-b6c4aa72b6d2",
+      "title": "[プレミアリーグEAST]FW立野京弥ハットの昌平が4発快勝!! 青森山田の連勝は4でストップ(12枚)",
+      "summary": "[9.12 プレミアリーグEAST第13節 昌平高 4-2 青森山田高 昌平高校グラウンド] 高円宮杯 JFA U-18サッカープレミアリーグ 2026 EAST第13節が12日に行われ、昌平高(埼玉)が青森山田高(青森)を4-2で下した。…",
+      "source_url": "https://web.gekisaka.jp/photonews/youth/detail/?458856-458856-pn",
+      "publish_time": "2026-09-14T10:11:13+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-88f12cb87431",
+      "title": "[プレミアリーグEAST]帰ってきた196センチの守護神の覚悟。昌平GK土渕璃久は「やりきる」メンタリティでさらなる進化を遂げる!",
+      "summary": "[9.12 プレミアリーグEAST第13節 昌平高 4-2 青森山田高 昌平高校グラウンド] 戦線離脱する時間を強いられたからこそ、この仲間と一緒にサッカーすることの価値を、より噛み締めている。3年間の、あるいは6年間の集大成として、足を踏…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458715-458715-fl",
+      "publish_time": "2026-09-14T10:00:02+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-8dcae2438016",
+      "title": "[MOM5578]市立船橋DF斉藤健吾(3年)_3バック採用で生きたリベロの攻撃参加…チームに自信を勢いをもたらす同点弾!!",
+      "summary": "[高校サッカー・マン・オブ・ザ・マッチ][9.13 プリンスリーグ関東1部第11節 市立船橋高 2-1 甲府U-18 グラスポ法典公園球技場] 新しい布陣で、個性が生きた。高円宮杯 JFA U-18サッカープリンスリーグ関東1部の第11節、…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458854-458854-fl",
+      "publish_time": "2026-09-14T09:56:55+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-81bd69e666e4",
+      "title": "[プリンスリーグ九州2部]大分U-18が3連勝で首位キープ…佐賀東が同勝ち点で追走し、鵬翔は一歩後退:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 九州2部は13日に第11節を開催した。 首位に立つ大分トリニータU-18は九州国際大付高と対戦。前半43分に佐藤隼人がネットを揺らして大分U-18が先手を取ると、後半3分に増永大生…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458853-458853-fl",
+      "publish_time": "2026-09-14T09:14:55+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-3f8d7c634299",
+      "title": "[MOM5577]前橋育英MF塩崎猛琉(1年)_課題に取り組み、大一番で神コース”にスーパーミドル",
+      "summary": "[高校サッカー・マン・オブ・ザ・マッチ][9.12 関東ROOKIE LEAGUE Aリーグ第9節 前橋育英高 4-0 駒澤大高 時之栖裾野E2] 練習の成果を大一番で発揮した。前橋育英高(群馬)MF塩崎猛琉(1年=GURANDE FOOT…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458852-458852-fl",
+      "publish_time": "2026-09-14T09:06:44+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-d54984e1a9d2",
+      "title": "[プリンスリーグ関西2部]無敗継続の東海大仰星、4発快勝で首位浮上…ドローの大阪桐蔭は2位に後退:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 関西2部は12、13日に第11節を開催した。 首位に立つ大阪桐蔭高は京都橘高Bとの一戦に臨んだ。前半33分に藤井佑希の得点で大阪桐蔭が先制も、39分に光岡恵太が決めて京都橘Bが追い…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458851-458851-fl",
+      "publish_time": "2026-09-14T09:00:53+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-f0376be6e403",
+      "title": "[関東ROOKIE LEAGUE]GK鈴木劉「メンバーに入れない人たちの分も」。59名で戦う前橋育英が最終節で3位浮上、U-16全国懸けた関東第3代表決定戦へ進出!",
+      "summary": "[9.12 関東ROOKIE LEAGUE Aリーグ第9節 前橋育英高 4-0 駒澤大高 時之栖裾野E2] 最終節に3位浮上。「59名全員で戦う」前橋育英高(群馬)がU-16全国大会、ミズノチャンピオンシップ(12月)出場へ一歩前進した。…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458849-458849-fl",
+      "publish_time": "2026-09-14T08:42:02+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-1912eeda0cd7",
+      "title": "[プリンスリーグ東北]尚志が今季初黒星、山形ユースが首位撃破…2位・青森山田セカンドは聖和学園とドロー:第13節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 東北は12日に第13節を開催した。 開幕から無敗(11勝1分け)で首位を快走する尚志高はモンテディオ山形ユースと対戦。試合は、前半4分に佐藤宏樹の得点で山形ユースが先制すると、尚志…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458829-458829-fl",
+      "publish_time": "2026-09-14T08:41:38+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-1b0ad206960b",
+      "title": "[プリンスリーグ東海]静岡学園が7発大勝で無敗&首位キープ…愛工大名電が2位・清水ユース撃破で今季初白星:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 東海は12、13日に第11節を開催した。 開幕から無敗(9勝1分け)で首位の静岡学園高は三重高戦でゴールラッシュを披露。前半9分に沢井翼の得点で先制すると、13分に川崎成道に決めら…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458833-458833-fl",
+      "publish_time": "2026-09-14T08:40:31+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-88ffb38c80fd",
+      "title": "[プリンスリーグ関西1部]京都橘、2連敗も首位維持…7戦無敗の2位・履正社が勝ち点2差に接近:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 関西1部は12、13日に第11節を開催した。 首位に立つ京都橘高は三田学園高と対戦。前半38分に永井瞭太郎がネットを揺らして京都橘が先制も、後半17分に高山蓮生の得点で三田学園が追…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458834-458834-fl",
+      "publish_time": "2026-09-14T08:39:34+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-9eef2f3e2337",
+      "title": "[プリンスリーグ四国]首位・愛媛U-18は4発快勝…2位・徳島ユースは連勝が9でストップ、両チームの勝ち点差は2に:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 四国は12日に第11節を開催した。 首位に立つ愛媛FC U-18は徳島商高と対戦した。前半41分に青木琉壱がネットを揺らして愛媛U-18が先制すると、44分に石橋潤人、後半18分に…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458845-458845-fl",
+      "publish_time": "2026-09-14T08:34:57+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-3e77973c5a09",
+      "title": "[プリンスリーグ北信越1部]星稜に敗れた富山一が3位後退…3連勝の松本U-18が首位に浮上:第14節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 北信越1部は12日に第14節を開催した。 首位の富山一高は星稜高と対戦。試合は、前半37分に山下智也の得点で星稜が先制も、後半5分に坂井瑞基が決めて富山一が追い付く。しかし、9分に…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458844-458844-fl",
+      "publish_time": "2026-09-14T08:28:25+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-5c991428229b",
+      "title": "[プリンスリーグ北信越2部]新潟明訓、開志学園JSCに4発快勝で無敗キープ…2位の金沢学院は6連勝:第12節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 北信越2部は6日に第12節を開催した。 無敗(10勝1分け)で首位に立つ新潟明訓高は開志学園JSC高と対戦。前半14分に牛腸敢太がネットを揺らして新潟明訓が先制すると、33分に牛腸…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458435-458435-fl",
+      "publish_time": "2026-09-14T08:20:08+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-b244e316955e",
+      "title": "[プリンスリーグ北信越2部]新潟明訓のリーグ優勝が決定!! 2位・金沢学院との直接対決はドロー決着:第13節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 北信越2部は12、13日に第13節を開催した。 首位の新潟明訓高と勝ち点4差で追う2位の金沢学院大附高による直接対決。引き分け以上で新潟明訓の優勝が決まる試一戦は激しい点の取り合い…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458848-458848-fl",
+      "publish_time": "2026-09-14T08:08:40+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-c8a1e2d09daa",
+      "title": "[プリンスリーグ関東2部]横浜FMユース、日大藤沢に逆転勝利で無敗&首位維持:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 関東2部は12、13日に第11節を開催した。 無敗(6勝3分け)で首位に立つ横浜F・マリノスユースは日大藤沢高と対戦。試合は、前半14分に浅野蓮が決めて日大藤沢が先手を取るが、後半…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458847-458847-fl",
+      "publish_time": "2026-09-14T07:51:13+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-828b5cb1e65e",
+      "title": "[プリンスリーグ関東1部]浦和ユース、山梨学院に完封負けで首位陥落…甲府U-18に逆転勝利の市立船橋が首位に:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 関東1部は12、13日に第11節を開催した。 首位に立つ浦和レッズユースは山梨学院高と対戦。試合は、前半42分に疋田将がネットを揺らして山梨学院が先制すると、後半37分に近藤勇貴の…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458846-458846-fl",
+      "publish_time": "2026-09-14T07:37:12+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-b2deb70bc100",
+      "title": "[プリンスリーグ北海道]開幕から無敗の札幌U-18が6発快勝…2位・旭川実が勝ち点1差で首位を追う:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 北海道は12日に第11節を開催した。 首位に立つ北海道コンサドーレ札幌U-18は札幌光星高と対戦。前半18分に丹下璃空の得点で札幌U-18が先制すると、攻撃陣が爆発する。45分に渋…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458843-458843-fl",
+      "publish_time": "2026-09-14T06:24:06+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-a09a788db3f8",
+      "title": "[プリンスリーグ中国]首位・岡山学芸館はドローで連勝ストップ…2位・瀬戸内&3位・立正大淞南が勝ち点1差に迫る:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 中国は12日に第11節を開催した。 首位に立つ岡山学芸館高は就実高との一戦に臨んだ。試合は、前半2分に工藤優吾の得点で就実が先制するが、後半30分と38分に辻琥珀がネットを揺らして…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458840-458840-fl",
+      "publish_time": "2026-09-14T05:27:27+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-42fc79e2653b",
+      "title": "[プリンスリーグ九州1部]ドローの鹿児島城西、首位・長崎U-18との勝ち点差は4に広がる…国見が6連勝で3位に浮上:第11節",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 九州1部は12日に第11節を開催した。 首位に立つV・ファーレン長崎U-18はFC琉球U-18と対戦。前半11分に吉原希音、後半7分に森伊織がネットを揺らして長崎U-18が2点を先…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458837-458837-fl",
+      "publish_time": "2026-09-14T04:52:13+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-0361a05e7406",
+      "title": "[関東ROOKIE LEAGUE]驚異の8戦連発、得点王、プリンス東海デビュー戦弾も優勝決定戦で無得点。静岡学園MF北村岬輝「変わっていかないといけない」",
+      "summary": "[9.12 関東ROOKIE LEAGUE Aリーグ第9節 市立船橋高 0-0 静岡学園高 時之栖うさぎ島2] 0-0の試合後、得点王のMFが誰よりも悔しさを滲ませていた。「2026 関東ROOKIE LEAGUE」Aリーグ最終節、逆転優勝…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458831-458831-fl",
+      "publish_time": "2026-09-14T04:03:22+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-215eac883f72",
+      "title": "[プリンスリーグ関東1部]消化試合が1試合少ない市立船橋が首位浮上!! 終了間際の決勝弾で甲府U-18に逆転勝利!!",
+      "summary": "[9.13 プリンスリーグ関東1部第11節 市立船橋高 2-1 甲府U-18 グラスポ法典公園球技場] 高円宮杯 JFA U-18サッカープリンスリーグ関東1部第11節2日目が13日に行われ、市立船橋高(千葉)は、2-1でヴァンフォーレ甲府…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458828-458828-fl",
+      "publish_time": "2026-09-14T03:24:14+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-2bbcda4f8c09",
+      "title": "[関東ROOKIE LEAGUE]静岡学園は6勝3分で無敗、全国切符獲得も悔しい2位。CB三保琥太郎「全国、獲りたいです」",
+      "summary": "[9.12 関東ROOKIE LEAGUE Aリーグ第9節 市立船橋高 0-0 静岡学園高 時之栖うさぎ島2]「絶対勝つつもりで行っていたんですけど、相手(市立船橋高)の守備も堅くて、こっちの良さである細かく繋いだりとか、攻撃的なサッカーが…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458826-458826-fl",
+      "publish_time": "2026-09-14T02:51:28+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-ed6dff67dfd3",
+      "title": "[MOM5576]昌平FW立野京弥(2年)_「もっとシュートを…」意識改善のエースがハットトリック&1アシストの大暴れ",
+      "summary": "[高校サッカー・マン・オブ・ザ・マッチ][9.12 プレミアリーグEAST第13節 昌平高 4-2 青森山田高 昌平高校グラウンド] 迷わず打てよ、打てば分かるさ! シュート意識を高めた長身FWが3得点1アシストの大暴れを見せた。高円宮杯…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458824-458824-fl",
+      "publish_time": "2026-09-14T01:42:23+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-c19487eedbe0",
+      "title": "[プレミアリーグEAST]昌平がFW立野京弥のハット&FWオツコロ海桜のプレミア初弾で快勝!! 青森山田の連勝を4で止める",
+      "summary": "[9.12 プレミアリーグEAST第13節 昌平高 4-2 青森山田高 昌平高校グラウンド] 高円宮杯 JFA U-18サッカープレミアリーグ 2026 EAST第13節が12日に行われ、9位の昌平高(埼玉)は、4連勝中だった5位の青森山田…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458823-458823-fl",
+      "publish_time": "2026-09-14T01:28:45+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-82b8372a1e79",
+      "title": "[プレミアリーグEAST]流経大柏が残り10分から3発、横浜FCユースに3点先行許すもドローに持ち込んで首位キープ:第13節",
+      "summary": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 EASTは13日に第13節2日目を行った。 前節終了時点で首位の流通経済大柏高は横浜FCユースと対戦。試合は、前半11分にFW齋藤翔の得点で横浜FCユースが先制すると、32分にFW…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458792-458792-fl",
+      "publish_time": "2026-09-14T01:02:21+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-364f167507db",
+      "title": "[プレミアリーグWEST]4連勝の広島ユース、2位・名古屋U-18に勝ち点1差に接近…神村学園は計7発の撃ち合い制す:第13節",
+      "summary": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 WESTは13日に第13節2日目を行った。 前節終了時点で2位の名古屋グランパスU-18はアビスパ福岡U-18と対戦。前半13分にFW八色隼人がネットを揺らして名古屋U-18が試合…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458794-458794-fl",
+      "publish_time": "2026-09-13T13:38:25+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-e4b1dd5ff16a",
+      "title": "広島JY本体4人とともに提携JYから参戦…24年創設の広島工大高JY MF久保田裕吾「もっと高いレベルで」挑んだ成長の夏",
+      "summary": "[9.13 メニコンカップ EAST 3-1 WEST 三重交通G スポーツの杜 鈴鹿サッカー・ラグビー場 メイングラウンド] メニコンカップにはクラブユース選手権(U-15)の優秀選手だけでなく、同大会への出場を逃したチームで争われるイン…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?458773-458773-fl",
+      "publish_time": "2026-09-13T10:27:48+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-8bab0c7a365a",
+      "title": "中2で出場の昨年は3失点…「いいプレーが出せた」FC LAVIDA GK近藤大和が成長示す無失点で敢闘賞受賞",
+      "summary": "[9.13 メニコンカップ EAST 3-1 WEST 三重交通G スポーツの杜 鈴鹿サッカー・ラグビー場 メイングラウンド] 2人が選ばれる敢闘賞は、後半から出場して無失点に抑えたALL EAST(東軍)のGK近藤大和(FC LAVIDA…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?458771-458771-fl",
+      "publish_time": "2026-09-13T10:26:44+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-58cac9f0e1f9",
+      "title": "6戦8発でクラセンMIP賞受賞も残った悔しさ…川崎F U-15生田MF新堀隼「大きな舞台で結果を残せる選手になりたい」",
+      "summary": "[9.13 メニコンカップ EAST 3-1 WEST 三重交通G スポーツの杜 鈴鹿サッカー・ラグビー場 メイングラウンド] クラブユース選手権(U-15)では例年、優勝チームからMVP、準優勝チームから最も印象的な活躍を見せた選手に贈ら…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?458772-458772-fl",
+      "publish_time": "2026-09-13T10:18:56+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-cf9fa1292aaa",
+      "title": "亡き母との約束「日本一」を胸に…“エイト”で輝いた川崎F U-15生田MF吉澤映杜、大号泣から笑顔のMVP",
+      "summary": "[9.13 メニコンカップ EAST 3-1 WEST 三重交通G スポーツの杜 鈴鹿サッカー・ラグビー場 メイングラウンド] 一桁の背番号をつけるのも初めてだという「エイト」が、8番のユニフォームで躍動した。2得点でALL EAST(東軍…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?458770-458770-fl",
+      "publish_time": "2026-09-13T10:04:34+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-88d78f1ca653",
+      "title": "「3-0」→「3-3」→「4-3」の劇的勝利に滲ませた「緑のDNA」の伝統。「成長する場」の増えた東京Vユースは川崎F U-18との打ち合いを制して勝点3を獲得!",
+      "summary": "[9.12 プレミアリーグEAST第13節 川崎F U-18 3-4 東京Vユース Ankerフロンタウン生田 Ankerフィールド] 前半だけで3点を先行しながら、後半に入って3点を奪われ、同点に追い付かれる悪夢のようなシチュエーション。…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458749-458749-fl",
+      "publish_time": "2026-09-13T04:24:12+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-430608cf87b0",
+      "title": "クラセン準V川崎F生田のMF吉澤2発!!メニコンカップは後半3発でWESTを逆転したEASTに軍配",
+      "summary": "[9.13 メニコンカップ EAST 3-1 WEST 三重交通G スポーツの杜 鈴鹿サッカー・ラグビー場 メイングラウンド] 第32回日本クラブユースサッカー東西対抗戦U-15が13日に行われ、ALL EAST(東軍)がALL WEST(…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?458747-458747-fl",
+      "publish_time": "2026-09-13T03:44:50+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-5247ebe7c4d6",
+      "title": "[MOM5575]市立船橋FW槐孝輔(1年)_万能FWが攻撃の起点に。“優勝決定戦”で効果的な動き",
+      "summary": "[高校サッカー・マン・オブ・ザ・マッチ][9.12 関東ROOKIE LEAGUE Aリーグ第9節 市立船橋高 0-0 静岡学園高 時之栖うさぎ島2] 市立船橋高(千葉)は引き分け以上で優勝の決まる「2026 関東ROOKIE LEAGUE…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458740-458740-fl",
+      "publish_time": "2026-09-12T23:07:48+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-250878ddc6f1",
+      "title": "[関東ROOKIE LEAGUE]高強度の守備と追い越す動きを連発。市立船橋MF関田理人がAリーグMVPに",
+      "summary": "[9.12 関東ROOKIE LEAGUE Aリーグ第9節 市立船橋高 0-0 静岡学園高 時之栖うさぎ島2]「2026 関東ROOKIE LEAGUE」AリーグのMVPに市立船橋高(千葉)MF関田理人(1年=鹿島アントラーズノルテジュニア…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458739-458739-fl",
+      "publish_time": "2026-09-12T23:00:10+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-1ed7e3b176c0",
+      "title": "[関東ROOKIE LEAGUE]最終節の“優勝決定戦”で発揮した強度、粘り強さ、個性⋯市立船橋が2位・静岡学園と0-0ドローで関東制覇、次はU-16日本一に挑戦",
+      "summary": "[9.12 関東ROOKIE LEAGUE Aリーグ第9節 市立船橋高 0-0 静岡学園高 時之栖うさぎ島G] 名門・市船が関東ROOKIE LEAGUE王者に輝く! 関東・静岡の高校1年生が90分間ゲームのリーグ戦で成長と勝利を目指す「2…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458731-458731-fl",
+      "publish_time": "2026-09-12T21:40:58+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-61d5a8e5a25e",
+      "title": "[MOM1203]流通経済大GK土佐昂清(3年)_京都内定GK復帰も全試合を託された日本一守護神",
+      "summary": "[大学サッカー・マン・オブ・ザ・マッチ][9.12 総理大臣杯決勝 流通経済大2-1国士舘大 キューアンドエースタジアムみやぎ] どことなく固い立ち上がりをみせた流通経済大(関東3)に、守護神は両手で流れを呼び込んだ。GK土佐昂清(3年=流…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458701-458701-fl",
+      "publish_time": "2026-09-12T16:21:50+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-0fad34f28bee",
+      "title": "全5戦8発でも届かなかった日本一…国士舘大主将FW本間凜が背負う“シルバーコレクター”返上への覚悟「自分が嫌われ役になる」",
+      "summary": "[9.12 総理大臣杯決勝 流通経済大2-1国士舘大 キューアンドエースタジアムみやぎ] またしても、最後に立ちはだかったのは「優勝」という壁だった。4年ぶりの総理大臣杯制覇を目指した国士舘大(関東4)だったが、流通経済大(関東3)に惜敗し…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458717-458717-fl",
+      "publish_time": "2026-09-12T16:20:32+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-f8e5a8f90975",
+      "title": "[プレミアリーグWEST]神戸U-18は4発快勝で首位キープ…鳥栖U-18は東山に完封勝利:第13節",
+      "summary": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 WESTは12日に第13節1日目を行った。 首位のヴィッセル神戸U-18はファジアーノ岡山U-18と対戦。前半28分にDF坂口佑樹がネットを揺らして神戸U-18が先制も、45+4分…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458718-458718-fl",
+      "publish_time": "2026-09-12T14:39:49+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-1db31752e30e",
+      "title": "[プレミアリーグEAST]鹿島ユースが4発勝利で暫定首位に…昌平が青森山田を4発撃破、仙台ユースは10戦ぶり白星:第13節",
+      "summary": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 EASTは12日に第13節1日目を行った。 2位につける鹿島アントラーズユースは帝京長岡高と対戦すると、前半22分にDF林勘太、後半15分にFW高木瑛人が決めて2点を先行。19分に…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458716-458716-fl",
+      "publish_time": "2026-09-12T14:15:07+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-3af61accdfbc",
+      "title": "流通経済大が12年ぶり総理大臣杯制覇!!国士舘大は本間凜5戦連発もまたも準V",
+      "summary": "[9.12 総理大臣杯決勝 流通経済大2-1国士舘大 キューアンドエースタジアムみやぎ] 第50回総理大臣杯 全日本大学サッカートーナメントの決勝が行われ、流通経済大(関東3)が国士舘大(関東4)を下して、連覇した2014年度大会以来12年…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458655-458655-fl",
+      "publish_time": "2026-09-12T08:33:21+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-ad4f6b5d807f",
+      "title": "守れて運べるDFの評価が急上昇。静岡学園DF林奏汰がインハイ優勝後にJクラブ練習参加、U-17日本代表初招集!",
+      "summary": "年代別日本代表初招集に加え、Jリーグクラブからの関心。インターハイをきっかけにサッカー人生を変えつつある。静岡学園高(静岡)のDF林奏汰(3年=グランパスみよしFC出身)が、国際ユースサッカーin新潟(9月17日～21日)に臨むU-17日本…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458650-458650-fl",
+      "publish_time": "2026-09-12T02:06:05+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-f24ce97af263",
+      "title": "「やっぱ持ってんな」「頼もしい」鹿島学園の強力2トップ、内海心太郎とワーズィージェイヴェン勝が連発と勝利を誓う",
+      "summary": "全国トップクラスの強力2トップが、協力、また切磋琢磨しながらチームに白星とゴールをもたらす。鹿島学園高(茨城)は昨年度の選手権で17年ぶりの4強進出、そして初の決勝進出。決勝では神村学園高(鹿児島)に敗れたものの、最高成績を更新した。 CB…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458632-458632-fl",
+      "publish_time": "2026-09-11T21:00:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-1c756e334e14",
+      "title": "[プリンスリーグ北信越2部]新潟明訓は開志学園JSCに快勝を収めて無敗で1部昇格決定!(48枚)",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 北信越2部第12節が6日に行われ、無敗首位の新潟明訓高(新潟)が4-0で開志学園JSC高(新潟)に快勝。来季の1部昇格を決めている。●高円宮杯プリンスリーグ2026特集▶お笑いコン…",
+      "source_url": "https://web.gekisaka.jp/photonews/youth/detail/?458645-458645-pn",
+      "publish_time": "2026-09-11T12:45:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-db9cc5faa692",
+      "title": "東海学園大の飛躍を支える小倉隆史TD「伸びしろですよね」元日本代表が見た大学サッカーの魅力",
+      "summary": "[9.9 総理大臣杯準決勝 国士舘大3-2東海学園大 みやぎ生協めぐみ野フットボール場 Aグラウンド] 東海学園大(東海1)は国士舘大(関東4)との接戦の末、準決勝で敗退となった。2度のビハインドを追いつく粘りを見せた一方、最後は力及ばず。…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458634-458634-fl",
+      "publish_time": "2026-09-11T09:42:39+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-7ebe5226bd21",
+      "title": "東海学園大GK笹崎翔矢「止めるだけじゃ意味がない」 教わるのではなく考え続けた4年間でつかんだプロ切符",
+      "summary": "[9.9 総理大臣杯準決勝 国士舘大3-2東海学園大 みやぎ生協めぐみ野フットボール場 Aグラウンド] 結果的に3失点を喫して敗れたものの、好守の印象が強く残るゲームとなった。浴びたシュートは自軍の3倍以上となる15本。GK笹崎翔矢(4年=…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458633-458633-fl",
+      "publish_time": "2026-09-11T08:36:03+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-a46da25ca64f",
+      "title": "メニコンカップメンバーで選手変更…横河武蔵野FC U-15FW加藤啓大を追加招集",
+      "summary": "日本クラブユースサッカー連盟(JCY)は今月、メニコンカップ2026日本クラブユースサッカー東西対抗戦の選手変更を発表した。 鹿島アントラーズジュニアユースFW礒部怜夢(3年)に代わって横河武蔵野FC U-15のFW加藤啓大(3年)を追加招…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?458629-458629-fl",
+      "publish_time": "2026-09-11T04:43:30+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-730426b81faf",
+      "title": "ナショナルトレセンU-15 4回目メンバーが決定!! 時之栖で開催",
+      "summary": "日本サッカー協会(JFA)は今週、2026ナショナルトレセンU-15 4回目メンバーを発表した。 ナショナルトレセンは「個の育成の充実を図る高いレベルの指導・環境の提供と、選手同士による刺激から得たものを自チームに還元していくこと」を目的と…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?458627-458627-fl",
+      "publish_time": "2026-09-11T03:47:20+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-1f362978531a",
+      "title": "連続完封でタイのU-20アジア杯出場権獲得に貢献。選手権のヒーロー、GKプムラピースリブンヤコが次は鹿島学園で国立決勝以来の公式戦へ",
+      "summary": "選手権のヒーローが帰ってくる。U-19タイ代表GKプムラピースリブンヤコ(3年)は今季、鹿島学園高(茨城)での公式戦出場がなかったが、プリンスリーグ関東の第3クール(第10節～第15節)から選手登録。13日のプリンスリーグ関東2部・桐光学園…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458628-458628-fl",
+      "publish_time": "2026-09-11T03:35:26+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-b4fe467ddccf",
+      "title": "高校の同級生が全日本大学選抜で再会、そしてプロへ…柏内定DF常藤、町田内定DF西川、徳島内定MF伊藤「次はA代表で」",
+      "summary": "高校時代の同級生と再会。大学サッカーでも度々みられる光景だが、複数選手がJリーグ入りを内定させ、全日本大学選抜に選ばれるほどのトップレベルの選手になって再会することはあまりなかったのではないだろうか。 DF常藤奏(中央大4年/柏内定)、DF…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?457942-457942-fl",
+      "publish_time": "2026-09-10T15:29:57+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-9d396dd630ef",
+      "title": "[MOM1201]流通経済大DF奈須琉世(2年)_昨年はPK失敗、今年は決勝弾!二刀流の2年生が1年越しの成長証明",
+      "summary": "[大学サッカー・マン・オブ・ザ・マッチ][9.9 総理大臣杯準決勝 流通経済大2-1立正大 みやぎ生協めぐみ野フットボール場 Aグラウンド] 二刀流の存在感を示した。今大会はFWでの起用が続いていたDF奈須琉世(2年=流通経済大柏高)だが、…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458598-458598-fl",
+      "publish_time": "2026-09-10T15:09:29+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-9596ea876cba",
+      "title": "「圧倒的な力の差を感じた」立正大MF古川結翔は高校のチームメイトとの対戦を糧に…2週間後には再戦「そこでリベンジしたい」",
+      "summary": "[9.9 総理大臣杯準決勝 流通経済大2-1立正大 みやぎ生協めぐみ野フットボール場 Aグラウンド] ピッチの向こうには、見慣れた顔ぶれが並んでいた。相手の応援席からは、自分の名前を呼ぶ声も聞こえてくる。「最初にトーナメント表を見た時から、…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458603-458603-fl",
+      "publish_time": "2026-09-10T09:45:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-0eec0b43cf1a",
+      "title": "4戦6発で示した成長…兄弟制覇、得点王は逃すも立正大FW津島巧「自信を持ってプレーできている」",
+      "summary": "[9.9 総理大臣杯準決勝 流通経済大2-1立正大 みやぎ生協めぐみ野フットボール場 Aグラウンド] 今大会4試合連続となる一撃で、立正大に希望をもたらした。前半25分、カウンターから右サイドを駆け上がったMF田原瑠衣(4年=大津高)が前線…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458601-458601-fl",
+      "publish_time": "2026-09-10T09:30:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-6ff4bcb1b088",
+      "title": "全国決勝で公式戦初ゴール含む2発も…ユーティリティも示した川崎F生田MF徳政岬「攻守でもっともっと怖い選手に」",
+      "summary": "[8.24 クラセンU-15決勝 横浜FM Jrユース 4-3(延長) 川崎F U-15生田 厚別] 公式戦初ゴールが大舞台で生まれた。立ち上がりからチャンスの数で上回りながらもなかなか決めきることができなかった川崎フロンターレU-15生田…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?457498-457498-fl",
+      "publish_time": "2026-09-10T09:20:34+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-f8ec9345b277",
+      "title": "[MOM1200]国士舘大FW本間凜(4年)_役者が違う!J1経験キャプテンが89分弾でハットトリック「もっと圧倒的な力をみせて優勝したい」",
+      "summary": "[大学サッカー・マン・オブ・ザ・マッチ][9.6 総理大臣杯準々決勝 桐蔭横浜大2-3国士舘大 女川町総合運動場 第二多目的運動場] 役者が違った。3試合目にして今大会初の先発出場となった国士舘大のFW本間凜(4年=関東一高/川崎F内定)が…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458441-458441-fl",
+      "publish_time": "2026-09-10T09:18:58+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-3332906a1efc",
+      "title": "流通経済大が後半2発で逆転!!インカレ出場権を巡る熱い戦い、立正大との関東2部対決を制して12年ぶり決勝進出",
+      "summary": "[9.9 総理大臣杯準決勝 流通経済大2-1立正大 みやぎ生協めぐみ野フットボール場 Aグラウンド] 第50回総理大臣杯全日本大学サッカートーナメントの準決勝が9日に行われ、流通経済大(関東3)が立正大(関東7)に2-1で逆転勝ちし、優勝し…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458526-458526-fl",
+      "publish_time": "2026-09-10T09:18:05+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-6621bb4f5992",
+      "title": "クラセン日本一横浜FM Jrユースの文武両道GK佐藤良多「もっと高みを目指して」高校は高体連進学予定",
+      "summary": "[8.24 クラセンU-15決勝 横浜FM Jrユース 4-3(延長) 川崎F U-15生田 厚別] 夏休みも終盤に入った時期の開催。グループステージやノックアウトステージで敗れたチームから順に大会を去ることになるが、選手たちはまだ中学生で…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?457710-457710-fl",
+      "publish_time": "2026-09-10T09:16:24+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-4b8f7588eb0a",
+      "title": "国士舘大1年生MF池田悠一が仙台凱旋マッチでアシスト!「悔しさを晴らせるように」昨季チームも個人でも届かなかった日本一へ",
+      "summary": "[9.9 総理大臣杯準決勝 国士舘大3-2東海学園大 みやぎ生協めぐみ野フットボール場 Aグラウンド] “凱旋マッチ”で先制点をアシストした。国士舘大(関東4)は前半22分、右CKの流れからFW小西脩斗(4年=流通経済大柏高)のマイナスパス…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458599-458599-fl",
+      "publish_time": "2026-09-10T09:15:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-ac67000e37da",
+      "title": "[MOM1202]国士舘大FW本間凜(4年)_「結局、本間凜」4戦7発の無双エース",
+      "summary": "[大学サッカー・マン・オブ・ザ・マッチ][9.9 総理大臣杯準決勝 国士舘大3-2東海学園大 みやぎ生協めぐみ野フットボール場 Aグラウンド] 結局、本間凜――。そんな言葉がネット上にあふれるのも、もはや当然だ。FW本間凜(4年=関東一高/…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458596-458596-fl",
+      "publish_time": "2026-09-10T08:10:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-8b817ad64956",
+      "title": "[全中]神村学園GK東口葵音が敵将も脱帽の好守連発「あれくらいしないと親父には勝てない」父はG大阪GK「親を超すことを最終目標にしたい」",
+      "summary": "[8.20 全中2回戦 神村学園5-2浜松開誠館 サンフレッチェビレッジ 広島第一球技場] 5-2という点差以上に難しい試合になった。前半のクーリングブレイク明けの20分過ぎから立て続けに4得点を奪った神村学園中(九州/鹿児島)だったが、試…",
+      "source_url": "https://web.gekisaka.jp/news/jryouth/detail/?457182-457182-fl",
+      "publish_time": "2026-09-10T06:18:03+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-7a97b850ce5e",
+      "title": "またまた本間凜!!国士舘大が東海学園大に競り勝って流経大との決勝へ",
+      "summary": "[9.9 総理大臣杯準決勝 国士舘大3-2東海学園大 みやぎ生協めぐみ野フットボール場 Aグラウンド] 第50回総理大臣杯全日本大学サッカートーナメントの準決勝が行われ、国士舘大(関東4)が東海学園大(東海1)を下して、優勝した22年度大会…",
+      "source_url": "https://web.gekisaka.jp/news/prime/detail/?458532-458532-fl",
+      "publish_time": "2026-09-09T09:14:37+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-d3f9785e2a31",
+      "title": "左SBでも異質の輝き。高校年代屈指のマルチローラー、流経大柏MF古川蒼真は「プロに入るまでのこの4か月を自分の中では一番濃くしたい」",
+      "summary": "「プロに入るまでのこの4か月を、自分の中では一番濃くしたいと思っている」 欧州を経験してきた高校年代屈指のマルチローラー。流通経済大柏高(千葉)の日本高校選抜MF古川蒼真(3年=FC多摩ジュニアユース出身)は特別な成長欲を持って、残り4か月…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458527-458527-fl",
+      "publish_time": "2026-09-09T03:59:20+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-c4fe6849f619",
+      "title": "[プレミアリーグEAST]苦しい時も「粘れる」前橋育英が宿敵に逆転勝ち!首位・流経大柏は1年生5人らが奮闘も再開初戦は黒星に",
+      "summary": "[9.5 プレミアリーグEAST第12節 流通経済大柏高 1-2 前橋育英高 流通経済大柏高G]「粘れる」前橋育英が宿敵に逆転勝ち! “高校年代最高峰のリーグ戦”高円宮杯 JFA U-18サッカープレミアリーグ 2026 EASTが5日、約…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458302-458302-fl",
+      "publish_time": "2026-09-09T01:23:39+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "jp_football_highschool-b068d6fa4480",
+      "title": "欧州での1か月間で成長して流経大柏に合流。進路も注目のDFメンディ・サイモン友は一からのチーム作りと将来への努力",
+      "summary": "高校年代の最注目ストッパーが、欧州で一回り成長して帰ってきている。流通経済大柏高(千葉)の日本高校選抜CBメンディー・サイモン友主将(3年=川崎フロンターレU-15生田出身)が、約1か月間の欧州武者修行を終えて8月末に帰国。9月5日のプレミ…",
+      "source_url": "https://web.gekisaka.jp/news/youth/detail/?458497-458497-fl",
+      "publish_time": "2026-09-09T00:29:07+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ]
+    },
+    {
+      "id": "football_intl-9d9637e54fc3",
+      "title": "Why Conmebol doesn’t use semi-automated offside technology",
+      "summary": "The 1-1 draw with Boca Juniors resulted in São Paulo’s elimination from the Copa Sudamericana (since the team had lost t…",
+      "source_url": "https://sports.yahoo.com/articles/why-conmebol-doesn-t-semi-135600554.html",
+      "publish_time": "2026-09-16T13:56:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d79d3910a477",
+      "title": "David Lynch: “Maybe normal service has been resumed” about key midfielder",
+      "summary": "Alexis Mac Allister emerges as Liverpool’s first-choice midfielderLiverpool’s search for midfield balance has produced p…",
+      "source_url": "https://sports.yahoo.com/articles/david-lynch-maybe-normal-resumed-135000590.html",
+      "publish_time": "2026-09-16T13:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6b1a61cc76a6",
+      "title": "Gray knows the consequences if slump continues",
+      "summary": "The lack of consistency from Hibs is alarming, but not a surprise. Tuesday night's home defeat by Kilmarnock - Hibs' thi…",
+      "source_url": "https://sports.yahoo.com/articles/gray-knows-consequences-slump-continues-134529618.html",
+      "publish_time": "2026-09-16T13:45:29+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6649aaa8767b",
+      "title": "Regrets in Lancashire? Nicky Hayen’s decision to swap Genk for Burnley has not gone to plan so far",
+      "summary": "Genk went into the summer full of hope. In Nicky Hayen, they felt the had a coach that could really help the young team…",
+      "source_url": "https://sports.yahoo.com/articles/regrets-lancashire-nicky-hayen-decision-134000021.html",
+      "publish_time": "2026-09-16T13:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-04a9f1b7c060",
+      "title": "Monaco manager Filipe Luís admits Paris Brunner celebration a ‘topic’ this week",
+      "summary": "Filipe Luís has admitted that Paris Brunner’s throat-slice celebration in front of the RC Strasbourg Alsace fans last we…",
+      "source_url": "https://sports.yahoo.com/articles/monaco-manager-filipe-lu-admits-134000721.html",
+      "publish_time": "2026-09-16T13:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d670904f0d7a",
+      "title": "Is now the time for Emery to prioritise integration over cup results?",
+      "summary": "\"His time is coming,\" said Unai Emery when asked about Taylor Harwood-Bellis. The £30m defender has had to wait for his…",
+      "source_url": "https://sports.yahoo.com/articles/now-time-emery-prioritise-integration-133836448.html",
+      "publish_time": "2026-09-16T13:38:36+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-25b01681aec9",
+      "title": "Liverpool star continues redemption arc with performance against Spurs",
+      "summary": "Cody Gakpo’s Liverpool Revival Under Andoni Iraola Leaves Tottenham Ruing Missed MoveCody Gakpo’s resurgence is quickly…",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-star-continues-redemption-arc-133500525.html",
+      "publish_time": "2026-09-16T13:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-c1b2193ee8dc",
+      "title": "Union Berlin’s Mauro Lustrinelli prepares for mighty Bayern Munich: “We will learn how to ride our bike!”",
+      "summary": "German football possesses a familiar, slightly sarcastic answer to persistent questions about defensive formations: “Dre…",
+      "source_url": "https://sports.yahoo.com/articles/union-berlin-mauro-lustrinelli-prepares-133500506.html",
+      "publish_time": "2026-09-16T13:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a4aab00a64d7",
+      "title": "Kilmarnock win takes huge pressure off McCann - Bell",
+      "summary": "Kilmarnock's first league win of the season away to Hibs on Tuesday \"relieves a huge amount of pressure\" on manager Neil…",
+      "source_url": "https://sports.yahoo.com/articles/kilmarnock-win-takes-huge-pressure-133326683.html",
+      "publish_time": "2026-09-16T13:33:26+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-eb7ff3ee2e38",
+      "title": "Real Madrid face Liverpool, Man City competition for 20-year-old midfield target – report",
+      "summary": "Real Madrid continue to search for a midfielder capable of helping control games from the centre of the pitch. Having fa…",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-face-liverpool-man-133000801.html",
+      "publish_time": "2026-09-16T13:30:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1aee709b271d",
+      "title": "‘I felt somewhat disrespected’ – Beşiktaş’ Amir Murillo on relationship with Tottenham manager Roberto De Zerbi at Marseille",
+      "summary": "Roberto De Zerbi will not have left an indelible mark on his time at Olympique de Marseille. Or at least, perhaps not in…",
+      "source_url": "https://sports.yahoo.com/articles/felt-somewhat-disrespected-ikta-amir-132500629.html",
+      "publish_time": "2026-09-16T13:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-301542fa7eea",
+      "title": "Man City and Chelsea join Real Madrid in race for 15-year-old Manchester United prodigy",
+      "summary": "Real Madrid’s pursuit of Manchester United prodigy JJ Gabriel is becoming increasingly complicated, with Manchester City…",
+      "source_url": "https://sports.yahoo.com/articles/man-city-chelsea-join-real-131000174.html",
+      "publish_time": "2026-09-16T13:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bb4e41354a15",
+      "title": "David Lynch: Young midfielder “gave the manager a decision to make”",
+      "summary": "Trey Nyoni pushes for Liverpool start after impressive midfield auditionThere comes a point when a young player stops lo…",
+      "source_url": "https://sports.yahoo.com/articles/david-lynch-young-midfielder-gave-130000888.html",
+      "publish_time": "2026-09-16T13:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-424261ddc7e4",
+      "title": "Donnarumma reveals the one thing he ‘will always remember’ from Italy’s Euro 2020 triumph",
+      "summary": "Gianluigi Donnarumma hopes the fact that the next Euros final will be hosted at Wembley and the fact that Roberto Mancin…",
+      "source_url": "https://sports.yahoo.com/articles/donnarumma-reveals-one-thing-always-130000081.html",
+      "publish_time": "2026-09-16T13:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6ac9a34177a4",
+      "title": "Real Madrid make decision to sign €120m midfielder in 2027",
+      "summary": "Real Madrid tried their best to sign a new defensive midfielder in the summer, but their efforts were ultimately unsucce…",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-decision-sign-120m-125000621.html",
+      "publish_time": "2026-09-16T12:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f1a5d1023ff2",
+      "title": "Report: Ex Nottingham Forest star may Start For Serie A Giants In Europe",
+      "summary": "Omari Hutchinson Set for AC Milan Chance Ahead of Benfica ClashOmari Hutchinson could be in line for his first AC Milan…",
+      "source_url": "https://sports.yahoo.com/articles/report-ex-nottingham-forest-star-125000457.html",
+      "publish_time": "2026-09-16T12:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-27f558e3026b",
+      "title": "Referee and VAR correct on Gakpo penalty claim at Ipswich - panel",
+      "summary": "The Premier League's Key Match Incidents Panel has backed the decision not to award a penalty to Liverpool at Ipswich To…",
+      "source_url": "https://sports.yahoo.com/articles/referee-var-correct-gakpo-penalty-124827686.html",
+      "publish_time": "2026-09-16T12:48:27+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-33226d4187f5",
+      "title": "Glentoran make approach for Cliftonville boss Magilton",
+      "summary": "Glentoran identify Cliftonville manager Jim Magilton as their preferred candidate to take over from Declan Devine.",
+      "source_url": "https://sports.yahoo.com/articles/glentoran-approach-cliftonville-boss-magilton-124733935.html",
+      "publish_time": "2026-09-16T12:47:33+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-38c806fd1561",
+      "title": "Squad players didn't do enough - O's assistant Terry",
+      "summary": "Leyton Orient's squad players did not do enough in the EFL Trophy loss to Arsenal's Under-21s, assistant boss Paul Terry…",
+      "source_url": "https://sports.yahoo.com/articles/squad-players-didnt-enough-os-124711180.html",
+      "publish_time": "2026-09-16T12:47:11+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-533651343c0f",
+      "title": "'Nights like that are why I play football' - Savage",
+      "summary": "Reading midfielder Charlie Savage reflects on the defeat by Brentford in the Carabao Cup.",
+      "source_url": "https://sports.yahoo.com/articles/nights-why-play-football-savage-123505444.html",
+      "publish_time": "2026-09-16T12:35:05+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4bc0dc8f2ed0",
+      "title": "Juventus receive McKennie and Cambiaso boost ahead of Europa League opener",
+      "summary": "Juventus will take part in their first Europa League match of the 2026-27 season on Thursday night and Luciano Spalletti…",
+      "source_url": "https://sports.yahoo.com/articles/juventus-receive-mckennie-cambiaso-boost-123500201.html",
+      "publish_time": "2026-09-16T12:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2125b3c8cb8a",
+      "title": "Liverpool star praises energy and performance after Spurs victory",
+      "summary": "Liverpool 3-1 Tottenham: Gakpo and Koumas salute Carabao Cup progress at AnfieldAnfield has a way of demanding convictio…",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-star-praises-energy-performance-123500954.html",
+      "publish_time": "2026-09-16T12:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-902995c95958",
+      "title": "Leeds appeal second goal against Newcastle",
+      "summary": "Leeds United have submitted an appeal in relation to their second goal in Monday night's 4-1 victory over Newcastle. In…",
+      "source_url": "https://sports.yahoo.com/articles/leeds-appeal-second-goal-against-122736417.html",
+      "publish_time": "2026-09-16T12:33:49+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-fd90ec976142",
+      "title": "Gavi Faces Fierce Barcelona Midfield Competition After Injury",
+      "summary": "LeadHansi Flick addressed Gavi’s lack of playing time at a press conference on Tuesday, according to Barça Blaugranes. T…",
+      "source_url": "https://sports.yahoo.com/articles/gavi-faces-fierce-barcelona-midfield-123000197.html",
+      "publish_time": "2026-09-16T12:30:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-223060d93e9e",
+      "title": "Rams keeper Zetterstrom out with knee injury",
+      "summary": "Derby County goalkeeper Jacob Widell Zetterstrom suffers a knee injury that could keep him out for up to two months.",
+      "source_url": "https://sports.yahoo.com/articles/rams-keeper-zetterstrom-knee-injury-122204206.html",
+      "publish_time": "2026-09-16T12:22:04+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8c3f46af1d01",
+      "title": "Donnarumma calls on Italy supporters after ‘heartbreaking’ summer with no World Cup",
+      "summary": "Gianluigi Donnarumma has rallied the Italy supporters, calling on them to help the Azzurri into a new era under Roberto…",
+      "source_url": "https://sports.yahoo.com/articles/donnarumma-calls-italy-supporters-heartbreaking-122000371.html",
+      "publish_time": "2026-09-16T12:20:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ef93a74ebb64",
+      "title": "Barcelona expect Camp Nou capacity to increase to 70,000-72,000 in early 2027 – report",
+      "summary": "Barcelona are preparing for another major step in Spotify Camp Nou redevelopment, with the club expecting the stadium’s…",
+      "source_url": "https://sports.yahoo.com/articles/barcelona-expect-camp-nou-capacity-121500477.html",
+      "publish_time": "2026-09-16T12:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bcff70a23028",
+      "title": "Ansu Fati still unavailable for Monaco, Folarin Balogun could return",
+      "summary": "Ansu Fati will not make his first appearance for AS Monaco this season against RC Lens on Friday night. Filipe Luís has…",
+      "source_url": "https://sports.yahoo.com/articles/ansu-fati-still-unavailable-monaco-121500713.html",
+      "publish_time": "2026-09-16T12:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8fc641667892",
+      "title": "York sign half-back Hunter from Thunder",
+      "summary": "York Knights sign Newcastle Thunder half-back Cody Hunter on a two-year deal after a successful loan spell.",
+      "source_url": "https://sports.yahoo.com/articles/york-sign-half-back-hunter-121342917.html",
+      "publish_time": "2026-09-16T12:13:42+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bc1a5de9f0f5",
+      "title": "Fans enthused by Pocognoli's 'adventurous & exciting' squad picks",
+      "summary": "A bit adventurous but good to see Oli McBurnie in and Robbie Ure also. Keef: No James Penrice is a mistake. As good as K…",
+      "source_url": "https://sports.yahoo.com/articles/fans-enthused-pocognolis-adventurous-exciting-121251341.html",
+      "publish_time": "2026-09-16T12:12:51+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-b1820becdfcd",
+      "title": "Man City case guilty of ‘incredible delay’ on two-year anniversary of hearing, says barrister",
+      "summary": "Wednesday marks two years to the day since an independent commission hearing began to examine more than 100 charges laid…",
+      "source_url": "https://sports.yahoo.com/articles/man-city-case-guilty-incredible-121142970.html",
+      "publish_time": "2026-09-16T12:11:42+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1ea59b159654",
+      "title": "Real Madrid star emerges as Arsenal alternative after Vinicius Junior snub",
+      "summary": "There is a chance that Real Madrid finally make a winter signing when the transfer window re-opens in January, having fa…",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-star-emerges-arsenal-121000521.html",
+      "publish_time": "2026-09-16T12:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-10ecadb72702",
+      "title": "🏆 Europa League is BACK! Juve and Milan, your turn now: reboot here? 🤔",
+      "summary": "New stars, new teams, and maybe—who knows—even an outsider breaking the dominance of England and Spain. The curtain rise…",
+      "source_url": "https://sports.yahoo.com/articles/europa-league-back-juve-milan-120900791.html",
+      "publish_time": "2026-09-16T12:09:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2d40b7d553b0",
+      "title": "Ipswich boss praises Arsenal & Max Dowman",
+      "summary": "Ipswich Town boss Gary O’Neil was gracious in defeat on Tuesday night, heaping praise on Arsenal and young star Max Dowm…",
+      "source_url": "https://sports.yahoo.com/articles/ipswich-boss-praises-arsenal-max-120500427.html",
+      "publish_time": "2026-09-16T12:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6992a0afabdd",
+      "title": "Can United resolve their two big problems?",
+      "summary": "If Dundee United were given an early-season report card it would read - could do better. It is far too early for alarms…",
+      "source_url": "https://sports.yahoo.com/articles/united-resolve-two-big-problems-115623463.html",
+      "publish_time": "2026-09-16T11:56:23+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-01a6d3b23497",
+      "title": "Reading 1-2 Brentord - the fans' verdict",
+      "summary": "Ian: The Bees seem to be scraping results at the moment (three Premier League leads ending in draws and a 2-1 win over R…",
+      "source_url": "https://sports.yahoo.com/articles/reading-1-2-brentord-fans-115103614.html",
+      "publish_time": "2026-09-16T11:51:03+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-88c28465f4ca",
+      "title": "Former Manchester City star praises rival boss around Spain move",
+      "summary": "Rodri to Barcelona: Why Barça Beat Real Madrid in Battle for Midfield LeaderRodri’s move to Barcelona already feels like…",
+      "source_url": "https://sports.yahoo.com/articles/former-manchester-city-star-praises-115000956.html",
+      "publish_time": "2026-09-16T11:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-fe6213d64efe",
+      "title": "Real Madrid already have a roadmap planned for exit-bound Manchester United prodigy",
+      "summary": "According to ESPN, Real Madrid have already mapped out what they want Manchester United youngster JJ Gabriel to do if th…",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-already-roadmap-planned-114500091.html",
+      "publish_time": "2026-09-16T11:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bd2fcb24f577",
+      "title": "Maresca on Doku, VAR controversy and awaiting apology",
+      "summary": "Manchester City boss Enzo Maresca has been speaking to the media before Thursday's Carabao Cup third round game against…",
+      "source_url": "https://sports.yahoo.com/articles/maresca-doku-var-controversy-awaiting-114242186.html",
+      "publish_time": "2026-09-16T11:42:42+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-68579d46b4ac",
+      "title": "Mbappe, Vini and Konate obscure Real's Ceuta message",
+      "summary": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+      "source_url": "https://sports.yahoo.com/articles/mbappe-vini-konate-obscure-reals-105504537.html",
+      "publish_time": "2026-09-16T11:41:30+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-df7e36c2f037",
+      "title": "Andoni Iraola told how much it will cost for Mo Salah's successor",
+      "summary": "Mohamed Salah has been Liverpool's best player over the last few years. So, the fact that he's now packed his bags and h…",
+      "source_url": "https://sports.yahoo.com/articles/andoni-iraola-told-much-cost-114000325.html",
+      "publish_time": "2026-09-16T11:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bb292f261b81",
+      "title": "Andoni Iraola sends clear transfer window message as Liverpool beat Spurs",
+      "summary": "Andoni Iraola Sends Clear Liverpool Transfer Message as January Plans Put on HoldAndoni Iraola has made Liverpool’s imme…",
+      "source_url": "https://sports.yahoo.com/articles/andoni-iraola-sends-clear-transfer-113500317.html",
+      "publish_time": "2026-09-16T11:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-828a69b6c4dd",
+      "title": "Arsenal’s Max Dowman breaks another record amid Arteta praise",
+      "summary": "Max Dowman broke another record by scoring a brace for Arsenal against Ipswich Town on Tuesday night, and he impressed G…",
+      "source_url": "https://sports.yahoo.com/articles/arsenal-max-dowman-breaks-another-113500684.html",
+      "publish_time": "2026-09-16T11:35:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-21d98b6a50be",
+      "title": "Confirmed: Barcelona squad list to face Racing Santander | La Liga MD 6",
+      "summary": "FC Barcelona are back in action later tonight at the Spotify Camp Nou as they host newly-promoted La Liga side Racing Sa…",
+      "source_url": "https://sports.yahoo.com/articles/confirmed-barcelona-squad-list-face-113000272.html",
+      "publish_time": "2026-09-16T11:30:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-695d228d6698",
+      "title": "When is the EFL Cup fourth round draw?",
+      "summary": "The fourth-round draw of the EFL Cup takes place on Wednesday, 16 September.",
+      "source_url": "https://sports.yahoo.com/articles/efl-cup-second-round-draw-131733559.html",
+      "publish_time": "2026-09-16T11:25:56+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-808a5e61be60",
+      "title": "Barcelona turned down opportunity to sign Real Madrid summer arrival over €25m asking price",
+      "summary": "Carlos Espi has become one of Real Madrid’s most talked-about young players, but Cadena SER has revealed that the strike…",
+      "source_url": "https://sports.yahoo.com/articles/barcelona-turned-down-opportunity-sign-112500401.html",
+      "publish_time": "2026-09-16T11:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-42772d860cf7",
+      "title": "Refereeing selections confirmed for Serie A week 5 including Roma vs. Inter",
+      "summary": "The full selection of referees, assistants, fourth officials and VARs have been announced for the upcoming fifth round o…",
+      "source_url": "https://sports.yahoo.com/articles/refereeing-selections-confirmed-serie-week-112000133.html",
+      "publish_time": "2026-09-16T11:20:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-95cc131396e0",
+      "title": "Enzo Maresca laments focus on Erling Haaland’s controversial Manchester derby goal as ‘quite poor’",
+      "summary": "The Manchester City boss praised his side’s performance as ‘unbelievable’ after playing much of the game with 10 men",
+      "source_url": "https://sports.yahoo.com/articles/enzo-maresca-laments-focus-erling-111714297.html",
+      "publish_time": "2026-09-16T11:17:14+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1734bed56ea8",
+      "title": "Maresca criticises focus on controversial winner",
+      "summary": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling Haaland's winner ha…",
+      "source_url": "https://sports.yahoo.com/articles/maresca-criticises-focus-controversial-winner-111546142.html",
+      "publish_time": "2026-09-16T11:15:46+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2f7e4d605d6c",
+      "title": "Carabao Cup draw: Start time, ball numbers and how to watch as teams learn fourth-round fate",
+      "summary": "Liverpool and Arsenal among the teams to have booked their spots in tonight’s draw",
+      "source_url": "https://sports.yahoo.com/articles/carabao-cup-draw-fourth-round-150416432.html",
+      "publish_time": "2026-09-16T11:15:10+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5a8bd1a60cdb",
+      "title": "Beloved 76ers in-arena announcer Matt Cord comes out of retirement for LeBron James' first season with team",
+      "summary": "Allen Iverson reached out to Matt Cord, urging the announcer to return for another year.",
+      "source_url": "https://sports.yahoo.com/nba/article/beloved-76ers-in-arena-announcer-matt-cord-comes-out-of-retirement-for-lebron-james-first-season-with-team-124044636.html",
+      "publish_time": "2026-09-16T12:40:44+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a5f6762d0ad5",
+      "title": "Open Thread: Spurs announce second annual “Holidays at The Rock”",
+      "summary": "The Rock at La Cantera has you covered for the entire season",
+      "source_url": "https://sports.yahoo.com/articles/open-thread-spurs-announce-second-110000893.html",
+      "publish_time": "2026-09-16T11:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e42860c7608a",
+      "title": "Kentucky Wildcats News: More Injury Concerns for UK Basketball",
+      "summary": "It feels like Kentucky can never escape the injury bug anymore.",
+      "source_url": "https://sports.yahoo.com/articles/kentucky-wildcats-news-more-injury-104500617.html",
+      "publish_time": "2026-09-16T10:45:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8b5aca45c96e",
+      "title": "YouTube Gold: Wes Unseld Was A Problem",
+      "summary": "Wes Unseld is somewhat overlooked today, and that’s a shame. The Louisville native had a tremendous career at his hometo…",
+      "source_url": "https://sports.yahoo.com/articles/youtube-gold-wes-unseld-problem-100000877.html",
+      "publish_time": "2026-09-16T10:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f76650748510",
+      "title": "Paul George Can Still Change Games on Defense",
+      "summary": "Paul George’s age and injury history raise questions, but his defensive film offers plenty of optimism",
+      "source_url": "https://sports.yahoo.com/articles/paul-george-still-change-games-100000752.html",
+      "publish_time": "2026-09-16T10:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e1c0c7c6a9f7",
+      "title": "Is Rockets front office too high on Amen Thompson?",
+      "summary": "It’s been reported that the Rockets think Amen Thompson is a top-10 player. Seriously?",
+      "source_url": "https://sports.yahoo.com/articles/rockets-front-office-too-high-092109677.html",
+      "publish_time": "2026-09-16T09:21:09+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-98b4a12b2e08",
+      "title": "Paul George knows the optics behind his Celtics arrival and isn’t fazed: ‘It’s fair’",
+      "summary": "“I understand the circumstances,” George said during his introductory press conference on Tuesday.",
+      "source_url": "https://sports.yahoo.com/articles/paul-george-knows-optics-behind-090000486.html",
+      "publish_time": "2026-09-16T09:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-acdf3398ca11",
+      "title": "He'll call it a comeback: 76ers announcer Matt Cord to return for final season",
+      "summary": "Longtime 76ers announcer Matt Cord called it a career after 28 years at the end of the Sixers season. But, he plans to r…",
+      "source_url": "https://sports.yahoo.com/articles/hell-call-comeback-76ers-announcer-081842520.html",
+      "publish_time": "2026-09-16T08:18:42+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d871d4b74ecb",
+      "title": "Mike Conley and Payton Pritchard are already connecting on and off the court",
+      "summary": "Conley and Pritchard have been playing five-on-five and one-on-one together as the Celtics get ready for training camp.",
+      "source_url": "https://sports.yahoo.com/articles/mike-conley-payton-pritchard-already-051322563.html",
+      "publish_time": "2026-09-16T05:13:22+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ea9b12a94fd7",
+      "title": "NBA expansion teams heading to Las Vegas and Seattle likely to happen at record setting numbers",
+      "summary": "The possibility of the NBA adding two more expansion teams continues to gain steam, and it's expected to happen at recor…",
+      "source_url": "https://sports.yahoo.com/articles/nba-expansion-teams-heading-las-031711378.html",
+      "publish_time": "2026-09-16T03:17:11+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a8dcb64a221e",
+      "title": "LeBron James brings back ‘Taco Tuesday’ post with help from San Diego’s Mike’s Red Taco",
+      "summary": "LeBron James enjoys his \"Taco Tuesday.\"LeBron James appears to be enjoying his “Taco Tuesday.” Seven years after James w…",
+      "source_url": "https://sports.yahoo.com/articles/lebron-james-brings-back-taco-031405875.html",
+      "publish_time": "2026-09-16T03:14:05+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-3c61939b6592",
+      "title": "Paul George has 'chip on my shoulder' as he joins Celtics after Jaylen Brown trade",
+      "summary": "Paul George and Mike Conley Jr. are both hungry to win their first NBA titles with the Boston Celtics, especially after…",
+      "source_url": "https://sports.yahoo.com/articles/paul-george-chip-shoulder-joins-030813027.html",
+      "publish_time": "2026-09-16T03:08:13+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ea155bbe0070",
+      "title": "Knicks sign John Konchar and Drew Eubanks to training camp deals",
+      "summary": "Some roster news as the Knicks look to fill their training camp roster.",
+      "source_url": "https://sports.yahoo.com/articles/knicks-sign-john-konchar-drew-020947790.html",
+      "publish_time": "2026-09-16T02:09:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b4b6fd378e21",
+      "title": "Veteran guard John Konchar agrees to one-year deal with Knicks",
+      "summary": "If he makes the final roster, it would give the Knicks 14 players.",
+      "source_url": "https://sports.yahoo.com/articles/veteran-guard-john-konchar-agrees-014951250.html",
+      "publish_time": "2026-09-16T01:49:51+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-705f3d9b673d",
+      "title": "The reason Kawhi Leonard wanted to be traded to the Raptors over other championship contenders",
+      "summary": "Kawhi Leonard.Kawhi Leonard is about to begin his second run with the Toronto Raptors, and it appears to come with a goo…",
+      "source_url": "https://sports.yahoo.com/articles/reason-kawhi-leonard-wanted-traded-013056954.html",
+      "publish_time": "2026-09-16T01:30:56+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-2df64c921350",
+      "title": "Nets add two G League prospects in Sign-and-Waive moves",
+      "summary": "The Nets have signed and waived Dwight Murray Jr. and Isaiah Wong",
+      "source_url": "https://sports.yahoo.com/articles/nets-add-two-g-league-012224448.html",
+      "publish_time": "2026-09-16T01:22:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bacf7b58dc93",
+      "title": "New York Knicks signing John Konchar to one-year deal",
+      "summary": "The New York Knicks signed free agent John Konchar to a one-year deal to add depth and versatility to their roster.",
+      "source_url": "https://sports.yahoo.com/articles/york-knicks-signing-john-konchar-012101582.html",
+      "publish_time": "2026-09-16T01:21:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1511f739fed2",
+      "title": "Adam Silver: ' I would see it as a failure if we did not keep the team in Portland'",
+      "summary": "Silver also said there need to be arena upgrades and the team needs to be profitable.",
+      "source_url": "https://sports.yahoo.com/articles/adam-silver-see-failure-did-010408626.html",
+      "publish_time": "2026-09-16T01:04:08+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-78261acf9045",
+      "title": "Knicks signing John Konchar, Drew Eubanks as roster battle gets underway",
+      "summary": "The Knicks did some end-of-roster maneuvering on Tuesday.",
+      "source_url": "https://sports.yahoo.com/articles/knicks-signing-john-konchar-drew-005340975.html",
+      "publish_time": "2026-09-16T00:53:40+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e84d096e10ed",
+      "title": "Knicks signing forward John Konchar to one-year deal",
+      "summary": "The Knicks are rounding out their bench, signing forward John Konchar to a one-year deal. And Drew Eubanks will sign a c…",
+      "source_url": "https://sports.yahoo.com/articles/knicks-signing-forward-john-konchar-004725249.html",
+      "publish_time": "2026-09-16T00:47:25+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-151df8492c79",
+      "title": "Did the Suns miss out on Luka because of Sarver’s U of A allegiance?",
+      "summary": "Igor Kokoskov says the Suns never had a serious strategic discussion about who they would draft in 2018.",
+      "source_url": "https://sports.yahoo.com/articles/did-suns-miss-luka-because-000000440.html",
+      "publish_time": "2026-09-16T00:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-3f394c3ff0f8",
+      "title": "NBA owners discussed expansion in Las Vegas, Seattle, amid report of $10 billion bids",
+      "summary": "However, no votes were taken and nothing official has happened. Yet.",
+      "source_url": "https://sports.yahoo.com/articles/nba-owners-discussed-expansion-las-233009711.html",
+      "publish_time": "2026-09-15T23:30:09+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5dae2be89d85",
+      "title": "Anthony Gill re-signs with the Wizards",
+      "summary": "On Tuesday, the Washington Wizards announced that they have re-signed forward Anthony Gill. Per various reports, the con…",
+      "source_url": "https://sports.yahoo.com/articles/anthony-gill-signs-wizards-232139683.html",
+      "publish_time": "2026-09-15T23:21:39+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-101478838127",
+      "title": "NBA Commish drops the gavel on Clippers investigation, details ‘damage to franchise’",
+      "summary": "When it comes to the Clippers-Kawhi Leonard scandal, Adam Silver believes it’s time to move forward.",
+      "source_url": "https://sports.yahoo.com/articles/nba-commish-drops-gavel-clippers-223424584.html",
+      "publish_time": "2026-09-15T22:34:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1e9c2430d4ff",
+      "title": "NBA Commish reacts to Clippers boss’ ‘precise words,’ alludes to possible federal hot water",
+      "summary": "Adam Silver heard what Steve Ballmer said in his apology — and appeared to notice what the now-suspended Clippers owner…",
+      "source_url": "https://sports.yahoo.com/articles/nba-commish-reacts-clippers-boss-215929728.html",
+      "publish_time": "2026-09-15T21:59:29+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f71d1ab542fd",
+      "title": "Paul George excited to play for Celtics alongside Jayson Tatum: 'I can play off another superstar wing'",
+      "summary": "George is optimistic about his new surroundings following his trade to Boston in exchange for Jaylen Brown.",
+      "source_url": "https://sports.yahoo.com/nba/article/paul-george-excited-to-play-for-celtics-alongside-jayson-tatum-i-can-play-off-another-superstar-wing-210431152.html",
+      "publish_time": "2026-09-15T21:04:31+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b50ae549cf19",
+      "title": "Former Lakers owner vetted before purchase; NBA Commish details lack of ‘red flags’",
+      "summary": "The Lakers, and Mark Walter, were among many talking points during Adam Silver's Board of Governors media availability.",
+      "source_url": "https://sports.yahoo.com/articles/former-lakers-owner-vetted-purchase-210012540.html",
+      "publish_time": "2026-09-15T21:00:12+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1133081982cf",
+      "title": "NBA says it looked at precedent before doling out Clippers' penalties for cap circumvention",
+      "summary": "Silver, speaking Tuesday at the end of a two-day Board of Governors meeting, pointed to how the Minnesota Timberwolves w…",
+      "source_url": "https://sports.yahoo.com/articles/nba-says-looked-precedent-doling-204633906.html",
+      "publish_time": "2026-09-15T20:46:33+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9323a42e585c",
+      "title": "Warriors icon could be dealt in seismic midseason reset: insider",
+      "summary": "The 2026-27 NBA season could determine whether the Golden State Warriors extend their aging foundation or finally tear i…",
+      "source_url": "https://sports.yahoo.com/articles/warriors-icon-could-dealt-seismic-204439749.html",
+      "publish_time": "2026-09-15T20:44:39+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e9015cb69b31",
+      "title": "Adam Silver ready to move on after the Clippers-Kawhi Leonard scandal: 'Discipline is final'",
+      "summary": "The NBA stripped the Clippers of five first-round draft picks earlier this month, among other things, in the wake of the…",
+      "source_url": "https://sports.yahoo.com/nba/article/adam-silver-ready-to-move-on-after-the-clippers-kawhi-leonard-scandal-discipline-is-final-204134359.html",
+      "publish_time": "2026-09-15T20:41:34+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c1fc745da3a3",
+      "title": "Boston Celtics Daily Links 9/15/26",
+      "summary": "All the Celtics news you need in one convenient place.",
+      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-9-203526423.html",
+      "publish_time": "2026-09-15T20:35:26+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-eba0f5f17502",
+      "title": "NBA commissioner admits Clippers discipline incidentally 'punishing the fans'",
+      "summary": "NBA commissioner Adam Silver expanded on a handful of hot-button topics.",
+      "source_url": "https://sports.yahoo.com/articles/nba-commissioner-admits-clippers-discipline-202826557.html",
+      "publish_time": "2026-09-15T20:28:26+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bbc10405a131",
+      "title": "Ducking out: Lindy Waters III leaving NBA to play for Beijing Ducks",
+      "summary": "The one-time Warriors sharpshooter will seek his fortune with the Beijing Ducks",
+      "source_url": "https://sports.yahoo.com/articles/ducking-lindy-waters-iii-leaving-200051481.html",
+      "publish_time": "2026-09-15T20:00:51+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ae88b63b268d",
+      "title": "Laying out expectations for Paul George, Mike Conley and Jayson Tatum",
+      "summary": "The newest Celtics were introduced to the media at The Auerbach Center.",
+      "source_url": "https://sports.yahoo.com/articles/laying-expectations-paul-george-mike-195629201.html",
+      "publish_time": "2026-09-15T19:56:29+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-26b9e2ab63e9",
+      "title": "Adam Silver doesn't want Trail Blazers leaving Portland amid tense negotiations over new arena: 'It would be a failure'",
+      "summary": "The Trail Blazers have been working on a deal with local officials to bring massive renovations to the Moda Center.",
+      "source_url": "https://sports.yahoo.com/nba/article/adam-silver-doesnt-want-trail-blazers-leaving-portland-amid-tense-negotiations-over-new-arena-it-would-be-a-failure-195334771.html",
+      "publish_time": "2026-09-15T19:53:34+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9feeb5faa898",
+      "title": "Mike Conley, Paul George share underrated reason they will benefit the Celtics",
+      "summary": "Both NBA veterans come with plenty of experience and accolades — but neither has won a title. That desperation could fue…",
+      "source_url": "https://sports.yahoo.com/articles/mike-conley-paul-george-share-193500949.html",
+      "publish_time": "2026-09-15T19:35:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0cae949079b2",
+      "title": "Can chemistry between Michael Porter Jr. and Julius Randle lead Nets to 50 wins?!?",
+      "summary": "They can both score a lot, and they’re both Nets. Can they get Nets out of lousy offense?",
+      "source_url": "https://sports.yahoo.com/articles/where-michael-porter-jr-julius-193056641.html",
+      "publish_time": "2026-09-15T19:30:56+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-3ace6688f521",
+      "title": "Player Preview: Rasheer Fleming is about to get his chance to prove it",
+      "summary": "Rasheer Fleming showed flashes of being a legitimate 3-and-D player last season, and now the Suns need that growth to co…",
+      "source_url": "https://sports.yahoo.com/articles/player-preview-rasheer-fleming-chance-190000501.html",
+      "publish_time": "2026-09-15T19:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1f47e8e25d78",
+      "title": "Today in sports history, November 4",
+      "summary": "Today in sports history, November 4",
+      "source_url": "https://sports.yahoo.com/articles/today-sports-history-november-4-185101352.html",
+      "publish_time": "2026-09-15T18:51:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fc5b477cf51c",
+      "title": "Steve Kerr warns Draymond Green will face ‘frustrating’ Warriors adjustment in 2026",
+      "summary": "Steve Kerr had some words for the wise for his power forward",
+      "source_url": "https://sports.yahoo.com/articles/steve-kerr-warns-draymond-green-182812086.html",
+      "publish_time": "2026-09-15T18:28:12+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-57b01f91e368",
+      "title": "Stephen A. Smith eviscerates Kawhi Leonard in world-class Clippers scandal rant",
+      "summary": "Kawhi Leonard got to have his cake and eat it too",
+      "source_url": "https://sports.yahoo.com/articles/stephen-smith-eviscerates-kawhi-leonard-175145206.html",
+      "publish_time": "2026-09-15T17:51:45+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-555aada25d88",
+      "title": "Paul George shares crucial injury update in intro presser",
+      "summary": "The newest Celtic made one thing clear in his first media availability of the year: he’s as healthy as he’s been in year…",
+      "source_url": "https://sports.yahoo.com/articles/paul-george-shares-crucial-injury-175144871.html",
+      "publish_time": "2026-09-15T17:51:44+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-06fc16991d0f",
+      "title": "Shams Charania reveals why Kawhi Leonard avoided suspension after Clippers probe",
+      "summary": "NBA needed a smoking gun on Kawhi Leonard",
+      "source_url": "https://sports.yahoo.com/articles/shams-charania-reveals-why-kawhi-174757079.html",
+      "publish_time": "2026-09-15T17:47:57+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-662392011f90",
+      "title": "Samson Folk joins for a Raptors conversation! Team USA wins gold + All-Rookie team candidates",
+      "summary": "Nekias Duncan and Steve Jones review the Toronto Raptors, discuss Team USA's World Cup gold medal performance, and discu…",
+      "source_url": "https://sports.yahoo.com/nba/article/samson-folk-joins-for-a-raptors-conversation-team-usa-wins-gold--all-rookie-team-candidates-173515044.html",
+      "publish_time": "2026-09-15T17:35:15+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-3ccb9c662514",
+      "title": "Editor-in-chief mailbag: We’re getting close …",
+      "summary": "Media day is less than two weeks away. Hit me with your questions!",
+      "source_url": "https://sports.yahoo.com/articles/editor-chief-mailbag-getting-close-171825468.html",
+      "publish_time": "2026-09-15T17:18:25+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-58f9424aab63",
+      "title": "How the NBA’s updated 2027-28 salary-cap projection could help the Lakers",
+      "summary": "The Lakers might be in better shape to have the full non-taxpayer mid-level exception next summer.",
+      "source_url": "https://sports.yahoo.com/articles/nba-updated-2027-28-salary-163000002.html",
+      "publish_time": "2026-09-15T16:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-46a41e911dc9",
+      "title": "Today in sports history, November 3",
+      "summary": "Today in sports history, November 3",
+      "source_url": "https://sports.yahoo.com/articles/today-sports-history-november-3-162641104.html",
+      "publish_time": "2026-09-15T16:26:41+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fafec0eec7ba",
+      "title": "NBA reportedly lacked sufficient evidence to suspend Kawhi Leonard for role in Clippers' investigation",
+      "summary": "The NBA reportedly did not have enough evidence to challenge the NBPA.",
+      "source_url": "https://sports.yahoo.com/nba/article/nba-reportedly-lacked-sufficient-evidence-to-suspend-kawhi-leonard-for-role-in-clippers-investigation-162534072.html",
+      "publish_time": "2026-09-15T16:25:34+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8e371876a6a3",
+      "title": "Why Lakers’ defense is vastly improved after offseason construction",
+      "summary": "The Lakers' expected defensive struggles have been greatly exaggerated.",
+      "source_url": "https://sports.yahoo.com/articles/why-lakers-defense-vastly-improved-160236677.html",
+      "publish_time": "2026-09-15T16:02:36+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9d5a52ae60ba",
+      "title": "The NBA’s new 2027-28 salary-cap projection bodes well for the Sixers",
+      "summary": "Could the Sixers have access to the full non-taxpayer mid-level exception again next summer?",
+      "source_url": "https://sports.yahoo.com/articles/nba-2027-28-salary-cap-154441112.html",
+      "publish_time": "2026-09-15T15:44:41+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    }
+  ],
+  "matchPreviews": [
+    {
+      "id": "mp-fb-95a3761a234d",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "塞维利亚",
+      "match_time": "2026-09-16T17:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-d2bea8e2c3eb",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "马德里竞技",
+      "away_team": "奥萨苏纳",
+      "match_time": "2026-09-16T17:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3f2446231f49",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "莱万特",
+      "away_team": "毕尔巴鄂竞技",
+      "match_time": "2026-09-16T19:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ece4e6afa4fc",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "巴塞罗那",
+      "away_team": "Real Racing Club de Santander",
+      "match_time": "2026-09-16T19:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-bd41473daae4",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "皇家贝蒂斯",
+      "away_team": "赫塔费",
+      "match_time": "2026-09-17T17:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-a302987c7ee0",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "Málaga CF",
+      "away_team": "比利亚雷亚尔",
+      "match_time": "2026-09-17T19:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-375d107dd532",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "拜仁慕尼黑",
+      "away_team": "柏林联合",
+      "match_time": "2026-09-18T18:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-efb7846d2b97",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "AC Monza",
+      "away_team": "萨索洛",
+      "match_time": "2026-09-18T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-46311a844e7b",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "摩纳哥",
+      "away_team": "Racing Club de Lens",
+      "match_time": "2026-09-18T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-1fe29a6fa467",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "布伦特福德",
+      "away_team": "切尔西",
+      "match_time": "2026-09-18T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ae09d8ec2a95",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "西班牙人",
+      "away_team": "埃尔切",
+      "match_time": "2026-09-18T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ea560ed4d50c",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "托特纳姆热刺",
+      "away_team": "阿斯顿维拉",
+      "match_time": "2026-09-19T11:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-af0fbb7fe033",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "奥萨苏纳",
+      "away_team": "巴列卡诺",
+      "match_time": "2026-09-19T12:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-f5a8940b5bc1",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "博洛尼亚",
+      "away_team": "都灵",
+      "match_time": "2026-09-19T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-88861a329f3e",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "乌迪内斯",
+      "away_team": "卡利亚里",
+      "match_time": "2026-09-19T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-5482632edc54",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "汉堡",
+      "away_team": "科隆",
+      "match_time": "2026-09-19T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b04c48d327d5",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "门兴格拉德巴赫",
+      "away_team": "美因茨05",
+      "match_time": "2026-09-19T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-87dacd198c94",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "云达不来梅",
+      "away_team": "奥格斯堡",
+      "match_time": "2026-09-19T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-f0bfe3c4f2b4",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "法兰克福",
+      "away_team": "弗赖堡",
+      "match_time": "2026-09-19T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-5ad2d4e6413c",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "埃弗顿",
+      "away_team": "Ipswich Town FC",
+      "match_time": "2026-09-19T14:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    }
+  ]
 }
