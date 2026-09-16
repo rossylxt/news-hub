@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:21:19.775826+00:00",
+  "generated_at": "2026-09-16T20:20:27.565682+00:00",
   "news": [
     {
       "id": "ai_cn-94b3345e7dff",
@@ -131,6 +131,30 @@
       "is_important": false,
       "tags": [
         "量子位"
+      ]
+    },
+    {
+      "id": "ai_intl-303e2dc324c9",
+      "title": "在被指控出售“变态眼镜”后， Meta准备在没有相机的情况下出售一副",
+      "summary": "Meta可以用新的无相机产品来躲避“变态眼镜”的指控吗？",
+      "source_url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "publish_time": "2026-09-16T20:12:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-f60a2a4ca838",
+      "title": "人工智能实验室需要内部审核员—但也许他们应该先关上前门",
+      "summary": "对于躲在显而易见的地方的流氓特工，可能有更简单、更有效的解决方案。",
+      "source_url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "publish_time": "2026-09-16T18:25:25+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -443,6 +467,18 @@
       "is_important": false,
       "tags": [
         "TechCrunch"
+      ]
+    },
+    {
+      "id": "biz_intl-8ea0782920f9",
+      "title": "神秘的交易者在美联储下午2点的决定之前移动了1.22 $",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+      "publish_time": "2026-09-16T16:47:40+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
       ]
     },
     {
@@ -1387,18 +1423,6 @@
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
       "publish_time": "2026-09-16T12:37:24+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-2066d3381cd3",
-      "title": "LyondellBasell (LYB)在大宗商品市场情绪转变中回溯",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-retraces-amid-shifting-123131175.html",
-      "publish_time": "2026-09-16T12:31:31+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -3326,6 +3350,486 @@
       ]
     },
     {
+      "id": "football_intl-b5b6bcbb8ed0",
+      "title": "Manchester City are taking a patient approach with an intriguing sunmer signing",
+      "summary": "One of the more intriguing signings that Manchester City have made in recent times is the signing of Brazilian winger Al…",
+      "source_url": "https://sports.yahoo.com/articles/manchester-city-taking-patient-approach-201000325.html",
+      "publish_time": "2026-09-16T20:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-b6297617abf2",
+      "title": "Thomas Reis Set For Mo Salah Link-Up At Trabzonspor",
+      "summary": "By Ben McFadyean.Trabzonspor’s search for a successor to Fatih Tekke has been concluded successfully, with the appointme…",
+      "source_url": "https://sports.yahoo.com/articles/thomas-reis-set-mo-salah-200500440.html",
+      "publish_time": "2026-09-16T20:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-415150f5c3f8",
+      "title": "Why Lazio fans continue protests despite club ’s strong start to season",
+      "summary": "Given Gennaro Gattuso’s track record and pugnacity, Lazio’s season-opening defeat to second-tier Mantova in the Coppa It…",
+      "source_url": "https://sports.yahoo.com/articles/why-lazio-fans-continue-protests-200500923.html",
+      "publish_time": "2026-09-16T20:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-dd62fd2562be",
+      "title": "Manchester City Striker Is On The Radar Of Spain: Can Maresca Afford To Lose Him?",
+      "summary": "In a recent report, journalist Graeme Bailey stated that Manchester City striker Erling Haaland is on the radar of Spain…",
+      "source_url": "https://sports.yahoo.com/articles/manchester-city-striker-radar-spain-200500296.html",
+      "publish_time": "2026-09-16T20:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2161905d2957",
+      "title": "Charlton Athletic midfielder Hutton signs new deal",
+      "summary": "Charlton Athletic midfielder Jodie Hutton has signed a new contract with the club.WSL Full-Time were informed of the new…",
+      "source_url": "https://sports.yahoo.com/articles/charlton-athletic-midfielder-hutton-signs-200500423.html",
+      "publish_time": "2026-09-16T20:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-529231df73cc",
+      "title": "Who is Cavan Sullivan? American phenom reportedly set for first USMNT call-up as Man City future looms",
+      "summary": "Philadelphia Union star Cavan Sullivan is in red-hot form, having scored five goals with two assists in his last five ML…",
+      "source_url": "https://sports.yahoo.com/articles/cavan-sullivan-american-phenom-reportedly-200048698.html",
+      "publish_time": "2026-09-16T20:00:48+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-df216e681d78",
+      "title": "⛈️ Match SUSPENDED: Levante v Athletic will NOT be played due to rain",
+      "summary": "The match between Levante UD and Athletic Club has been officially postponed due to the adverse weather conditions recor…",
+      "source_url": "https://sports.yahoo.com/articles/match-suspended-levante-v-athletic-195700719.html",
+      "publish_time": "2026-09-16T19:57:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f49351cdb9c6",
+      "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+      "summary": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer, Luca Weinhandl attract…",
+      "source_url": "https://sports.yahoo.com/articles/arsenal-rejected-dowman-loan-offers-195318842.html",
+      "publish_time": "2026-09-16T19:53:18+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6015bffdefbd",
+      "title": "🤝 Yamal and Cancelo combine for outstanding Barça goal",
+      "summary": "Barcelona are absolutely flying in La Liga this season and wasted no time in taking the lead against Racing Santander on…",
+      "source_url": "https://sports.yahoo.com/articles/yamal-cancelo-combine-outstanding-bar-195100753.html",
+      "publish_time": "2026-09-16T19:51:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-542ed195f140",
+      "title": "Leicester City keeper Keane signs new long-term deal",
+      "summary": "Leicester City goalkeeper Katie Keane has signed a new long-term contract with the club.WSL Full-Time were informed of t…",
+      "source_url": "https://sports.yahoo.com/articles/leicester-city-keeper-keane-signs-195000376.html",
+      "publish_time": "2026-09-16T19:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f6f135732c7e",
+      "title": "Ruben Amorim admits Milan don’t have players for his system",
+      "summary": "Serie A side Milan open their Europa League campaign against Benfica at the San Siro today. But before the tie, manager…",
+      "source_url": "https://sports.yahoo.com/articles/ruben-amorim-admits-milan-don-194500561.html",
+      "publish_time": "2026-09-16T19:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-9407718f9ee2",
+      "title": "Chelsea Are Keeping Tabs On This Talented Playmaker: A Star In The Making?",
+      "summary": "In a recent report, El Crack Deportivo mentioned that Chelsea are keeping tabs on Boca Juniors playmaker Tomas Aranda. I…",
+      "source_url": "https://sports.yahoo.com/articles/chelsea-keeping-tabs-talented-playmaker-194500461.html",
+      "publish_time": "2026-09-16T19:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-9f4af67d17b2",
+      "title": "Liverpool set to lose Rio Ngumoha thanks to crazy decision",
+      "summary": "Rio Ngumoha could now leave Liverpool. And it feels like the club is doing all it can to make that happen.Rio Ngumoha ha…",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-set-lose-rio-ngumoha-194000214.html",
+      "publish_time": "2026-09-16T19:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-3edee341876a",
+      "title": "🎇 Stadium of Light shines as European football returns to Sunderland",
+      "summary": "It's been a long time since European football last took place on Wearside. Sunderland had an exceptional 2025/26 Premier…",
+      "source_url": "https://sports.yahoo.com/articles/stadium-light-shines-european-football-192900945.html",
+      "publish_time": "2026-09-16T19:29:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bbf4e2786a77",
+      "title": "USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies",
+      "summary": "Philadelphia Union midfielder Cavan Sullivan is set to earn his first international call-up with the United States men’s…",
+      "source_url": "https://sports.yahoo.com/articles/usmnt-call-16-old-cavan-192509435.html",
+      "publish_time": "2026-09-16T19:25:09+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-9672dfdc8353",
+      "title": "Video: David scored 2 goals in just 3 games for Atletico Madrid since Juventus loan",
+      "summary": "Jonathan David has well and truly rediscovered his form since leaving Juventus on loan, scoring two goals with one assis…",
+      "source_url": "https://sports.yahoo.com/articles/video-david-scored-2-goals-192500755.html",
+      "publish_time": "2026-09-16T19:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4ddb612ce557",
+      "title": "Arsenal Are Eager To Sign This Liverpool Whizkid: One For The Future?",
+      "summary": "In a recent Q&A, journalist David Ornstein revealed that Arsenal are eager to sign Liverpool whizkid Rio Ngumoha. Ornste…",
+      "source_url": "https://sports.yahoo.com/articles/arsenal-eager-sign-liverpool-whizkid-192500468.html",
+      "publish_time": "2026-09-16T19:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e70ad6d23a27",
+      "title": "Man Utd starlet makes full debut count in EFL Cup 👶",
+      "summary": "It's been a week where Man United academy players have stolen the headlines. The future of JJ Gabriel remains uncertain,…",
+      "source_url": "https://sports.yahoo.com/articles/man-utd-starlet-makes-full-191500552.html",
+      "publish_time": "2026-09-16T19:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-eb68865068b5",
+      "title": "Fabrizio Romano confirms Liverpool talks with 'special' sensation",
+      "summary": "Liverpool may have brought some new players through the Anfield doors over the summer but, there are still a lot of thin…",
+      "source_url": "https://sports.yahoo.com/articles/fabrizio-romano-confirms-liverpool-talks-191000057.html",
+      "publish_time": "2026-09-16T19:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2f7e4d605d6c",
+      "title": "Carabao Cup draw: Start time, ball numbers and how to watch as teams learn fourth-round fate",
+      "summary": "Liverpool and Arsenal among the teams to have booked their spots in tonight’s draw",
+      "source_url": "https://sports.yahoo.com/articles/carabao-cup-draw-fourth-round-150416432.html",
+      "publish_time": "2026-09-16T19:06:48+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-0dfece9fd5c6",
+      "title": "Is this why referees misjudge Arsenal?",
+      "summary": "Pro Ref face fresh scrutiny after a weekend of disputed Arsenal and Manchester City decisions left VAR and Premier Leagu…",
+      "source_url": "https://sports.yahoo.com/articles/why-referees-misjudge-arsenal-190500688.html",
+      "publish_time": "2026-09-16T19:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-80fadc44679d",
+      "title": "Rangers Star Reveals Tactical Secret Behind Celtic Rout: Is This A Lasting System?",
+      "summary": "Rangers’ 27-year-old defender James Penrice explained the thinking behind his Old Firm role after Sunday’s 3-0 Premier S…",
+      "source_url": "https://sports.yahoo.com/articles/rangers-star-reveals-tactical-secret-190500636.html",
+      "publish_time": "2026-09-16T19:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6d12546ecb3b",
+      "title": "🔥 What a thrashing: Atleti hammer Osasuna at the Metropolitano",
+      "summary": "Today, the Metropolitano dressed up for the occasion to witness the great performance by the side managed by Cholo Simeo…",
+      "source_url": "https://sports.yahoo.com/articles/thrashing-atleti-hammer-osasuna-metropolitano-185700361.html",
+      "publish_time": "2026-09-16T18:57:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e29183de776c",
+      "title": "🔥Cracker at Riazor: Dépor lose for the first time, Sevilla into top four",
+      "summary": "Some matches have already been played, and then there will be this one between Sevilla and Deportivo La Coruña, two of L…",
+      "source_url": "https://sports.yahoo.com/articles/cracker-riazor-d-por-lose-185700036.html",
+      "publish_time": "2026-09-16T18:57:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6367326a598f",
+      "title": "Eden Hazard backs Mourinho to succeed at Real Madrid: ‘He will do well’",
+      "summary": "Speaking at a recent media appearance, former Real Madrid winger Eden Hazard has backed Jose Mourinho to succeed at the…",
+      "source_url": "https://sports.yahoo.com/articles/eden-hazard-backs-mourinho-succeed-185500171.html",
+      "publish_time": "2026-09-16T18:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8b4636df0121",
+      "title": "Saudi club given stadium ban over Jota chants",
+      "summary": "Saudi Pro League side Al-Taawoun are ordered to play two matches behind closed doors after supporters taunted Ruben Neve…",
+      "source_url": "https://sports.yahoo.com/articles/saudi-club-given-stadium-ban-183300740.html",
+      "publish_time": "2026-09-16T18:54:04+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f91217f2b669",
+      "title": "👀 Germany squad leaks: these players are in so far",
+      "summary": "Jürgen Klopp will present his first squad as Germany’s national team coach tomorrow, Thursday, 17 September, from 10 a.m…",
+      "source_url": "https://sports.yahoo.com/articles/germany-squad-leaks-players-far-184700647.html",
+      "publish_time": "2026-09-16T18:47:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d6cff786f62f",
+      "title": "Luciano Spalletti on Juventus pressure: “I don’t have to follow others’ opinion”",
+      "summary": "Serie A side Juventus haven’t had a great start to the campaign and take on NEC Nijmegen in their opening Europa League…",
+      "source_url": "https://sports.yahoo.com/articles/luciano-spalletti-juventus-pressure-don-184500666.html",
+      "publish_time": "2026-09-16T18:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-299bd7b2353c",
+      "title": "Tedesco ‘disappointed’ at Bologna dismissal after just 4 games",
+      "summary": "Domenico Tedesco is ‘very disappointed’ at losing his Bologna job just four games into the season, replaced by Raffaele…",
+      "source_url": "https://sports.yahoo.com/articles/tedesco-disappointed-bologna-dismissal-just-184500395.html",
+      "publish_time": "2026-09-16T18:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6fb4bbad96fe",
+      "title": "Celtic Manager’s Stance On 24-Year-Old Player: Should They Free Up Room For Luke Chambers?",
+      "summary": "Celtic have no plans to sell the 24-year-old Sebastian Tounekti in January, according to journalist Pete O’Rourke of Foo…",
+      "source_url": "https://sports.yahoo.com/articles/celtic-manager-stance-24-old-184500995.html",
+      "publish_time": "2026-09-16T18:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e5d6e05e0963",
+      "title": "South American star informs agent he wants to join Liverpool",
+      "summary": "A South American star has informed his agent he wants to join Liverpool. Over the last decade or so, South American play…",
+      "source_url": "https://sports.yahoo.com/articles/south-american-star-informs-agent-184000185.html",
+      "publish_time": "2026-09-16T18:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2ac6ab64ff3d",
+      "title": "Amorim: ‘If I fail, I want to fail big, but don’t know if I’ll have time at Milan’",
+      "summary": "Ruben Amorim compares Milan difficulties to Manchester United, admitting he would rather ‘fail big’ than limp to victory…",
+      "source_url": "https://sports.yahoo.com/articles/amorim-fail-want-fail-big-184000086.html",
+      "publish_time": "2026-09-16T18:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4ca97451b24d",
+      "title": "Celtic must 'repay the fans' after Ibrox shocker, says Donovan",
+      "summary": "Defender Colby Donovan insists Celtic are looking to go far in the Europa League and shrug off the disappointment of the…",
+      "source_url": "https://sports.yahoo.com/articles/celtic-must-repay-fans-ibrox-183334268.html",
+      "publish_time": "2026-09-16T18:33:34+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4b7212be6e2f",
+      "title": "WSL2: Leah Galton signs for Burnley after Man United departure",
+      "summary": "Burnley have announced the signing of experienced winger Leah Galton on a one-year contract. The club hold also the opti…",
+      "source_url": "https://sports.yahoo.com/articles/wsl2-leah-galton-signs-burnley-183000081.html",
+      "publish_time": "2026-09-16T18:30:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-863885c1dca5",
+      "title": "Confirmed: Barcelona starting lineup against Racing Santander | La Liga MD 6",
+      "summary": "FC Barcelona will be aiming to register their seventh straight win of the 2026/27 season when they face off against Raci…",
+      "source_url": "https://sports.yahoo.com/articles/confirmed-barcelona-starting-lineup-against-182500416.html",
+      "publish_time": "2026-09-16T18:25:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-674bf9780034",
+      "title": "Tottenham Hotspur Are Keen On Signing This Nottingham Forest Talent: Should De Zerbi Snap Him Up?",
+      "summary": "In a recent report, journalist Graeme Bailey claimed that Tottenham Hotspur are keen on signing Nottingham Forest talent…",
+      "source_url": "https://sports.yahoo.com/articles/tottenham-hotspur-keen-signing-nottingham-182500685.html",
+      "publish_time": "2026-09-16T18:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1b4d4029ac3f",
+      "title": "👀 Tuchel opens up: it was Argentina's ruthless football",
+      "summary": "England manager Thomas Tuchel broke his silence in the FA documentary Reflections as he revisited the agonising World Cu…",
+      "source_url": "https://sports.yahoo.com/articles/tuchel-opens-argentinas-ruthless-football-182200398.html",
+      "publish_time": "2026-09-16T18:22:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bed34084ea6d",
+      "title": "🚨 XIs in: Levante and Athletic face a test of consistency",
+      "summary": "Estadio Ciudad de Valencia hosts an enticing LaLiga clash between two teams in contrasting form. Levante UD come into th…",
+      "source_url": "https://sports.yahoo.com/articles/xis-levante-athletic-face-test-181800840.html",
+      "publish_time": "2026-09-16T18:18:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-cce72040d11c",
+      "title": "Fabrizio Romano confirms interest in Liverpool sensation, several clubs want him",
+      "summary": "Liverpool were at the centre of many transfer stories over the summer. The Anfield outfit brought four new players throu…",
+      "source_url": "https://sports.yahoo.com/articles/fabrizio-romano-confirms-interest-liverpool-181000467.html",
+      "publish_time": "2026-09-16T18:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ecf4b7b98bad",
+      "title": "🚨 Official: Alex Witsel announces his international retirement!",
+      "summary": "The end of an era.It was expected, and now it is official. This Wednesday, Alex Witsel announced his international retir…",
+      "source_url": "https://sports.yahoo.com/articles/official-alex-witsel-announces-international-180900337.html",
+      "publish_time": "2026-09-16T18:09:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-ae2cb3abe163",
       "title": "Cherries 'looking forward to competing in this great competition' - Cook",
       "summary": "Bournemouth midfielder Lewis Cook, says there are \"new memories\" to be made as the Cherries prepare for their first Euro…",
@@ -3806,480 +4310,12 @@
       ]
     },
     {
-      "id": "football_intl-12c1cfc5702f",
-      "title": "'We'll give it to them' - Taylor on West Ham",
-      "summary": "Millwall defender Caleb Taylor looks ahead to the derby game with West Ham on the BBC's 72+ EFL podcast.",
-      "source_url": "https://sports.yahoo.com/articles/well-them-taylor-west-ham-160731517.html",
-      "publish_time": "2026-09-16T16:07:31+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-18dc07e29a30",
-      "title": "Garner crucial for Everton's European push",
-      "summary": "James Garner's consistent displays last season earned him a first England cap in a friendly against Uruguay in March. Af…",
-      "source_url": "https://sports.yahoo.com/articles/garner-crucial-evertons-european-push-160527517.html",
-      "publish_time": "2026-09-16T16:05:27+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-61000074d7ec",
-      "title": "Arsenal 18yo called up as manager criticises rules",
-      "summary": "Michael O’Neill has criticised the circumstances surrounding Ceadach O’Neill’s position after the Republic of Ireland mo…",
-      "source_url": "https://sports.yahoo.com/articles/arsenal-18yo-called-manager-criticises-160500119.html",
-      "publish_time": "2026-09-16T16:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e834dc70ae1d",
-      "title": "2nd Arsenal star wins Player of the Matchweek award",
-      "summary": "David Raya has won the Premier League Player of the Matchweek award, marking the second time in a row that an Arsenal pl…",
-      "source_url": "https://sports.yahoo.com/articles/2nd-arsenal-star-wins-player-160500370.html",
-      "publish_time": "2026-09-16T16:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-7d0c1ded7fd5",
-      "title": "Cup exit undoubtedly a blow to players short of minutes",
-      "summary": "Six points from Ipswich Town's opening four Premier League games, which have included both a win at home and away, is a…",
-      "source_url": "https://sports.yahoo.com/articles/cup-exit-undoubtedly-blow-players-160423111.html",
-      "publish_time": "2026-09-16T16:04:23+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-405f022fbf2f",
-      "title": "How to watch Brighton vs Arsenal live: Stream, TV, team news, prediction",
-      "summary": "Busy Brighton and Arsenal should proffer front-footed football on Saturday when the Gunners visit the Amex Stadium.",
-      "source_url": "https://sports.yahoo.com/articles/watch-brighton-vs-arsenal-live-160357211.html",
-      "publish_time": "2026-09-16T16:03:57+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-261f4538ce44",
-      "title": "🚨 Line-ups confirmed: Dépor host an in-form Sevilla",
-      "summary": "Riazor Stadium switches on its lights again this evening (7:00 pm, DAZN) to host the clash between Deportivo de La Coruñ…",
-      "source_url": "https://sports.yahoo.com/articles/line-ups-confirmed-d-por-160300104.html",
-      "publish_time": "2026-09-16T16:03:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1870851c0a1b",
-      "title": "'Farke's stock is getting higher and higher' - is a new deal close?",
-      "summary": "BBC Radio Leeds' Johnny Buchan says Daniel Farke's \"stock is getting higher and higher\" as the Whites look to reward the…",
-      "source_url": "https://sports.yahoo.com/articles/farkes-stock-getting-higher-higher-160048118.html",
-      "publish_time": "2026-09-16T16:00:48+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-55ef7bf09616",
-      "title": "Sunderland back in Europe - 'It's been a journey'",
-      "summary": "Regis le Bris' side take on AZ Alkmaar in their opening fixture and Sunderland legend Gary Bennett - the club's fifth al…",
-      "source_url": "https://sports.yahoo.com/articles/sunderland-back-europe-journey-160009993.html",
-      "publish_time": "2026-09-16T16:00:09+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-583b6f12a0a8",
-      "title": "Gnonto: ‘I needed Fiorentina after not positive season with Leeds United’",
-      "summary": "Wilfried Gnonto admits he ‘missed Italy’ when playing for Leeds United and jumped at the chance to join Fiorentina. ‘I n…",
-      "source_url": "https://sports.yahoo.com/articles/gnonto-needed-fiorentina-not-positive-160000812.html",
-      "publish_time": "2026-09-16T16:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-fc5670c96a40",
-      "title": "Barcelona depth leaves Alejandro Balde waiting for his chance",
-      "summary": "LeadAlejandro Balde is yet to play a minute for Barcelona this season, according to Barca Blaugranes. Hansi Flick addres…",
-      "source_url": "https://sports.yahoo.com/articles/barcelona-depth-leaves-alejandro-balde-160000909.html",
-      "publish_time": "2026-09-16T16:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-2e6d987908d2",
-      "title": "Botafogo close to announcing new manager",
-      "summary": "Botafogo is close to announcing Tite as its new head coach, according to ge.With GDA coming in as the club’s new investo…",
-      "source_url": "https://sports.yahoo.com/articles/botafogo-close-announcing-manager-155900012.html",
-      "publish_time": "2026-09-16T15:59:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b387e570b7db",
-      "title": "Crystal Palace handed major boost as captain Dean Henderson signs new contract",
-      "summary": "Dean Henderson was part of England’s World Cup squad in the summer",
-      "source_url": "https://sports.yahoo.com/articles/crystal-palace-handed-major-boost-155602967.html",
-      "publish_time": "2026-09-16T15:56:02+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-36e78f7dd256",
-      "title": "Real Madrid keeping tabs on 18-year-old Bayern Munich wonderkid – report",
-      "summary": "According to reports relayed by Bernabeu Digital, Real Madrid continue to monitor the most promising young players in Eu…",
-      "source_url": "https://sports.yahoo.com/articles/real-madrid-keeping-tabs-18-155500428.html",
-      "publish_time": "2026-09-16T15:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b4c9451a369b",
-      "title": "How to watch Brentford vs Chelsea live: Stream, TV, team news, prediction",
-      "summary": "Brentford and Chelsea each seek a place in the top four for the international break when they meet at the Gtech Communit…",
-      "source_url": "https://sports.yahoo.com/articles/watch-brentford-vs-chelsea-live-155251503.html",
-      "publish_time": "2026-09-16T15:52:51+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-37c3a7d6bd55",
-      "title": "O'Neill on Duran, Ibrox 'eye-opener' and finding ways to win",
-      "summary": "O'Neill confirmed forward Camilo Duran is fit and available having missed training on Wednesday after travelling to Lond…",
-      "source_url": "https://sports.yahoo.com/articles/oneill-duran-ibrox-eye-opener-154800865.html",
-      "publish_time": "2026-09-16T15:51:40+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-04e99f1d37b3",
-      "title": "Report: Arsenal ready to push hard for 17-year-old midfielder",
-      "summary": "Arsenal Transfer Interest in Luca Weinhandl Grows Ahead of January WindowArsenal are among the Premier League clubs push…",
-      "source_url": "https://sports.yahoo.com/articles/report-arsenal-ready-push-hard-155000121.html",
-      "publish_time": "2026-09-16T15:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-cb4b2f1f1961",
-      "title": "DFB Squad leaks | VfB Stuttgart’s Finn Jeltsch set for first Germany call-up while Deniz Undav remains behind",
-      "summary": "Further details concerning Jürgen Klopp’s first Germany squad continue to emerge ahead of Thursday morning’s official an…",
-      "source_url": "https://sports.yahoo.com/articles/dfb-squad-leaks-vfb-stuttgart-155000781.html",
-      "publish_time": "2026-09-16T15:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4db0f27e828a",
-      "title": "What next for Gabriel and Man Utd?",
-      "summary": "On the night JJ Gabriel was supposed to become Manchester United's youngest player in history, the scramble is on to per…",
-      "source_url": "https://sports.yahoo.com/articles/next-gabriel-man-utd-135204150.html",
-      "publish_time": "2026-09-16T15:49:22+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e6854796a53f",
-      "title": "🚨XI ready: Celta begin their European campaign against Omonia Nicosia",
-      "summary": "Celta de Vigo make their UEFA Europa League debut this Thursday (18:45) away to Omonia Nicosia at the GSP Stadium. Claud…",
-      "source_url": "https://sports.yahoo.com/articles/xi-ready-celta-begin-european-154900337.html",
-      "publish_time": "2026-09-16T15:49:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-17a6a7670848",
-      "title": "Barcelona superstar Lamine Yamal reveals his two favourite teams to watch in La Liga",
-      "summary": "Lamine Yamal is one of the red hot favourites to win the Ballon d’Or this year, with his exceptional performances last s…",
-      "source_url": "https://sports.yahoo.com/articles/barcelona-superstar-lamine-yamal-reveals-154500867.html",
-      "publish_time": "2026-09-16T15:45:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-290aadea9d5b",
-      "title": "Matchday Rituals in 2026: What Fans Do Before, During and After Kick-Off",
-      "summary": "Ritual is one of the oldest things in football. Older than substitutes, older than most of the clubs that practise it.Th…",
-      "source_url": "https://sports.yahoo.com/articles/matchday-rituals-2026-fans-during-154000491.html",
-      "publish_time": "2026-09-16T15:40:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4465c86ba8b1",
-      "title": "Roma have good and bad news ahead of Inter showdown",
-      "summary": "Roma received some good and some bad news ahead of their Serie A showdown with Inter, as Wesley and Evan Ndicka returned…",
-      "source_url": "https://sports.yahoo.com/articles/roma-good-bad-news-ahead-154000681.html",
-      "publish_time": "2026-09-16T15:40:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c1b880fe6d03",
-      "title": "Europe’s giants eye Ndour, Roma-Inter knocks, Spalletti idea: today 🔥",
-      "summary": "The Europa League kicks off today, with Milan hosting Benfica at San Siro at 9 PM and Juve facing NEC tomorrow at the Al…",
-      "source_url": "https://sports.yahoo.com/articles/europe-giants-eye-ndour-roma-153900014.html",
-      "publish_time": "2026-09-16T15:39:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-dcdb553ccbd2",
-      "title": "Trio behind 70% of post-Copa goals, top Cruzeiro's yearly charts",
-      "summary": "Despite a difficult stretch marked by recent eliminations in the Copa do Brasil and the Libertadores, Cruzeiro has found…",
-      "source_url": "https://sports.yahoo.com/articles/trio-behind-70-post-copa-153700496.html",
-      "publish_time": "2026-09-16T15:37:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-716345f8309f",
-      "title": "Sage on Sarr's return, Henderson's new deal and Canvot's squad exclusion",
-      "summary": "Crystal Palace boss Pierre Sage has been speaking to the media before Thursday's Europa League opener against Polish sid…",
-      "source_url": "https://sports.yahoo.com/articles/sage-sarrs-return-hendersons-deal-153610493.html",
-      "publish_time": "2026-09-16T15:36:10+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1c036954180f",
-      "title": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
-      "summary": "The controversy surrounding the VAR decision to allow Erling Haaland's winner in the Manchester derby has rumbled on for…",
-      "source_url": "https://sports.yahoo.com/articles/pressure-quick-var-decisions-obvious-150358049.html",
-      "publish_time": "2026-09-16T15:33:33+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4eac3a8070f4",
-      "title": "Premier League sack race odds: Lampard and Carrick odds slashed to be first managerial casualty",
-      "summary": "We take a closer look at the betting odds on which Premier League manager will be sacked first this term",
-      "source_url": "https://sports.yahoo.com/articles/premier-league-sack-race-odds-152916129.html",
-      "publish_time": "2026-09-16T15:29:16+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d231bb6c60a0",
-      "title": "Did you know?",
-      "summary": "Rangers make the short trip across the city on Sunday aiming to achieve a derby feat they have accomplished only twice b…",
-      "source_url": "https://sports.yahoo.com/articles/did-know-152525949.html",
-      "publish_time": "2026-09-16T15:25:25+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-39b06f5a87ab",
-      "title": "Football Italia Show: Why Juventus don’t need Conte",
-      "summary": "Juventus have made a frustrating start to their Serie A campaign, already sitting five points behind leaders Inter and R…",
-      "source_url": "https://sports.yahoo.com/articles/football-italia-show-why-juventus-152500114.html",
-      "publish_time": "2026-09-16T15:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-68de530ceb42",
-      "title": "Barcelona scout 22-year-old versatile Norwegian attacker with 23 G/A – report",
-      "summary": "According to Swedish publication Expressen, FC Barcelona sent representatives to scout Bo Hegland during Djurgardens IF’…",
-      "source_url": "https://sports.yahoo.com/articles/barcelona-scout-22-old-versatile-152500836.html",
-      "publish_time": "2026-09-16T15:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-45036c6c7784",
-      "title": "Feature | Who is new German national team call-up Felix Keidel?",
-      "summary": "SV Elversberg midfielder Felix Keidel is set to emerge as one of the major surprises in Jürgen Klopp’s first Germany squ…",
-      "source_url": "https://sports.yahoo.com/articles/feature-german-national-team-call-152000716.html",
-      "publish_time": "2026-09-16T15:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-25778518f578",
-      "title": "🎧Preston sack Heckingbottom & Millwall face West Ham",
-      "summary": "Aaron Paul and Jobi McAnuff are joined by former Ipswich defender Luke Chambers to chat all things EFL in the latest epi…",
-      "source_url": "https://sports.yahoo.com/articles/preston-sack-heckingbottom-millwall-face-151935564.html",
-      "publish_time": "2026-09-16T15:19:35+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-85a2653057b6",
-      "title": "La Liga chief not impressed by three Real Madrid players after not wearing Ceuta support shirt",
-      "summary": "Real Madrid returned to action on Tuesday with a La Liga clash against Elche at the Martinez Valero.Jose Mourinho’s game…",
-      "source_url": "https://sports.yahoo.com/articles/la-liga-chief-not-impressed-151000807.html",
-      "publish_time": "2026-09-16T15:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c374b8beb5f0",
-      "title": "Barcelona project €1.45 billion in revenue for 2030/31",
-      "summary": "FC Barcelona have consistently stressed that the full exploitation of the Spotify Camp Nou will be crucial to the club’s…",
-      "source_url": "https://sports.yahoo.com/articles/barcelona-project-1-45-billion-150500739.html",
-      "publish_time": "2026-09-16T15:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e8a925c012ab",
-      "title": "Real Madrid working on deal for Arsenal-linked Manchester United kid",
-      "summary": "Real Madrid are working on a deal to sign JJ Gabriel from Manchester United, with overseas clubs seemingly leading the r…",
-      "source_url": "https://sports.yahoo.com/articles/real-madrid-working-deal-arsenal-150500272.html",
-      "publish_time": "2026-09-16T15:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-f3a4e7a95957",
-      "title": "Merino on captaincy 'honour' and 'unbelievable' Dowman",
-      "summary": "Arsenal midfielder Mikel Merino, who was handed the matchday captaincy by Mikel Arteta for the second time against Ipswi…",
-      "source_url": "https://sports.yahoo.com/articles/merino-captaincy-honour-unbelievable-dowman-150431896.html",
-      "publish_time": "2026-09-16T15:04:31+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-577906dd9e3e",
-      "title": "Zetterstrom injury latest setback for Derby - analysis",
-      "summary": "The injury to goalkeeper Jacob Widell Zetterstrom is the latest setback for Derby County head coach John Eustace, writes…",
-      "source_url": "https://sports.yahoo.com/articles/zetterstrom-injury-latest-setback-derby-150026972.html",
-      "publish_time": "2026-09-16T15:00:26+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-6cd1018a2c07",
-      "title": "Report: Liverpool are in the race to sign Serie A midfielder",
-      "summary": "Liverpool Tracking Cher Ndour as Premier League Interest Builds Ahead of Possible 2027 MoveLiverpool are among the clubs…",
-      "source_url": "https://sports.yahoo.com/articles/report-liverpool-race-sign-serie-145500057.html",
-      "publish_time": "2026-09-16T14:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e2fac8e59812",
-      "title": "Spalletti warns Juventus could be in for an ‘uncomfortable’ evening against NEC",
-      "summary": "Luciano Spalletti says that the mentality of his Juventus players is the most important thing heading into their first E…",
-      "source_url": "https://sports.yahoo.com/articles/spalletti-warns-juventus-could-uncomfortable-145500513.html",
-      "publish_time": "2026-09-16T14:55:00+00:00",
-      "category": "football_intl",
+      "id": "nba-0e63a55c6805",
+      "title": "Knicks sign Bruce Brown to training camp contract, sets up fight for roster spot",
+      "summary": "The Knicks will bring five veterans (at least) into training camp to compete for one roster spot.",
+      "source_url": "https://sports.yahoo.com/articles/knicks-sign-bruce-brown-training-183914403.html",
+      "publish_time": "2026-09-16T18:39:14+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4291,6 +4327,54 @@
       "summary": "The Knicks are making three more veteran additions ahead of camp on Exhibit 9 deals.",
       "source_url": "https://sports.yahoo.com/articles/james-wiseman-bruce-brown-among-175303576.html",
       "publish_time": "2026-09-16T17:53:03+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-3bde19a6819a",
+      "title": "Timberwolves Player Previews: The Wings",
+      "summary": "Let’s take a look at what we could expect from the Wolves’ wings in the next part of my season preview.",
+      "source_url": "https://sports.yahoo.com/articles/timberwolves-player-previews-wings-170000176.html",
+      "publish_time": "2026-09-16T17:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-23c270e5fc4f",
+      "title": "Paul George pokes fun at Joe Mazzulla, hilarity ensues",
+      "summary": "Sometimes it is fun to poke the bear, even if the bear is the coach of the Boston Celtics",
+      "source_url": "https://sports.yahoo.com/articles/paul-george-pokes-fun-joe-165347565.html",
+      "publish_time": "2026-09-16T16:53:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8ffbe176963c",
+      "title": "Sixers single-game tickets go on sale Thursday",
+      "summary": "Tickets to watch the most anticipated Sixers team in a while will be available this week.",
+      "source_url": "https://sports.yahoo.com/articles/sixers-single-game-tickets-sale-154800556.html",
+      "publish_time": "2026-09-16T15:48:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-12781ae476e0",
+      "title": "Why Mitchell Robinson missed his Celtics introduction: ‘Can’t catch a break’",
+      "summary": "The reason for Mitchell Robinson's absence from his Celtics introduction has been revealed.",
+      "source_url": "https://sports.yahoo.com/articles/why-mitchell-robinson-missed-celtics-154618691.html",
+      "publish_time": "2026-09-16T15:46:18+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4315,6 +4399,18 @@
       "summary": "After looking like another Lakers gem early last season, Jake LaRavia slumped hard. Can he find consistency this season?",
       "source_url": "https://sports.yahoo.com/articles/jake-laravia-consistency-season-152400299.html",
       "publish_time": "2026-09-16T15:24:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-cef1beff04d5",
+      "title": "Pablo Torre takes aim at ESPN for Clippers, Steve Ballmer reporting",
+      "summary": "Pablo Torre did not pull any punches toward his former employer.",
+      "source_url": "https://sports.yahoo.com/articles/pablo-torre-takes-aim-espn-151359251.html",
+      "publish_time": "2026-09-16T15:13:59+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4401,6 +4497,18 @@
       "publish_time": "2026-09-16T12:40:44+00:00",
       "category": "nba",
       "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bcdf540bc42b",
+      "title": "Ex-Warrior James Wiseman signs training camp contract with NBA champion Knicks",
+      "summary": "Former Golden State Warriors center James Wiseman has signed a training camp contract with the New York Knicks ahead of…",
+      "source_url": "https://sports.yahoo.com/articles/ex-warrior-james-wiseman-signs-123439547.html",
+      "publish_time": "2026-09-16T12:34:39+00:00",
+      "category": "nba",
+      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
@@ -5080,26 +5188,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-3f2446231f49",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "莱万特",
-      "away_team": "毕尔巴鄂竞技",
-      "match_time": "2026-09-16T19:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-ece4e6afa4fc",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "巴塞罗那",
-      "away_team": "桑坦德竞技",
-      "match_time": "2026-09-16T19:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-bd41473daae4",
       "sport": "football",
       "competition": "西甲",
@@ -5276,6 +5364,26 @@
       "home_team": "纽卡斯尔联",
       "away_team": "Hull City AFC",
       "match_time": "2026-09-19T14:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b821a2230573",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "毕尔巴鄂竞技",
+      "away_team": "阿拉维斯",
+      "match_time": "2026-09-19T14:15:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b263b8e31b86",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "巴黎FC",
+      "away_team": "斯特拉斯堡",
+      "match_time": "2026-09-19T15:15:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
