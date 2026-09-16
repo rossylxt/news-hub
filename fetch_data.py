@@ -10,7 +10,11 @@ fetch_data.py —— 自动抓取真实资讯数据，生成 data.json
   2. 把每条资讯归一化成网站需要的字段结构（与原先 mock 数据字段完全一致）；
   3. 把英文 / 日文等非中文来源的标题、摘要，以及赛事预告里的球队名，
      自动翻译成简体中文（用 deep-translator 免费调用 Google 翻译，不需要 API Key）；
-     已经是中文的内容会自动跳过翻译，避免多此一举；翻译失败时保留原文，不影响抓取流程；
+     已经是中文的内容会自动跳过翻译，避免多此一举；翻译失败时会重试几次，仍失败则保留原文，
+     不影响抓取流程；
+     球队名、日本球员姓名等专有名词优先查内置的官方/通行中文译名词典（TEAM_NAME_ZH /
+     _JP_KANJI_TO_ZH），保证是国内体育媒体通行的准确译名，而不是机器翻译的直译结果；
+     词典没有收录的球队再退回机器翻译兜底；
   4. 从 balldontlie（NBA）和 football-data.org（足球）抓取近期赛程，
      生成"重点赛事预告"数据；
   5. 与仓库里已有的 data.json 合并去重，裁剪到合理条数，写回 data.json。
@@ -32,6 +36,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 from datetime import datetime, timedelta, timezone
 
 import feedparser
@@ -193,6 +198,28 @@ _KANA_RE = re.compile(u"[぀-ヿ]")
 # 中日韩统一表意文字（汉字）的 Unicode 范围
 _HAN_RE = re.compile(u"[一-鿿]")
 
+# 同一次运行内，相同文本只翻译一次并复用结果（球队名等重复率很高，能大幅减少请求数）
+_TRANSLATION_CACHE = {}
+
+# 日文汉字与中文简体字形不同的常用字对照（主要覆盖 JAPAN_PLAYER_KEYWORDS 里出现的球员姓名用字）。
+# Google 翻译经常会原样保留日文汉字写法（比如"鎌田"不会自动转成"镰田"），
+# 这里做一次字形规范化，让球员姓名显示为国内媒体通行的简体字写法。
+_JP_KANJI_TO_ZH = {
+    "薫": "薰", "冨": "富", "実": "实", "鈴": "铃", "艶": "艳", "勢": "势",
+    "輝": "辉", "樹": "树", "瀬": "濑", "歩": "步", "夢": "梦", "綺": "绮",
+    "颯": "飒", "橋": "桥", "岡": "冈", "遠": "远", "鎌": "镰", "倉": "仓",
+}
+
+
+def normalize_jp_kanji_to_zh(text):
+    """把文本里残留的日文汉字写法替换成对应的中文简体字形，用于修正球员姓名等专有名词。"""
+    if not text:
+        return text
+    for jp, zh in _JP_KANJI_TO_ZH.items():
+        if jp in text:
+            text = text.replace(jp, zh)
+    return text
+
 
 def needs_translation(text):
     """粗略判断一段文本是否需要翻译成中文：
@@ -209,18 +236,181 @@ def needs_translation(text):
 
 
 def translate_to_chinese(text):
-    """把非中文文本翻译成简体中文；已是中文或空文本直接原样返回；
-    翻译请求失败时记录警告并保留原文，保证不会因为翻译服务偶尔抽风而中断整个抓取任务。"""
+    """把非中文文本翻译成简体中文；已是中文或空文本直接原样返回。
+    Google 翻译免费接口有较严格的限流，因此这里做了三重保护：
+    1) 同一次运行内对相同文本做缓存，避免重复请求；
+    2) 每次成功请求之间固定停顿，主动放慢速度；
+    3) 遇到限流/网络错误时按指数退避重试几次，仍然失败才保留原文并记录警告，
+       保证不会因为翻译服务偶尔抽风而中断整个抓取任务（下次抓取到同一条时会再次尝试翻译）。"""
     if not text or not needs_translation(text):
         return text
-    try:
-        translated = GoogleTranslator(source="auto", target="zh-CN").translate(text)
-        # 轻微限速，降低被翻译接口临时限流/封锁的概率
-        time.sleep(0.2)
-        return translated.strip() if translated else text
-    except Exception as e:
-        log(f"    [警告] 翻译失败，保留原文：{e}")
-        return text
+    if text in _TRANSLATION_CACHE:
+        return _TRANSLATION_CACHE[text]
+
+    delay = 2.0
+    last_err = None
+    for attempt in range(4):
+        try:
+            translated = GoogleTranslator(source="auto", target="zh-CN").translate(text)
+            result = translated.strip() if translated else text
+            result = normalize_jp_kanji_to_zh(result)
+            _TRANSLATION_CACHE[text] = result
+            # 主动限速，降低被翻译接口限流的概率
+            time.sleep(1.2)
+            return result
+        except Exception as e:
+            last_err = e
+            time.sleep(delay)
+            delay *= 2
+
+    log(f"    [警告] 翻译失败（已重试{attempt + 1}次），保留原文：{last_err}")
+    _TRANSLATION_CACHE[text] = text
+    return text
+
+
+# ==============================================================================
+# 球队名词典：赛事预告里的球队名优先用国内体育媒体通行的官方/习惯中文译名，
+# 不经过机器翻译，保证准确；词典没有收录的球队再退回 translate_to_chinese 兜底。
+# ==============================================================================
+
+# 俱乐部官方全名里常见的后缀/编号词，查词典前先去掉，比如：
+# "Tottenham Hotspur FC" -> "tottenham hotspur"，"1. FC Köln" -> "koln"
+# 注意："club"/"sc" 不放进来，因为它们在个别球队的正式队名里是有实际含义的词
+# （Athletic Club、Club Brugge、SC Freiburg），全局剥离反而会导致查不到词典，
+# 这些个例改成直接在词典里保留完整写法作为 key。
+_CLUB_NOISE_WORDS = {
+    "fc", "cf", "afc", "sad", "sa", "bc", "cfc", "ac", "acf", "hsc", "sco",
+    "ssc", "ss", "us", "usc", "ogc", "cd", "ca", "ud", "sl", "fk", "fsv",
+    "calcio", "the", "&", "and",
+    "1907", "1909", "1910", "1913", "1899", "1901", "05", "04", "29",
+}
+
+
+def _ascii_fold(s):
+    """把带重音符号的字母转成对应的基础拉丁字母（比如 "ö" -> "o"），
+    避免因为重音符号写法不同导致词典查不到（比如 "München" / "Munchen"）。"""
+    return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
+
+
+def _normalize_team_name(name):
+    """把球队官方全名标准化成词典查找用的 key：去重音 -> 连字符/斜杠转空格
+    -> 去掉开头编号 -> 去掉常见俱乐部后缀词 -> 转小写。"""
+    n = _ascii_fold(name or "").strip()
+    n = re.sub(r"^\d+\.\s*", "", n)  # "1. FC Köln" -> "FC Koln"
+    n = n.replace("-", " ").replace("/", " ")  # "Paris Saint-Germain" / "Bodo/Glimt"
+    tokens = [t.strip(".").lower() for t in n.split()]
+    tokens = [t for t in tokens if t and t not in _CLUB_NOISE_WORDS]
+    return " ".join(tokens)
+
+
+# key 是经过 _normalize_team_name() 处理后的标准化球队名，value 是国内体育媒体通行译名
+TEAM_NAME_ZH = {
+    # ---- NBA（30 支球队官方通行译名）----
+    "atlanta hawks": "亚特兰大老鹰", "boston celtics": "波士顿凯尔特人",
+    "brooklyn nets": "布鲁克林篮网", "charlotte hornets": "夏洛特黄蜂",
+    "chicago bulls": "芝加哥公牛", "cleveland cavaliers": "克利夫兰骑士",
+    "dallas mavericks": "达拉斯独行侠", "denver nuggets": "丹佛掘金",
+    "detroit pistons": "底特律活塞", "golden state warriors": "金州勇士",
+    "houston rockets": "休斯顿火箭", "indiana pacers": "印第安纳步行者",
+    "la clippers": "洛杉矶快船", "los angeles clippers": "洛杉矶快船",
+    "los angeles lakers": "洛杉矶湖人", "memphis grizzlies": "孟菲斯灰熊",
+    "miami heat": "迈阿密热火", "milwaukee bucks": "密尔沃基雄鹿",
+    "minnesota timberwolves": "明尼苏达森林狼", "new orleans pelicans": "新奥尔良鹈鹕",
+    "new york knicks": "纽约尼克斯", "oklahoma city thunder": "俄克拉荷马城雷霆",
+    "orlando magic": "奥兰多魔术", "philadelphia 76ers": "费城76人",
+    "phoenix suns": "菲尼克斯太阳", "portland trail blazers": "波特兰开拓者",
+    "sacramento kings": "萨克拉门托国王", "san antonio spurs": "圣安东尼奥马刺",
+    "toronto raptors": "多伦多猛龙", "utah jazz": "犹他爵士",
+    "washington wizards": "华盛顿奇才",
+
+    # ---- 英超 ----
+    "arsenal": "阿森纳", "aston villa": "阿斯顿维拉", "bournemouth": "伯恩茅斯",
+    "brentford": "布伦特福德", "brighton hove albion": "布莱顿",
+    "brighton": "布莱顿", "burnley": "伯恩利", "chelsea": "切尔西",
+    "crystal palace": "水晶宫", "everton": "埃弗顿", "fulham": "富勒姆",
+    "leeds united": "利兹联", "liverpool": "利物浦", "manchester city": "曼城",
+    "manchester united": "曼联", "newcastle united": "纽卡斯尔联", "newcastle": "纽卡斯尔联",
+    "nottingham forest": "诺丁汉森林", "sunderland": "桑德兰",
+    "tottenham hotspur": "托特纳姆热刺", "tottenham": "托特纳姆热刺",
+    "west ham united": "西汉姆联", "west ham": "西汉姆联",
+    "wolverhampton wanderers": "狼队", "wolves": "狼队",
+
+    # ---- 西甲 ----
+    "real madrid": "皇家马德里", "barcelona": "巴塞罗那",
+    "atletico madrid": "马德里竞技", "atletico de madrid": "马德里竞技",
+    "club atletico de madrid": "马德里竞技",
+    "real sociedad": "皇家社会", "real sociedad de futbol": "皇家社会",
+    "real betis": "皇家贝蒂斯", "real betis balompie": "皇家贝蒂斯", "sevilla": "塞维利亚",
+    "villarreal": "比利亚雷亚尔", "athletic bilbao": "毕尔巴鄂竞技", "athletic club": "毕尔巴鄂竞技",
+    "athletic club de bilbao": "毕尔巴鄂竞技",
+    "valencia": "瓦伦西亚", "celta vigo": "塞尔塔维戈", "rc celta": "塞尔塔维戈",
+    "girona": "赫罗纳", "getafe": "赫塔费", "osasuna": "奥萨苏纳",
+    "mallorca": "马略卡", "rcd mallorca": "马略卡",
+    "rayo vallecano": "巴列卡诺", "rayo vallecano de madrid": "巴列卡诺",
+    "espanyol": "西班牙人", "rcd espanyol de barcelona": "西班牙人", "rcd espanyol": "西班牙人",
+    "alaves": "阿拉维斯", "deportivo alaves": "阿拉维斯", "levante": "莱万特",
+    "real oviedo": "奥维耶多", "elche": "埃尔切",
+
+    # ---- 德甲 ----
+    "bayern munchen": "拜仁慕尼黑", "bayern munich": "拜仁慕尼黑",
+    "borussia dortmund": "多特蒙德", "rb leipzig": "莱比锡红牛",
+    "bayer leverkusen": "勒沃库森", "bayer 04 leverkusen": "勒沃库森",
+    "eintracht frankfurt": "法兰克福", "vfb stuttgart": "斯图加特",
+    "borussia monchengladbach": "门兴格拉德巴赫", "vfl wolfsburg": "沃尔夫斯堡",
+    "sc freiburg": "弗赖堡", "union berlin": "柏林联合",
+    "werder bremen": "云达不来梅", "sv werder bremen": "云达不来梅",
+    "tsg hoffenheim": "霍芬海姆", "hoffenheim": "霍芬海姆",
+    "mainz 05": "美因茨05", "mainz": "美因茨05",
+    "fc augsburg": "奥格斯堡", "augsburg": "奥格斯堡",
+    "koln": "科隆", "fc st pauli": "圣保利", "st pauli": "圣保利",
+    "hamburger sv": "汉堡", "holstein kiel": "基尔",
+
+    # ---- 意甲 ----
+    "juventus": "尤文图斯", "milan": "AC米兰", "internazionale": "国际米兰",
+    "internazionale milano": "国际米兰",
+    "inter": "国际米兰", "roma": "罗马", "as roma": "罗马", "napoli": "那不勒斯",
+    "lazio": "拉齐奥", "atalanta": "亚特兰大", "fiorentina": "佛罗伦萨",
+    "torino": "都灵", "bologna": "博洛尼亚", "udinese": "乌迪内斯",
+    "sassuolo": "萨索洛", "genoa": "热那亚", "cagliari": "卡利亚里",
+    "hellas verona": "维罗纳", "verona": "维罗纳", "parma": "帕尔马",
+    "como": "科莫", "como 1907": "科莫", "lecce": "莱切", "empoli": "恩波利",
+    "venezia": "威尼斯", "pisa": "比萨", "cremonese": "克雷莫纳",
+
+    # ---- 法甲 ----
+    "paris saint germain": "巴黎圣日耳曼", "marseille": "马赛",
+    "olympique de marseille": "马赛", "lyon": "里昂", "olympique lyonnais": "里昂",
+    "monaco": "摩纳哥", "as monaco": "摩纳哥", "lille": "里尔", "losc lille": "里尔",
+    "nice": "尼斯", "rennes": "雷恩", "stade rennais": "雷恩",
+    "lens": "朗斯", "rc lens": "朗斯", "strasbourg": "斯特拉斯堡",
+    "rc strasbourg alsace": "斯特拉斯堡",
+    "toulouse": "图卢兹", "nantes": "南特", "montpellier": "蒙彼利埃",
+    "reims": "兰斯", "stade de reims": "兰斯", "le havre": "勒阿弗尔",
+    "auxerre": "欧塞尔", "aj auxerre": "欧塞尔", "angers": "昂热",
+    "brest": "布雷斯特", "stade brestois": "布雷斯特", "metz": "梅斯",
+    "paris": "巴黎FC",
+
+    # ---- 欧冠常客（英德意法西以外）----
+    "ajax": "阿贾克斯", "benfica": "本菲卡", "porto": "波尔图",
+    "sporting cp": "葡萄牙体育", "sporting lisbon": "葡萄牙体育",
+    "celtic": "凯尔特人", "rangers": "流浪者", "psv eindhoven": "埃因霍温",
+    "psv": "埃因霍温", "feyenoord": "费耶诺德", "shakhtar donetsk": "顿涅茨克矿工",
+    "club brugge": "布鲁日", "galatasaray": "加拉塔萨雷", "fenerbahce": "费内巴切",
+    "olympiacos": "奥林匹亚科斯", "slavia praha": "布拉格斯拉维亚",
+    "bodo glimt": "博德闪耀", "qarabag": "卡拉巴克", "fc copenhagen": "哥本哈根",
+    "copenhagen": "哥本哈根", "union saint gilloise": "圣吉罗斯联",
+    "kairat almaty": "凯拉特", "pafos": "帕福斯",
+}
+
+
+def translate_team_name(name):
+    """球队名优先查 TEAM_NAME_ZH 词典（国内体育媒体通行译名），命中直接返回，
+    不消耗翻译请求额度；词典没有收录的球队，退回 translate_to_chinese 机器翻译兜底。"""
+    if not name:
+        return name
+    key = _normalize_team_name(name)
+    if key in TEAM_NAME_ZH:
+        return TEAM_NAME_ZH[key]
+    return translate_to_chinese(name)
 
 
 # ==============================================================================
@@ -411,8 +601,8 @@ def fetch_all_match_previews():
     # 赛事的 competition 字段已经在 FOOTBALL_DATA_COMPETITIONS / fetch_nba_previews 里
     # 用中文命名了，这里只需要翻译球队名。
     for p in previews:
-        p["home_team"] = translate_to_chinese(p["home_team"])
-        p["away_team"] = translate_to_chinese(p["away_team"])
+        p["home_team"] = translate_team_name(p["home_team"])
+        p["away_team"] = translate_team_name(p["away_team"])
 
     return previews
 
@@ -492,4 +682,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
