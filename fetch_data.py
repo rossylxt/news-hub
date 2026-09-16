@@ -8,9 +8,12 @@ fetch_data.py —— 自动抓取真实资讯数据，生成 data.json
 职责：
   1. 从下面 FEED_SOURCES 中配置的各个真实 RSS 源抓取最新资讯；
   2. 把每条资讯归一化成网站需要的字段结构（与原先 mock 数据字段完全一致）；
-  3. 从 balldontlie（NBA）和 football-data.org（足球）抓取近期赛程，
+  3. 把英文 / 日文等非中文来源的标题、摘要，以及赛事预告里的球队名，
+     自动翻译成简体中文（用 deep-translator 免费调用 Google 翻译，不需要 API Key）；
+     已经是中文的内容会自动跳过翻译，避免多此一举；翻译失败时保留原文，不影响抓取流程；
+  4. 从 balldontlie（NBA）和 football-data.org（足球）抓取近期赛程，
      生成"重点赛事预告"数据；
-  4. 与仓库里已有的 data.json 合并去重，裁剪到合理条数，写回 data.json。
+  5. 与仓库里已有的 data.json 合并去重，裁剪到合理条数，写回 data.json。
 
 本地手动运行方式：
     pip install -r requirements.txt
@@ -28,10 +31,12 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 
 import feedparser
 import requests
+from deep_translator import GoogleTranslator
 
 # ==============================================================================
 # 基础配置
@@ -176,6 +181,49 @@ def matches_keyword_filter(title, summary, keywords):
 
 
 # ==============================================================================
+# 自动翻译为简体中文
+# ==============================================================================
+# 目标：网站上展示的所有文字内容（资讯标题/摘要、赛事预告里的球队名）都是中文，
+# 不需要你手动翻译或手动维护。翻译用 deep-translator 库免费调用 Google 翻译网页版接口，
+# 不需要注册、不需要 API Key；翻译失败（网络问题/被限流等）时会保留原文，不会导致整个
+# 抓取任务失败——个别条目暂时是原文属于正常现象，下次抓取到同一条时会再次尝试翻译。
+
+# 日文假名（平假名 + 片假名）的 Unicode 范围：文本里出现假名，基本可判定为日文（即使夹杂汉字）
+_KANA_RE = re.compile(u"[぀-ヿ]")
+# 中日韩统一表意文字（汉字）的 Unicode 范围
+_HAN_RE = re.compile(u"[一-鿿]")
+
+
+def needs_translation(text):
+    """粗略判断一段文本是否需要翻译成中文：
+    - 含假名 -> 判定为日文，需要翻译；
+    - 不含假名但含汉字 -> 判定为已经是中文，跳过；
+    - 既不含假名也不含汉字（比如纯英文/西欧语言）-> 需要翻译。"""
+    if not text:
+        return False
+    if _KANA_RE.search(text):
+        return True
+    if _HAN_RE.search(text):
+        return False
+    return True
+
+
+def translate_to_chinese(text):
+    """把非中文文本翻译成简体中文；已是中文或空文本直接原样返回；
+    翻译请求失败时记录警告并保留原文，保证不会因为翻译服务偶尔抽风而中断整个抓取任务。"""
+    if not text or not needs_translation(text):
+        return text
+    try:
+        translated = GoogleTranslator(source="auto", target="zh-CN").translate(text)
+        # 轻微限速，降低被翻译接口临时限流/封锁的概率
+        time.sleep(0.2)
+        return translated.strip() if translated else text
+    except Exception as e:
+        log(f"    [警告] 翻译失败，保留原文：{e}")
+        return text
+
+
+# ==============================================================================
 # 抓取资讯（RSS）
 # ==============================================================================
 
@@ -207,17 +255,22 @@ def fetch_category_news(category, sources):
         log(f"  - {source_name or url}: 获取到 {len(entries)} 条")
 
         for entry in entries:
-            title = strip_html(entry.get("title", "")).strip()
-            if not title:
+            title_raw = strip_html(entry.get("title", "")).strip()
+            if not title_raw:
                 continue
             link = entry.get("link", "").strip()
             if not link:
                 continue
             summary_raw = entry.get("summary", "") or entry.get("description", "")
-            summary = truncate(strip_html(summary_raw), 120)
+            summary_raw = strip_html(summary_raw)
 
-            if not matches_keyword_filter(title, summary, keyword_filter):
+            # 关键词过滤（比如日本旅欧球员）用原文匹配，翻译前后语义一致，不影响筛选结果
+            if not matches_keyword_filter(title_raw, summary_raw, keyword_filter):
                 continue
+
+            # 翻译成中文：已经是中文的来源（量子位/36氪）会被 needs_translation 自动跳过
+            title = translate_to_chinese(title_raw)
+            summary = truncate(translate_to_chinese(summary_raw), 120)
 
             publish_time = parse_entry_time(entry)
             tags = [source_name] if source_name else []
@@ -352,7 +405,16 @@ def fetch_all_match_previews():
     now = datetime.now(timezone.utc)
     previews = [p for p in previews if datetime.fromisoformat(p["match_time"]) >= now]
     previews.sort(key=lambda p: p["match_time"])
-    return previews[:MAX_MATCH_PREVIEWS]
+    previews = previews[:MAX_MATCH_PREVIEWS]
+
+    # 只翻译最终会展示的场次（而不是翻译抓到的全部原始数据），减少不必要的翻译请求。
+    # 赛事的 competition 字段已经在 FOOTBALL_DATA_COMPETITIONS / fetch_nba_previews 里
+    # 用中文命名了，这里只需要翻译球队名。
+    for p in previews:
+        p["home_team"] = translate_to_chinese(p["home_team"])
+        p["away_team"] = translate_to_chinese(p["away_team"])
+
+    return previews
 
 
 # ==============================================================================
