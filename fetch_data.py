@@ -572,9 +572,26 @@ def fetch_feed(url):
     return parsed.entries
 
 
-def fetch_category_news(category, sources):
+def _already_translated(item):
+    """判断已有 data.json 里的一条资讯是否"翻译已经成功过"：标题和摘要都不再需要翻译。
+    （如果之前两个翻译接口都被限流、保留了原文，这里会判定为"未完成"，本次运行会重新尝试翻译。）"""
+    return (
+        not needs_translation(item.get("title", ""))
+        and not needs_translation(item.get("summary", ""))
+    )
+
+
+def fetch_category_news(category, sources, existing_by_id):
+    """抓取并翻译一个分类下的资讯。
+
+    关键优化：RSS 源每次抓取到的往往是同一批最近的文章（同一 id），如果每次都重新调用翻译接口，
+    短短几分钟内就会把 Google/MyMemory 两个免费接口的额度全部打满，反而导致新内容翻译不了
+    （这是实际运行中遇到的问题）。所以这里先查 existing_by_id：如果这条资讯之前已经成功翻译过，
+    直接复用旧结果，完全不占用本次运行的翻译额度；只有"新出现的资讯"或"之前翻译失败、还是原文"
+    的资讯才会真正调用翻译接口。"""
     log(f"抓取分类 [{category}] ...")
     items = []
+    reused_count = 0
     for src in sources:
         url = src["url"]
         source_name = src.get("source", "")
@@ -590,6 +607,14 @@ def fetch_category_news(category, sources):
             link = entry.get("link", "").strip()
             if not link:
                 continue
+
+            item_id = make_id(category, link)
+            cached = existing_by_id.get(item_id)
+            if cached and _already_translated(cached):
+                items.append(cached)
+                reused_count += 1
+                continue
+
             summary_raw = entry.get("summary", "") or entry.get("description", "")
             summary_raw = strip_html(summary_raw)
 
@@ -605,7 +630,7 @@ def fetch_category_news(category, sources):
             tags = [source_name] if source_name else []
 
             items.append({
-                "id": make_id(category, link),
+                "id": item_id,
                 "title": title,
                 "summary": summary or "（原文暂无摘要，点击查看详情）",
                 "source_url": link,
@@ -615,13 +640,15 @@ def fetch_category_news(category, sources):
                 "tags": tags,
             })
 
+    if reused_count:
+        log(f"  （其中 {reused_count} 条复用已有翻译，未重新请求翻译接口）")
     return items
 
 
-def fetch_all_news():
+def fetch_all_news(existing_by_id):
     all_items = []
     for category, sources in FEED_SOURCES.items():
-        all_items.extend(fetch_category_news(category, sources))
+        all_items.extend(fetch_category_news(category, sources, existing_by_id))
     return all_items
 
 
@@ -728,7 +755,7 @@ def fetch_football_previews():
     return previews
 
 
-def fetch_all_match_previews():
+def fetch_all_match_previews(existing_by_id):
     previews = fetch_nba_previews() + fetch_football_previews()
     # 只保留未来的比赛，按开赛时间升序排列
     now = datetime.now(timezone.utc)
@@ -738,10 +765,21 @@ def fetch_all_match_previews():
 
     # 只翻译最终会展示的场次（而不是翻译抓到的全部原始数据），减少不必要的翻译请求。
     # 赛事的 competition 字段已经在 FOOTBALL_DATA_COMPETITIONS / fetch_nba_previews 里
-    # 用中文命名了，这里只需要翻译球队名。
+    # 用中文命名了，这里只需要翻译球队名。球队名优先查词典（不占用翻译额度）；
+    # 词典没收录、需要走机器翻译兜底的球队名，如果上一次已经翻译成功过（同一场比赛 id），
+    # 直接复用旧结果，避免同一支球队反复消耗翻译接口额度。
     for p in previews:
-        p["home_team"] = translate_team_name(p["home_team"])
-        p["away_team"] = translate_team_name(p["away_team"])
+        cached = existing_by_id.get(p["id"])
+        if (
+            cached
+            and not needs_translation(cached.get("home_team", ""))
+            and not needs_translation(cached.get("away_team", ""))
+        ):
+            p["home_team"] = cached["home_team"]
+            p["away_team"] = cached["away_team"]
+        else:
+            p["home_team"] = translate_team_name(p["home_team"])
+            p["away_team"] = translate_team_name(p["away_team"])
 
     return previews
 
@@ -790,11 +828,13 @@ def main():
     log(f"开始抓取，时间：{datetime.now(timezone.utc).isoformat()}")
 
     existing = load_existing_data()
+    existing_news_by_id = {item["id"]: item for item in existing["news"]}
+    existing_mp_by_id = {p["id"]: p for p in existing.get("matchPreviews", [])}
 
-    new_news = fetch_all_news()
+    new_news = fetch_all_news(existing_news_by_id)
     merged_news = merge_news(existing["news"], new_news)
 
-    match_previews = fetch_all_match_previews()
+    match_previews = fetch_all_match_previews(existing_mp_by_id)
     # 赛事预告如果本次抓取为空（比如两个 API Key 都没配），保留旧数据里仍未过期的部分，
     # 而不是直接清空，避免"没配 Key 就整个板块消失"
     if not match_previews:
