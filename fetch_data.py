@@ -295,11 +295,13 @@ def _split_into_chunks(text, limit):
 
 
 def _guess_source_lang(text):
-    """MyMemory 接口不支持 source=\"auto\" 自动检测语言（传 auto 会直接返回一句报错文本，
-    而不是抛异常，如果不处理会把这句报错当成"翻译结果"存下来），必须显式指定源语言。
+    """MyMemory 接口不支持 source="auto" 自动检测语言（传 auto 会直接返回一句报错文本，
+    而不是抛异常，如果不处理会把这句报错当成"翻译结果"存下来），必须显式指定源语言；
+    而且它要求的是带地区后缀的语言代码（比如 "en-GB"、"ja-JP"），裸的 "en"/"ja"
+    会被它自己的语言校验拒绝，报"No support for the provided language"。
     这里按本项目实际用到的信源简单判断：含日文假名判定为日语，否则按英语处理
     （FEED_SOURCES 里非中文源除了日文（ゲキサカ）以外都是英文站点）。"""
-    return "ja" if _KANA_RE.search(text) else "en"
+    return "ja-JP" if _KANA_RE.search(text) else "en-GB"
 
 
 def _is_mymemory_error_text(translated):
@@ -316,6 +318,7 @@ def _is_mymemory_error_text(translated):
         "must translate",
         "query length limit exceeded",
         "language pair not supported",
+        "no support for the provided language",
     )
     return any(marker in lowered for marker in error_markers)
 
