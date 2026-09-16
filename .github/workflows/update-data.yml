@@ -30,6 +30,13 @@ on:
 permissions:
   contents: write
 
+# 同一时间只允许一次抓取任务运行：翻译功能会调用 Google 翻译免费接口，
+# 如果多个任务同时跑（比如手动触发时刚好赶上定时任务），会成倍增加请求频率，
+# 更容易触发"请求过多"的限流。这里让后触发的任务排队等前一个跑完，而不是并发执行。
+concurrency:
+  group: fetch-data
+  cancel-in-progress: false
+
 jobs:
   fetch-and-publish:
     runs-on: ubuntu-latest
@@ -64,4 +71,3 @@ jobs:
             git commit -m "chore: 自动更新资讯数据 [skip ci]"
             git push
           fi
-
