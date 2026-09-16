@@ -1,0 +1,67 @@
+# ==============================================================================
+# GitHub Actions 工作流：定时抓取真实资讯 + 自动更新网站数据
+# ==============================================================================
+# 触发方式：
+#   1. schedule —— 每 2 小时自动运行一次（cron 时间为 UTC）
+#   2. workflow_dispatch —— 允许在仓库的 Actions 页面手动点击 "Run workflow" 立即执行
+#   3. push（仅当 fetch_data.py 有改动时）—— 方便你第一次设置好仓库后，
+#      推送代码即可立刻跑一次，马上看到真实数据，不用等 2 小时
+#
+# 运行内容：checkout 仓库 -> 安装 Python 依赖 -> 运行 fetch_data.py 抓取数据
+# -> 如果 data.json 有变化，就提交并推回仓库。
+# 只要 GitHub Pages 设置为"从 main 分支部署"，这次提交会自动触发 Pages 重新发布，
+# 不需要额外的部署步骤。
+# ==============================================================================
+
+name: 抓取资讯数据
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "fetch_data.py"
+      - "requirements.txt"
+      - ".github/workflows/update-data.yml"
+
+# 需要写权限才能把生成的 data.json 提交回仓库
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行抓取脚本
+        env:
+          # 两个 Key 都是可选的：不配置也不会导致失败，只是"重点赛事预告"板块会跳过对应数据源
+          # 配置方法见 README.md 里的"部署到 GitHub Pages"一节
+          BALLDONTLIE_API_KEY: ${{ secrets.BALLDONTLIE_API_KEY }}
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python fetch_data.py
+
+      - name: 提交更新后的数据（如有变化）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "本次抓取数据无变化，跳过提交。"
+          else
+            git commit -m "chore: 自动更新资讯数据 [skip ci]"
+            git push
+          fi
+
