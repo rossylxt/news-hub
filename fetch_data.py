@@ -253,6 +253,96 @@ def needs_translation(text):
     return True
 
 
+# MyMemory 免费接口单次请求的文本长度有上限（官方约 500 字符），超过会报错。
+# 比这个阈值留一点余量，超长文本按句子边界切成多段分别翻译再拼接，
+# 而不是整段跳过——这样长摘要也能被翻译，而不是因为长度超限就直接保留原文。
+_MYMEMORY_CHUNK_LIMIT = 450
+# 用于按句子边界切分的标点（中/日/英文常见结尾标点）
+_SENTENCE_BOUNDARY_RE = re.compile(u"([。！？；\\.\\!\\?;]+)")
+
+
+def _split_into_chunks(text, limit):
+    """把长文本按句子边界切成若干段，每段不超过 limit 个字符；
+    单个句子本身超过 limit 时，直接按字符硬切，保证一定能切完。"""
+    parts = _SENTENCE_BOUNDARY_RE.split(text)
+    # re.split 加了捕获组，结果里标点和正文是分开的元素，两两拼回完整"句子"
+    sentences = []
+    for i in range(0, len(parts), 2):
+        sentence = parts[i]
+        if i + 1 < len(parts):
+            sentence += parts[i + 1]
+        if sentence:
+            sentences.append(sentence)
+
+    chunks = []
+    current = ""
+    for sentence in sentences:
+        if len(sentence) > limit:
+            if current:
+                chunks.append(current)
+                current = ""
+            for i in range(0, len(sentence), limit):
+                chunks.append(sentence[i:i + limit])
+            continue
+        if len(current) + len(sentence) > limit:
+            chunks.append(current)
+            current = sentence
+        else:
+            current += sentence
+    if current:
+        chunks.append(current)
+    return chunks or [text]
+
+
+def _guess_source_lang(text):
+    """MyMemory 接口不支持 source=\"auto\" 自动检测语言（传 auto 会直接返回一句报错文本，
+    而不是抛异常，如果不处理会把这句报错当成"翻译结果"存下来），必须显式指定源语言。
+    这里按本项目实际用到的信源简单判断：含日文假名判定为日语，否则按英语处理
+    （FEED_SOURCES 里非中文源除了日文（ゲキサカ）以外都是英文站点）。"""
+    return "ja" if _KANA_RE.search(text) else "en"
+
+
+def _is_mymemory_error_text(translated):
+    """MyMemory 出错时会把错误说明当成"译文"返回（比如源语言不支持、超出长度限制等），
+    而不是抛异常。这里识别几种常见的错误提示，识别到就当作翻译失败处理，避免把英文的
+    错误说明当成中文译文存进 data.json。"""
+    if not translated:
+        return True
+    lowered = translated.lower()
+    error_markers = (
+        "invalid source language",
+        "invalid target language",
+        "is not yet supported",
+        "must translate",
+        "query length limit exceeded",
+        "language pair not supported",
+    )
+    return any(marker in lowered for marker in error_markers)
+
+
+def _mymemory_translate(text):
+    """调用 MyMemory 接口翻译文本；超过单次请求长度上限时自动分段翻译再拼接。
+    MyMemory 返回错误提示文本（而不是抛异常）时，主动转换成异常，交给上层的重试/
+    切换兜底逻辑处理，避免把错误提示当成译文存下来。"""
+    source_lang = _guess_source_lang(text)
+
+    def _translate_one(chunk):
+        translated = MyMemoryTranslator(source=source_lang, target="zh-CN").translate(chunk)
+        translated = translated.strip() if translated else chunk
+        if _is_mymemory_error_text(translated):
+            raise ValueError(f"MyMemory 返回了错误提示而不是译文：{translated[:80]}")
+        return translated
+
+    if len(text) <= _MYMEMORY_CHUNK_LIMIT:
+        return _translate_one(text)
+
+    results = []
+    for chunk in _split_into_chunks(text, _MYMEMORY_CHUNK_LIMIT):
+        results.append(_translate_one(chunk))
+        time.sleep(0.5)  # 分段请求之间也稍作停顿，降低触发限流的概率
+    return "".join(results)
+
+
 def translate_to_chinese(text):
     """把非中文文本翻译成简体中文；已是中文或空文本直接原样返回。
     Google 翻译免费接口在 GitHub Actions 的共享出口 IP 上经常被限流，因此这里做了多重保护：
@@ -291,13 +381,11 @@ def translate_to_chinese(text):
                 time.sleep(delay)
                 delay *= 2
 
-    # MyMemory 免费接口单次请求长度有限（约 500 字节），超长文本直接跳过，保留原文
-    if not _MYMEMORY_BLOCKED and len(text.encode("utf-8")) <= 480:
+    if not _MYMEMORY_BLOCKED:
         delay = 2.0
         for attempt in range(2):
             try:
-                translated = MyMemoryTranslator(source="auto", target="zh-CN").translate(text)
-                result = translated.strip() if translated else text
+                result = _mymemory_translate(text)
                 result = normalize_jp_kanji_to_zh(result)
                 _TRANSLATION_CACHE[text] = result
                 time.sleep(1.0)
