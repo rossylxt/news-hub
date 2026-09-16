@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-16T07:39:36.539952+00:00",
+  "generated_at": "2026-09-16T08:19:52.462217+00:00",
   "news": [
+    {
+      "id": "ai_cn-2d443bd55c15",
+      "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
+      "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
+      "source_url": "https://www.qbitai.com/2026/09/490416.html",
+      "publish_time": "2026-09-16T07:38:18+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-c6714b5bbf2d",
       "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
@@ -374,11 +386,107 @@
       ]
     },
     {
+      "id": "biz_intl-9e6ea85c5f46",
+      "title": "Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html",
+      "publish_time": "2026-09-15T11:37:32+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-11f5a4374cfb",
+      "title": "Silver prices today, Tuesday, September 15, 2026: Silver prices drop below $64 as Fed-decision day approaches",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html",
+      "publish_time": "2026-09-15T11:23:26+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-5b9c37ac268a",
+      "title": "Gold prices today, Tuesday, September 15, 2026: Gold sees lowest open in weeks as Treasury yields keep rising",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-treasury-yields-keep-rising-111454530.html",
+      "publish_time": "2026-09-15T11:14:54+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
       "id": "biz_intl-8f9d8a4bc5e6",
       "title": "Best CD rates today, Tuesday, September 15, 2026: Lock in up to 4.40% APY",
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-15-2026-lock-in-up-to-440-apy-100000502.html",
       "publish_time": "2026-09-15T10:00:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-4dff51e09762",
+      "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/energy/articles/global-fuel-squeeze-triggers-u-220000201.html",
+      "publish_time": "2026-09-14T22:00:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-b5c5cad5736d",
+      "title": "Stocks pop when the Trump administration invests, but the gains often fade fast",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/article/stocks-pop-when-the-trump-administration-invests-but-the-gains-often-fade-fast-214120157.html",
+      "publish_time": "2026-09-14T21:41:20+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-102b8533c8c6",
+      "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-issued-220-billion-212946047.html",
+      "publish_time": "2026-09-14T21:29:46+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-c1f50da9de0c",
+      "title": "Carney, locked in US trade war, pitches Canada to global investment titans",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html",
+      "publish_time": "2026-09-14T21:21:57+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-111426d9eead",
+      "title": "Amazon and Microsoft Can Buy GPUs. But U.S. Construction Is Short 439,000 Workers",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/amazon-microsoft-buy-gpus-u-212115814.html",
+      "publish_time": "2026-09-14T21:21:15+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -523,6 +631,78 @@
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/markets/article/bank-of-america-leads-financial-services-stocks-lower-on-weak-wall-street-fee-forecast-202601947.html",
       "publish_time": "2026-09-14T20:26:01+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-0c6da278f2e4",
+      "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo",
+      "publish_time": "2026-09-14T20:25:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-1945df859a5d",
+      "title": "UnitedHealth CFO delivers blunt verdict on the company's big reset",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-cfo-delivers-blunt-verdict-202300779.html",
+      "publish_time": "2026-09-14T20:23:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-3ea4b552fd22",
+      "title": "How Much of a $9,100 Monthly Dividend Paycheck Do You Actually Keep After Taxes?",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/much-9-100-monthly-dividend-202244471.html",
+      "publish_time": "2026-09-14T20:22:44+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-0e67154337e5",
+      "title": "Is META Stock’s $130B AI Buildout Your Ticket to an 8.7% Yield?",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/options/articles/meta-stock-130b-ai-buildout-202133176.html",
+      "publish_time": "2026-09-14T20:21:33+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-035bd7fda5e4",
+      "title": "This Las Vegas casino just gave almost 10,000 workers more than $70 million in company stock to celebrate its 50th birthday",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/small-business/articles/las-vegas-casino-just-gave-202047111.html",
+      "publish_time": "2026-09-14T20:20:47+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-aa7a3e5edae9",
+      "title": "Making Sense of the Shock from a 5% Treasury Yield",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.barrons.com/articles/treasury-yield-5-shock-perspective-71a7360c?siteid=yhoof2&yptr=yahoo",
+      "publish_time": "2026-09-14T20:19:00+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -914,6 +1094,18 @@
       ]
     },
     {
+      "id": "biz_intl-54d59e7b14e3",
+      "title": "What is debt settlement? How it works and what it costs you.",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/personal-loans/article/what-is-debt-settlement-185327526.html",
+      "publish_time": "2026-05-22T18:53:27+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
       "id": "biz_intl-08f9f8b92e76",
       "title": "Weekly survey of mortgage lenders with the lowest rates: Breaking the 7% barrier",
       "summary": "（原文暂无摘要，点击查看详情）",
@@ -955,6 +1147,18 @@
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html",
       "publish_time": "2024-06-06T15:07:09+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-4fbde9f8d22e",
+      "title": "I bond vs. high-yield savings account: Which is better for beating inflation?",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/banking/comparison/i-bond-vs-savings-account-185055035.html",
+      "publish_time": "2024-04-19T18:50:55+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +3086,210 @@
       ]
     },
     {
+      "id": "football_intl-2f7e4d605d6c",
+      "title": "Carabao Cup draw: Start time, ball numbers and how to watch as teams learn fourth-round fate",
+      "summary": "Liverpool and Arsenal among the teams to have booked their spots in tonight’s draw",
+      "source_url": "https://sports.yahoo.com/articles/carabao-cup-draw-fourth-round-150416432.html",
+      "publish_time": "2026-09-16T08:10:07+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-9d845f21f77b",
+      "title": "Europa League: Milan vs. Benfica – Probable line-ups and where to watch on TV",
+      "summary": "Milan get their 2026-27 Europa League campaign underway with a visit from Ruben Amorim’s former club Benfica, and he is…",
+      "source_url": "https://sports.yahoo.com/articles/europa-league-milan-vs-benfica-081000369.html",
+      "publish_time": "2026-09-16T08:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-00c6696fedfa",
+      "title": "'Too early' - fan views on European football talk",
+      "summary": "In the meantime, the ride is the best in years and all the fans and pundits who thought Daniel Farke wasn't up to the jo…",
+      "source_url": "https://sports.yahoo.com/articles/too-early-fan-views-european-080854753.html",
+      "publish_time": "2026-09-16T08:08:54+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-0486d57da4bd",
+      "title": "Today’s Papers: Spalletti under fire, Milan kick off in the Europa League",
+      "summary": "La Gazzetta dello SportEurope calls Milan back in the cup after 575 daysBenfica come to San Siro (20.00) for the attack…",
+      "source_url": "https://sports.yahoo.com/articles/today-papers-spalletti-under-fire-080500596.html",
+      "publish_time": "2026-09-16T08:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ac79a3cede59",
+      "title": "Fernandez signs new London City contract",
+      "summary": "London City Lionesses defender Jana Fernandez signs a new contract, keeping her at the club until 2029.",
+      "source_url": "https://sports.yahoo.com/articles/fernandez-signs-london-city-contract-080222917.html",
+      "publish_time": "2026-09-16T08:02:22+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e8666a83495d",
+      "title": "London City Lionesses defender Fernández signs new long-term deal",
+      "summary": "London City Lionesses defender Jana Fernández has signed a new contract with the club until summer 2029.WSL Full-Time we…",
+      "source_url": "https://sports.yahoo.com/articles/london-city-lionesses-defender-fern-080000596.html",
+      "publish_time": "2026-09-16T08:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a7afc9267ad4",
+      "title": "Not Yamal: La Liga chief backs Barcelona star to win Ballon d’Or – ‘He deserves it’",
+      "summary": "The Ballon d’Or debate is heating up as we move closer to the ceremony date, with at least four different players in con…",
+      "source_url": "https://sports.yahoo.com/articles/not-yamal-la-liga-chief-080000837.html",
+      "publish_time": "2026-09-16T08:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e4cb6a7a0a7d",
+      "title": "Real Madrid working on deal for exit-bound Manchester United talent also wanted by Barcelona and Bayern Munich",
+      "summary": "Real Madrid are moving in the race for Manchester United wonderkid JJ Gabriel, with the Spanish giants now working on a…",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-working-deal-exit-080000750.html",
+      "publish_time": "2026-09-16T08:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-16a5e9e12637",
+      "title": "Askey saddened by 'baffling' Truro City defeat",
+      "summary": "Truro City boss John Askey says it is \"baffling\" how his side managed to lose 1-0 at home to Salisbury in National Leagu…",
+      "source_url": "https://sports.yahoo.com/articles/askey-saddened-baffling-truro-city-075449137.html",
+      "publish_time": "2026-09-16T07:54:49+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f49cd2a3edf0",
+      "title": "From Blyth to the Basque Country: Cherries break new ground",
+      "summary": "As Bournemouth rose through the divisions, former manager Eddie Howe would make sure his squad were aware of when new la…",
+      "source_url": "https://sports.yahoo.com/articles/blyth-basque-country-cherries-break-104240779.html",
+      "publish_time": "2026-09-16T07:54:41+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a0ddbea347c6",
+      "title": "Report: La Liga giants monitoring Manchester City star",
+      "summary": "Barcelona striker search puts Julian Alvarez and Erling Haaland back in focusBarcelona’s long-running search for a new c…",
+      "source_url": "https://sports.yahoo.com/articles/report-la-liga-giants-monitoring-075000285.html",
+      "publish_time": "2026-09-16T07:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bb94683223e9",
+      "title": "Late business to blame for fitness and form issues",
+      "summary": "BBC Radio Three Counties' Geoff Doyle assesses the Hornets' squad as they head towards the season's first international…",
+      "source_url": "https://sports.yahoo.com/articles/business-blame-fitness-form-issues-074728294.html",
+      "publish_time": "2026-09-16T07:47:28+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-21e2e5254abe",
+      "title": "Ligue 1 Review | Brest remember King Eric on night of tributes",
+      "summary": "There wasn’t a dry eye in the stands at the Stade Francis-Le Blé before kickoff on Sunday evening as Stade Brestois and…",
+      "source_url": "https://sports.yahoo.com/articles/ligue-1-review-brest-remember-074500036.html",
+      "publish_time": "2026-09-16T07:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-60ae480691d7",
+      "title": "Luis de la Fuente considering Real Madrid forward for Spain squad after Elche heroics",
+      "summary": "Carlos Espi’s extraordinary start to life at Real Madrid could now earn him an even bigger reward.According to AS, Spain…",
+      "source_url": "https://sports.yahoo.com/articles/luis-la-fuente-considering-real-074000414.html",
+      "publish_time": "2026-09-16T07:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f4f1b08ad77a",
+      "title": "Liverpool lining up move to replace Milos Kerkez with Spanish star",
+      "summary": "Liverpool are making a move to replace Milos Kerkez with a Spanish star if the latest report is to be believed. The Hung…",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-lining-move-replace-milos-074000174.html",
+      "publish_time": "2026-09-16T07:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e9acd953cd35",
+      "title": "Man Utd's Gabriel in limbo",
+      "summary": "Had the situation worked out differently, 15-year-old JJ Gabriel would have been preparing for his Manchester United deb…",
+      "source_url": "https://sports.yahoo.com/articles/man-utds-gabriel-limbo-073533898.html",
+      "publish_time": "2026-09-16T07:35:33+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1682fff8d10d",
+      "title": "Fabrizio Romano confirms Liverpool star is of interest to Arsenal",
+      "summary": "Liverpool contract talks continue over Rio Ngumoha amid transfer interest Fabrizio Romano has confirmed Liverpool are in…",
+      "source_url": "https://sports.yahoo.com/articles/fabrizio-romano-confirms-liverpool-star-073000219.html",
+      "publish_time": "2026-09-16T07:30:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-415f3696ea99",
       "title": "Pocognoli says McBurnie's Scotland return can be 'new experience' - gossip",
       "summary": "Hull City forward Oli McBurnie was \"excited\" and \"emotional\" after being recalled to the Scotland squad after five years…",
@@ -3489,6 +3897,18 @@
       "publish_time": "2026-09-16T05:13:22+00:00",
       "category": "nba",
       "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ea9b12a94fd7",
+      "title": "NBA expansion teams heading to Las Vegas and Seattle likely to happen at record setting numbers",
+      "summary": "The possibility of the NBA adding two more expansion teams continues to gain steam, and it's expected to happen at recor…",
+      "source_url": "https://sports.yahoo.com/articles/nba-expansion-teams-heading-las-031711378.html",
+      "publish_time": "2026-09-16T03:17:11+00:00",
+      "category": "nba",
+      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
