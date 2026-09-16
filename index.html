@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>资讯聚合 | 个人订阅台</title>
+<meta name="description" content="个人自用资讯聚合单页网站：AI、商业、足球、NBA 一站浏览" />
+
+<!--
+  ==========================================================================
+  TailwindCSS（CDN 版本，无需构建工具，开箱即用）
+  说明：CDN 版本适合个人轻量项目；若后续要用于正式生产部署，
+  建议改用 Tailwind CLI / PostCSS 构建流程以获得更小的体积和更快的加载速度。
+  ==========================================================================
+-->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  // Tailwind 自定义配置：开启基于 class 的暗色模式（由 app.js 控制 <html> 上的 'dark' class）
+  tailwind.config = {
+    darkMode: 'class',
+    theme: {
+      extend: {
+        colors: {
+          // 统一的品牌强调色，用于按钮/焦点态等
+          brand: {
+            DEFAULT: '#2563eb',
+          },
+        },
+      },
+    },
+  };
+</script>
+
+<style>
+  /* 极少量自定义样式：Tailwind 工具类无法覆盖的细节部分 */
+
+  /* 骨架屏/loading 小圆点跳动动画 */
+  @keyframes dot-bounce {
+    0%, 80%, 100% { transform: translateY(0); opacity: 0.5; }
+    40% { transform: translateY(-4px); opacity: 1; }
+  }
+  .loading-dot {
+    animation: dot-bounce 1.2s infinite ease-in-out;
+  }
+  .loading-dot:nth-child(2) { animation-delay: 0.15s; }
+  .loading-dot:nth-child(3) { animation-delay: 0.3s; }
+
+  /* 赛事预告横向滚动条美化（仅移动端横向滚动时可见） */
+  .preview-scroll::-webkit-scrollbar { height: 6px; }
+  .preview-scroll::-webkit-scrollbar-thumb { background-color: rgba(148,163,184,0.5); border-radius: 9999px; }
+
+  /* 全局滚动条在暗色模式下更柔和一些（非必需，纯视觉细节） */
+  html.dark { color-scheme: dark; }
+</style>
+</head>
+
+<body class="bg-slate-50 text-slate-800 dark:bg-slate-900 dark:text-slate-100 transition-colors duration-200">
+
+  <!-- ======================================================================
+       顶部导航栏：网站标题 + 分类筛选 + 暗色模式切换
+       ====================================================================== -->
+  <header class="sticky top-0 z-30 bg-white/90 dark:bg-slate-900/90 backdrop-blur border-b border-slate-200 dark:border-slate-700">
+    <div class="max-w-3xl mx-auto px-4 py-3">
+      <div class="flex items-center justify-between gap-3">
+        <h1 class="text-lg sm:text-xl font-bold tracking-tight shrink-0">
+          📰 资讯聚合台
+        </h1>
+
+        <!-- 暗色/浅色模式切换按钮 -->
+        <button
+          id="theme-toggle"
+          type="button"
+          aria-label="切换深浅色模式"
+          class="shrink-0 inline-flex items-center justify-center w-9 h-9 rounded-full border border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+        >
+          <span id="theme-toggle-icon">🌙</span>
+        </button>
+      </div>
+
+      <!-- 分类筛选标签：横向滚动适配移动端 -->
+      <nav id="filter-nav" class="mt-3 flex gap-2 overflow-x-auto pb-1 -mx-1 px-1 scrollbar-none" aria-label="资讯分类筛选">
+        <!-- 筛选按钮由 app.js 动态渲染，保证分类定义只维护一处（CATEGORY 配置） -->
+      </nav>
+
+      <!-- 数据更新时间提示：显示 data.json 里 generated_at 字段，让你知道当前看到的是不是最新抓取结果 -->
+      <p id="data-updated-info" class="mt-2 text-xs text-slate-400 dark:text-slate-500"></p>
+    </div>
+  </header>
+
+  <main class="max-w-3xl mx-auto px-4 pb-16">
+
+    <!-- 数据加载失败提示：默认隐藏，只有 fetch data.json 失败时才显示 -->
+    <div id="data-error-banner" class="hidden mt-4 p-4 rounded-xl bg-red-50 text-red-700 dark:bg-red-500/10 dark:text-red-300 text-sm leading-relaxed"></div>
+
+    <!-- 首次加载数据时的整页 loading 提示 -->
+    <div id="initial-loading" class="flex flex-col items-center justify-center gap-2 py-24 text-slate-400 dark:text-slate-500">
+      <div class="flex gap-1.5">
+        <span class="loading-dot w-2.5 h-2.5 rounded-full bg-slate-400 dark:bg-slate-500"></span>
+        <span class="loading-dot w-2.5 h-2.5 rounded-full bg-slate-400 dark:bg-slate-500"></span>
+        <span class="loading-dot w-2.5 h-2.5 rounded-full bg-slate-400 dark:bg-slate-500"></span>
+      </div>
+      <p class="text-sm">正在加载最新资讯…</p>
+    </div>
+
+    <!-- 页面主体内容容器：数据加载成功后才显示，避免加载过程中出现空板块的闪烁 -->
+    <div id="main-content" class="hidden">
+
+    <!-- ======================================================================
+         独立板块：重点赛事预告（足球 + 篮球，按开赛时间升序排列）
+         ====================================================================== -->
+    <section class="mt-4" aria-labelledby="preview-heading">
+      <div class="flex items-center gap-2 mt-4 mb-2">
+        <h2 id="preview-heading" class="text-base font-bold">🔥 重点赛事预告</h2>
+        <span class="text-xs text-slate-400 dark:text-slate-500">按开赛时间排序</span>
+      </div>
+      <div id="preview-list" class="preview-scroll flex gap-3 overflow-x-auto pb-2 -mx-1 px-1">
+        <!-- 赛事预告卡片由 app.js 动态渲染 -->
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         主体：资讯卡片信息流（无限滚动加载）
+         ====================================================================== -->
+    <section class="mt-6" aria-labelledby="feed-heading">
+      <h2 id="feed-heading" class="sr-only">资讯列表</h2>
+      <div id="feed-list" class="flex flex-col gap-3">
+        <!-- 资讯卡片由 app.js 动态渲染并分页追加 -->
+      </div>
+
+      <!-- 加载中提示 -->
+      <div id="loading-indicator" class="hidden justify-center items-center gap-1.5 py-6" aria-live="polite">
+        <span class="loading-dot w-2 h-2 rounded-full bg-slate-400 dark:bg-slate-500"></span>
+        <span class="loading-dot w-2 h-2 rounded-full bg-slate-400 dark:bg-slate-500"></span>
+        <span class="loading-dot w-2 h-2 rounded-full bg-slate-400 dark:bg-slate-500"></span>
+      </div>
+
+      <!-- 加载到底提示 -->
+      <p id="end-indicator" class="hidden text-center text-sm text-slate-400 dark:text-slate-500 py-8">
+        没有更多资讯了
+      </p>
+
+      <!-- 空状态（当前筛选下无任何资讯） -->
+      <p id="empty-indicator" class="hidden text-center text-sm text-slate-400 dark:text-slate-500 py-16">
+        该分类下暂无资讯
+      </p>
+
+      <!-- 无限滚动观察哨兵元素：滚动到此处即触发加载下一页 -->
+      <div id="scroll-sentinel" class="h-1"></div>
+    </section>
+
+    </div><!-- #main-content 结束 -->
+  </main>
+
+  <!-- ====================================================================
+       底部：简单版权说明
+       ==================================================================== -->
+  <footer class="border-t border-slate-200 dark:border-slate-700 py-6">
+    <p class="max-w-3xl mx-auto px-4 text-center text-xs text-slate-400 dark:text-slate-500">
+      © <span id="footer-year"></span> 个人资讯聚合台 · 仅限个人使用 · 内容版权归原始新闻源所有
+    </p>
+  </footer>
+
+  <!-- ====================================================================
+       数据层：真实资讯数据通过 fetch 从同目录下的 data.json 异步加载
+       data.json 由 fetch_data.py 脚本定时抓取真实 RSS/赛程数据后自动生成，
+       字段结构见 README.md，前端渲染逻辑（下面的"逻辑层"）完全不用关心数据来源。
+       ==================================================================== -->
+
+  <!-- ====================================================================
+       逻辑层：渲染、筛选、无限滚动、暗色模式等交互逻辑
+       ==================================================================== -->
+  <script>
+/**
+ * ============================================================================
+ * app.js —— 页面交互逻辑
+ * ============================================================================
+ * 本文件负责：
+ *   1. 分类元数据定义（颜色、分组、筛选按钮文案）—— 只在这里维护一份，
+ *      index.html 和渲染逻辑都从这里读取，避免多处硬编码。
+ *   2. 资讯卡片 / 赛事预告卡片的渲染。
+ *   3. 顶部分类筛选交互。
+ *   4. 无限滚动加载（IntersectionObserver）。
+ *   5. 暗色 / 浅色模式切换。
+ *
+ * 数据来源：data.js 中的 window.NEWS_DATA / window.MATCH_PREVIEW_DATA。
+ * 后续接入真实新闻源 API 时，只需要：
+ *   a) 让接口返回的数据字段与 data.js 顶部注释描述的结构保持一致；
+ *   b) 把下方"初始化"部分的 `NEWS_DATA` / `MATCH_PREVIEW_DATA` 全局变量，
+ *      替换为真正的异步请求结果（示例见 data.js 顶部注释 + 本文件 loadNextPage 注释）。
+ * 其余渲染 / 筛选 / 无限滚动逻辑完全不需要改动。
+ * ============================================================================
+ */
+
+(function () {
+  'use strict';
+
+  // ==========================================================================
+  // 1. 分类元数据配置（唯一数据源：新增/调整分类只需改这里）
+  // ==========================================================================
+
+  // 叶子分类 -> { group: 所属筛选分组, label: 展示文案, color: 标签配色key }
+  const CATEGORY_META = {
+    ai_cn:                  { group: 'ai',                     label: 'AI · 国内',   color: 'blue' },
+    ai_intl:                { group: 'ai',                     label: 'AI · 国际',   color: 'blue' },
+    biz_cn:                 { group: 'biz',                    label: '商业 · 国内', color: 'green' },
+    biz_intl:               { group: 'biz',                    label: '商业 · 国际', color: 'green' },
+    jp_football_euro:       { group: 'jp_football_euro',       label: '日本旅欧球员', color: 'orange' },
+    jp_football_highschool: { group: 'jp_football_highschool', label: '日本高校足球', color: 'orange' },
+    football_intl:          { group: 'football_intl',          label: '国际足球',    color: 'red' },
+    nba:                    { group: 'nba',                    label: 'NBA',        color: 'purple' },
+  };
+
+  // 顶部筛选按钮（对应需求中的"6大板块" + 全部）
+  const FILTER_GROUPS = [
+    { key: 'all',                    label: '全部' },
+    { key: 'ai',                     label: 'AI资讯' },
+    { key: 'biz',                    label: '商业资讯' },
+    { key: 'jp_football_euro',       label: '日本旅欧球员' },
+    { key: 'jp_football_highschool', label: '日本高校足球' },
+    { key: 'football_intl',          label: '国际足球' },
+    { key: 'nba',                    label: 'NBA' },
+  ];
+
+  // 颜色 key -> Tailwind 类名（分别用于：分类标签 pill、重要新闻左侧强调条）
+  const COLOR_CLASSES = {
+    blue:   { pill: 'bg-blue-50 text-blue-700 dark:bg-blue-500/15 dark:text-blue-300' },
+    green:  { pill: 'bg-green-50 text-green-700 dark:bg-green-500/15 dark:text-green-300' },
+    orange: { pill: 'bg-orange-50 text-orange-700 dark:bg-orange-500/15 dark:text-orange-300' },
+    red:    { pill: 'bg-red-50 text-red-700 dark:bg-red-500/15 dark:text-red-300' },
+    purple: { pill: 'bg-purple-50 text-purple-700 dark:bg-purple-500/15 dark:text-purple-300' },
+    gray:   { pill: 'bg-slate-100 text-slate-600 dark:bg-slate-700/60 dark:text-slate-300' },
+  };
+
+  const PAGE_SIZE = 8; // 每次无限滚动加载的条数
+
+  // ==========================================================================
+  // 2. 工具函数
+  // ==========================================================================
+
+  /** 简单的 HTML 转义，防止资讯标题/摘要中出现特殊字符破坏页面结构 */
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  /** 将发布时间格式化为"相对时间"，更符合资讯阅读习惯 */
+  function formatRelativeTime(isoString) {
+    const date = new Date(isoString);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffMin = Math.floor(diffMs / 60000);
+
+    if (diffMin < 1) return '刚刚';
+    if (diffMin < 60) return `${diffMin}分钟前`;
+    const diffHour = Math.floor(diffMin / 60);
+    if (diffHour < 24) return `${diffHour}小时前`;
+    const diffDay = Math.floor(diffHour / 24);
+    if (diffDay < 7) return `${diffDay}天前`;
+
+    // 超过一周，展示具体日期
+    const pad = (n) => String(n).padStart(2, '0');
+    return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
+  }
+
+  /** 完整时间字符串，用于 title 属性（鼠标悬浮查看精确时间） */
+  function formatFullTime(isoString) {
+    const date = new Date(isoString);
+    const pad = (n) => String(n).padStart(2, '0');
+    return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())} ${pad(date.getHours())}:${pad(date.getMinutes())}`;
+  }
+
+  /** 赛事预告时间格式化：今天/明天/周几 + 具体时刻 */
+  function formatMatchTime(isoString) {
+    const date = new Date(isoString);
+    const now = new Date();
+    const startOfDay = (d) => new Date(d.getFullYear(), d.getMonth(), d.getDate());
+    const diffDays = Math.round((startOfDay(date) - startOfDay(now)) / 86400000);
+    const weekdays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+    const pad = (n) => String(n).padStart(2, '0');
+    const timePart = `${pad(date.getHours())}:${pad(date.getMinutes())}`;
+
+    let dayLabel;
+    if (diffDays === 0) dayLabel = '今天';
+    else if (diffDays === 1) dayLabel = '明天';
+    else dayLabel = `${pad(date.getMonth() + 1)}/${pad(date.getDate())} ${weekdays[date.getDay()]}`;
+
+    return `${dayLabel} ${timePart}`;
+  }
+
+  // ==========================================================================
+  // 3. 顶部筛选导航渲染
+  // ==========================================================================
+
+  const filterNavEl = document.getElementById('filter-nav');
+
+  function renderFilterNav() {
+    filterNavEl.innerHTML = FILTER_GROUPS.map((group) => `
+      <button
+        type="button"
+        data-filter-key="${group.key}"
+        class="filter-btn shrink-0 px-3 py-1.5 rounded-full text-sm font-medium border transition-colors
+               ${group.key === state.currentFilter
+                 ? 'bg-slate-800 text-white border-slate-800 dark:bg-slate-100 dark:text-slate-900 dark:border-slate-100'
+                 : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-100 dark:bg-slate-800 dark:text-slate-300 dark:border-slate-600 dark:hover:bg-slate-700'}"
+      >${group.label}</button>
+    `).join('');
+  }
+
+  filterNavEl.addEventListener('click', (e) => {
+    const btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    const key = btn.dataset.filterKey;
+    if (key === state.currentFilter) return;
+    state.currentFilter = key;
+    renderFilterNav();
+    resetAndLoadFeed();
+  });
+
+  // ==========================================================================
+  // 4. 资讯卡片渲染
+  // ==========================================================================
+
+  const feedListEl = document.getElementById('feed-list');
+  const loadingIndicatorEl = document.getElementById('loading-indicator');
+  const endIndicatorEl = document.getElementById('end-indicator');
+  const emptyIndicatorEl = document.getElementById('empty-indicator');
+
+  function renderNewsCard(item) {
+    const meta = CATEGORY_META[item.category] || { label: item.category, color: 'gray' };
+    const colorClass = (COLOR_CLASSES[meta.color] || COLOR_CLASSES.gray).pill;
+
+    // 额外自定义标签（tags[]），使用统一的中性配色，与分类彩色标签区分开
+    const extraTags = (item.tags || [])
+      .map((tag) => `<span class="px-2 py-0.5 rounded-full text-xs bg-slate-100 text-slate-500 dark:bg-slate-700/60 dark:text-slate-400">${escapeHtml(tag)}</span>`)
+      .join('');
+
+    // 重要新闻：左侧强调色竖条 + "重要"角标，视觉上克制，不使用花哨动画
+    const importantBorder = item.is_important ? 'border-l-4 border-l-amber-400 dark:border-l-amber-400' : 'border-l-4 border-l-transparent';
+    const importantBadge = item.is_important
+      ? `<span class="px-2 py-0.5 rounded-full text-xs font-semibold bg-amber-50 text-amber-700 dark:bg-amber-500/15 dark:text-amber-300">★ 重要</span>`
+      : '';
+
+    return `
+      <a
+        href="${escapeHtml(item.source_url)}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group block bg-white dark:bg-slate-800 rounded-xl ${importantBorder} border border-slate-200 dark:border-slate-700
+               p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-150"
+      >
+        <div class="flex flex-wrap items-center gap-1.5 mb-2">
+          <span class="px-2 py-0.5 rounded-full text-xs font-medium ${colorClass}">${escapeHtml(meta.label)}</span>
+          ${importantBadge}
+          ${extraTags}
+        </div>
+
+        <h3 class="text-base sm:text-lg font-bold text-slate-900 dark:text-slate-50 leading-snug group-hover:text-brand dark:group-hover:text-blue-400">
+          ${escapeHtml(item.title)}
+        </h3>
+
+        <p class="mt-1.5 text-sm text-slate-500 dark:text-slate-400 leading-relaxed line-clamp-2">
+          ${escapeHtml(item.summary)}
+        </p>
+
+        <div class="mt-3 flex items-center justify-between">
+          <time class="text-xs text-slate-400 dark:text-slate-500" title="${formatFullTime(item.publish_time)}">
+            ${formatRelativeTime(item.publish_time)}
+          </time>
+          <span class="text-xs text-slate-300 dark:text-slate-600 group-hover:text-brand dark:group-hover:text-blue-400 transition-colors">
+            阅读原文 →
+          </span>
+        </div>
+      </a>
+    `;
+  }
+
+  // ==========================================================================
+  // 5. 赛事预告渲染（独立板块，按开赛时间升序展示，不参与无限滚动）
+  // ==========================================================================
+
+  const previewListEl = document.getElementById('preview-list');
+  const SPORT_ICON = { football: '⚽', basketball: '🏀' };
+
+  function renderMatchPreviews() {
+    const data = (window.MATCH_PREVIEW_DATA || [])
+      .slice()
+      // 按开赛时间升序排序：最近开赛的赛事排在最前面
+      .sort((a, b) => new Date(a.match_time) - new Date(b.match_time));
+
+    previewListEl.innerHTML = data.map((match) => `
+      <a
+        href="${escapeHtml(match.source_url)}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="shrink-0 w-56 bg-white dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700
+               p-3 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-150"
+      >
+        <div class="flex items-center justify-between mb-2">
+          <span class="px-2 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-600 dark:bg-slate-700/60 dark:text-slate-300">
+            ${SPORT_ICON[match.sport] || '🏆'} ${escapeHtml(match.competition)}
+          </span>
+        </div>
+        <p class="text-sm font-bold text-slate-900 dark:text-slate-50 leading-snug">
+          ${escapeHtml(match.home_team)} <span class="text-slate-400 dark:text-slate-500 font-normal">vs</span> ${escapeHtml(match.away_team)}
+        </p>
+        <p class="mt-2 text-xs text-slate-500 dark:text-slate-400">
+          🕒 ${formatMatchTime(match.match_time)}
+        </p>
+      </a>
+    `).join('');
+  }
+
+  // ==========================================================================
+  // 6. 无限滚动加载逻辑
+  // ==========================================================================
+
+  const state = {
+    currentFilter: 'all',
+    sortedData: [],   // 当前筛选条件下，排序好的完整数据集合
+    cursor: 0,         // 下一次加载从这个下标开始
+    isLoading: false,
+    hasMore: true,
+  };
+
+  /** 根据当前筛选条件，计算排序后的数据：重要新闻优先置顶，其余按发布时间倒序 */
+  function computeSortedData() {
+    const all = window.NEWS_DATA || [];
+    const filtered = state.currentFilter === 'all'
+      ? all
+      : all.filter((item) => (CATEGORY_META[item.category] || {}).group === state.currentFilter);
+
+    return filtered.slice().sort((a, b) => {
+      // 重要新闻优先（true 排在 false 前面）
+      if (a.is_important !== b.is_important) return a.is_important ? -1 : 1;
+      // 其次按发布时间倒序（新的在前）
+      return new Date(b.publish_time) - new Date(a.publish_time);
+    });
+  }
+
+  /** 重置筛选后的信息流状态，并加载第一页 */
+  function resetAndLoadFeed() {
+    feedListEl.innerHTML = '';
+    state.sortedData = computeSortedData();
+    state.cursor = 0;
+    state.hasMore = true;
+    endIndicatorEl.classList.add('hidden');
+    emptyIndicatorEl.classList.add('hidden');
+
+    if (state.sortedData.length === 0) {
+      emptyIndicatorEl.classList.remove('hidden');
+      state.hasMore = false;
+      return;
+    }
+    loadNextPage();
+  }
+
+  /**
+   * 加载下一页资讯。
+   *
+   * 【接入真实 API 时的改造点】
+   * 当前用 setTimeout 模拟网络延迟，直接从内存数组 state.sortedData 中切片。
+   * 替换为真实分页接口时，可以把下面 setTimeout 内部的逻辑换成类似：
+   *
+   *   const res = await fetch(`/api/news?category=${state.currentFilter}&cursor=${state.cursor}&limit=${PAGE_SIZE}`);
+   *   const { items, hasMore } = await res.json();
+   *   appendCards(items);
+   *   state.hasMore = hasMore;
+   *
+   * 这样即可从"前端本地排序分页"平滑过渡到"后端分页接口"。
+   */
+  function loadNextPage() {
+    if (state.isLoading || !state.hasMore) return;
+    state.isLoading = true;
+    loadingIndicatorEl.classList.remove('hidden');
+    loadingIndicatorEl.classList.add('flex');
+
+    // 模拟异步请求延迟，体验更接近真实网络请求（后续接入真实 API 时可删除此 setTimeout 包装）
+    setTimeout(() => {
+      const nextItems = state.sortedData.slice(state.cursor, state.cursor + PAGE_SIZE);
+      state.cursor += nextItems.length;
+
+      const html = nextItems.map(renderNewsCard).join('');
+      feedListEl.insertAdjacentHTML('beforeend', html);
+
+      state.hasMore = state.cursor < state.sortedData.length;
+      state.isLoading = false;
+      loadingIndicatorEl.classList.add('hidden');
+      loadingIndicatorEl.classList.remove('flex');
+
+      if (!state.hasMore) {
+        endIndicatorEl.classList.remove('hidden');
+      }
+    }, 400);
+  }
+
+  // 使用 IntersectionObserver 监听底部哨兵元素，进入视口即触发加载下一页
+  const sentinelEl = document.getElementById('scroll-sentinel');
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        loadNextPage();
+      }
+    });
+  }, { rootMargin: '200px 0px' }); // 提前 200px 触发，滚动体验更平滑
+
+  observer.observe(sentinelEl);
+
+  // ==========================================================================
+  // 7. 暗色 / 浅色模式切换
+  // ==========================================================================
+
+  const themeToggleBtn = document.getElementById('theme-toggle');
+  const themeToggleIcon = document.getElementById('theme-toggle-icon');
+  const htmlEl = document.documentElement;
+
+  function applyTheme(isDark) {
+    htmlEl.classList.toggle('dark', isDark);
+    themeToggleIcon.textContent = isDark ? '☀️' : '🌙';
+  }
+
+  // 说明：出于预览环境兼容性考虑，这里不使用 localStorage 持久化主题偏好，
+  // 仅根据系统偏好初始化，并在当前会话内可手动切换。
+  // 如果你把本项目部署到自己的静态服务器后，想让选择跨刷新保留，
+  // 可以取消下面两行注释，并把 applyTheme 调用处一并加上 localStorage 读写：
+  //
+  //   localStorage.setItem('theme', isDark ? 'dark' : 'light');
+  //   const saved = localStorage.getItem('theme');
+
+  const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(prefersDark);
+
+  themeToggleBtn.addEventListener('click', () => {
+    applyTheme(!htmlEl.classList.contains('dark'));
+  });
+
+  // ==========================================================================
+  // 8. 数据加载：从 data.json 拉取真实资讯数据
+  // ==========================================================================
+
+  /**
+   * 从同目录下的 data.json 拉取数据，并挂载到 window.NEWS_DATA / window.MATCH_PREVIEW_DATA。
+   * data.json 由 fetch_data.py 定时抓取生成（见仓库根目录及 README.md），字段结构
+   * 与之前的模拟数据完全一致，所以上面的渲染 / 筛选 / 无限滚动逻辑不需要做任何改动。
+   *
+   * 注意：用 fetch() 加载本地文件时，浏览器出于安全限制，不支持直接以 file:// 协议
+   * 双击打开页面来加载（会报 CORS 错误）。本地测试请用 `python3 -m http.server`
+   * 之类的简易服务器；部署到 GitHub Pages 等真实静态服务器后可以正常访问。
+   */
+  async function loadSiteData() {
+    const res = await fetch('data.json', { cache: 'no-store' });
+    if (!res.ok) {
+      throw new Error(`data.json 请求失败，状态码 ${res.status}`);
+    }
+    const data = await res.json();
+    window.NEWS_DATA = Array.isArray(data.news) ? data.news : [];
+    window.MATCH_PREVIEW_DATA = Array.isArray(data.matchPreviews) ? data.matchPreviews : [];
+    return data.generated_at || null;
+  }
+
+  /** 把 data.json 里的 generated_at 时间戳格式化成"数据更新于 xxxx-xx-xx xx:xx"的提示文案 */
+  function formatUpdatedInfo(generatedAtIso) {
+    if (!generatedAtIso) return '';
+    const date = new Date(generatedAtIso);
+    const pad = (n) => String(n).padStart(2, '0');
+    const timeStr = `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())} ${pad(date.getHours())}:${pad(date.getMinutes())}`;
+    return `🔄 数据更新于 ${timeStr}`;
+  }
+
+  // ==========================================================================
+  // 9. 初始化
+  // ==========================================================================
+
+  document.getElementById('footer-year').textContent = String(new Date().getFullYear());
+
+  const initialLoadingEl = document.getElementById('initial-loading');
+  const mainContentEl = document.getElementById('main-content');
+  const dataErrorBannerEl = document.getElementById('data-error-banner');
+  const dataUpdatedInfoEl = document.getElementById('data-updated-info');
+
+  loadSiteData()
+    .then((generatedAt) => {
+      initialLoadingEl.classList.add('hidden');
+      mainContentEl.classList.remove('hidden');
+      dataUpdatedInfoEl.textContent = formatUpdatedInfo(generatedAt);
+
+      renderFilterNav();
+      renderMatchPreviews();
+      resetAndLoadFeed();
+    })
+    .catch((err) => {
+      console.error('加载 data.json 失败：', err);
+      initialLoadingEl.classList.add('hidden');
+      mainContentEl.classList.remove('hidden');
+      renderFilterNav();
+
+      dataErrorBannerEl.classList.remove('hidden');
+      dataErrorBannerEl.textContent =
+        '资讯数据加载失败：无法读取 data.json。如果你是刚部署好网站，请确认 GitHub Actions 是否已成功运行过一次；' +
+        '如果你是在本地用双击方式打开本文件，浏览器会阻止本地读取 data.json，请改用本地服务器（如 python3 -m http.server）或直接访问已部署的网站地址。';
+    });
+})();
+
+  </script>
+</body>
+</html>
+
