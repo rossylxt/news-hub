@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-16T06:56:41.444689+00:00",
+  "generated_at": "2026-09-16T07:12:44.885361+00:00",
   "news": [
+    {
+      "id": "ai_cn-c6714b5bbf2d",
+      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+      "source_url": "https://www.qbitai.com/2026/09/490400.html",
+      "publish_time": "2026-09-16T06:32:31+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-04e4a3a4c1cb",
+      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+      "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+      "source_url": "https://www.qbitai.com/2026/09/490396.html",
+      "publish_time": "2026-09-16T06:23:05+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-8ed712df8619",
       "title": "量子位2026人工智能年度榜单，正式启动！",
@@ -374,6 +398,42 @@
       ]
     },
     {
+      "id": "biz_intl-ca8711f8c6e5",
+      "title": "Coda Octopus Group, Inc. Q3 2026 Earnings Call Summary",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-group-inc-q3-205121286.html",
+      "publish_time": "2026-09-14T20:51:21+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-fde93fef4613",
+      "title": "The Hain Celestial Group, Inc. Q1 2027 Earnings Call Summary",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/hain-celestial-group-inc-q1-205014153.html",
+      "publish_time": "2026-09-14T20:50:14+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-b2307a76f03b",
+      "title": "Behind the Ticker: The Billionaire's CLUB",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-billionaires-club-204916747.html",
+      "publish_time": "2026-09-14T20:49:16+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
       "id": "biz_intl-b9977c2a9f4d",
       "title": "Oracle (ORCL): Oracle Has the Backlog. Wall Street Wants the Cash",
       "summary": "（原文暂无摘要，点击查看详情）",
@@ -530,11 +590,119 @@
       ]
     },
     {
+      "id": "biz_intl-c2e0681b0786",
+      "title": "Machine Investment Group Buys 490-Unit Multifamily Property In North Dallas: The DFW Deal Sheet",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/real-estate/articles/machine-investment-group-buys-490-194727613.html",
+      "publish_time": "2026-09-14T19:47:27+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-e06dde9ae326",
+      "title": "Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon.",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-rose-4-while-194701621.html",
+      "publish_time": "2026-09-14T19:47:01+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-820f1f832b28",
+      "title": "U.S. 10-Year Yield Cools After Topping 5%, German Bund Yield Hits 15-Year High",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-edge-lower-german-10-year-bund-yield-hits-new-15-year-high-19110507?siteid=yhoof2&yptr=yahoo",
+      "publish_time": "2026-09-14T19:45:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
       "id": "biz_intl-e593cfe19a46",
       "title": "Four charts: Private capital fundraising remains bleak through H1 2026",
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/four-charts-private-capital-fundraising-194458473.html",
       "publish_time": "2026-09-14T19:44:58+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-82bb87893083",
+      "title": "An ETF That Tracks Employees' 'HAPI'-Ness",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/video/etf-tracks-employees-hapi-ness-194451741.html",
+      "publish_time": "2026-09-14T19:44:51+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-611b895a2c85",
+      "title": "Why Corning Plunged Today",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-corning-plunged-today-194144655.html",
+      "publish_time": "2026-09-14T19:41:44+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-9631de2dbbe5",
+      "title": "Should You Buy UNH Stock Because Its Cash Runs Ahead Of Its Profit?",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/buy-unh-stock-because-cash-194124340.html",
+      "publish_time": "2026-09-14T19:41:24+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-991fb8eb124a",
+      "title": "A Big S&P 500 Pullback Isn’t Far-Fetched. What the Market Is Telling Us.",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.barrons.com/articles/sp500-september-pullback-7500-technical-target-7afb7131?siteid=yhoof2&yptr=yahoo",
+      "publish_time": "2026-09-14T19:40:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-9b39169e3721",
+      "title": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-saudi-east-west-pipeline-attack-threatens-export-routes-b6857ade?siteid=yhoof2&yptr=yahoo",
+      "publish_time": "2026-09-14T19:39:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-78ac761a00b7",
+      "title": "Why The Long End Is The Market's Biggest Risk",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/video/why-long-end-markets-biggest-193823683.html",
+      "publish_time": "2026-09-14T19:38:23+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -890,11 +1058,71 @@
       ]
     },
     {
+      "id": "biz_intl-6f0ff776b666",
+      "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+      "publish_time": "2026-09-14T13:01:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
       "id": "biz_intl-3081552cdc0c",
       "title": "10-year Treasury yield briefly tops 5% for the first time since 2023",
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-briefly-tops-5-for-the-first-time-since-2023-123457398.html",
       "publish_time": "2026-09-14T12:34:57+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-f3bc6ad06d46",
+      "title": "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html",
+      "publish_time": "2026-09-14T11:42:45+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-b228b33945fd",
+      "title": "Silver prices today, Monday, September 14, 2026: Silver slides as rate-hike expectations grow",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html",
+      "publish_time": "2026-09-14T11:29:41+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-2b20586550e6",
+      "title": "Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html",
+      "publish_time": "2026-09-14T11:18:25+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-344c8a68c5e9",
+      "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
+      "publish_time": "2026-09-14T10:00:00+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -2882,11 +3110,23 @@
       ]
     },
     {
+      "id": "football_intl-a922d8fdc0f2",
+      "title": "Carlos Espi reacts after scoring match-winning goal in Elche 2-3 Real Madrid: ‘Starting like this is a dream’",
+      "summary": "Carlos Espi is becoming Real Madrid’s unlikely late-game specialist.The 21-year-old once again came off the bench to res…",
+      "source_url": "https://sports.yahoo.com/articles/carlos-espi-reacts-scoring-match-070000161.html",
+      "publish_time": "2026-09-16T07:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-ca4b0ece3a49",
       "title": "McBurnie's Scotland return can be 'new experience' - gossip",
       "summary": "Scotland squad announcement reaction, former Celtic captain has high hopes for midfielder and Hearts boss laments loss.",
       "source_url": "https://sports.yahoo.com/articles/mcburnies-scotland-return-experience-gossip-064414903.html",
-      "publish_time": "2026-09-16T06:44:14+00:00",
+      "publish_time": "2026-09-16T06:52:22+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
@@ -4082,5 +4322,206 @@
       ]
     }
   ],
-  "matchPreviews": []
+  "matchPreviews": [
+    {
+      "id": "mp-fb-95a3761a234d",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Sevilla FC",
+      "match_time": "2026-09-16T17:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-d2bea8e2c3eb",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "CA Osasuna",
+      "match_time": "2026-09-16T17:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3f2446231f49",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "Levante UD",
+      "away_team": "Athletic Club",
+      "match_time": "2026-09-16T19:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ece4e6afa4fc",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "FC Barcelona",
+      "away_team": "Real Racing Club de Santander",
+      "match_time": "2026-09-16T19:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-bd41473daae4",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "Real Betis Balompié",
+      "away_team": "Getafe CF",
+      "match_time": "2026-09-17T17:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-a302987c7ee0",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "Málaga CF",
+      "away_team": "Villarreal CF",
+      "match_time": "2026-09-17T19:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-375d107dd532",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "FC Bayern München",
+      "away_team": "1. FC Union Berlin",
+      "match_time": "2026-09-18T18:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-efb7846d2b97",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "AC Monza",
+      "away_team": "US Sassuolo Calcio",
+      "match_time": "2026-09-18T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-46311a844e7b",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "AS Monaco FC",
+      "away_team": "Racing Club de Lens",
+      "match_time": "2026-09-18T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-1fe29a6fa467",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "Brentford FC",
+      "away_team": "Chelsea FC",
+      "match_time": "2026-09-18T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ae09d8ec2a95",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Elche CF",
+      "match_time": "2026-09-18T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ea560ed4d50c",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Aston Villa FC",
+      "match_time": "2026-09-19T11:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-af0fbb7fe033",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "CA Osasuna",
+      "away_team": "Rayo Vallecano de Madrid",
+      "match_time": "2026-09-19T12:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-f5a8940b5bc1",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "Bologna FC 1909",
+      "away_team": "Torino FC",
+      "match_time": "2026-09-19T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-88861a329f3e",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "Udinese Calcio",
+      "away_team": "Cagliari Calcio",
+      "match_time": "2026-09-19T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-5482632edc54",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "Hamburger SV",
+      "away_team": "1. FC Köln",
+      "match_time": "2026-09-19T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b04c48d327d5",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "Borussia Mönchengladbach",
+      "away_team": "1. FSV Mainz 05",
+      "match_time": "2026-09-19T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-87dacd198c94",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "SV Werder Bremen",
+      "away_team": "FC Augsburg",
+      "match_time": "2026-09-19T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-f0bfe3c4f2b4",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "SC Freiburg",
+      "match_time": "2026-09-19T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-5ad2d4e6413c",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "Everton FC",
+      "away_team": "Ipswich Town FC",
+      "match_time": "2026-09-19T14:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    }
+  ]
 }
