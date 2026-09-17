@@ -114,7 +114,8 @@ FEED_SOURCES = {
         # 用户只关心"全国高中足球锦标赛"（日本称"全国高等学校サッカー選手権大会"，
         # 媒体标题里通常简称为"選手権"），不要关东新秀联赛/プレミアリーグ/プリンスリーグ这些
         # 常规赛事报道——这些常规联赛标题里不会出现"選手権"，用这个关键词过滤就能自然排除。
-        {"url": "https://web.gekisaka.jp/feed?category=youth", "source": "ゲキサカ", "keyword_filter": ["選手権"]},
+        # 单用"選手権"会误命中大学/其他级别也叫"選手権"的赛事（比如大学锦标赛、首相杯等），所以必须同时包含"高校"才算没错。
+        {"url": "https://web.gekisaka.jp/feed?category=youth", "source": "ゲキサカ", "keyword_filter": ["高校選手権", "高等学校サッカー選手権", "高校サッカー選手権"]},
     ],
     "football_intl": [
         {"url": "https://sports.yahoo.com/soccer/rss.xml", "source": "Yahoo Sports"},
