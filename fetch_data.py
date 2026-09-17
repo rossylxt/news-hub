@@ -590,6 +590,68 @@ def translate_team_name(name):
 # 抓取资讯（RSS）
 # ==============================================================================
 
+
+
+# ==============================================================================
+# 球星姓名词典：翻译接口把整段话翻成中文时，常常把人名保留为英文原文
+# （不像队名那样有固定格式好查词典，而是直接混在整句译文里）。NBA / 国际足球这两个
+# 板块不像日本足球那样做强制过滤（机器翻译几乎不会把这类人名转成中文，强制过滤会
+# 导致这两个板块几乎没内容），而是维护一份最常见的球星姓名词典，命中就直接替换成中文名；
+# 词典没收录的球星暂时保留英文原名，后续可以持续补充。
+# ==============================================================================
+
+PLAYER_NAME_ZH = {
+    # ---- NBA 常见球星 ----
+    "Kyrie Irving": "凯里·欧文", "Kawhi Leonard": "科怀·伦纳德",
+    "Luka Doncic": "卢卡·东契奇", "LeBron James": "勒布朗·詹姆斯",
+    "Stephen Curry": "斯蒂芬·库里", "Kevin Durant": "凯文·杜兰特",
+    "Giannis Antetokounmpo": "扬尼斯·阿德托昆博", "Joel Embiid": "乔尔·恩比德",
+    "Nikola Jokic": "尼古拉·约基奇", "Jayson Tatum": "杰森·塔图姆",
+    "Anthony Davis": "安东尼·戴维斯", "Damian Lillard": "达米安·利拉德",
+    "Devin Booker": "德文·布克", "Ja Morant": "贾·莫兰特",
+    "Shai Gilgeous-Alexander": "谢伊·吉尔杰斯-亚历山大", "Anthony Edwards": "安东尼·爱德华兹",
+    "Jimmy Butler": "吉米·巴特勒", "Paul George": "保罗·乔治",
+    "James Harden": "詹姆斯·哈登", "Russell Westbrook": "拉塞尔·威斯布鲁克",
+    "Klay Thompson": "克莱·汤普森", "Draymond Green": "德雷蒙德·格林",
+    "Victor Wembanyama": "维克托·文班亚马", "Zion Williamson": "锡安·威廉森",
+    "Trae Young": "特雷·杨", "Donovan Mitchell": "多诺万·米切尔",
+    "Bam Adebayo": "巴姆·阿德巴约", "Tyrese Haliburton": "泰瑞斯·哈利伯顿",
+    "Domantas Sabonis": "多曼塔斯·萨博尼斯", "Karl-Anthony Towns": "卡尔-安东尼·唐斯",
+    "Rudy Gobert": "鲁迪·戈贝尔", "Jaylen Brown": "杰伦·布朗",
+    "Jalen Brunson": "贾伦·布伦森", "Alperen Sengun": "阿尔佩伦·申京",
+    "Cade Cunningham": "凯德·坎宁安", "Paolo Banchero": "保罗·班凯罗",
+    "Chet Holmgren": "切特·霍姆格伦", "JJ Redick": "J·J·雷迪克",
+    "Azeez Al-Shaair": "阿齐兹·阿尔-沙伊尔",
+
+    # ---- 国际足球常见球星 ----
+    "Kylian Mbappe": "基利安·姆巴佩", "Lionel Messi": "利昂内尔·梅西",
+    "Cristiano Ronaldo": "克里斯蒂亚诺·罗纳尔多", "Erling Haaland": "厄林·哈兰德",
+    "Vinicius Junior": "维尼修斯", "Vinicius Jr": "维尼修斯", "Vinicius": "维尼修斯",
+    "Jude Bellingham": "裘德·贝林厄姆", "Kevin De Bruyne": "凯文·德布劳内",
+    "Mohamed Salah": "穆罕默德·萨拉赫", "Harry Kane": "哈里·凯恩",
+    "Bukayo Saka": "布卡约·萨卡", "Phil Foden": "菲尔·福登",
+    "Declan Rice": "德克兰·赖斯", "Robert Lewandowski": "罗伯特·莱万多夫斯基",
+    "Neymar": "内马尔", "Antoine Griezmann": "安托万·格里兹曼",
+    "Luka Modric": "卢卡·莫德里奇", "Toni Kroos": "托尼·克罗斯",
+    "Thibaut Courtois": "蒂博·库尔图瓦", "Virgil van Dijk": "范戴克",
+    "Ibrahima Konate": "易卜拉希马·科纳特", "Michael Carrick": "迈克尔·卡里克",
+    "Todd Boehly": "托德·博利", "Mark Walter": "马克·沃尔特",
+    "Marcus Thuram": "马库斯·图拉姆", "Lautaro Martinez": "劳塔罗·马丁内斯",
+    "Weston McKennie": "韦斯顿·麦肯尼", "Donyell Malen": "多尼尔·马伦",
+    "Karim Adeyemi": "卡里姆·阿德耶米",
+}
+
+_PLAYER_NAME_RE = re.compile(
+    "|".join(re.escape(n) for n in sorted(PLAYER_NAME_ZH, key=len, reverse=True))
+)
+
+
+def apply_known_player_names(text):
+    """把文本里出现的已知球星英文名替换成国内体育媒体通行的中文译名（词典没收录的球星暂不处理）。"""
+    if not text:
+        return text
+    return _PLAYER_NAME_RE.sub(lambda m: PLAYER_NAME_ZH[m.group(0)], text)
+
 def fetch_feed(url):
     """请求并解析单个 RSS 源；网络或解析失败时返回空列表，不让整个脚本崩溃"""
     try:
@@ -681,6 +743,8 @@ def fetch_category_news(category, sources, existing_by_id):
             item_id = make_id(category, link)
             cached = existing_by_id.get(item_id)
             if cached and _already_translated(cached) and _matches_scope(cached):
+                cached["title"] = apply_known_player_names(cached["title"])
+                cached["summary"] = apply_known_player_names(cached["summary"])
                 items.append(cached)
                 reused_count += 1
                 continue
@@ -693,8 +757,8 @@ def fetch_category_news(category, sources, existing_by_id):
                 continue
 
             # 翻译成中文：已经是中文的来源（量子位/36氪）会被 needs_translation 自动跳过
-            title = translate_to_chinese(title_raw)
-            summary = truncate(translate_to_chinese(summary_raw), 120)
+            title = apply_known_player_names(translate_to_chinese(title_raw))
+            summary = apply_known_player_names(truncate(translate_to_chinese(summary_raw), 120))
 
             publish_time = parse_entry_time(entry)
             tags = [source_name] if source_name else []
