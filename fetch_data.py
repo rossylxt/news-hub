@@ -111,7 +111,10 @@ FEED_SOURCES = {
         {"url": "https://web.gekisaka.jp/feed?category=nationalteam", "source": "ゲキサカ 日本代表"},
     ],
     "jp_football_highschool": [
-        {"url": "https://web.gekisaka.jp/feed?category=youth", "source": "ゲキサカ"},
+        # 用户只关心"全国高中足球锦标赛"（日本称"全国高等学校サッカー選手権大会"，
+        # 媒体标题里通常简称为"選手権"），不要关东新秀联赛/プレミアリーグ/プリンスリーグ这些
+        # 常规赛事报道——这些常规联赛标题里不会出现"選手権"，用这个关键词过滤就能自然排除。
+        {"url": "https://web.gekisaka.jp/feed?category=youth", "source": "ゲキサカ", "keyword_filter": ["選手権"]},
     ],
     "football_intl": [
         {"url": "https://sports.yahoo.com/soccer/rss.xml", "source": "Yahoo Sports"},
@@ -578,13 +581,49 @@ def fetch_feed(url):
     return parsed.entries
 
 
+# 翻译接口有时会把"整段话"翻成中文，但里面夹杂的人名/地名罗马字写法（比如日本球员姓名的
+# 英文转写，如"Masakazu Koyama"）却原样保留不翻，导致条目看起来"整体是中文"但实际上仍然
+# 混着英文——这种情况 needs_translation() 判断不出来（因为整段文本里已经含有汉字）。
+# 这个问题目前只在"日文来源翻译成中文"时观察到（球员/学校姓名的罗马字转写翻译器不认识，
+# 就原样保留了），所以只对日文来源的分类（jp_football_euro / jp_football_highschool）做这层
+# 额外检查——AI/商业资讯里常见的英文缩写和产品名（GPT、OpenAI、API 等）是国内科技媒体本来就
+# 通用的写法，不属于"没翻译干净"，不需要也不应该被这层检查误伤。
+_LATIN_STRICT_CATEGORIES = {"jp_football_euro", "jp_football_highschool"}
+# 白名单里是国内体育媒体本来就通用的英文缩写（场上位置、青年队年龄段等），不算需要翻译的内容。
+_LATIN_OK_TOKENS = {
+    "FW", "MF", "GK", "DF", "CB", "LB", "RB", "WB", "MOM", "VS", "VAR",
+    "U15", "U-15", "U16", "U-16", "U17", "U-17", "U18", "U-18",
+    "U19", "U-19", "U20", "U-20", "U21", "U-21", "U23", "U-23",
+}
+_LATIN_WORD_RE = re.compile(r"[A-Za-z][A-Za-z'\-]{1,}")
+
+
+def _has_uncleaned_latin(text):
+    """粗略判断文本里是否还残留没有被翻译成中文的英文/罗马字专有名词。"""
+    if not text:
+        return False
+    for m in _LATIN_WORD_RE.finditer(text):
+        word = m.group(0)
+        if len(word) <= 2 or word.upper() in _LATIN_OK_TOKENS:
+            continue
+        return True
+    return False
+
+
 def _already_translated(item):
-    """判断已有 data.json 里的一条资讯是否"翻译已经成功过"：标题和摘要都不再需要翻译。
-    （如果之前两个翻译接口都被限流、保留了原文，这里会判定为"未完成"，本次运行会重新尝试翻译。）"""
-    return (
-        not needs_translation(item.get("title", ""))
-        and not needs_translation(item.get("summary", ""))
-    )
+    """判断已有 data.json 里的一条资讯是否"翻译已经成功过"：标题和摘要都不再需要翻译；
+    对日文来源的分类，还会额外检查有没有残留看起来像专有名词的英文/罗马字。
+    （如果之前两个翻译接口都被限流、保留了原文，或者日文来源的翻译结果里夹杂着没翻译的
+    人名/地名，这里都会判定为"未完成"，本次运行会重新尝试翻译；在结果彻底翻译干净之前，
+    这条资讯不会出现在最终的 data.json / 网站上——保证网站上不会出现任何英文/日文内容。）"""
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    if needs_translation(title) or needs_translation(summary):
+        return False
+    if item.get("category") in _LATIN_STRICT_CATEGORIES:
+        if _has_uncleaned_latin(title) or _has_uncleaned_latin(summary):
+            return False
+    return True
 
 
 def fetch_category_news(category, sources, existing_by_id):
@@ -796,6 +835,13 @@ def fetch_all_match_previews(existing_by_id):
             p["home_team"] = translate_team_name(p["home_team"])
             p["away_team"] = translate_team_name(p["away_team"])
 
+    # 和资讯列表一样，球队名还没翻译干净（比如翻译接口被限流、保留了英文原名）的场次
+    # 不展示，避免网站上出现任何英文队名；下次运行会重新尝试翻译。
+    previews = [
+        p for p in previews
+        if not needs_translation(p["home_team"]) and not needs_translation(p["away_team"])
+    ]
+
     return previews
 
 
@@ -819,12 +865,15 @@ def load_existing_data():
 
 def merge_news(existing_news, new_news):
     """按 id 去重合并，同一 id 以新抓取的版本为准（标题/摘要若有更新会覆盖）；
+    只保留已经翻译干净的内容（还没翻译成功、或翻译结果里夹杂着没翻译的人名/地名的条目，
+    不会出现在最终结果里——保证网站上不会出现任何英文/日文内容；这些条目本身还留在
+    合并前的数据里，下次运行会继续尝试翻译，翻译成功后自然就会出现）；
     然后按分类分别裁剪到 MAX_ITEMS_PER_CATEGORY 条，避免文件无限增长。"""
     by_id = {item["id"]: item for item in existing_news}
     for item in new_news:
         by_id[item["id"]] = item
 
-    merged = list(by_id.values())
+    merged = [item for item in by_id.values() if _already_translated(item)]
 
     by_category = {}
     for item in merged:
