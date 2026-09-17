@@ -34,6 +34,7 @@ import hashlib
 import html
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -542,7 +543,7 @@ TEAM_NAME_ZH = {
     # ---- 西乙/法乙/意乙/英冠等二级联赛（会出现在杯赛赛程里，一并收录官方通行译名）----
     "rc deportivo la coruna": "拉科鲁尼亚", "real racing club de santander": "桑坦德竞技",
     "malaga": "马拉加", "monza": "蒙扎", "racing club de lens": "朗斯",
-    "ipswich town": "伊普斯维奇",
+    "ipswich town": "伊普斯维奇", "hull city": "赫尔城",
 }
 
 
@@ -651,8 +652,17 @@ def fetch_category_news(category, sources, existing_by_id):
 
 
 def fetch_all_news(existing_by_id):
+    """依次抓取所有分类。
+
+    关键点：FEED_SOURCES 是固定顺序的字典，如果每次都按同样的顺序抓取，排在最后的分类
+    （目前是 football_intl / nba）每次运行时翻译额度总是被前面的分类先用完，永远轮不到——
+    这是实际运行中观察到的问题：即使前面的分类已经大部分复用缓存、只剩很少新内容，nba 也会
+    连续多次运行都 0 条翻译成功。这里每次运行时把分类顺序打乱，保证多次运行下来，
+    每个分类都有机会排在前面、优先拿到翻译额度，长期看不会有分类被"饿死"。"""
+    categories = list(FEED_SOURCES.items())
+    random.shuffle(categories)
     all_items = []
-    for category, sources in FEED_SOURCES.items():
+    for category, sources in categories:
         all_items.extend(fetch_category_news(category, sources, existing_by_id))
     return all_items
 
