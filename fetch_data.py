@@ -191,6 +191,30 @@ def matches_keyword_filter(title, summary, keywords):
     return any(kw in haystack for kw in keywords)
 
 
+# 每个分类如果只有一个信息源、且配置了 keyword_filter，就记录下来，方便后面对"已经翻译过、
+# 存在 data.json 里"的旧条目做二次校验——不然关键词收紧后，旧的、不该出现的条目会因为
+# "已经翻译过"被判定为完成而无限期保留下去（因为缓存复用那一步默认信任旧条目）
+_CATEGORY_KEYWORD_FILTER = {
+    cat: srcs[0]["keyword_filter"]
+    for cat, srcs in FEED_SOURCES.items()
+    if len(srcs) == 1 and srcs[0].get("keyword_filter")
+}
+
+
+def _matches_scope(item):
+    """判断 data.json 里的一条旧资讯，按当前的 keyword_filter 配置是否还该保留。
+    没有配置 keyword_filter 的分类，直接放行；有配置的分类，用抓取时保存的未翻译原文
+    （_raw_title / _raw_summary）重新校验一次——如果连原文都没保存（说明是关键词收紧之前
+    抓到的老条目，当时还没有这个校验逻辑），保守起见判定为不再符合范围，予以剔除。"""
+    keywords = _CATEGORY_KEYWORD_FILTER.get(item.get("category"))
+    if not keywords:
+        return True
+    raw_title = item.get("_raw_title")
+    if raw_title is None:
+        return False
+    return matches_keyword_filter(raw_title, item.get("_raw_summary", ""), keywords)
+
+
 # ==============================================================================
 # 自动翻译为简体中文
 # ==============================================================================
@@ -656,7 +680,7 @@ def fetch_category_news(category, sources, existing_by_id):
 
             item_id = make_id(category, link)
             cached = existing_by_id.get(item_id)
-            if cached and _already_translated(cached):
+            if cached and _already_translated(cached) and _matches_scope(cached):
                 items.append(cached)
                 reused_count += 1
                 continue
@@ -664,7 +688,7 @@ def fetch_category_news(category, sources, existing_by_id):
             summary_raw = entry.get("summary", "") or entry.get("description", "")
             summary_raw = strip_html(summary_raw)
 
-            # 关键词过滤（比如日本旅欧球员）用原文匹配，翻译前后语义一致，不影响筛选结果
+            # 关键词过滤（比如日本旅欧球员、日本高中足球锦标赛）用原文匹配，翻译前后语义一致，不影响筛选结果
             if not matches_keyword_filter(title_raw, summary_raw, keyword_filter):
                 continue
 
@@ -675,7 +699,7 @@ def fetch_category_news(category, sources, existing_by_id):
             publish_time = parse_entry_time(entry)
             tags = [source_name] if source_name else []
 
-            items.append({
+            item = {
                 "id": item_id,
                 "title": title,
                 "summary": summary or "（原文暂无摘要，点击查看详情）",
@@ -684,7 +708,13 @@ def fetch_category_news(category, sources, existing_by_id):
                 "category": category,
                 "is_important": is_important(title),
                 "tags": tags,
-            })
+            }
+            # 有关键词过滤的分类，额外保存未翻译的原文标题/摘要，以后调整关键词时
+            # 能对已经写入 data.json 的旧条目重新做一次范围校验
+            if keyword_filter:
+                item["_raw_title"] = title_raw
+                item["_raw_summary"] = summary_raw
+            items.append(item)
 
     if reused_count:
         log(f"  （其中 {reused_count} 条复用已有翻译，未重新请求翻译接口）")
@@ -874,7 +904,7 @@ def merge_news(existing_news, new_news):
     for item in new_news:
         by_id[item["id"]] = item
 
-    merged = [item for item in by_id.values() if _already_translated(item)]
+    merged = [item for item in by_id.values() if _already_translated(item) and _matches_scope(item)]
 
     by_category = {}
     for item in merged:
