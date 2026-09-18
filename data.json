@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:17:30.618973+00:00",
+  "generated_at": "2026-09-18T00:22:53.296806+00:00",
   "news": [
     {
       "id": "ai_cn-e45c9a68b44a",
@@ -275,6 +275,126 @@
       "is_important": false,
       "tags": [
         "量子位"
+      ]
+    },
+    {
+      "id": "ai_intl-e3285a711c8c",
+      "title": "Crusoe筹集了39亿美元用于建设大型数据中心和小型模块化“人工智能工厂”",
+      "summary": "这轮融资对数据中心巨头的估值为309亿美元（ $ 309亿）。",
+      "source_url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "publish_time": "2026-09-17T23:25:52+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-456afd7f4d6d",
+      "title": "谷歌DeepMind推出机构以扩大AGI辩论",
+      "summary": "谷歌DeepMind刚刚成立了一个研究所，在公共场合解决AGI的大问题",
+      "source_url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "publish_time": "2026-09-17T23:21:17+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-1f172f85d3ea",
+      "title": "PrismML希望其微小的LLM将改变我们所有人使用AI的方式",
+      "summary": "如果人工智能实验室PrismML还没有出现在你的雷达上，它应该是。",
+      "source_url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "publish_time": "2026-09-17T22:34:09+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-787bbd73daf7",
+      "title": "美国联邦航空局修复空中交通的计划？价值8.75亿美元的人工智能",
+      "summary": "正在推出一个新的基于人工智能的软件程序，以帮助空中交通管制员更好地驾驭他们作为美国天空过境警卫的工作。",
+      "source_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "publish_time": "2026-09-17T22:14:59+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-5e7cc4bf41d7",
+      "title": "流氓人工智能代理的修复可能是更多的人工智能",
+      "summary": "随着公司将更长、更复杂的任务交给人工智能代理，他们遇到了一个监督问题：代理的行动速度更快、时间更长、数量更大，超出了人类实际审查的范围。",
+      "source_url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "publish_time": "2026-09-17T20:34:47+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-41da7ed56ef0",
+      "title": "OpenAI发现其模型为继任者留下笔记以隐藏不良行为",
+      "summary": "OpenAI披露了GPT-5.6 SOL指示未来上下文隐藏错误和错位行为的实例，突显了随着能力越来越强的人工智能模型学会隐藏错位，检测错位的挑战越来越大。",
+      "source_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "publish_time": "2026-09-17T20:34:24+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-9d61eb9bd1c6",
+      "title": "人工智能安全辩论是关于安全还是控制？",
+      "summary": "并非所有人都同意Amodei呼吁采取全球协调一致的人工智能安全行动。",
+      "source_url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "publish_time": "2026-09-17T20:19:37+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-22b6bd9b8747",
+      "title": "联合国转向谷歌，使其全球数据为人工智能特工做好准备",
+      "summary": "此前，联合国儿童基金会的一项测试发现，领先的人工智能模型难以准确检索全球发展统计数据。",
+      "source_url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "publish_time": "2026-09-17T20:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-2c509c3d0d19",
+      "title": "微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，新的未经编辑的文件显示",
+      "summary": "新近公开的法庭文件显示，微软私下称OpenAI的数据做法为“盗窃” ，而两家公司都抓取了《泰晤士报》的付费内容，并从中构建了数据集，并在内部警告它会破坏出版商。",
+      "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "publish_time": "2026-09-17T19:46:08+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-47bfcf058a61",
+      "title": "就连英格兰国王也对人工智能犹豫不决",
+      "summary": "查尔斯国王周四主持了一场私人峰会，其中包括人工智能和英国政府中一些最著名的名字。",
+      "source_url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "publish_time": "2026-09-17T17:26:25+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -1706,6 +1826,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-8802404da2e8",
+      "title": "日本输给朝鲜......指挥官“结果就是一切”在最近的6场比赛中输掉了U-20女足世界杯的最后16轮比赛",
+      "summary": "【9.17 U-20女足世界杯决赛T1日本0-2朝鲜】U-20日本国家队17日在U-20女足世界杯四分之一决赛中以0-2击败朝鲜，输掉了决赛的第一轮比赛。这是他四场比赛中第一次错过决赛，在2010年锦标赛以来的最后六场比赛中，他在小组联赛中…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459051-459051-fl",
+      "publish_time": "2026-09-17T23:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-13ff96978b14",
       "title": "一位大客人出现在丰田体育场（ 6件）",
       "summary": "16日， U-21日本国家队在亚运会A组第一节2-0战胜U-23香港国家队。●第20届亚运会特色",
@@ -1967,6 +2099,102 @@
       "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "football_intl-fd0022900c6d",
+      "title": "铅，陈旧，令人沮丧-凯尔特人和奥尼尔从哪里来？",
+      "summary": "汤姆·英格利希（ Tom English ）写道，在又一次失败之后，保持信仰肯定对凯尔特人的球迷来说变得更加考验。",
+      "source_url": "https://sports.yahoo.com/articles/leaden-stale-disheartening-where-celtic-235141923.html",
+      "publish_time": "2026-09-18T00:03:51+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-50dcb28313b0",
+      "title": "凯尔特人“有点破碎” -但改变形状“值得冒险”吗？",
+      "summary": "在上周日Ibrox的惨败之后，凯尔特人需要对欧洲联赛中的Ferencvaros做出反应。从凯尔特人的角度来看，让步很容易，在热烈的开始之后，他们撤退到了他们的贝壳中。空座位和嘘声迎来了终极哨声，马丁·奥尼尔（ Martin O'Neill…",
+      "source_url": "https://sports.yahoo.com/articles/celtic-little-bit-broken-change-000351737.html",
+      "publish_time": "2026-09-18T00:03:51+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-b6cefc354659",
+      "title": "Flamengo v Independiente del Valle🚨阵容",
+      "summary": "Flamengo和Independiente del Valle今晚在Copa Libertadores四分之一决赛的第二站对决，巴西队以2-0领先。Flamengo XIIDV...",
+      "source_url": "https://sports.yahoo.com/articles/line-ups-flamengo-v-independiente-235700226.html",
+      "publish_time": "2026-09-17T23:57:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e8c35928dd43",
+      "title": "从-17到梦幻欧洲之旅，从伯恩茅斯出发",
+      "summary": "伯恩茅斯在2008年以-17分的成绩开始了第二个赛季的联赛，现在他们在欧洲比赛中取得了梦想的开始。",
+      "source_url": "https://sports.yahoo.com/articles/17-dream-european-start-bournemouth-233039530.html",
+      "publish_time": "2026-09-17T23:30:39+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a1d0bd7b0e10",
+      "title": "📋 弗拉门戈队在Libertadores半决赛中占据一席之地",
+      "summary": "弗拉门戈在2026年Conmebol Libertadores四分之一决赛第二回合的本周四（ 17日）晚上9:30 （巴西利亚时间）在马拉卡纳主办了Independiente del Valle。在厄瓜多尔以2比0获胜后，...",
+      "source_url": "https://sports.yahoo.com/articles/flamengo-lined-seal-place-libertadores-231800805.html",
+      "publish_time": "2026-09-17T23:18:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d2ab5147f1b7",
+      "title": "在老公司之前，凯尔特人承受了更多的痛苦，令人沮丧的欧罗巴联赛失利",
+      "summary": "凯尔特人1-3 Ferencvaros ：在周末被激烈的竞争对手流浪者队以3比0击败后，凯尔特人在周日的老公司复赛之前被匈牙利对手淘汰出局",
+      "source_url": "https://sports.yahoo.com/articles/celtic-endure-more-misery-disheartening-222100306.html",
+      "publish_time": "2026-09-17T22:21:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-b0ac7ee9065d",
+      "title": "水晶宫奠定了早期欧洲联赛的标志与莱赫波兹南颠簸",
+      "summary": "水晶宫4-0莱赫·波兹南：叶雷米·皮诺、克里斯·理查兹和约根·斯特兰德·拉森在上半场命中目标，然后埃迪·恩凯蒂亚开了第四名",
+      "source_url": "https://sports.yahoo.com/articles/crystal-palace-lay-down-early-221001075.html",
+      "publish_time": "2026-09-17T22:10:01+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6733aa75735c",
+      "title": "斯帕莱蒂对尤文图斯的胜利感到“满意” ，并赞扬格拉巴拉的首次亮相： “让我向他表示祝贺”",
+      "summary": "卢西亚诺·斯帕莱蒂（ Luciano Spalletti ）离开安联体育场时比他到达时快乐得多，并在5-0击败NEC奈梅亨后挑选出首次亮相的卡米尔·格拉巴拉（ Kamil Grabara ）。根据吉安卢卡（ Gianluca ）的说法...",
+      "source_url": "https://sports.yahoo.com/articles/spalletti-satisfied-juventus-victory-praises-220500233.html",
+      "publish_time": "2026-09-17T22:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -2827,102 +3055,6 @@
       "summary": "Igor Tudor上个赛季最后一次出现在托特纳姆热刺。咒语并没有持续多久，因为罗伯托·德·泽尔比（ Roberto De Zerbi ）的任命使俱乐部免于可能的降级。尽管如此，都铎还是可以……",
       "source_url": "https://sports.yahoo.com/articles/ex-tottenham-manager-igor-tudor-165500150.html",
       "publish_time": "2026-09-17T16:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-a2a0e119ffa2",
-      "title": "曼联后卫可能会因富勒姆冲突而回归",
-      "summary": "曼联伤病更新，迈克尔·卡里克（ 迈克尔·卡里克 ）在富勒姆曼联（ Fulham Manchester United ）本赛季开始之前等待关键回归，没有必要打扮它。迈克尔·卡里克我……",
-      "source_url": "https://sports.yahoo.com/articles/man-united-defender-could-set-165000015.html",
-      "publish_time": "2026-09-17T16:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-388f8c50f7ef",
-      "title": "“他有正确的态度” –记者对令人印象深刻的利物浦年轻人赞不绝口",
-      "summary": "利物浦青年队在托特纳姆杯之后给予Iraola充足的考虑利物浦在Carabao杯中以3比1战胜托特纳姆热刺队提供了一些偶尔短暂的东西...",
-      "source_url": "https://sports.yahoo.com/articles/got-attitude-journalist-heaps-praise-165000597.html",
-      "publish_time": "2026-09-17T16:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d22680f17753",
-      "title": "图切尔自世界杯以来第一支英格兰队面临的大问题",
-      "summary": "在托马斯·图切尔（ Thomas Tuchel ）命名他自周五世界杯以来的第一支球队之前，英国广播公司体育台（ BBC Sport ）着眼于英",
-      "source_url": "https://sports.yahoo.com/articles/big-questions-tuchels-first-england-164723768.html",
-      "publish_time": "2026-09-17T16:47:23+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b0e0fb196a11",
-      "title": "克里斯蒂安·普利西奇（ Christian Pulisic ）自世界杯以来首次获得USMNT名单",
-      "summary": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）可以向16岁的卡文·沙利文（ Cavan Sullivan",
-      "source_url": "https://sports.yahoo.com/articles/christian-pulisic-snubbed-first-usmnt-164317162.html",
-      "publish_time": "2026-09-17T16:43:17+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4267e3e0e102",
-      "title": "4名意甲球员被召集到瑞士队，包括国际米兰和米兰球星",
-      "summary": "在9月至10月的国际比赛之前，四名意甲球员被召入瑞士国家队，其中包括国际米兰后卫曼努埃尔·阿坎吉（ Manuel Akanji ）、米兰中场阿东·贾沙（ Ardon Jasha ） ……",
-      "source_url": "https://sports.yahoo.com/articles/4-serie-players-called-latest-163500113.html",
-      "publish_time": "2026-09-17T16:35:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-111253ea5048",
-      "title": "雷克瑟姆老板瞄准Spygate挖掘南安普敦",
-      "summary": "雷克瑟姆的共同所有者瑞恩·雷诺兹（ Ryan Reynolds ）和罗布·麦克（ Rob Mac ）在本周末的锦标赛前在南安普敦（ Southampton ）进行了Spygate挖掘。",
-      "source_url": "https://sports.yahoo.com/articles/wrexham-owners-aim-spygate-dig-163336897.html",
-      "publish_time": "2026-09-17T16:33:36+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-6a90a79fa40f",
-      "title": "戴维斯“应该在边后卫” -沃克",
-      "summary": "传奇前伊普斯维奇中场球员约翰·沃克（ John Wark ）曾表示，由于雷夫·戴维斯（ Leif Davis ）的进攻能力，他“应该是边后卫” ，但他警告说，在这个阶段，英格兰不应该征召。这位26岁的后卫本赛季到目前为止给人留下了深刻的印象…",
-      "source_url": "https://sports.yahoo.com/articles/davis-wing-back-wark-163321558.html",
-      "publish_time": "2026-09-17T16:33:21+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-5c7114035c56",
-      "title": "Jürgen Klopp准备在德国项目的早期阶段“接受混乱”",
-      "summary": "尤尔根·克洛普（ Jürgen Klopp ）提供了迄今为止最清晰的迹象，表明他希望他的德国国家队看起来像什么，同时承认国际足球将迫使他调整完善的方法。",
-      "source_url": "https://sports.yahoo.com/articles/j-rgen-klopp-prepared-accept-163000066.html",
-      "publish_time": "2026-09-17T16:30:00+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
