@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T18:19:07.934610+00:00",
+  "generated_at": "2026-09-18T20:12:30.540863+00:00",
   "news": [
     {
       "id": "ai_cn-7ff77023a503",
@@ -2318,6 +2318,30 @@
       ]
     },
     {
+      "id": "football_intl-6df050847170",
+      "title": "基利安·姆巴佩 responds to Lamine Yamal’s huge Ballon d’Or claim",
+      "summary": "基利安·姆巴佩 is one of the leading candidates to win the 2026 Ballon d’Or, which will be awarded by France Football dur…",
+      "source_url": "https://sports.yahoo.com/articles/kylian-mbappe-responds-lamine-yamal-192000962.html",
+      "publish_time": "2026-09-18T19:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-b4a5a3b3bf8a",
+      "title": "哈里·凯恩 makes history with 100th Bundesliga goal 🏅",
+      "summary": "哈里·凯恩's 100th Bundesliga goal was always set to be a moment for history.The England international stood just one st…",
+      "source_url": "https://sports.yahoo.com/articles/harry-kane-makes-history-100th-191900445.html",
+      "publish_time": "2026-09-18T19:19:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-bab6e18b8ecd",
       "title": "克里斯蒂亚诺·罗纳尔多 named in Portugal squad for Nations League",
       "summary": "克里斯蒂亚诺·罗纳尔多 is set to continue his international career beyond the 2026 World Cup.The experienced forward has been…",
@@ -3247,30 +3271,6 @@
       "summary": "作为厄林·哈兰德的替补， Samba留下了深刻的印象，并在曼城5-0 Carabao杯战胜Norwich的比赛中首次亮相时得分两次",
       "source_url": "https://sports.yahoo.com/articles/floyd-samba-makes-career-prediction-213035007.html",
       "publish_time": "2026-09-17T21:30:35+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-31d5caadfd04",
-      "title": "BBC将在2026年直播哪些超级联赛和挑战杯比赛？",
-      "summary": "随着橄榄球联赛在2026赛季的回归，请在整个英国广播公司实时关注所有动作。",
-      "source_url": "https://sports.yahoo.com/articles/super-league-challenge-cup-games-212131854.html",
-      "publish_time": "2026-09-17T21:21:31+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-966e74606306",
-      "title": "理查德休斯的利物浦赌博已经开始看起来很奇怪",
-      "summary": "利物浦在夏天签下了不少球员。其中四人留在安菲尔德，对安东尼·伊拉奥拉（ Andoni Iraola ）迄今为止的第一个执教赛季产生了巨大影响。然而，其中两人被租借出去……",
-      "source_url": "https://sports.yahoo.com/articles/richard-hughes-liverpool-gamble-already-211000778.html",
-      "publish_time": "2026-09-17T21:10:00+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
@@ -4240,56 +4240,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-375d107dd532",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "拜仁慕尼黑",
-      "away_team": "柏林联合",
-      "match_time": "2026-09-18T18:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-efb7846d2b97",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "蒙扎",
-      "away_team": "萨索洛",
-      "match_time": "2026-09-18T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-46311a844e7b",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "摩纳哥",
-      "away_team": "朗斯",
-      "match_time": "2026-09-18T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-1fe29a6fa467",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "布伦特福德",
-      "away_team": "切尔西",
-      "match_time": "2026-09-18T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-ae09d8ec2a95",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "西班牙人",
-      "away_team": "埃尔切",
-      "match_time": "2026-09-18T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-ea560ed4d50c",
       "sport": "football",
       "competition": "英超",
@@ -4426,6 +4376,36 @@
       "home_team": "罗马",
       "away_team": "国际米兰",
       "match_time": "2026-09-19T16:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-beac786fc0ad",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "斯图加特",
+      "away_team": "多特蒙德",
+      "match_time": "2026-09-19T16:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-376e0792e592",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "威尼斯",
+      "away_team": "拉齐奥",
+      "match_time": "2026-09-19T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-e83499eea87d",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "图卢兹",
+      "away_team": "勒阿弗尔",
+      "match_time": "2026-09-19T18:45:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
