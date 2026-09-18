@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-18T16:17:47.084086+00:00",
+  "generated_at": "2026-09-18T18:19:07.934610+00:00",
   "news": [
+    {
+      "id": "ai_cn-7ff77023a503",
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "summary": "协同布局AI基础设施",
+      "source_url": "https://www.qbitai.com/2026/09/492426.html",
+      "publish_time": "2026-09-18T15:58:21+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-596dc558b7a4",
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+      "source_url": "https://www.qbitai.com/2026/09/492421.html",
+      "publish_time": "2026-09-18T15:50:20+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-c1be04a8e2a4",
       "title": "具身智能技术路线尚未定型，基础设施却先收敛",
@@ -347,6 +371,126 @@
       "is_important": false,
       "tags": [
         "量子位"
+      ]
+    },
+    {
+      "id": "ai_intl-f5578060dc95",
+      "title": "迪士尼的第一位首席技术官领导了一家人工智能初创公司，该公司曾被指控抄袭其角色",
+      "summary": "这位Character.AI的前首席执行官将担任该公司有史以来第一位首席技术官，迪士尼此前曾向其发送了一封停止信。",
+      "source_url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "publish_time": "2026-09-18T17:59:53+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-37655c8141e2",
+      "title": "谷歌的新“CC”是一种人工智能代理，可帮助家庭经营家庭",
+      "summary": "谷歌正在将CC AI代理的重点重新放在家庭协调上，让家庭共享电子邮件、日程安排和任务，以便AI可以管理日历、填写表格、制作购物清单、计划用餐等。",
+      "source_url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "publish_time": "2026-09-18T17:33:50+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-a7c7509da18b",
+      "title": "Dario Amodei和其他人工智能领导者想“加快前沿步伐” ，但……如何做到？",
+      "summary": "一位人类学研究人员的末日警告震惊了人工智能世界一周后，该公司首席执行官达里奥·阿莫代伊（ Dario Amodei ）概述了他的计划，以“加快人工智能发展的前沿”。该提案依赖于独立的安全评估人员和民主国家人工智能实验室之间的协调，并且已经获…",
+      "source_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "publish_time": "2026-09-18T17:09:56+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-77e43e1ef539",
+      "title": "Automattic的33小时政变，人工智能实验室可以自我监管吗？",
+      "summary": "一位人类学研究人员的末日警告震惊了人工智能世界一周后，该公司首席执行官达里奥·阿莫代伊（ Dario Amodei ）概述了他的计划，以“加快人工智能发展的前沿”。该提案依赖于独立的安全评估人员和民主国家人工智能实验室之间的协调，并且已经获…",
+      "source_url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "publish_time": "2026-09-18T17:06:32+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-ecfc994dbcab",
+      "title": "Manus寻求$ 4B估值在新的$ 5亿筹款，因为它恢复独立运营",
+      "summary": "Manus今年早些时候不得不终止与Meta的合并，目前正在讨论以$ 4B的估值筹集$ 5亿美元。",
+      "source_url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "publish_time": "2026-09-18T16:35:49+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-210af46fb867",
+      "title": "打开还是关闭AI ？英伟达的纳德尔·哈利勒（ Nader Khalil ）和悉尼·赛克斯（ Sydney Sykes ）在TechCrunch Disrupt 2026上做出了塑造下一代初创公司的决定之一",
+      "summary": "英伟达的Nader Khalil和Sydney Sykes在TechCrunch Disrupt 2026的建设者阶段讨论了塑造下一代初创公司的决策之一。",
+      "source_url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "publish_time": "2026-09-18T15:30:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-02e22737315f",
+      "title": "Meta的Muse点击Mac ，让AI在您的计算机上执行操作",
+      "summary": "Muse现在可在Mac上使用，它可以与您的文件和应用程序一起代表您采取行动。",
+      "source_url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "publish_time": "2026-09-18T15:22:48+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-68d1dafb80fb",
+      "title": "Robinhood的Abhishek Fatehpuria在TechCrunch Disrupt 2026上赢得现代金融消费者",
+      "summary": "Robinhood的Abhishek Fatehpuria在TechCrunch Disrupt 2026上赢得了现代金融消费者。立即注册，在太平洋时间9月25日晚上11:59前节省高达$ 200。",
+      "source_url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "publish_time": "2026-09-18T15:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-0d70097db208",
+      "title": "研究人员利用Anthropic的Claude入侵OpenAI",
+      "summary": "安全研究人员使用Anthropic的Claude来利用OpenAI系统中的漏洞，在报告漏洞之前接管员工帐户并访问内部代码存储库。",
+      "source_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "publish_time": "2026-09-18T14:00:14+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-2925d3fec1de",
+      "title": "时间紧迫：在TechCrunch Disrupt 2026上展出的最后24小时",
+      "summary": "在Disrupt预订展览桌的最后一天是今天， 9月18日。10月13日至15日，让您的创业公司与1万多名创始人、投资者、运营商和技术领导者见面。",
+      "source_url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publish_time": "2026-09-18T14:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
