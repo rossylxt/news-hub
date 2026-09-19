@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-19T12:21:01.435651+00:00",
+  "generated_at": "2026-09-19T14:17:23.433196+00:00",
   "news": [
+    {
+      "id": "ai_cn-dbe88ed3ae83",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "summary": "AI有可能终结我们所有人",
+      "source_url": "https://www.qbitai.com/2026/09/492755.html",
+      "publish_time": "2026-09-19T11:53:12+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-9f3db6884dd5",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "summary": "老马想买倒闭公司数据为哪般",
+      "source_url": "https://www.qbitai.com/2026/09/492661.html",
+      "publish_time": "2026-09-19T11:48:06+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-9947f2045091",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "summary": "设计、前端一口气全干了，结果后端没来上班",
+      "source_url": "https://www.qbitai.com/2026/09/492573.html",
+      "publish_time": "2026-09-19T11:43:12+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-1db99c4669c7",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "summary": "AI能否提出相对论？",
+      "source_url": "https://www.qbitai.com/2026/09/492550.html",
+      "publish_time": "2026-09-19T11:36:11+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-2846ed8a2304",
       "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
@@ -4444,106 +4492,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-f5a8940b5bc1",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "博洛尼亚",
-      "away_team": "都灵",
-      "match_time": "2026-09-19T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-88861a329f3e",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "乌迪内斯",
-      "away_team": "卡利亚里",
-      "match_time": "2026-09-19T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-5482632edc54",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "汉堡",
-      "away_team": "科隆",
-      "match_time": "2026-09-19T13:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-b04c48d327d5",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "门兴格拉德巴赫",
-      "away_team": "美因茨05",
-      "match_time": "2026-09-19T13:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-87dacd198c94",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "云达不来梅",
-      "away_team": "奥格斯堡",
-      "match_time": "2026-09-19T13:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-f0bfe3c4f2b4",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "法兰克福",
-      "away_team": "弗赖堡",
-      "match_time": "2026-09-19T13:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-5ad2d4e6413c",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "埃弗顿",
-      "away_team": "伊普斯维奇",
-      "match_time": "2026-09-19T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-3a91d197c2b3",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "布莱顿",
-      "away_team": "阿森纳",
-      "match_time": "2026-09-19T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-77da899b8043",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "纽卡斯尔联",
-      "away_team": "赫尔城",
-      "match_time": "2026-09-19T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-b821a2230573",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "毕尔巴鄂竞技",
-      "away_team": "阿拉维斯",
-      "match_time": "2026-09-19T14:15:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-b263b8e31b86",
       "sport": "football",
       "competition": "法甲",
@@ -4600,6 +4548,96 @@
       "home_team": "里昂",
       "away_team": "雷恩",
       "match_time": "2026-09-19T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-29790a857738",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "塞维利亚",
+      "away_team": "巴塞罗那",
+      "match_time": "2026-09-19T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-880c613bc0c2",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "佛罗伦萨",
+      "away_team": "那不勒斯",
+      "match_time": "2026-09-20T10:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b6a48b4b6cda",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "赫塔费",
+      "away_team": "马拉加",
+      "match_time": "2026-09-20T12:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-673f9a4c2905",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "伯恩茅斯",
+      "away_team": "利物浦",
+      "match_time": "2026-09-20T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-061667dfba68",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "利兹联",
+      "away_team": "水晶宫",
+      "match_time": "2026-09-20T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ef3a6f706929",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "曼城",
+      "away_team": "桑德兰",
+      "match_time": "2026-09-20T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-bacd48ba3adc",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "帕尔马",
+      "away_team": "热那亚",
+      "match_time": "2026-09-20T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-0194f24df218",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "欧塞尔",
+      "away_team": "布雷斯特",
+      "match_time": "2026-09-20T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-67a94dd46e97",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "勒沃库森",
+      "away_team": "莱比锡红牛",
+      "match_time": "2026-09-20T13:30:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
