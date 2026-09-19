@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:18:14.212405+00:00",
+  "generated_at": "2026-09-19T20:17:21.156293+00:00",
   "news": [
     {
       "id": "ai_cn-dbe88ed3ae83",
@@ -467,6 +467,18 @@
       "is_important": false,
       "tags": [
         "量子位"
+      ]
+    },
+    {
+      "id": "ai_intl-c0e5bbea1628",
+      "title": "特朗普建议将人工智能重新命名为新名称，并表示他也在创建一支人工智能部队",
+      "summary": "特朗普在没有证据的情况下声称，人工智能的反弹是民主党的骗局。",
+      "source_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "publish_time": "2026-09-19T19:57:47+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -1334,6 +1346,390 @@
       ]
     },
     {
+      "id": "biz_intl-f82a68051d10",
+      "title": "eGain （ EGAN ） ： B. Riley和Roth Capital都削减了目标，因为人工智能增长难以抵消传统的下降",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/egain-egan-b-riley-roth-194936520.html",
+      "publish_time": "2026-09-19T19:49:36+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-96b2a51e02ca",
+      "title": "随着低速齿轮的增长， Infosys (INFY)推出了制动器制造商",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
+      "publish_time": "2026-09-19T19:47:47+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-eadb06aaedc8",
+      "title": "Jim Cramer谈Seanergy Maritime （ SHIP ） ： “我会成为买家”",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-seanergy-maritime-ship-194035405.html",
+      "publish_time": "2026-09-19T19:40:35+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-866600c3d9c9",
+      "title": "吉姆·克莱默（ Jim Cramer ）指出，凯西（ CASY ）和德克萨斯州路屋（ TXRH ）的石油压力很大",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
+      "publish_time": "2026-09-19T19:35:09+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-f8b0dc036a19",
+      "title": "Main Street Capital股票是否买入、卖出或持有低于52周高点15%的股票？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
+      "publish_time": "2026-09-19T19:35:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-83b887f76b44",
+      "title": "Jim Cramer表示“购买Reddit” （ RDDT ）",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
+      "publish_time": "2026-09-19T19:33:24+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-7c6d7f46a2dc",
+      "title": "CoreWeave （ CRWV ）对人工智能计算收取更多费用，客户不断付费",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
+      "publish_time": "2026-09-19T19:32:52+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-ae4b4df248ad",
+      "title": "Jim Cramer建议反对通过NextEra （ NEE ）股票转换持有（ D ）支配权",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
+      "publish_time": "2026-09-19T19:29:55+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-25b1a92f24f8",
+      "title": "意法半导体(STM)希望每辆车都能廉价地监视其驾驶员",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
+      "publish_time": "2026-09-19T19:29:12+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-3bbbc8f2f372",
+      "title": "Cerebras （ CBRS ）在芬兰生产165兆瓦的旗帜，但仍在亏损",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-plants-165-mw-192515264.html",
+      "publish_time": "2026-09-19T19:25:15+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-6abdcce28004",
+      "title": "艾伯维的偏头痛特许经营取得了巨大的胜利。这个Dividend King现在是无需思考的购买吗？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/abbvies-migraine-franchise-scored-big-192000630.html",
+      "publish_time": "2026-09-19T19:20:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-89d54ffa8f9c",
+      "title": "许多退休人员参观村庄，永不购买。每次都会出现一个原因",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/real-estate/articles/plenty-retirees-tour-villages-never-191743698.html",
+      "publish_time": "2026-09-19T19:17:43+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-7a1528915724",
+      "title": "Cramer强烈建议购买被淘汰的90年代科技传奇",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/cramer-strongly-recommends-buying-beaten-191300424.html",
+      "publish_time": "2026-09-19T19:13:00+00:00",
+      "category": "biz_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-cdec3719e0bd",
+      "title": "Fifth Third (FITB) Comerica合并已经完成，现在有回报",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
+      "publish_time": "2026-09-19T19:07:43+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-b7bcca353f1e",
+      "title": "Atlassian （团队）刚刚将JIRA转变为人工智能编码指挥中心",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/atlassian-team-just-turned-jira-190413386.html",
+      "publish_time": "2026-09-19T19:04:13+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-ad4effdbabdb",
+      "title": "新斯科舍银行认为商业增长为数字化，收费策略获得牵引力",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bank-nova-scotia-sees-commercial-190202813.html",
+      "publish_time": "2026-09-19T19:02:02+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-0b2b7f192193",
+      "title": "现在几乎不可能出售公寓单元：「我觉得被困住了」",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/real-estate/articles/almost-impossible-sell-condo-unit-211600464.html",
+      "publish_time": "2026-09-19T18:57:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-ed4971126da7",
+      "title": "Franco-Nevada (FNV)创纪录的季度隐藏了两年的问号",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
+      "publish_time": "2026-09-19T18:56:39+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-f83a126f17d4",
+      "title": "纳斯达克(NDAQ)让加密货币犯罪分子更难隐藏",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
+      "publish_time": "2026-09-19T18:51:16+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-e005f233b226",
+      "title": "Garmin (GRMN)的新型自动驾驶仪发出增长方向的信号",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
+      "publish_time": "2026-09-19T18:47:31+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-e551896a3f35",
+      "title": "Corteva （ CTVA ）押注比利时合作伙伴，以争取作物保护的下一个法案",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
+      "publish_time": "2026-09-19T18:37:47+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-9bb802ab80f9",
+      "title": "吉姆·克莱默（ Jim Cramer ）建议在利率紧缩周期中避免使用红线（ RDW ）",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
+      "publish_time": "2026-09-19T18:36:04+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-8677b8cb5371",
+      "title": "Sempra (SRE)刚刚锁定二十年的液化天然气需求",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
+      "publish_time": "2026-09-19T18:34:48+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-17b4ff44fe18",
+      "title": "AMETEK （ AME ） $ 50亿的交易押注热门连胜",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/ametek-ame-5b-deal-bets-183135450.html",
+      "publish_time": "2026-09-19T18:31:35+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-06979ea01779",
+      "title": "PureCycle (PCT)扩大了PureFive的使用，因为监管顺风满足执行风险",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
+      "publish_time": "2026-09-19T18:21:05+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-bdd46593827f",
+      "title": "BJ's Wholesale Club (BJ)将投资级金融政策正规化",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
+      "publish_time": "2026-09-19T18:09:06+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-863ae5bc2b80",
+      "title": "RealReal （ REAL ）押注格伦代尔，以捕捉不断增长的复古需求",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
+      "publish_time": "2026-09-19T18:00:03+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-260fd443948c",
+      "title": "据报道， Anthropic推迟了IPO ； OpenAI预计会大量烧钱",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
+      "publish_time": "2026-09-19T17:48:41+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-f14cb24d2190",
+      "title": "Willis Lease Finance (WLFC)通过采购新飞机和发动机扩大机队",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html",
+      "publish_time": "2026-09-19T17:48:13+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-b495aab57993",
+      "title": "这笔4030万美元的$ Birwood Heights融资安排如何使Marcus & Millichap (MMI)受益",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/real-estate/articles/does-40-3-million-birwood-173911914.html",
+      "publish_time": "2026-09-19T17:39:11+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-c9ffcd301cf7",
+      "title": "交付展望显示，特斯拉(TSLA)的核心业务面临压力。其下一个增长引擎必须提供",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
+      "publish_time": "2026-09-19T17:14:43+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-7604a1e8c089",
+      "title": "思科（ CSCO ）依靠Splunk来扩大其在企业人工智能支出中的份额。它面临着一个巨大的考验",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
+      "publish_time": "2026-09-19T17:12:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
       "id": "biz_intl-a8adfe4f9d54",
       "title": "Mark Cuban在喝醉酒后花了125,000 $购买美国航空公司的终身通行证—这就是数学工作的原因",
       "summary": "（原文暂无摘要，点击查看详情）",
@@ -1399,6 +1795,18 @@
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
       "publish_time": "2026-09-19T10:00:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-43b2ba9b6b9c",
+      "title": "与杰克·丹尼尔的面孔相关的威士忌品牌第二章第7章",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/small-business/articles/170-old-whiskey-brands-saga-171043884.html",
+      "publish_time": "2026-09-19T02:59:56+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -1898,402 +2306,6 @@
       ]
     },
     {
-      "id": "biz_intl-419ff061b09d",
-      "title": "如何判断下跌的股票是否会继续下跌",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.wsj.com/finance/stocks/how-to-tell-whether-a-plunging-stock-will-keep-plunging-bf0be3ed?siteid=yhoof2&yptr=yahoo",
-      "publish_time": "2026-09-18T10:26:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-32881a9c94df",
-      "title": "位于佛罗里达州的运营商申请第11章破产",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/small-business/articles/florida-based-carrier-files-chapter-102600588.html",
-      "publish_time": "2026-09-18T10:26:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-ff266c8b8605",
-      "title": "这个市场信号在历史上只出现过一次，它指向了接下来会发生什么",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/market-signal-seen-only-once-102200395.html",
-      "publish_time": "2026-09-18T10:22:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-5b233462119f",
-      "title": "Agentforce引发续约激增，引发Salesforce AI热潮：分析师",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/agentforce-triggers-renewal-surge-sparking-102117886.html",
-      "publish_time": "2026-09-18T10:21:17+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-649be2e58a54",
-      "title": "报告发现， “猖獗的薪酬犬儒主义”威胁着公司",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/small-business/articles/rampant-pay-cynicism-threatens-companies-102100114.html",
-      "publish_time": "2026-09-18T10:21:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-d0582fba85d3",
-      "title": "2026年9月18日（星期五）的最佳CD费率： 2年CD可享高达4.40%的APY回报率",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
-      "publish_time": "2026-09-18T10:00:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-cda80885e170",
-      "title": "2026年9月18日（星期五）抵押贷款和再融资利率：美联储之后利率普遍走高",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-mostly-higher-following-the-fed-100000327.html",
-      "publish_time": "2026-09-18T10:00:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-1b3b777b0af9",
-      "title": "2026年9月18日（星期五）抵押贷款和再融资利率：利率攀升至7%以上",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-climb-above-7-100000327.html",
-      "publish_time": "2026-09-18T10:00:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-17de14744e6a",
-      "title": "从佛罗里达州到内华达州，退休人员正在逃往免税州寻求金融“天堂”。“他们并不总是能找到它",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/real-estate/articles/florida-nevada-retirees-fleeing-no-100000560.html",
-      "publish_time": "2026-09-18T10:00:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-838663acc1f9",
-      "title": "SEI创纪录的收入、盈利推动未来增长、股价上涨",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/sei-record-revenue-earnings-fuel-095850945.html",
-      "publish_time": "2026-09-18T09:58:50+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-92033cafebbb",
-      "title": "AMD创纪录的收入和人工智能需求同比增长155%",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-155-ytd-record-revenue-095032401.html",
-      "publish_time": "2026-09-18T09:50:32+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-70868fd4a114",
-      "title": "印度的二级市场是否正处于拐点？",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/india-secondaries-market-hitting-inflection-094400255.html",
-      "publish_time": "2026-09-18T09:44:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-cb6c118ebd0d",
-      "title": "一名新泽西州高中生一年内存入$ 135,000 ，翻转废弃的储物柜",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/small-business/articles/jersey-high-schooler-banked-135-091500036.html",
-      "publish_time": "2026-09-18T09:15:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-a4ccf8e22825",
-      "title": "我应该每年将我的401 (k)的10%转换为罗斯IRA以减少税收和RMD吗？",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/news/wise-convert-10-401-k-113000206.html",
-      "publish_time": "2026-09-18T09:00:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-8b361d49f185",
-      "title": "随着后美联储科技股反弹的肆虐，股票期货上涨",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.barrons.com/livecoverage/stock-market-news-today-091826/card/stock-futures-rise-as-post-fed-tech-rally-rages-on-6gM6y3MApu1xw0u31JWH?siteid=yhoof2&yptr=yahoo",
-      "publish_time": "2026-09-18T08:45:16+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-4b72499fd180",
-      "title": "来自赵长鹏的一拍和一个BNB连锁代币垂直",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/crypto/articles/one-clap-changpeng-zhao-bnb-084318779.html",
-      "publish_time": "2026-09-18T08:43:18+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-f39a842f9f12",
-      "title": "日立将美国中小型电力变压器产量翻番",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/energy/articles/hitachi-double-us-production-small-084236160.html",
-      "publish_time": "2026-09-18T08:42:36+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-120ecb44abe1",
-      "title": "💬货币报价：币安创始人在欧洲遭遇挫折",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/-money-quote-binance-founder-on-a-setback-in-europe-HkanwOS4rjGMVkvwNsJy?siteid=yhoof2&yptr=yahoo",
-      "publish_time": "2026-09-18T08:36:44+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-962c18c6a8ec",
-      "title": "1只出色的股息ETF ，在勉强举起的同时产生被动收入",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/1-brilliant-dividend-etf-generate-083500360.html",
-      "publish_time": "2026-09-18T08:35:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-acc3ac69863b",
-      "title": "标普维持甲骨文投资评级。它自己的号码不支持该通话。",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/p-kept-oracle-investment-grade-083200547.html",
-      "publish_time": "2026-09-18T08:32:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-7a7cfcb1369d",
-      "title": "随着全球柴油短缺加剧，中国燃料出口激增",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/energy/articles/china-fuel-exports-surge-global-083000060.html",
-      "publish_time": "2026-09-18T08:30:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-1c8f2fb33e26",
-      "title": "Coppercore签署哥伦比亚铜设施租约",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/commodities/articles/coppercore-signs-lease-copper-facility-082908126.html",
-      "publish_time": "2026-09-18T08:29:08+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-2bbb5ee71652",
-      "title": "软件股从强劲盈利、人工智能警告中获得新生",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/software-stocks-life-strong-earnings-082808828.html",
-      "publish_time": "2026-09-18T08:28:08+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-f8d10ea3b480",
-      "title": "Caris Life Sciences股票昨日上涨10%。这就是2026年股票可能走得更远的地方。",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/caris-life-sciences-stock-jumped-082651475.html",
-      "publish_time": "2026-09-18T08:26:51+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-97439ef55a2a",
-      "title": "我几乎可以保证你错过了美联储主席凯文·沃什和联邦公开市场委员会利率决定中最重要的数字",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/economy/policy/articles/almost-guarantee-just-missed-most-082601755.html",
-      "publish_time": "2026-09-18T08:26:01+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-f98c58028926",
-      "title": "周四回顾：股市反弹，摆脱美联储加息",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/thursday-recap-stocks-rally-shaking-off-fed-s-rate-hike-2uBwRB8P2M89GrTgNh0q?siteid=yhoof2&yptr=yahoo",
-      "publish_time": "2026-09-18T08:25:58+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-6da171c1e383",
-      "title": "日本央行加息后，日本期货上涨，日元走弱",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.barrons.com/livecoverage/stock-market-news-today-091826/card/japanese-futures-rise-yen-weakens-after-boj-hikes-rates-UQh4A9YI7exV7GUUkR4i?siteid=yhoof2&yptr=yahoo",
-      "publish_time": "2026-09-18T08:24:24+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-409f6cef2836",
-      "title": "“华丽的七只”股票估值暴跌。要避免的股票还是十年一次的购买机会？",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stocks-seen-valuations-082301435.html",
-      "publish_time": "2026-09-18T08:23:01+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-d7fe797509cb",
-      "title": "沃伦·巴菲特（ Warren Buffett ）刚刚发出直言不讳的信息，这是155年来股市第二次发出警告",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-issued-blunt-082000351.html",
-      "publish_time": "2026-09-18T08:20:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-84dc018606ac",
-      "title": "如果您每周在SCHD上投资$ 50 ，以下是到2046年您可以获得被动收入的历史记录",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/invest-50-week-schd-heres-081500887.html",
-      "publish_time": "2026-09-18T08:15:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-b92d76fca0e9",
-      "title": "Qualitas Energy成立新实体运营德国可再生能源部门",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/energy/articles/qualitas-energy-establishes-entity-run-081422957.html",
-      "publish_time": "2026-09-18T08:14:22+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-c2da950966ce",
-      "title": "今日股市：随着债券收益率上升，道琼斯指数、标准普尔500指数、纳斯达克指数下跌",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
-      "publish_time": "2026-09-18T08:05:04+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-ca054f824483",
-      "title": "消息人士称，比亚迪、宁德时代、小米高管可能会加入习近平的美国之行",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/economy/policy/articles/byd-catl-xiaomi-executives-may-072150010.html",
-      "publish_time": "2026-09-18T07:21:50+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
       "id": "jp_football_euro-32b51a1f30fe",
       "title": "早上刷新... U-21日本国家队重启亚运会GL第2节： FW队（ 24张）",
       "summary": "U-21日本国家队18日在丰田市训练， 20日在亚运会小组联赛第二节对阵吉尔吉斯斯坦。",
@@ -2627,6 +2639,570 @@
       "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "football_intl-4d71d4d4ac8e",
+      "title": "曼联正陷入这位德甲组织者的三方斗争中：一个为未来而战？",
+      "summary": "在最近的一份报道中， Fussball News透露，曼联陷入了与拜耳04勒沃库森组织者易卜拉欣·马扎的三方战斗。据说红魔会……",
+      "source_url": "https://sports.yahoo.com/articles/manchester-united-locked-three-way-200500983.html",
+      "publish_time": "2026-09-19T20:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2f5a38c9c93b",
+      "title": "🔥 Raphinha获得了另一个惊人的成绩，加入了梅西和CR7",
+      "summary": "在2026/27赛季开始时，前锋Raphinha穿着巴塞罗那球衣仍然势不可挡。这一次，巴西左后卫Arouna Sangante在Sevi “扭曲”并获得了一个绝对的尖叫声......",
+      "source_url": "https://sports.yahoo.com/articles/messi-cr7-raphinha-scores-another-195800083.html",
+      "publish_time": "2026-09-19T19:58:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-085ecafe6604",
+      "title": "拉恩在大突破前保持距离",
+      "summary": "BBC Sport NI着眼于冠军拉恩本赛季令人印象深刻的开局，以及他们将如何应对即将到来的赛程。",
+      "source_url": "https://sports.yahoo.com/articles/larne-stay-touching-distance-big-195745440.html",
+      "publish_time": "2026-09-19T19:57:45+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-b9e9dcc02263",
+      "title": "报告：利物浦将在西甲后卫的比赛中与曼城作战",
+      "summary": "利物浦跟踪Jon Aramburu ，皇家社会后卫抽签5000万£英超联赛利息利物浦是密切关注Jon Aramburu的俱乐部之一，皇家社会后卫聚会服务......",
+      "source_url": "https://sports.yahoo.com/articles/report-liverpool-set-battle-man-195500866.html",
+      "publish_time": "2026-09-19T19:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-486522768656",
+      "title": "🐐 Salah sinks Galatasaray ： 4-0 ，帽子戏法+助攻！ Leao和Sané 👎",
+      "summary": "穆罕默德·萨拉赫（ 穆罕默德·萨拉赫 ）不同意搬到沙特阿拉伯，并找到了一个中间立场：试图将二线俱乐部带回土耳其的顶端，同时获得“国王的赎金”。",
+      "source_url": "https://sports.yahoo.com/articles/salah-sinks-galatasaray-4-0-195200244.html",
+      "publish_time": "2026-09-19T19:52:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f73a64e2fb32",
+      "title": "Ashton帽子戏法帮助Warrington结束船体KR统治",
+      "summary": "马蒂·阿什顿（ Matty Ashton ）在超级联赛附加赛淘汰赛中击败赫尔金斯顿流浪者队（ Hull Kingston Rovers ）时，获得了帽子戏法",
+      "source_url": "https://sports.yahoo.com/articles/ashton-bags-hat-trick-wire-183437394.html",
+      "publish_time": "2026-09-19T19:51:58+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d708d6b52891",
+      "title": "McCourt希望Glens获得正确的管理人员任命",
+      "summary": "Glentoran临时老板Paddy McCourt表示，管理俱乐部的机会“对某人来说绝对是一项出色的工作”。",
+      "source_url": "https://sports.yahoo.com/articles/mccourt-hopes-glens-managerial-appointment-195057589.html",
+      "publish_time": "2026-09-19T19:50:57+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-7e92d72e4ce6",
+      "title": "Salah帽子戏法带领Trabzonspor以4-0战胜Galatasaray",
+      "summary": "前利物浦前锋穆罕默德·萨拉赫（ 穆罕默德·萨拉赫 ）打进帽子戏法，帮助特拉布宗斯波尔在土耳其超级联赛中以4比0击败冠军加拉塔萨雷（ Galatasar他还协助诺亚·萨维奥罗进球。沙拉是第一个球员……",
+      "source_url": "https://sports.yahoo.com/articles/salah-hat-trick-spearheads-trabzonspor-195000662.html",
+      "publish_time": "2026-09-19T19:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-cd4433ed14e2",
+      "title": "梅林·波尔津（ Merlin Polzin ）在汉堡将他的过程转变为德甲积分后证明了这一点",
+      "summary": "梅林·波尔津（ Merlin Polzin ）坚持认为汉堡可以从连续第二次以5比0击败德甲的比赛中获得切实的进步迹象一周后，这位35岁的球员终于看到他的球队做出了一些选择......",
+      "source_url": "https://sports.yahoo.com/articles/merlin-polzin-vindicated-hamburg-turn-195000949.html",
+      "publish_time": "2026-09-19T19:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-b12a30385560",
+      "title": "莫耶斯对埃弗顿的要求更高-但不要提及欧洲",
+      "summary": "埃弗顿在英超排名第五，本赛季还没有输掉比赛，但主帅大卫·莫耶斯希望进一步改进-更不用说欧洲了。",
+      "source_url": "https://sports.yahoo.com/articles/moyes-demands-more-everton-dont-194833010.html",
+      "publish_time": "2026-09-19T19:48:33+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e6bb38b66a6b",
+      "title": "😎 Raphinha瞄准梅西和CR7 ，因为历史性的开始仍在继续",
+      "summary": "巴塞罗那可以减速吗？塞维利亚当然是这么认为的，因为双方都被锁定在拉蒙·桑切斯-皮斯胡安体育场的一场有趣的1-1战斗中。法国中场尤索的首个进球……",
+      "source_url": "https://sports.yahoo.com/articles/raphinha-takes-aim-messi-cr7-194600923.html",
+      "publish_time": "2026-09-19T19:46:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-9d23bc1bd03a",
+      "title": "阿斯顿维拉面临£ 4200万的决定22岁的挣扎：他们应该留住他吗？",
+      "summary": "俱乐部消息人士淡化了亚历杭德罗·加纳乔（ Alejandro Garnacho ）已经结束阿斯顿维拉（ Aston Villa ）租借的报道。由LiveScore转播的Graeme Bailey报告说， Villa尚未做出最终决定……",
+      "source_url": "https://sports.yahoo.com/articles/aston-villa-facing-42m-decision-194500139.html",
+      "publish_time": "2026-09-19T19:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1d45b52fdb67",
+      "title": "埃文斯在Hibs链接中致力于布里斯托尔流浪者",
+      "summary": "布里斯托尔流浪者队经理史蒂夫·埃文斯（ Steve Evans ）表示，由于猜测他与Hibernian的空缺职位有关，他“不会去任何地方”。",
+      "source_url": "https://sports.yahoo.com/articles/evans-committed-bristol-rovers-amid-194333499.html",
+      "publish_time": "2026-09-19T19:43:33+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-595741b1159a",
+      "title": "利物浦准备为巴西超级巨星提供巨额工资",
+      "summary": "利物浦队最大的差距之一是他们进攻的右侧。失去穆罕默德·萨拉赫对红军来说是一个巨大的打击，他们还没有取代埃及国王。",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-ready-offer-massive-wages-194000248.html",
+      "publish_time": "2026-09-19T19:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a030e2d0ee28",
+      "title": "凯尔特人的胜利“改变了比赛” -但他们能否扭转流浪者队的德比统治地位？",
+      "summary": "前凯尔特人队队长斯科特·布朗（ Scott Brown ）认为，在马丁·奥尼尔（ Martin O'Neill ）的球队经历了动荡的一周之后，周日苏格兰冠军对阵流浪者的胜利“改变了比",
+      "source_url": "https://sports.yahoo.com/articles/celtic-win-changes-game-reverse-191911765.html",
+      "publish_time": "2026-09-19T19:38:09+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-5487ed4763af",
+      "title": "Wrexham's BOOST和Alexander在理想的地方- Aaron McLean的EFL外卖",
+      "summary": "英国广播公司最终得分专家亚伦·麦克莱恩（ Aaron McLean ）着眼于周末EFL的谈话要点，包括雷克瑟姆（ Wrexham ）、QPR和布拉德福德城（ Brad",
+      "source_url": "https://sports.yahoo.com/articles/wrexhams-boost-alexander-ideal-place-191541328.html",
+      "publish_time": "2026-09-19T19:29:33+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-96fa71c62409",
+      "title": "Kilmarnock 1-1 Hearts ： Vrancken说的话",
+      "summary": "Premier Sports询问红心队主教练Wouter Vrancken ，他从裁判那里得到了关于Laurent Mendy被禁止进球的解释。“但是今天和阿伯丁的第一场比赛一样，你必须提高效率，因为我认为我们有很多机会赢得比赛。”",
+      "source_url": "https://sports.yahoo.com/articles/kilmarnock-1-1-hearts-vrancken-191602915.html",
+      "publish_time": "2026-09-19T19:16:02+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-989382ad98dd",
+      "title": "随着Tonali再次褪色， Ruggeri在第一场英超联赛开始时大放异彩",
+      "summary": "马泰奥·鲁杰里（ Matteo Ruggeri ）和桑德罗·托纳利（ Sandro Tonali ）周六下午在托特纳姆热刺体育场（ Tottenham Hotspur Stadium ）出发，在阿斯顿维拉（ Aston Villa ）以3-…",
+      "source_url": "https://sports.yahoo.com/articles/ruggeri-shines-first-premier-league-191500357.html",
+      "publish_time": "2026-09-19T19:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-384506ddae8f",
+      "title": "分析：格拉斯纳留下了思考的食粮",
+      "summary": "在这个结果之后，诺丁汉森林的老板奥利弗·格拉斯纳（ Oliver Glasner ）将会有很多思考。Forest今天的24次射门是他们自2022年重返顶级联赛以来在英超联赛中的第二次射门。同样，本赛季只有帕斯卡尔·格罗斯（ Pascal G…",
+      "source_url": "https://sports.yahoo.com/articles/analysis-glasner-left-food-thought-191246195.html",
+      "publish_time": "2026-09-19T19:12:46+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e818da298108",
+      "title": "74岁：教练传奇人物彼得·赫尔曼去世",
+      "summary": "长期担任德甲助理教练的彼得·赫尔曼（ Peter Hermann ）去世，享年74岁。他的前俱乐部拜耳04勒沃库森（ Bayer 04 Leverkusen ）等人证实了这一点。赫尔曼与尤普·海因克斯（ Jupp Heynckes ）一起组…",
+      "source_url": "https://sports.yahoo.com/articles/74-coaching-legend-peter-hermann-191100382.html",
+      "publish_time": "2026-09-19T19:11:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ce6500620ea2",
+      "title": "确认：利物浦边锋受伤； Andoni Iraola被迫转向",
+      "summary": "由于受伤，利物浦本赛季没有他们想要的边锋。安东尼·伊拉奥拉（ Andoni Iraola ）被迫转向新事物。利物浦现在缺少一支平衡的球队，这是众所周知的。有...",
+      "source_url": "https://sports.yahoo.com/articles/confirmed-injury-costs-liverpool-winger-191000824.html",
+      "publish_time": "2026-09-19T19:10:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-23f154603d12",
+      "title": "布莱顿谦卑阿森纳的“重大教训” - Arteta",
+      "summary": "阿森纳的一次非同寻常的表现让枪手队在击败布莱顿的比赛中打进了三个进球-但这次失利可能是他们需要的“重大教训”吗？",
+      "source_url": "https://sports.yahoo.com/articles/brighton-humbling-big-lesson-arsenal-190840429.html",
+      "publish_time": "2026-09-19T19:08:40+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-7fdedf2332e5",
+      "title": "在马德里竞技vs皇家马德里之前的三个谈话要点|西甲联赛MD 7",
+      "summary": "德比周末就在这里，因为皇家马德里和马德里竞技将于周日下午在利雅得大都会航空公司锁定喇叭。经过多事的转会窗口和口吃的开始，马德里竞技......",
+      "source_url": "https://sports.yahoo.com/articles/three-talking-points-ahead-atletico-190500088.html",
+      "publish_time": "2026-09-19T19:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-890a0f82e15c",
+      "title": "诺丁汉森林0-1考文垂：格拉斯纳说的话",
+      "summary": "诺丁汉森林队在联赛的前三场主场比赛中未能得分，这是他们历史上的第一次。自上赛季开始以来，在目前的球队中，只有托特纳姆热刺在英超联赛中赢得的主场比赛（三场）和主场得分（ 16分）少于诺丁汉森林（四场胜利， 21分）。",
+      "source_url": "https://sports.yahoo.com/articles/nottingham-forest-0-1-coventry-190402624.html",
+      "publish_time": "2026-09-19T19:04:02+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-c1b083db9251",
+      "title": "火热的帽子戏法！ Salah的大师班对阵Galatasaray 🤩🔥",
+      "summary": "小法老的XXL表演！本周六晚上，穆罕默德·萨拉赫（ 穆罕默德·萨拉赫 ）在土耳其进行了他的第一次大型比赛，他真正做到了。在与加拉塔萨雷（ Galatasaray ）的对决中， Egyp...",
+      "source_url": "https://sports.yahoo.com/articles/fiery-hat-trick-salahs-masterclass-190200135.html",
+      "publish_time": "2026-09-19T19:02:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2cb59cabe128",
+      "title": "📋 Mirassol和Botafogo以Maião命名，着眼于安全！",
+      "summary": "本周六（ 19日） ，米拉索尔与博塔福戈只有一个焦点：离开降级区。球将在下午5点（巴西利亚时间）在巴西莱拉的第28场比赛中滚动......",
+      "source_url": "https://sports.yahoo.com/articles/mirassol-botafogo-named-mai-o-190100394.html",
+      "publish_time": "2026-09-19T19:01:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-529f0eea0b78",
+      "title": "Derby's Cashin出局八周，小腿受伤",
+      "summary": "德比后卫埃兰·卡辛（ Eiran Cashin ）因小腿受伤而面临两个月的缺席。",
+      "source_url": "https://sports.yahoo.com/articles/derbys-cashin-eight-weeks-calf-185630806.html",
+      "publish_time": "2026-09-19T18:56:30+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-3538afc642a7",
+      "title": "当2-0落后时， Chivu陷入了缓慢的国际米兰： “我说的话仍然存在于我们之间”",
+      "summary": "克里斯蒂安·奇武（ Cristian Chivu ）暗示，他在半场休息期间让国际米兰拥有它，激发了罗马2-2的又一次复出。“我和球员之间还有一些事情要做。“ Nerazzurri展示了……",
+      "source_url": "https://sports.yahoo.com/articles/chivu-laid-sluggish-inter-2-185500474.html",
+      "publish_time": "2026-09-19T18:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-3dade67421c4",
+      "title": "吉安·皮耶罗·加斯佩里尼对罗马2-2战平国际米兰感到满意",
+      "summary": "意甲巨人国际米兰和罗马在奥林匹克体育场进行了令人兴奋的2-2平局，这是迄今为止意大利顶级联赛的准确代表。Giallorossi老板Gian Pier...",
+      "source_url": "https://sports.yahoo.com/articles/gian-piero-gasperini-satisfied-roma-185500599.html",
+      "publish_time": "2026-09-19T18:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4cc4ca4ce909",
+      "title": "诺亚·阿图博卢（ Noah Atubolu ）反思德甲与弗莱堡的“特别”重聚",
+      "summary": "诺亚·阿图博卢（ Noah Atubolu ）在周六对阵他的前俱乐部的比赛中度过了一个强劲的下午，帮助法兰克福Eintracht在与SC弗莱堡的2-2德甲比赛中获得了一分。这位24岁的守门员……",
+      "source_url": "https://sports.yahoo.com/articles/noah-atubolu-reflects-special-bundesliga-185500587.html",
+      "publish_time": "2026-09-19T18:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6d856044f57d",
+      "title": "巴塞罗那主席批评马德里竞技对朱利安·阿尔瓦雷斯追求的反应： “没有办法证明他们的态度是正确的”",
+      "summary": "朱利安·阿尔瓦雷斯（ Julian Alvarez ）是夏季转会窗口的主要谈话要点之一。巴塞罗那足球俱乐部优先考虑这位阿根廷前锋，并向马德里竞技提交了1亿欧元的报价，马德里竞技拒绝...",
+      "source_url": "https://sports.yahoo.com/articles/barcelona-president-criticises-atletico-madrid-185500878.html",
+      "publish_time": "2026-09-19T18:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ca6ce745d3d4",
+      "title": "德甲球员评分|斯图加特0-1多特蒙德–马克西米利安·贝尔的进球保持了多特蒙德本赛季的完美开局",
+      "summary": "多特蒙德希望通过艰难的斯图加特之旅来保持本赛季的100 ％开局，到目前为止，斯图加特自己不得不面对一场起伏不定的比赛。在最初的45分钟内，...",
+      "source_url": "https://sports.yahoo.com/articles/bundesliga-player-ratings-stuttgart-0-185500684.html",
+      "publish_time": "2026-09-19T18:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-7d7c87ad9eb5",
+      "title": "霍恩彻奇1-0斯肯索普联队",
+      "summary": "Ryan Inniss的下半场头衔足以让Hornchurch以1比0战胜Scunthorpe。",
+      "source_url": "https://sports.yahoo.com/articles/hornchurch-1-0-scunthorpe-united-185216353.html",
+      "publish_time": "2026-09-19T18:52:16+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8aa2522c8b86",
+      "title": "劳塔罗： “考虑到罗马的实力，这是一个很好的观点，但国际米兰不能总是追逐比赛”",
+      "summary": "劳塔罗·马丁内斯（ 劳塔罗·马丁内斯 ）在奥林匹克体育场（ Stadio Olimpico ）以两个下半场进球抢救了一分，但国际米兰的队长在45分钟内直言不讳，这使得救援成为必要。在2-2天后与DAZN交谈......",
+      "source_url": "https://sports.yahoo.com/articles/lautaro-good-point-given-roma-185000425.html",
+      "publish_time": "2026-09-19T18:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e3d9185ef135",
+      "title": "报告：阿森纳瞄准1月签约皇家马德里球星",
+      "summary": "随着皇家马德里谈判，阿森纳对恩德里克的转会兴趣不断增长LoomArsenal对恩德里克的长期钦佩似乎活跃起来，对球员的未来来说，这似乎是一个潜在的重要阶段。",
+      "source_url": "https://sports.yahoo.com/articles/report-arsenal-eyeing-january-move-185000332.html",
+      "publish_time": "2026-09-19T18:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-de4dbd3f8b76",
+      "title": "INTER MOURN桑德罗·马佐拉（ Sandro Mazzola ）是塑造其历史的独立俱乐部偶像",
+      "summary": "国际米兰确认了桑德罗·马佐拉（ Sandro Mazzola ）的去世，向俱乐部形容为内拉祖里（ Nerazzurri ）和世界足球传奇的男子致敬，他小时候加入，从未离开过。根据Ya...",
+      "source_url": "https://sports.yahoo.com/articles/inter-mourn-sandro-mazzola-one-185000681.html",
+      "publish_time": "2026-09-19T18:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-37d148e23b3a",
+      "title": "劳塔罗·马丁内斯（ 劳塔罗·马丁内斯 ）猛烈抨击国际米兰上半场对罗马的比赛： “我们的态度",
+      "summary": "意甲联赛的国际米兰和罗马在奥林匹克体育场进行了惊心动魄的2-2平局，这是迄今为止意大利顶级联赛的准确代表。马努·科内（ Manu Kone ）开启了得分......",
+      "source_url": "https://sports.yahoo.com/articles/lautaro-martinez-slams-inter-1st-184500510.html",
+      "publish_time": "2026-09-19T18:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-dedb677d641e",
+      "title": "凯尔特人的£ 1100万明星在五场比赛干旱后被警告：为什么篮筐需要改变他们的方法？",
+      "summary": "斯科特·辛克莱（ Scott Sinclair ）敦促凯尔特人以1100万美元的£夏季签约卡斯珀·霍格（ Kasper Høgh ）在苏格兰艰难的开局后回应批评。这位前凯尔特人边锋向STV Sport谈到了压力……",
+      "source_url": "https://sports.yahoo.com/articles/celtic-11m-star-warned-five-184500779.html",
+      "publish_time": "2026-09-19T18:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-03bd10f4e97d",
+      "title": "贝灵厄姆，居勒以4-2-3-1开局：皇家马德里如何对阵马德里竞技",
+      "summary": "皇家马德里将在周日面对本赛季迄今为止最艰难的考验，因为他们将在西甲联赛第7天在利雅得大都会航空公司迎战马德里竞技。梅伦格斯队与…",
+      "source_url": "https://sports.yahoo.com/articles/bellingham-guler-start-4-2-184500048.html",
+      "publish_time": "2026-09-19T18:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8c0b5cbffe41",
+      "title": "罗马在国际米兰的Soule ： “显然他们是最强的”",
+      "summary": "Matias Soule无法掩饰他在奥林匹克体育场的沮丧情绪，罗马在奥林匹克体育场以两个进球领先冠军，仅以一分结束了当晚的比赛。阿根廷队通过TuttoMercatoWeb引用...",
+      "source_url": "https://sports.yahoo.com/articles/roma-soule-inter-obviously-strongest-184000187.html",
+      "publish_time": "2026-09-19T18:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-da9cd200aeb2",
+      "title": "埃弗顿让利物浦对突如其来的前锋交易抱有希望",
+      "summary": "埃弗顿无意中让利物浦对突如其来的前锋交易抱有希望。这不是太妃糖的意图-根本不是。利物浦正在寻找一名新前锋。安菲尔德观察了解到……",
+      "source_url": "https://sports.yahoo.com/articles/everton-liverpool-hope-over-sudden-184000652.html",
+      "publish_time": "2026-09-19T18:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-78d76e3d8f8d",
+      "title": "加斯佩里尼： “罗马在国米2-2后的积极性，两支球队都可以赢得比赛”",
+      "summary": "吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）坚持认为，罗马在与国际米兰2-2平局后，应该看到杯子“这边有很多积极因素，两支球队都可以赢得比赛。（这是正面交锋……",
+      "source_url": "https://sports.yahoo.com/articles/gasperini-roma-positivity-2-2-184000810.html",
+      "publish_time": "2026-09-19T18:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4442d993de76",
+      "title": "TNS救援后期获胜， Penybont仍保持不败",
+      "summary": "在克雷格·哈里森（ Craig Harrison ）的球队反击击败兰迪德诺（ Llandudno ）之后， TNS和Penybont在Cymru Premier中保持不败。",
+      "source_url": "https://sports.yahoo.com/articles/unbeaten-penybont-five-star-show-130129688.html",
+      "publish_time": "2026-09-19T18:33:37+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6be87a1c6d43",
+      "title": "Sutton揭示了流浪者让他感到惊讶的地方： Ibrox能否将一场大胜转化为头衔？",
+      "summary": "流浪者队在凯尔特公园（ Celtic Park ）参加周日的英超老公司德比，连续四场胜利落后于德里克·麦金尼斯（ Derek McInnes他们最近的成功来自凯尔特人，丹尼尔得分两次，凯文凯尔西……",
+      "source_url": "https://sports.yahoo.com/articles/sutton-reveals-surprises-him-rangers-182500357.html",
+      "publish_time": "2026-09-19T18:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-cb07284bee68",
+      "title": "令人眼花缭乱的德里·舍汉特（ Derry Scherhant ）以出色的德甲表现跟进德国队",
+      "summary": "德里·舍汉特（ Derry Scherhant ）周六对他的第一次德国国家队高级征召做出了强有力的回应，在SC Freiburg在Eintracht Fran的2-2平局中表现出色。",
+      "source_url": "https://sports.yahoo.com/articles/dazzling-derry-scherhant-follows-germany-182500061.html",
+      "publish_time": "2026-09-19T18:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ef8e31a29a37",
+      "title": "多特蒙德击败斯图加特，保持完美，夺回榜首 🇩🇪",
+      "summary": "本周六（ 19日） ，多特蒙德在主场以1比0击败斯图加特，夺回德甲冠军。前锋马克西米利安·贝尔在第二节第25分钟打进了决定性的进球。",
+      "source_url": "https://sports.yahoo.com/articles/borussia-dortmund-beat-stuttgart-stay-182200539.html",
+      "publish_time": "2026-09-19T18:22:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-42ef62247cf8",
+      "title": "Hayen承认他可能会在伯恩利被解雇",
+      "summary": "伯恩利经理尼基·海恩（ Nicky Hayen ）表示，他理解这种挫折感，因为他的球队在锦标赛中仍然没有获胜。",
+      "source_url": "https://sports.yahoo.com/articles/hayen-admits-could-sacked-burnley-182022209.html",
+      "publish_time": "2026-09-19T18:20:22+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -3026,564 +3602,24 @@
       ]
     },
     {
-      "id": "football_intl-852b3a9cad21",
-      "title": "埃弗顿1-0伊普斯维奇：莫耶斯和皮克福德说的话",
-      "summary": "如果我们得到第二个进球，它会改变比赛，但伊普斯维奇坚持下去，这让他们在比赛后期给我们带来了压力。在英超联赛的第一年总是很艰难，他已经找到了自己的脚，今年他的开局要好得多。",
-      "source_url": "https://sports.yahoo.com/articles/everton-1-0-ipswich-moyes-165354576.html",
-      "publish_time": "2026-09-19T16:53:54+00:00",
-      "category": "football_intl",
+      "id": "nba-d59ad0dfc295",
+      "title": "在关于体育老板的新书中，蔡英文谈到了意想不到的经验教训",
+      "summary": "在新书中， Joe Tsai谈到了他对拥有体育资产的了解",
+      "source_url": "https://sports.yahoo.com/articles/book-sports-owners-joe-tsai-165054488.html",
+      "publish_time": "2026-09-19T16:50:54+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-c20e2fd1609e",
-      "title": "报告：托特纳姆热刺最喜欢签下19岁的后卫",
-      "summary": "托特纳姆热刺领先亚瑟·迪亚斯比赛作为£ 2600万估值形状转会战托特纳姆热刺正在成为追求亚瑟·迪亚斯的俱乐部，巴拉那斯竞技后卫聚集......",
-      "source_url": "https://sports.yahoo.com/articles/report-tottenham-hotspur-favourites-sign-165000498.html",
-      "publish_time": "2026-09-19T16:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-7977e005a6f8",
-      "title": "延迟扳平比分后的特鲁罗城市足总杯住宿体验",
-      "summary": "特鲁罗市经理约翰·阿斯基（ John Askey ）表示，在梅瑟镇（ Merthyr Town ）的1-1足总杯比赛中，他的副手必须在禁区内表现出更多的镇静。",
-      "source_url": "https://sports.yahoo.com/articles/truro-city-stay-fa-cup-164956216.html",
-      "publish_time": "2026-09-19T16:49:56+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c615eb2275c1",
-      "title": "从近乎被遗忘的地方到欧洲-布莱顿时尚地庆祝125周年",
-      "summary": "从默默无闻和几乎被遗忘到英超联赛和欧洲-布莱顿庆祝他们成立125周年。",
-      "source_url": "https://sports.yahoo.com/articles/near-oblivion-europe-brighton-celebrate-063036747.html",
-      "publish_time": "2026-09-19T16:48:41+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-54836f641b55",
-      "title": "德克兰·赖斯（ 德克兰·赖斯 ）在阿森纳击败布莱顿的马利克·雅尔库耶（ Malick Yalcouye ）时避免了野踢红牌",
-      "summary": "赖斯失去了冷静，因为他在3-0失利的最后几秒踢出了Yalcouye",
-      "source_url": "https://sports.yahoo.com/articles/declan-rice-avoids-red-card-164803190.html",
-      "publish_time": "2026-09-19T16:48:03+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b9cd29461a23",
-      "title": "纽卡斯尔2-1船体： Jaissle所说的",
-      "summary": "纽卡斯尔在对阵赫尔的过去四场英超比赛中赢了三场（对手平局） ，在与老虎队的比赛中赢得了有史以来的第一场主场比赛。刘易斯·霍尔在仅仅6分34秒之后的进球是自2023年4月对阵马刺以来英超联赛主场比赛中纽卡斯尔最早以2比0领先（乔林顿在第六分钟…",
-      "source_url": "https://sports.yahoo.com/articles/newcastle-2-1-hull-jaissle-164632566.html",
-      "publish_time": "2026-09-19T16:46:32+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c82a5eb4ce89",
-      "title": "我们从德甲第4场比赛中学到了三件事–格拉德巴赫、米切尔·魏泽的复出故事和汉堡的情况变得更糟",
-      "summary": "拜仁慕尼黑在国际比赛日之前的最后一场德甲比赛日开始，以7比0击败柏林联盟，哈里·凯恩和迈克尔·奥利斯都宣称他们对金球奖的要求......",
-      "source_url": "https://sports.yahoo.com/articles/three-things-learnt-bundesliga-matchday-164500737.html",
-      "publish_time": "2026-09-19T16:45:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-8d81f233fc75",
-      "title": "400名警察部署加热伦敦德比后，米尔沃尔和西汉姆逮捕更新",
-      "summary": "大都会警察周六向巢穴投掷了一枚“钢圈” ，以确保不会重演前几季破坏该装置的暴力事件",
-      "source_url": "https://sports.yahoo.com/articles/millwall-west-ham-arrest-400-164228718.html",
-      "publish_time": "2026-09-19T16:42:28+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-9ef5c886f920",
-      "title": "Hibernian 1-1 Aberdeen ：经理说的话",
-      "summary": "从俱乐部的角度来看，他们将在准备好引进新主教练或新教练团队时做出决定。球员们已经休息了几天，我相信我会在本周初从俱乐部那里听到发生了什么。",
-      "source_url": "https://sports.yahoo.com/articles/hibernian-1-1-aberdeen-manager-164219203.html",
-      "publish_time": "2026-09-19T16:42:19+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-5ce37b55a58a",
-      "title": "博洛尼亚与都灵平局后，帕拉迪诺“没想到完美匹配”",
-      "summary": "拉斐尔·帕拉迪诺（ Raffaele Palladino ）负责博洛尼亚的第一场比赛以1-1战平都灵（ Torino ）在达拉拉（ Dall 'Ara ）结束，教练对三天的工作成果持现实态度。",
-      "source_url": "https://sports.yahoo.com/articles/palladino-didn-t-expect-perfect-164000150.html",
-      "publish_time": "2026-09-19T16:40:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-41a1e3ef1940",
-      "title": "布莱顿3-0阿森纳：阿尔特塔说了什么",
-      "summary": "在最初的20或30分钟内，技术错误的数量不断给我们带来压力。阿森纳遭遇了自2023年5月以来最大的英超联赛失利，这也是对阵布莱顿的比赛（阿联酋体育场0-3 ）。这是阿森纳自1989年10月以来在一个赛季中最大的联赛失利，他们是卫冕冠军，在埃…",
-      "source_url": "https://sports.yahoo.com/articles/brighton-3-0-arsenal-arteta-163846833.html",
-      "publish_time": "2026-09-19T16:38:46+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b5b62c35a1e2",
-      "title": "纽卡斯尔2-1船体： Jakirovic所说的话",
-      "summary": "穆罕默德·贝卢米（ Mohamed Belloumi ）本赛季在英超联赛中打进了四个进球（两个进球，两个助攻） ，在比赛的前五场比赛中，赫尔球员与穆罕默德·迪亚梅（ Mohamed Diame ） （四个进球）和Dame N'Doye （三…",
-      "source_url": "https://sports.yahoo.com/articles/newcastle-2-1-hull-jakirovic-163733486.html",
-      "publish_time": "2026-09-19T16:37:33+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-f996e1b3144c",
-      "title": "布莱顿3-0阿森纳：赫泽勒和格罗斯说的话",
-      "summary": "在过去的三个赛季中，布莱顿现在已经在主场战胜了卫冕英超冠军，在2024-25赛季击败了曼城，在2025-26赛季击败了利物浦，今天击败了阿森纳。本赛季没有任何球员比布莱顿的格罗斯（六个进球，三个助攻）更多地参与了英超联赛的进球，后者今天在对…",
-      "source_url": "https://sports.yahoo.com/articles/brighton-3-0-arsenal-hurzeler-163621883.html",
-      "publish_time": "2026-09-19T16:36:21+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1c206508a836",
-      "title": "Castellanos随地吐痰的声称掩盖了西汉姆联的性格表现",
-      "summary": "Millwall守门员Filip Marshcall声称他在2-2平局中被西汉姆前锋Taty Castellanos吐口水。",
-      "source_url": "https://sports.yahoo.com/articles/castellanos-spitting-claim-overshadows-west-162631288.html",
-      "publish_time": "2026-09-19T16:26:31+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d7330dc505c8",
-      "title": "Saka获得7分，木材获得5.5分|阿森纳球员对布莱顿的失利率较低",
-      "summary": "今天早些时候，阿森纳在美国运通社区体育场对阵布莱顿和霍夫阿尔比恩，因为他们希望在英超联赛中取得好成绩。枪手们做了一个……",
-      "source_url": "https://sports.yahoo.com/articles/saka-gets-7-timber-5-162500069.html",
-      "publish_time": "2026-09-19T16:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-9f178363e673",
-      "title": "Real Madrid manager gives 维尼修斯 strict instructions ahead of Madrid derby – report",
-      "summary": "Real Madrid manager Jose Mourinho has reportedly laid down clear instructions for 维尼修斯. ahead of the Madrid derby…",
-      "source_url": "https://sports.yahoo.com/articles/real-madrid-manager-gives-vinicius-113000937.html",
-      "publish_time": "2026-09-19T11:30:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e59bac4ffbd7",
-      "title": "Spanish journalist explains what Real Madrid will do if 基利安·姆巴佩 does not win Ballon d’Or",
-      "summary": "Real Madrid are expected to attend this year’s Ballon d’Or ceremony regardless of whether 基利安·姆巴佩 wins the award,…",
-      "source_url": "https://sports.yahoo.com/articles/spanish-journalist-explains-real-madrid-074000247.html",
-      "publish_time": "2026-09-19T07:40:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-01ae4412e19b",
-      "title": "今年夏天，您的英超俱乐部邀请了谁加入并解散？",
-      "summary": "2026年夏季转会窗口期间，您在苏格兰超级联赛中的所有来龙去脉的一站式商店。",
-      "source_url": "https://sports.yahoo.com/articles/premiership-club-brought-let-summer-051927023.html",
-      "publish_time": "2026-09-18T23:30:24+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-ad4515e2db43",
-      "title": "您的锦标赛俱乐部邀请了谁加入并放手？ - 2026年夏季",
-      "summary": "在夏季转会窗口期间，您在苏格兰锦标赛中的所有来龙去脉的一站式商店。",
-      "source_url": "https://sports.yahoo.com/articles/championship-club-brought-let-summer-154629561.html",
-      "publish_time": "2026-09-18T23:30:24+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1b3ed3ac3a5d",
-      "title": "您的苏格兰联赛2俱乐部是谁带来的？ - 2026年夏天",
-      "summary": "您的苏格兰四线俱乐部2026年夏季接送指南。",
-      "source_url": "https://sports.yahoo.com/articles/scottish-league-2-club-brought-155542429.html",
-      "publish_time": "2026-09-18T23:30:24+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-6b8056e71190",
-      "title": "您的苏格兰联赛1俱乐部邀请了谁加入并放手？ - 2026年夏季",
-      "summary": "您的苏格兰三线俱乐部2026年夏季接送指南。",
-      "source_url": "https://sports.yahoo.com/articles/scottish-league-1-club-brought-155510315.html",
-      "publish_time": "2026-09-18T23:30:24+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-95e1e2804fb1",
-      "title": "切尔西想念若昂·佩德罗……不断失球",
-      "summary": "切尔西的问题是防守，但由于若昂·佩德罗因受伤而被排除在外，进球也成了一个问题。",
-      "source_url": "https://sports.yahoo.com/articles/chelsea-miss-joao-pedro-cant-223930432.html",
-      "publish_time": "2026-09-18T23:04:57+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c7547d31454a",
-      "title": "布伦特福德3-0切尔西：安德鲁斯和舒斯特说了什么",
-      "summary": "布伦特福德在周五打了七场英超比赛，赢得了其中六场比赛，在这个过程中只丢了一球。布伦特福德在英超联赛中赢得了他们过去四场伦敦德比中的三场，与之前的21场一样多。",
-      "source_url": "https://sports.yahoo.com/articles/brentford-3-0-chelsea-andrews-220600101.html",
-      "publish_time": "2026-09-18T22:06:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b00ce7d8d71b",
-      "title": "克利夫顿维尔获胜，将领先优势扩大到八强",
-      "summary": "克利夫顿维尔获胜，将他们在女子超级联赛中的领先优势扩大到8分，并朝着可能赢得冠军的方向迈进了一步。",
-      "source_url": "https://sports.yahoo.com/articles/cliftonville-win-extend-lead-top-220502722.html",
-      "publish_time": "2026-09-18T22:05:02+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b6ee6455d615",
-      "title": "巴西边锋在曼城的第一瞥充满了希望",
-      "summary": "巴西边锋艾伦终于在曼城首次亮相，曼城在第三轮卡拉宝杯比赛中以5比0击败诺维奇城。Allan在夏天从帕尔梅拉斯来到曼城，不得不...",
-      "source_url": "https://sports.yahoo.com/articles/first-glimpse-brazilian-winger-manchester-220500774.html",
-      "publish_time": "2026-09-18T22:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d6f24c924748",
-      "title": "WSL ： Lauren Hemp在歌曲中饰演Man City包包，在对阵利物浦的最后一分钟获胜",
-      "summary": "对阵加雷斯·泰勒（ Gareth Taylor ）的利物浦队的一场紧张的六球惊悚片让曼城保持了不败的势头。Lauren Hemp、Bunny Shaw、Alice Bergström、Vivien Endemann的目标以及...",
-      "source_url": "https://sports.yahoo.com/articles/wsl-lauren-hemp-song-man-220500694.html",
-      "publish_time": "2026-09-18T22:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3c1331c131c3",
-      "title": "布伦特福德3-0切尔西：阿隆索和科尔维尔说了什么",
-      "summary": "首先，承认一块定位球并不是最好的，我们试图推，也许过度曝光自己，打了一些我们不应该打的传球，他们在柜台上击中了我们，第二个进球和第三个进球击中了主场并受伤。马赫迪·尼科尔-贾祖利（ Mahdi Nicoll-Jazuli ）成为2010年出…",
-      "source_url": "https://sports.yahoo.com/articles/brentford-3-0-chelsea-alonso-220126024.html",
-      "publish_time": "2026-09-18T22:01:26+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-dcd67100f7fb",
-      "title": "分析：舒斯特在伊戈尔·蒂亚戈打破他的鸭子时闪闪发光",
-      "summary": "没有比赛的三周并不是任何英超球迷所期待的，但布伦特福德的支持者至少可以度过即将到来的国际休息时间，以反映他们本赛季的出色开局。现在是2026-27赛季开始的六场不败比赛，至少现在，他们看不起除了阿森纳和曼城之外的所有人。可以说，布伦特福德最…",
-      "source_url": "https://sports.yahoo.com/articles/analysis-schuster-shines-igor-thiago-215538332.html",
-      "publish_time": "2026-09-18T21:55:38+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-480136afb13f",
-      "title": "意大利召唤了34名球员，但曼奇尼冷落了雷特吉、乌多吉、扎卡尼和波利塔诺",
-      "summary": "罗伯托·曼奇尼（ Roberto Mancini ）为他的第一支意大利队召集了34名球员，但仍然遗漏了包括马特奥·雷特吉（ Mateo Retegui ）、马蒂亚·扎卡尼（ Mattia Zaccagni ）、命运·乌多吉（ Destiny…",
-      "source_url": "https://sports.yahoo.com/articles/italy-call-34-players-mancini-215000215.html",
-      "publish_time": "2026-09-18T21:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b3de586f37f2",
-      "title": "曼城对阵诺里奇城的另一个进攻选择",
-      "summary": "弗洛伊德·桑巴（ Floyd Samba ）是该节目的明星，曼城以5比0击败诺维奇城（ Norwich City ） ，进入卡拉宝杯（ Carabao Cup ）第四轮。桑巴在城市一线队首次亮相，并在一场壮观的比赛中获得了支撑……",
-      "source_url": "https://sports.yahoo.com/articles/another-attacking-option-revealed-itself-214500052.html",
-      "publish_time": "2026-09-18T21:45:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4e3038d75128",
-      "title": "阿森纳在适当情况下对道曼贷款开放",
-      "summary": "阿森纳愿意允许十几岁的神童马克斯·道曼（ Max Dowman ）在本赛季租借离开俱乐部，如果这有助于他的发展的话。",
-      "source_url": "https://sports.yahoo.com/articles/arsenal-open-dowman-loan-circumstances-213443702.html",
-      "publish_time": "2026-09-18T21:34:43+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1c73bc3887af",
-      "title": "分析：切尔西的稳固性证明是短暂的",
-      "summary": "在连续取得胜利和大量进球的积极开局之后，切尔西的情况很快变得棘手。现在是三场没有胜利的联赛，当时有7个进球，本赛季总共有12个进球，加上卡拉宝杯的另外3个进球。考虑到这些防守问题，阿隆索请来了乔丹·亨德森和瓦伦丁·巴尔科来支撑中场，并持续了…",
-      "source_url": "https://sports.yahoo.com/articles/analysis-chelsea-solidity-proves-short-213244836.html",
-      "publish_time": "2026-09-18T21:32:44+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-6608335eded2",
-      "title": "为什么Andoni Iraola带着还有待证明的东西回到伯恩茅斯",
-      "summary": "伊拉奥拉在樱桃队的任期将他们带到了另一个层次，但他现在必须证明，当他的新俱乐部在本周末与他的老东家对峙时，他可以在利物浦做同样的事情。",
-      "source_url": "https://sports.yahoo.com/articles/why-andoni-iraola-returns-bournemouth-213041278.html",
-      "publish_time": "2026-09-18T21:30:41+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-68d00fa4f699",
-      "title": "努诺的决定对西汉姆联球员产生了严重影响：为什么锤子应该寻求1月份的转会？",
-      "summary": "埃德森·阿尔瓦雷斯（ Edson Álvarez ）在西汉姆联（ West Ham United ）失去了在俱乐部计划和拉斐尔·马尔克斯（ Rafael Márquez ）的第一支墨西哥队中的位置后，面临着TUDN记者Gibrán Arai…",
-      "source_url": "https://sports.yahoo.com/articles/nuno-decision-affecting-west-ham-212500439.html",
-      "publish_time": "2026-09-18T21:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-198335c76600",
-      "title": "萨里： ‘唯一积极的开局是在切尔西，不是对尤文图斯的美好回忆’",
-      "summary": "毛里齐奥·萨里（ Maurizio Sarri ）坚持认为亚特兰大不应该担心，因为“我职业生涯中唯一积极的开始是在切尔西” ，但他承认他对自己在尤文图斯的时光没有“美好的回忆”。",
-      "source_url": "https://sports.yahoo.com/articles/sarri-only-positive-start-chelsea-212000545.html",
-      "publish_time": "2026-09-18T21:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4a99fd2a22cb",
-      "title": "Fofana获得7分， Neto获得6分|切尔西球员以令人失望的失利对阵布伦特福德",
-      "summary": "今晚早些时候，切尔西在Gtech社区体育场对阵布伦特福德，因为他们希望在英超联赛中取得好成绩。蓝调队在比赛中取得了良好的开端，并且...",
-      "source_url": "https://sports.yahoo.com/articles/fofana-gets-7-neto-6-212000219.html",
-      "publish_time": "2026-09-18T21:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-a5099e3fa481",
-      "title": "每次年轻后卫为曼城效力时，他都会沉着冷静",
-      "summary": "周四晚上，曼城在阿提哈德体育场巡航经过诺维奇城，当时他们以5-0的胜利预订了第四轮卡拉宝杯对阵布莱顿的比赛。恩佐·马雷斯卡得到了……",
-      "source_url": "https://sports.yahoo.com/articles/every-time-young-defender-plays-212000231.html",
-      "publish_time": "2026-09-18T21:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-faa94b1400ef",
-      "title": "移动，没有机会进入梦幻俱乐部！德甲青少年必须保存开局",
-      "summary": "“我很高兴能有机会在这里为世界上最大的俱乐部效力。我肯定想抓住这个机会，我非常高兴。现在我要全力以赴……",
-      "source_url": "https://sports.yahoo.com/articles/move-not-chance-dream-club-211600137.html",
-      "publish_time": "2026-09-18T21:16:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-dfa49f983713",
-      "title": "德里城击败戈尔韦在联赛中排名第四",
-      "summary": "亚当·奥莱利（ Adam O'Reilly ）在上半场停赛时的进球让德里城（ Derry City ）在本赛季对阵戈尔韦联队的比赛中首次获胜，并在所有比赛中连续第五次获胜。",
-      "source_url": "https://sports.yahoo.com/articles/derry-city-beat-galway-move-210434998.html",
-      "publish_time": "2026-09-18T21:14:11+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-60e5e0b6658c",
-      "title": "独家| Tony Cascarino ： “马赛仍然是法国最大的俱乐部。”",
-      "summary": "前爱尔兰国脚和马赛奥林匹克邪教传奇人物托尼·卡斯卡里诺（ Tony Cascarino ）与《获取法国足球新闻》（ Get French Football News ）坐下来讨论他在法甲的时间以及俱乐部的当前状况...",
-      "source_url": "https://sports.yahoo.com/articles/exclusive-tony-cascarino-marseille-still-211000504.html",
-      "publish_time": "2026-09-18T21:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-13f8fc848ae4",
-      "title": "Brobbey将领先一线| 4-2-3-1桑德兰预测阵容对曼城",
-      "summary": "本周日，桑德兰将在阿提哈德体育场对阵曼城，因为他们希望在英超联赛中取得好成绩。黑猫队以1比0战胜了……",
-      "source_url": "https://sports.yahoo.com/articles/brobbey-lead-line-4-2-210500624.html",
-      "publish_time": "2026-09-18T21:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-69f403f337bb",
-      "title": "利物浦的下一个乔丹·亨德森来了，安东尼·伊拉奥拉已经派他的球探去看他了",
-      "summary": "利物浦的中场显然是他们目前队伍中最薄弱的区域。尽管亚历克西斯·麦克·阿利斯特（ Alexis Mac Allister ）已经设法恢复了最佳状态，但红军仍然可以通过更换球员来做到这一点",
-      "source_url": "https://sports.yahoo.com/articles/liverpools-next-jordan-henderson-andoni-210500619.html",
-      "publish_time": "2026-09-18T21:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-cade378cbdb8",
-      "title": "伊戈尔·蒂亚戈的肩膀上的重量-布伦特福德v切尔西评级",
-      "summary": "布伦特福德以2比0战胜切尔西，在英超联赛中排名第三-以下是BBC Sport的球员收视率。",
-      "source_url": "https://sports.yahoo.com/articles/weight-off-thiagos-shoulders-brentford-205711190.html",
-      "publish_time": "2026-09-18T21:04:51+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-15711025b48f",
-      "title": "💣 瓦雷拉的支架落下萨索洛，蒙扎以2-1获胜！阿齐奇戈拉佐 🤩",
-      "summary": "蒙扎以2比1击败萨索洛，赢得了第5场比赛揭幕战。来自猖獗的Varela （ 51英尺， 63英尺）的支撑将蒙扎放在前面，然后令人惊叹的Adzic任意球（ 87英尺）恢复了Emiliani的希望，但这是...",
-      "source_url": "https://sports.yahoo.com/articles/varelas-brace-fells-sassuolo-monza-205400647.html",
-      "publish_time": "2026-09-18T20:54:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-9228db3c3e51",
-      "title": "PL ：切尔西沉没在布伦特福德！",
-      "summary": "蓝军不再前进。在第五个联赛比赛日前往布伦特福德时，切尔西绊倒了（ 3-0 ）。在勇敢而团结的蜜蜂队中保持安静，蓝军被抓住了。",
-      "source_url": "https://sports.yahoo.com/articles/pl-chelsea-sink-brentford-205400829.html",
-      "publish_time": "2026-09-18T20:54:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c81821f892ce",
-      "title": "阿斯顿维拉在阿森纳的兴趣中追踪了£ 1700万中场球员：俱乐部能否从他的个人资料中受益？",
-      "summary": "阿斯顿维拉已加入阿森纳和布莱顿，在斯特姆格拉茨追踪一名17岁的中场球员卢卡·温汉德尔，据报道收费£ 1700万。BBC援引报道称，这三家英超俱乐部...",
-      "source_url": "https://sports.yahoo.com/articles/aston-villa-tracking-17m-midfielder-205000995.html",
-      "publish_time": "2026-09-18T20:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-978bf1a3ffbb",
-      "title": "球员评级|摩纳哥2-1镜头：菲利普·路易斯一侧登上法甲榜首，因为镜头的亚尼克·卡胡扎克时代以失败开始",
-      "summary": "Ligue 1 McDonald's, Round 5, 18/09/26AS Monaco在本赛季继续保持不败的开局，并凭借对RC Lens的微弱胜利重返Ligue 1的榜首， RC Lens在...",
-      "source_url": "https://sports.yahoo.com/articles/player-ratings-monaco-2-1-205000392.html",
-      "publish_time": "2026-09-18T20:50:00+00:00",
-      "category": "football_intl",
+      "id": "nba-31ebb44206f8",
+      "title": "Adou Thiero可以抢第五名的3个理由",
+      "summary": "湖人队在首发阵容中有一个空位。Adou Thiero可以在赛季结束前拿下它吗？",
+      "source_url": "https://sports.yahoo.com/articles/3-reasons-adou-thiero-could-163000470.html",
+      "publish_time": "2026-09-19T16:30:00+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4524,73 +4560,9 @@
       "tags": [
         "Yahoo Sports"
       ]
-    },
-    {
-      "id": "nba-20226b729ac3",
-      "title": "2026-27梦幻篮球排行榜：控球卫（ 9类）",
-      "summary": "现在是丹·泰特斯（ Dan Titus ）在2026-27赛季首批PG九类幻想篮球选秀排名的时候了。",
-      "source_url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-rankings-point-guards-9-category-170715495.html",
-      "publish_time": "2026-09-17T17:07:15+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-0b6619f9db21",
-      "title": "2026-27梦幻篮球排行榜：射门卫（ 9类）",
-      "summary": "现在是丹·泰特斯（ Dan Titus ）在2026-27赛季首批SG九类梦幻篮球选秀排名的时候了。",
-      "source_url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-rankings-shooting-guards-9-category-170712084.html",
-      "publish_time": "2026-09-17T17:07:12+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
     }
   ],
   "matchPreviews": [
-    {
-      "id": "mp-fb-376e0792e592",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "威尼斯",
-      "away_team": "拉齐奥",
-      "match_time": "2026-09-19T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-e83499eea87d",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "图卢兹",
-      "away_team": "勒阿弗尔",
-      "match_time": "2026-09-19T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-ef5461e17fc5",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "里昂",
-      "away_team": "雷恩",
-      "match_time": "2026-09-19T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-29790a857738",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "塞维利亚",
-      "away_team": "巴塞罗那",
-      "match_time": "2026-09-19T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
     {
       "id": "mp-fb-880c613bc0c2",
       "sport": "football",
@@ -4698,6 +4670,56 @@
       "home_team": "尤文图斯",
       "away_team": "亚特兰大",
       "match_time": "2026-09-20T16:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-168649bf05c9",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "拉科鲁尼亚",
+      "away_team": "皇家贝蒂斯",
+      "match_time": "2026-09-20T16:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-dd02907daf43",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "比利亚雷亚尔",
+      "away_team": "莱万特",
+      "match_time": "2026-09-20T16:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-bdb5c254bd27",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "AC米兰",
+      "away_team": "莱切",
+      "match_time": "2026-09-20T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-eb437da6dac0",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "马赛",
+      "away_team": "巴黎圣日耳曼",
+      "match_time": "2026-09-20T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3341c7b27258",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "瓦伦西亚",
+      "away_team": "皇家社会",
+      "match_time": "2026-09-20T19:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
