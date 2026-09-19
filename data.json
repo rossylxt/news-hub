@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-19T06:21:26.646325+00:00",
+  "generated_at": "2026-09-19T08:13:50.838330+00:00",
   "news": [
+    {
+      "id": "ai_cn-5dc823504798",
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "source_url": "https://www.qbitai.com/2026/09/492467.html",
+      "publish_time": "2026-09-19T06:44:02+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-fba59f0fc220",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "summary": "同一预测核心，跨七类系统验证",
+      "source_url": "https://www.qbitai.com/2026/09/492429.html",
+      "publish_time": "2026-09-19T06:39:32+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-7ff77023a503",
       "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
@@ -2474,6 +2498,18 @@
       ]
     },
     {
+      "id": "football_intl-e59bac4ffbd7",
+      "title": "Spanish journalist explains what Real Madrid will do if 基利安·姆巴佩 does not win Ballon d’Or",
+      "summary": "Real Madrid are expected to attend this year’s Ballon d’Or ceremony regardless of whether 基利安·姆巴佩 wins the award,…",
+      "source_url": "https://sports.yahoo.com/articles/spanish-journalist-explains-real-madrid-074000247.html",
+      "publish_time": "2026-09-19T07:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-01ae4412e19b",
       "title": "今年夏天，您的英超俱乐部邀请了谁加入并解散？",
       "summary": "2026年夏季转会窗口期间，您在苏格兰超级联赛中的所有来龙去脉的一站式商店。",
@@ -3417,18 +3453,6 @@
       "publish_time": "2026-09-18T09:34:40+00:00",
       "category": "football_intl",
       "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c191d0ac0250",
-      "title": "确认：随着特伦特的回归，两名皇家马德里球星在英格兰国家联赛阵容中",
-      "summary": "随着2026/27赛季的第一次国际比赛即将到来，国家队经理已经宣布了为期三周的阵容，在此期间他们将参加三到四场比赛......",
-      "source_url": "https://sports.yahoo.com/articles/confirmed-two-real-madrid-stars-093000748.html",
-      "publish_time": "2026-09-18T09:30:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
@@ -4516,6 +4540,16 @@
       "tags": []
     },
     {
+      "id": "mp-fb-b263b8e31b86",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "巴黎FC",
+      "away_team": "斯特拉斯堡",
+      "match_time": "2026-09-19T15:15:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
       "id": "mp-fb-c6ef1679cc90",
       "sport": "football",
       "competition": "意甲",
@@ -4546,32 +4580,12 @@
       "tags": []
     },
     {
-      "id": "mp-fb-29790a857738",
+      "id": "mp-fb-e83499eea87d",
       "sport": "football",
-      "competition": "西甲",
-      "home_team": "塞维利亚",
-      "away_team": "巴塞罗那",
-      "match_time": "2026-09-19T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-880c613bc0c2",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "佛罗伦萨",
-      "away_team": "那不勒斯",
-      "match_time": "2026-09-20T10:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-b6a48b4b6cda",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "赫塔费",
-      "away_team": "马拉加",
-      "match_time": "2026-09-20T12:00:00Z",
+      "competition": "法甲",
+      "home_team": "图卢兹",
+      "away_team": "勒阿弗尔",
+      "match_time": "2026-09-19T18:45:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
