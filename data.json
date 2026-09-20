@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:16:19.653629+00:00",
+  "generated_at": "2026-09-20T20:16:53.982126+00:00",
   "news": [
     {
       "id": "ai_cn-48cd23993c4b",
@@ -2426,6 +2426,20 @@
       ]
     },
     {
+      "id": "jp_football_euro-082236dec7b0",
+      "title": "伯恩茅斯对利物浦的比赛纪录",
+      "summary": "[英超联赛第5节] （活力体育场）伯恩茅斯0-1 （上半场0-0 ）利物浦[Ri]亚历山大·艾萨克（ 57分钟） [Bo]安东尼奥·席尔瓦（ 81分钟） [Ri]多米尼克·乔博斯莱（ 46分钟） ，亚历山大·艾萨克（ 58分钟）人群： 11…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?459277-459277-fl",
+      "publish_time": "2026-09-20T15:00:02+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "ボーンマスvsリバプール 試合記録",
+      "_raw_summary": "【プレミアリーグ第5節】(バイタリティ スタジアム)ボーンマス 0-1(前半0-0)リバプール[リ]アレクサンデル・イサク(57分)[ボ]アントニオ・シウバ(81分)[リ]ドミニク・ショボスライ(46分)、アレクサンデル・イサク(58分)観衆:11,316人└遠藤航が今季プレミア初のメンバー外…リバプールはイラオラ監督凱旋マッチでボーンマス破って今季"
+    },
+    {
       "id": "jp_football_euro-ec783342b02b",
       "title": "与日本同组，泰国以5分的大成绩两次夺得亚运会冠军！香港是“十号”市川悟有机会……不幸的是连续两场失利",
       "summary": "[9.20亚运会GL第2节泰国5-1香港丰田]亚运会于20日举行小组联赛第2节。U-23泰国国家队和U-23香港国家队与U-21日本国家队在同一组中连续两次获胜，泰国队以5-1获胜。作为对这一结果的回应，如果从晚上7:30开始比赛的日本击败…",
@@ -4718,36 +4732,5 @@
       ]
     }
   ],
-  "matchPreviews": [
-    {
-      "id": "mp-fb-bdb5c254bd27",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "AC米兰",
-      "away_team": "莱切",
-      "match_time": "2026-09-20T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-eb437da6dac0",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "马赛",
-      "away_team": "巴黎圣日耳曼",
-      "match_time": "2026-09-20T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-3341c7b27258",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "瓦伦西亚",
-      "away_team": "皇家社会",
-      "match_time": "2026-09-20T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    }
-  ]
+  "matchPreviews": []
 }
