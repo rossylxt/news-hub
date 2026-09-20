@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:16:30.621673+00:00",
+  "generated_at": "2026-09-20T12:20:36.929763+00:00",
   "news": [
     {
       "id": "ai_cn-c33ec3bbf1e5",
@@ -2366,6 +2366,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-ec783342b02b",
+      "title": "与日本同组，泰国以5分的大成绩两次夺得亚运会冠军！香港是“十号”市川悟有机会……不幸的是连续两场失利",
+      "summary": "[9.20亚运会GL第2节泰国5-1香港丰田]亚运会于20日举行小组联赛第2节。U-23泰国国家队和U-23香港国家队与U-21日本国家队在同一组中连续两次获胜，泰国队以5-1获胜。作为对这一结果的回应，如果从晚上7:30开始比赛的日本击败…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459237-459237-fl",
+      "publish_time": "2026-09-20T08:50:26+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-b3b2cf117a27",
       "title": "在对阵吉尔吉斯斯坦的比赛前一天完成训练的U-21日本国家队回国（ 16件）",
       "summary": "U-21日本国家队19日在丰田市训练， 20日在亚运会小组联赛第二节对阵吉尔吉斯斯坦。●第20届亚运会特色",
@@ -2723,6 +2735,18 @@
       "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "football_intl-ba6c470b2410",
+      "title": "Premier League explain why 德克兰·赖斯 was not sent off v Brighton",
+      "summary": "The Premier League has explained why 德克兰·赖斯 was not sent off at Brighton after a late incident that prompted questi…",
+      "source_url": "https://sports.yahoo.com/articles/premier-league-explain-why-declan-110500944.html",
+      "publish_time": "2026-09-20T11:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -3667,18 +3691,6 @@
       "summary": "第5轮， 26年9月19日，法甲麦当劳在Groupama体育场的比赛前，两支球队都在法甲联赛中保持不败，里昂和雷恩希望在可能是一个开放的冠军头衔中保持势头……",
       "source_url": "https://sports.yahoo.com/articles/player-ratings-lyon-4-0-205500293.html",
       "publish_time": "2026-09-19T20:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1deef56ecda8",
-      "title": "流浪者在Ibrox英雄闪耀后提供讨价还价的转移提升：他们应该触发这个选择吗？",
-      "summary": "据报道，流浪者拥有独家、预先商定的选择权，可以从雅典AEK永久签下詹姆斯·彭里斯（ James Penrice ） ，费用最低为六位数。每日记录首先报告了该条款，该条款给出了...",
-      "source_url": "https://sports.yahoo.com/articles/rangers-handed-bargain-transfer-boost-204500585.html",
-      "publish_time": "2026-09-19T20:45:00+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
@@ -4647,26 +4659,6 @@
     }
   ],
   "matchPreviews": [
-    {
-      "id": "mp-fb-880c613bc0c2",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "佛罗伦萨",
-      "away_team": "那不勒斯",
-      "match_time": "2026-09-20T10:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-b6a48b4b6cda",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "赫塔费",
-      "away_team": "马拉加",
-      "match_time": "2026-09-20T12:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
     {
       "id": "mp-fb-673f9a4c2905",
       "sport": "football",
