@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-22T02:58:15.077753+00:00",
+  "generated_at": "2026-09-22T04:32:25.163104+00:00",
   "news": [
+    {
+      "id": "ai_cn-2621e496fe5f",
+      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+      "summary": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+      "source_url": "https://www.qbitai.com/2026/09/493502.html",
+      "publish_time": "2026-09-22T02:59:29+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-1bcbd060a94f",
+      "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+      "summary": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+      "source_url": "https://www.qbitai.com/2026/09/493485.html",
+      "publish_time": "2026-09-22T02:52:05+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-6ab7877b2a12",
+      "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+      "summary": "弥补算力缺口，不能只靠堆料",
+      "source_url": "https://www.qbitai.com/2026/09/493363.html",
+      "publish_time": "2026-09-22T02:22:06+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-1da6747d8a01",
       "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
@@ -671,6 +707,54 @@
       "is_important": false,
       "tags": [
         "量子位"
+      ]
+    },
+    {
+      "id": "ai_intl-502072b10c62",
+      "title": "建造苹果商店的人不会买硅谷在人工智能购物上的赌注",
+      "summary": "苹果零售店建筑师罗恩·约翰逊（ Ron Johnson ）表示，苹果的秘密酱汁一直",
+      "source_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "publish_time": "2026-09-21T23:44:28+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-c06d2cf00824",
+      "title": "OpenAI成立数学咨询小组，其AI解决了100多个未解决的问题",
+      "summary": "该小组不会有放慢或重定向OpenAI正在进行的数学研究的余地。",
+      "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "publish_time": "2026-09-21T20:15:58+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-491414dc30a2",
+      "title": "探索下一步：还有5天时间， TechCrunch Disrupt 2026门票最高可节省200 $",
+      "summary": "还有五天时间，您的TechCrunch Disrupt 2026通行证最多可节省200 $ +第二张通行证五折优惠。10月13日至15日，与1万多名创始人、投资者和运营商一起参加旧金山Moscone West。在太平洋时间9月25日晚上11…",
+      "source_url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "publish_time": "2026-09-21T19:25:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-285c3f889238",
+      "title": "Meta的Muse正在超越ChatGPT的早期移动发布",
+      "summary": "根据Appfigures的最新估计， Meta的新人工智能代理Muse在美国和加拿大的下载量和日活跃用户数量超过了ChatGPT在移动首次亮相后的同期。",
+      "source_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "publish_time": "2026-09-21T19:19:21+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -1579,54 +1663,6 @@
       "summary": "OpenAI确认与Anthropic和谷歌DeepMind进行了数周的人工智能安全谈判，因为特朗普的团队驳斥了安全问题，并推动与中国保持同步。",
       "source_url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
       "publish_time": "2026-09-15T15:47:03+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-a99284cc094f",
-      "title": "AEO初创公司Profound实现独角兽估值，在上一轮融资后7个月筹集了1.8亿美元的D轮融资",
-      "summary": "在筹集了9600万美元的C轮融资后不到七个月， Profound以18亿美元的估值筹集了1.8亿美元的D轮融资。",
-      "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "publish_time": "2026-09-15T15:22:48+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-7ca90a5021c3",
-      "title": "前TikTok高管构建了一个应用程序，该应用程序使用人工智能来教您如何为照片摆姿势",
-      "summary": "本质上是一个相机应用程序， Superpose使用人工智能分析自拍或照片并生成四个潜在的姿势。",
-      "source_url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "publish_time": "2026-09-15T14:42:37+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-eeef430e6bd8",
-      "title": "在TechCrunch Disrupt 2026上了解如何将您的创业公司从原型转变为生产",
-      "summary": "了解如何在TechCrunch Disrupt 2026上与规模领导者Adrian Macneil （ Foxglove ）、John Mackey （ MBRYONICS ）和Boris Sofman （ Bedrock Robotics…",
-      "source_url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "publish_time": "2026-09-15T14:30:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-1c0a237c0c51",
-      "title": "距离2026年TechCrunch Disrupt展会还有4天时间",
-      "summary": "Disrupt展览的最后一天是9月18日。还剩4天。10月13日至15日，让您的创业公司与1万多名创始人、投资者、运营商和技术领导者见面。",
-      "source_url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "publish_time": "2026-09-15T14:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
