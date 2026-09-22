@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:16:39.734059+00:00",
+  "generated_at": "2026-09-22T22:19:42.665824+00:00",
   "news": [
     {
       "id": "ai_cn-75c9ff09f07e",
@@ -4300,11 +4300,35 @@
       ]
     },
     {
+      "id": "nba-d660e75bdd0b",
+      "title": "After months in limbo, 科怀·伦纳德 gets $115 million contract extension from Raptors",
+      "summary": "科怀·伦纳德 locks in an extension with Toronto in wake of his trade and after the NBA closed its investigation into hi…",
+      "source_url": "https://sports.yahoo.com/articles/months-limbo-kawhi-leonard-gets-195400924.html",
+      "publish_time": "2026-09-22T19:54:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-106c92eec612",
       "title": "科怀·伦纳德 to reportedly sign 2-year, $115 million extension with Raptors",
       "summary": "The Raptors want to keep 科怀·伦纳德 for years to come.",
       "source_url": "https://sports.yahoo.com/nba/breaking-news/article/kawhi-leonard-to-reportedly-sign-2-year-115-million-extension-with-raptors-191443546.html",
       "publish_time": "2026-09-22T19:14:43+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-372a2e5fc0f6",
+      "title": "Former No. 1 pick accuses 勒布朗·詹姆斯 of having ‘toxic’ impact on Lakers stars",
+      "summary": "Former NBA top pick Kwame Brown made several powerful claims toward former Los Angeles Lakers star 勒布朗·詹姆斯.",
+      "source_url": "https://sports.yahoo.com/articles/former-no-1-pick-accuses-175255126.html",
+      "publish_time": "2026-09-22T17:52:55+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5236,30 +5260,6 @@
       ]
     },
     {
-      "id": "nba-e7315aec2c8e",
-      "title": "休斯顿火箭队赛季预览：阵容、名单和预测",
-      "summary": "休斯顿火箭队可以再次与弗雷德·范维尔特（ Fred VanVleet ）从伤病中恢复过来，帮助凯文·杜兰特（ 凯文·杜兰特 ）时代的第二年更加顺利。",
-      "source_url": "https://sports.yahoo.com/articles/houston-rockets-season-preview-lineup-094831185.html",
-      "publish_time": "2026-09-21T09:48:31+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c5ee8095659a",
-      "title": "达拉斯小牛队赛季预览：阵容、名单和预测",
-      "summary": "达拉斯小牛队在休赛期聘请了一个新的前台和新教练达斯蒂·梅，因为凯里·欧文受伤后返回库珀·弗拉格。",
-      "source_url": "https://sports.yahoo.com/articles/dallas-mavericks-season-preview-lineup-094711770.html",
-      "publish_time": "2026-09-21T09:47:11+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
       "id": "jp_football_highschool-d2767e29ca6d",
       "title": "[選手権]九州地域各県予選日程",
       "summary": "第105届全国高中足球锦标赛■资格赛主要日期和结果[福冈] [佐贺] [长崎] [熊本] [大分] [宫崎] [鹿儿岛] [冲绳]●第105届全国高中足球锦标赛特别",
@@ -5328,6 +5328,566 @@
       ],
       "_raw_title": "[選手権]関東地域各都県予選日程",
       "_raw_summary": "第105回全国高校サッカー選手権■予選主な日程、試合結果【茨城】【栃木】【群馬】【埼玉】【千葉】【東京A】【東京B】【神奈川】【山梨】●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-3daa9ce4583f",
+      "title": "[锦标赛]北海道/东北地区资格赛日期",
+      "summary": "第105届全国高中足球锦标赛■预选赛主要日期和比赛结果【北海道】【青森】【岩手】【宫城】【秋田】【山形】【福岛】●第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459481-459481-fl",
+      "publish_time": "2026-09-22T14:11:41+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]北海道・東北地域各県予選日程",
+      "_raw_summary": "第105回全国高校サッカー選手権■予選主な日程、試合結果【北海道】【青森】【岩手】【宮城】【秋田】【山形】【福島】●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-b9491bd14982",
+      "title": "【锦标赛】冲绳县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[冲绳] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459480-459480-fl",
+      "publish_time": "2026-09-22T14:06:36+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]沖縄県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【沖縄】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-a95130c5e61a",
+      "title": "【锦标赛】鹿儿岛县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【鹿儿岛】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459479-459479-fl",
+      "publish_time": "2026-09-22T14:06:00+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]鹿児島県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【鹿児島】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-5a23225dab27",
+      "title": "【锦标赛】宫崎县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[宫崎] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459478-459478-fl",
+      "publish_time": "2026-09-22T14:05:27+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]宮崎県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【宮崎】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-4a748e781551",
+      "title": "【锦标赛】大分县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[大分] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459477-459477-fl",
+      "publish_time": "2026-09-22T14:04:55+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]大分県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【大分】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-2dec55f4fc2f",
+      "title": "【锦标赛】熊本县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【熊本】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459476-459476-fl",
+      "publish_time": "2026-09-22T14:04:25+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]熊本県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【熊本】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-e42a39298f46",
+      "title": "【锦标赛】长崎县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[长崎] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459475-459475-fl",
+      "publish_time": "2026-09-22T14:03:54+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]長崎県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【長崎】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-b6c3907cf703",
+      "title": "【锦标赛】佐贺县预选赛主赛日",
+      "summary": "第105届全国高中足球锦标赛【佐贺】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459474-459474-fl",
+      "publish_time": "2026-09-22T14:03:23+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]佐賀県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【佐賀】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-39698c1cb343",
+      "title": "【锦标赛】福冈县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【福冈】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459473-459473-fl",
+      "publish_time": "2026-09-22T14:02:54+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]福岡県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【福岡】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-59419027ffeb",
+      "title": "【锦标赛】爱媛县预选赛主赛日期",
+      "summary": "第105届全国高中足球锦标赛【爱媛】【决赛】【半决赛】【四分之一决赛】●第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459471-459471-fl",
+      "publish_time": "2026-09-22T14:01:54+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]愛媛県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【愛媛】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-63039c4f853b",
+      "title": "【锦标赛】高知县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[高知] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459472-459472-fl",
+      "publish_time": "2026-09-22T14:01:32+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]高知県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【高知】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-02cd202bf37e",
+      "title": "【锦标赛】德岛县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【德岛】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459470-459470-fl",
+      "publish_time": "2026-09-22T13:59:51+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]徳島県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【徳島】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-14ec3592aa47",
+      "title": "【锦标赛】香川县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[香川] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459469-459469-fl",
+      "publish_time": "2026-09-22T13:59:15+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]香川県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【香川】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-f052bc317608",
+      "title": "【锦标赛】山口县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【山口】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459468-459468-fl",
+      "publish_time": "2026-09-22T13:58:44+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]山口県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【山口】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-bc23d3963542",
+      "title": "【锦标赛】广岛县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【广岛】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459467-459467-fl",
+      "publish_time": "2026-09-22T13:58:08+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]広島県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【広島】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-a56cf4746fdb",
+      "title": "【锦标赛】冈山县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[冈山] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459466-459466-fl",
+      "publish_time": "2026-09-22T13:57:37+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]岡山県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【岡山】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-167c1197e15c",
+      "title": "【锦标赛】岛根县预选赛主赛日期",
+      "summary": "第105届全国高中足球锦标赛【岛根】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459465-459465-fl",
+      "publish_time": "2026-09-22T13:57:10+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]島根県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【島根】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-8fa8774d2cbb",
+      "title": "【锦标赛】鸟取县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【鸟取】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459464-459464-fl",
+      "publish_time": "2026-09-22T13:56:42+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]鳥取県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【鳥取】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-3d1340defd49",
+      "title": "【锦标赛】和歌山县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【和歌山】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459463-459463-fl",
+      "publish_time": "2026-09-22T13:56:10+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]和歌山県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【和歌山】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-00aab7858a46",
+      "title": "【锦标赛】奈良县预选赛主赛日期",
+      "summary": "第105届全国高中足球锦标赛[奈良] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459462-459462-fl",
+      "publish_time": "2026-09-22T13:55:41+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]奈良県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【奈良】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-168b9febdd54",
+      "title": "【锦标赛】兵库县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【兵库】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459461-459461-fl",
+      "publish_time": "2026-09-22T13:55:13+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]兵庫県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【兵庫】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-81f5196b518d",
+      "title": "【锦标赛】大阪府预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[大阪] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459460-459460-fl",
+      "publish_time": "2026-09-22T13:54:41+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]大阪府予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【大阪】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-59c900654f36",
+      "title": "【锦标赛】京都府预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[京都] [决赛] [半决赛] [四分之一决赛]●第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459459-459459-fl",
+      "publish_time": "2026-09-22T13:54:05+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]京都府予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【京都】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-fd0dc5f96828",
+      "title": "【锦标赛】滋贺县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【滋贺】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459458-459458-fl",
+      "publish_time": "2026-09-22T13:53:29+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]滋賀県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【滋賀】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-68425a6f304b",
+      "title": "【锦标赛】三重县预选赛主赛日",
+      "summary": "第105届全国高中足球锦标赛【三重】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459457-459457-fl",
+      "publish_time": "2026-09-22T13:52:38+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]三重県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【三重】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-f8825b6c3dfa",
+      "title": "【锦标赛】岐阜县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【岐阜】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459456-459456-fl",
+      "publish_time": "2026-09-22T13:52:12+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]岐阜県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【岐阜】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-c2838698acf2",
+      "title": "【锦标赛】爱知县预选赛主赛日期",
+      "summary": "第105届全国高中足球锦标赛[爱知] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459455-459455-fl",
+      "publish_time": "2026-09-22T13:51:43+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]愛知県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【愛知】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-6aa6b6a2a6bb",
+      "title": "【锦标赛】静冈县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【静冈】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459454-459454-fl",
+      "publish_time": "2026-09-22T13:51:13+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]静岡県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【静岡】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-0be9bdd891d6",
+      "title": "【锦标赛】福井县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[福井] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459453-459453-fl",
+      "publish_time": "2026-09-22T13:48:31+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]福井県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【福井】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-ec5d3e41d949",
+      "title": "【锦标赛】石川县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【石川】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459452-459452-fl",
+      "publish_time": "2026-09-22T13:48:03+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]石川県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【石川】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-29af1e9b93f8",
+      "title": "【锦标赛】富山县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【富山】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459451-459451-fl",
+      "publish_time": "2026-09-22T13:47:29+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]富山県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【富山】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-7e3a60cc392a",
+      "title": "【锦标赛】长野县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【长野】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459450-459450-fl",
+      "publish_time": "2026-09-22T13:41:07+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]長野県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【長野】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-619e430bc850",
+      "title": "【锦标赛】新潟县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[新潟] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459449-459449-fl",
+      "publish_time": "2026-09-22T13:39:54+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]新潟県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【新潟】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-43f04643511c",
+      "title": "【锦标赛】山梨县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【山梨】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459448-459448-fl",
+      "publish_time": "2026-09-22T13:38:50+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]山梨県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【山梨】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-3cd3201a10c9",
+      "title": "【锦标赛】神奈川县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【神奈川】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459447-459447-fl",
+      "publish_time": "2026-09-22T13:38:14+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]神奈川県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【神奈川】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-b7ecac539e8c",
+      "title": "【锦标赛】东京B街区预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[东京B] [决赛] [半决赛] [四分之一决赛]●第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459446-459446-fl",
+      "publish_time": "2026-09-22T13:37:41+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]東京都Bブロック予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【東京B】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-2b468cbcb09c",
+      "title": "【锦标赛】东京A街区预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[东京A] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459445-459445-fl",
+      "publish_time": "2026-09-22T13:37:05+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]東京都Aブロック予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【東京A】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-42a3510337e3",
+      "title": "【锦标赛】千叶县预选赛主赛日",
+      "summary": "第105届全国高中足球锦标赛[千叶] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459444-459444-fl",
+      "publish_time": "2026-09-22T13:35:50+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]千葉県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【千葉】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-19cbc7e2ac3b",
+      "title": "【锦标赛】群马县预选赛主赛日期",
+      "summary": "第105届全国高中足球锦标赛【群马】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459442-459442-fl",
+      "publish_time": "2026-09-22T13:34:48+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]群馬県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【群馬】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-f6d0b204e2f1",
+      "title": "【锦标赛】栃木县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛【栃木】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459441-459441-fl",
+      "publish_time": "2026-09-22T13:34:15+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]栃木県予選主な日程",
+      "_raw_summary": "第105回全国高校サッカー選手権【栃木】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "jp_football_highschool-cc2caf377969",
