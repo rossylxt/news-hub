@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-22T14:19:00.578339+00:00",
+  "generated_at": "2026-09-22T16:18:30.029913+00:00",
   "news": [
+    {
+      "id": "ai_cn-4add3dd2af81",
+      "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+      "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+      "source_url": "https://www.qbitai.com/2026/09/494420.html",
+      "publish_time": "2026-09-22T14:28:59+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-7df35012748d",
+      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "summary": "商汤U1 Pro，正式发布",
+      "source_url": "https://www.qbitai.com/2026/09/494263.html",
+      "publish_time": "2026-09-22T13:57:10+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-db016f646a03",
       "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
@@ -815,6 +839,90 @@
       "is_important": false,
       "tags": [
         "量子位"
+      ]
+    },
+    {
+      "id": "ai_intl-8fdc384c018e",
+      "title": "每个创始人都应该在TechCrunch Disrupt 2026议程上举办五次人工智能安全会议",
+      "summary": "在TechCrunch Disrupt 2026上，来自Anthropic、NVIDIA、AWS、Waabi等公司的领导者参加了AI Stage和Real World AI Stage的五场会议，讨论了人工智能的安全问题。立即注册，在9月2…",
+      "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "publish_time": "2026-09-22T15:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-63278f8d0a1c",
+      "title": "AstroForge正在让人工智能掌控其下一个航天器",
+      "summary": "Autonomy-1将拥有一个小型的基于变压器的人工智能模型，负责空间探测器。",
+      "source_url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "publish_time": "2026-09-22T15:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-7c8fe9cba559",
+      "title": "TechCrunch Disrupt 2026 ： Aaron Edsinger将Hello Robot的Stretch 4带入舞台",
+      "summary": "Hello Robot首席执行官兼联合创始人Aaron Edsinger将在TechCrunch Disrupt 2026的真实世界人工智能舞台上带来Stretch 4的现场演示。请在9月25日前注册，最多可节省$ 200 ，并以50%的折…",
+      "source_url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "publish_time": "2026-09-22T14:30:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d047be013a0e",
+      "title": "添加了展览表：在TechCrunch Disrupt 2026上展示您的创业公司的最后一次机会",
+      "summary": "我们的参展商计划已重新开放1周。请在太平洋时间9月30日晚上11:59之前预订您的展览桌，并于10月13日至15日在旧金山Moscone West向10,000多名创始人、投资者和技术领袖展示您的创业公司。",
+      "source_url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "publish_time": "2026-09-22T14:15:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-6d9c628eaad5",
+      "title": "4天节省高达200 $ ：参加TechCrunch Disrupt 2026的5个理由中的第2个",
+      "summary": "TechCrunch Disrupt 2026通行证最高可节省200 $ ，在太平洋时间9月25日晚上11:59的价格上涨之前，第二张通行证还可享受50%的折扣。立即注册。",
+      "source_url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "publish_time": "2026-09-22T14:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-2665fc5c20dc",
+      "title": "每个人都可以找到不喜欢数据中心建设的理由",
+      "summary": "两年来，宾夕法尼亚州的人工智能数据中心辩论令人担忧。",
+      "source_url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "publish_time": "2026-09-22T13:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-020fc8cb0d6e",
+      "title": "Nscale的IPO将再次测试华尔街对集中人工智能押注的兴趣",
+      "summary": "这家英国人工智能数据中心开发商的大部分收入都依赖于科技巨头微软和Anthropic。",
+      "source_url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "publish_time": "2026-09-22T12:23:05+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -1687,90 +1795,6 @@
       "summary": "根据Jensen Huang的说法，人工智能并不是“外星人思维”的新形式。它只是硬件和软件，因此每个人工智能产品制造商都可以设计安全性。",
       "source_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "publish_time": "2026-09-16T00:20:39+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-f5e80ecad197",
-      "title": "人工智能数据中心的繁荣正在与被大型产业蹂躏的城市相撞",
-      "summary": "全国对数据中心建设的强烈抗议已经蔓延到费城，官员们建议在一个已经受到现已倒闭的炼油厂影响的社区进行建设。",
-      "source_url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "publish_time": "2026-09-15T21:47:38+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-c8e966977fdf",
-      "title": "Meta现在允许人工智能代理处理WhatsApp Business设置的无聊部分",
-      "summary": "新的WhatsApp Business MCP服务器允许开发人员使用Claude、Cursor、Codex和ChatGPT等AI编码代理来处理设置、消息传递模板、测试和故障排除。",
-      "source_url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "publish_time": "2026-09-15T20:12:53+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-7eb39231f1ba",
-      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
-      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
-      "source_url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publish_time": "2026-09-15T19:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-837180ecd6ea",
-      "title": "到2035年，美国数据中心的天然气消耗量可能超过德国和日本的总和",
-      "summary": "人工智能的狂热可能会推动美国数据中心成为世界上最大的天然气消费国之一。",
-      "source_url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "publish_time": "2026-09-15T18:29:20+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-1e9eb8a1b0c0",
-      "title": "人工智能代理现在有了告密的地方",
-      "summary": "人工智能联系热线旨在成为一个隐蔽的地方，目睹不当行为的客服代表可以在这里向当局举报。",
-      "source_url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "publish_time": "2026-09-15T17:42:59+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-5e497c447da8",
-      "title": "Meta通过以人工智能为重点的新计划扩展订阅推送",
-      "summary": "Meta One通过Facebook、Instagram和WhatsApp的高级功能捆绑了公司人工智能工具的扩展访问权限。",
-      "source_url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "publish_time": "2026-09-15T17:05:24+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-7ca41db25b66",
-      "title": "OpenAI、Anthropic和谷歌已经就人工智能安全问题进行了数周的谈判",
-      "summary": "OpenAI确认与Anthropic和谷歌DeepMind进行了数周的人工智能安全谈判，因为特朗普的团队驳斥了安全问题，并推动与中国保持同步。",
-      "source_url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "publish_time": "2026-09-15T15:47:03+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2735,6 +2759,18 @@
       "is_important": false,
       "tags": [
         "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "jp_football_euro-474a9df68ece",
+      "title": "【锦标赛】埼玉县预选赛主要日期",
+      "summary": "第105届全国高中足球锦标赛[埼玉] [决赛] [半决赛] [四分之一决赛]",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459443-459443-fl",
+      "publish_time": "2026-09-22T13:35:11+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
       ]
     },
     {
@@ -4240,6 +4276,30 @@
       ]
     },
     {
+      "id": "nba-9efe438df595",
+      "title": "五名球员面临关键的复出赛季： 泰瑞斯·哈利伯顿、凯里·欧文等",
+      "summary": "弗雷德·范弗利特（ Fred VanVleet ）的回归可能会使火箭队成为西方的威胁。",
+      "source_url": "https://sports.yahoo.com/articles/five-players-facing-critical-comeback-155639169.html",
+      "publish_time": "2026-09-22T15:56:39+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5a1adc303302",
+      "title": "奇才控球后卫预览：特雷·杨开始，但谁支持他？",
+      "summary": "几个轮换决定需要进行广泛的对话。对于华盛顿奇才队来说，首发控球后卫不是其中之一。6月，奇才队与特雷·杨签订了一份为期四年、价值2.12亿美元的合同，作为他们2026-27赛季及以后的首发球员。他是自拉塞尔·威斯布鲁克（ Russ…",
+      "source_url": "https://sports.yahoo.com/articles/wizards-point-guard-preview-trae-135501072.html",
+      "publish_time": "2026-09-22T13:55:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-ea14e91f6981",
       "title": "不可错过的奇才？ 特雷·杨、安东尼·戴维斯、AJ Dybantsa和NBA最怪异的团体项目",
       "summary": "华盛顿的两个时间线实验使其成为本赛季联盟中最不可预测的球队之一。",
@@ -4341,6 +4401,18 @@
       "summary": "您定期提醒爸爸确实是山羊",
       "source_url": "https://sports.yahoo.com/articles/open-thread-gregg-popovich-won-110000132.html",
       "publish_time": "2026-09-22T11:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-68235cae83e5",
+      "title": "营地坡道：一个大胆的凯尔特人2026-27赛季预测",
+      "summary": "杰森·塔图姆MVP ？德里克·怀特全明星点头？查看我们的大胆预测。",
+      "source_url": "https://sports.yahoo.com/articles/ramp-camp-one-bold-celtics-104921183.html",
+      "publish_time": "2026-09-22T10:49:21+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5157,42 +5229,6 @@
       "summary": "在等待科怀·伦纳德交易完成一个多月后，多伦多猛龙队现在是东部联盟中一支有趣的球队。",
       "source_url": "https://sports.yahoo.com/articles/toronto-raptors-season-preview-lineup-094019219.html",
       "publish_time": "2026-09-21T09:40:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-81488a36ed24",
-      "title": "Gonzaga的安东·沃森（ Anton Watson ）与洛杉矶湖人队（ Los Angeles Lakers ）签署训练营协议，放弃后不久",
-      "summary": "2019年华盛顿州篮球先生重返NBA G联赛。",
-      "source_url": "https://sports.yahoo.com/articles/gonzaga-anton-watson-signs-training-035459352.html",
-      "publish_time": "2026-09-21T03:54:59+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-23756b0ca964",
-      "title": "格雷厄姆·艾克与金州勇士队签订双向协议",
-      "summary": "截至目前， 11名Gonzaga校友将在2026-27赛季开始时进入NBA。",
-      "source_url": "https://sports.yahoo.com/articles/graham-ike-signs-two-way-033919602.html",
-      "publish_time": "2026-09-21T03:39:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5dfe1661ed77",
-      "title": "Duop Reath选择了太阳，这并不能使他成为救世主",
-      "summary": "Reath可以加入名册，接受双向交易，或者在露营后消失。这三种结果仍然完全合理。",
-      "source_url": "https://sports.yahoo.com/articles/duop-reath-chose-suns-doesn-000000524.html",
-      "publish_time": "2026-09-21T00:00:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
