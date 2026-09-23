@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:19:42.665824+00:00",
+  "generated_at": "2026-09-23T00:22:11.643550+00:00",
   "news": [
     {
       "id": "ai_cn-75c9ff09f07e",
@@ -863,6 +863,78 @@
       "is_important": false,
       "tags": [
         "量子位"
+      ]
+    },
+    {
+      "id": "ai_intl-5f66f04bf85f",
+      "title": "TechCrunch创始人峰会的议程揭晓： 11月4日在波士顿解锁筹款、招聘和人工智能洞察",
+      "summary": "创始人不应该以最艰难的方式学习最艰难的教训。TechCrunch创始人峰会旨在使创办公司的挑战更容易，更高的挑战也更大。",
+      "source_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "publish_time": "2026-09-22T23:21:49+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-84a303211cd2",
+      "title": "随着人工智能培训数据需求激增，浮潜人工智能将估值提高三倍至35亿美元（ $ 35亿）",
+      "summary": "这家拥有七年历史的初创公司已经筹集了3.5亿美元的E轮融资，以推动其数据即服务的方法。",
+      "source_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "publish_time": "2026-09-22T21:56:43+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-f5417683ef6a",
+      "title": "高通推出两款以人工智能为重点的新型智能手机芯片",
+      "summary": "高通表示，其新的顶级芯片可以在本地运行30B混合专家模型。",
+      "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "publish_time": "2026-09-22T20:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-176f90142d04",
+      "title": "Meta承认Muse与OpenClaw的肖像并非巧合",
+      "summary": "Meta表示， Muse是从头开始构建的，但承认AI助手“深受OpenClaw的启发” —包括其一些工作区文件名和内容。",
+      "source_url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "publish_time": "2026-09-22T19:09:11+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d5bcb149d513",
+      "title": "OpenAI推出GPT-6 Sol和Luna ，成本更低，错误更少",
+      "summary": "OpenAI正在推出两款新型号，据说是从与Astra相同的布料上剪下来的。",
+      "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "publish_time": "2026-09-22T18:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d52a24ca5068",
+      "title": "Anthropic以更低的价格和寓言级的表现发布Opus 5.5",
+      "summary": "Anthropic称之为“迄今为止我们测试过的表现最强的模型”。",
+      "source_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "publish_time": "2026-09-22T16:30:07+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -1747,78 +1819,6 @@
       "summary": "Threads正在为播客制作者推出新工具，包括个人资料卡、剧集链接、成绩单、房客标签、发布提醒和受众见解，因为Meta希望让X竞争对手成为播客推广和讨论的更大中心",
       "source_url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
       "publish_time": "2026-09-16T14:24:58+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-ceaecec61f43",
-      "title": "TechCrunch Disrupt 2026评选Startup Battlefield 200竞争者的下一波风投揭晓",
-      "summary": "与接下来的五位顶级投资者见面，他们将在TechCrunch Disrupt 2026现场评判Startup Battlefield 200的竞争者。请在9月25日前注册，节省高达200 $ ，不要错过终极创业宣传竞赛。",
-      "source_url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "publish_time": "2026-09-16T14:15:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-6f2fab3648b1",
-      "title": "距离参展还有3天：在TechCrunch Disrupt 2026上，让您的品牌走在风投和高价值线索面前",
-      "summary": "在Disrupt预订展览桌的最后一天是9月18日。还有三天。在10月13日至15日期间，让您的创业公司与1万多名创始人、投资者、运营商和技术领导者见面。",
-      "source_url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "publish_time": "2026-09-16T14:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-a99bbac1fc26",
-      "title": "据报道， SK海力士正在与英特尔就美国制造内存芯片进行谈判",
-      "summary": "SK海力士告诉TechCrunch ，该公司尚未最终确定任何计划或安排。",
-      "source_url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "publish_time": "2026-09-16T13:23:02+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-766bd696566c",
-      "title": "前Infosys首席执行官的人工智能初创公司又获得了5300万美元的$",
-      "summary": "这家帕洛阿尔托初创公司表示，它已经在推出后的几个月内获得了多份七位数的企业合同。",
-      "source_url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "publish_time": "2026-09-16T13:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-5960227fd9e8",
-      "title": "亚马逊在印地语支持下在印度推出Alexa +",
-      "summary": "亚马逊允许所有客户在抢先体验期间使用Alexa +助手。",
-      "source_url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "publish_time": "2026-09-16T10:34:47+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-6a5d552d9722",
-      "title": "Nvidia的Jensen Huang表示，我们不需要人工智能监管—将安全问题留给我们",
-      "summary": "根据Jensen Huang的说法，人工智能并不是“外星人思维”的新形式。它只是硬件和软件，因此每个人工智能产品制造商都可以设计安全性。",
-      "source_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "publish_time": "2026-09-16T00:20:39+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -3340,6 +3340,282 @@
       ]
     },
     {
+      "id": "football_intl-4c6105a247d0",
+      "title": "Diego Kochen在巴塞罗那与Lamine Yamal一起长大。现在他正在追逐他的USMNT突破",
+      "summary": "在经历了巴塞罗那着名的青训后，这位20岁的球员正试图在USMNT的守门员名单中站稳脚跟。",
+      "source_url": "https://sports.yahoo.com/soccer/article/diego-kochen-grew-up-with-lamine-yamal-at-barcelona-now-hes-chasing-his-usmnt-breakthrough-225159255.html",
+      "publish_time": "2026-09-22T22:51:59+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2cb6486b24ee",
+      "title": "曼联和利物浦之眼米切尔-周三的八卦",
+      "summary": "曼联和利物浦热衷于水晶宫后卫泰里克·米切尔，阿斯顿维拉的租借攻击者亚历杭德罗·加纳乔在西甲俱乐部的雷达上，而切尔西想要冈比亚少年Adama Jeng ，以及更多。",
+      "source_url": "https://sports.yahoo.com/articles/man-utd-liverpool-eye-mitchell-212018202.html",
+      "publish_time": "2026-09-22T22:26:38+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1a280dd919a2",
+      "title": "埃弗顿在“疯狂”莱斯特费后拒绝了22岁的申请：这是正确的决定吗？",
+      "summary": "埃弗顿探索了2025年对阿卜杜勒·法塔乌的举动，但莱斯特城的估值迫使太妃糖退出了交易。Football Insider的Goodison News报道说， The Athletic dis的Paddy Boyland......",
+      "source_url": "https://sports.yahoo.com/articles/everton-rejected-22-old-mad-213500351.html",
+      "publish_time": "2026-09-22T21:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-991f0e303b91",
+      "title": "罗马监控Frosinone明星Giorgi Kvernadze",
+      "summary": "在冬季转会窗口期间，罗马将专注于右脚左边锋，他有身体力量和扭转局面的能力。Giallorossi缺少一名具有证书的攻击型球员……",
+      "source_url": "https://sports.yahoo.com/articles/roma-monitoring-frosinone-starlet-giorgi-212000633.html",
+      "publish_time": "2026-09-22T21:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-14e66ee907c3",
+      "title": "阿斯顿维拉贷款人可能会在1月份回归：他们会从中受益吗？",
+      "summary": "根据Football Insider的米克·布朗（ Mick Brown ）的说法，水晶宫可能会在1月份将埃文·盖桑（ Evann Guessand ）送回阿斯顿维拉（ Aston Villa ） ，因为他在皮埃尔报告称，宫殿已经冻结了……",
+      "source_url": "https://sports.yahoo.com/articles/aston-villa-loanee-could-return-212000223.html",
+      "publish_time": "2026-09-22T21:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f6bfa106529a",
+      "title": "浪费的阿森纳需要延迟罚球才能击败Koge",
+      "summary": "玛丽奥娜·卡尔丹蒂（ Mariona Caldentey ）在停赛时间从现场得分，以夺取阿森纳在女子冠军联赛中对阵HB Koge的胜利。",
+      "source_url": "https://sports.yahoo.com/articles/wasteful-arsenal-penalty-beat-koge-210057260.html",
+      "publish_time": "2026-09-22T21:10:15+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-34b5ace4af47",
+      "title": "英超U21球队在EFL奖杯进球过剩中被吹走",
+      "summary": "联赛一和二俱乐部在EFL奖杯小组赛阶段击败英超21岁以下球队。",
+      "source_url": "https://sports.yahoo.com/articles/premier-league-sides-blown-away-210429978.html",
+      "publish_time": "2026-09-22T21:09:26+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6944d72be4a5",
+      "title": "利物浦的转会战略面临多年来最大的变化",
+      "summary": "作为一家俱乐部，利物浦正处于转型期，更大的变化即将到来。自上赛季结束以来， Arne Slot、Michael Edwards和Richard Hughes都离开了安菲尔德。",
+      "source_url": "https://sports.yahoo.com/articles/liverpools-transfer-strategy-facing-biggest-210500718.html",
+      "publish_time": "2026-09-22T21:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-7c00219c02b6",
+      "title": "利物浦正在密切关注这个Eredivisie边后卫：一个为未来？",
+      "summary": "在最近的一份报告中，记者Graeme Bailey声称利物浦正在密切关注Feyenoord边后卫Givairo Read。有人提到，红军正在监控……的发展",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-keeping-keen-eye-eredivisie-210000314.html",
+      "publish_time": "2026-09-22T21:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-c0489c1ba747",
+      "title": "就像曼城边锋打进进球一样，他退出了国际职责",
+      "summary": "Antoine Semenyo终于在2026-27赛季脱颖而出，周日在阿提哈德体育场以5比3击败桑德兰。Semenyo要么打进一球……",
+      "source_url": "https://sports.yahoo.com/articles/just-manchester-city-winger-hits-210000625.html",
+      "publish_time": "2026-09-22T21:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-15d67bb9cd94",
+      "title": "如何在BBC上关注威尔士的国家联赛",
+      "summary": "您在BBC上关注威尔士即将到来的国家联盟比赛的指南。",
+      "source_url": "https://sports.yahoo.com/articles/wales-nations-league-bbc-204311291.html",
+      "publish_time": "2026-09-22T20:54:41+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bb104b843119",
+      "title": "桑德兰可以重新点燃他们对这个法甲边锋的兴趣：勒布里斯应该为他搬进来吗？",
+      "summary": "在最近的一份报告中， Le Journal du Dimanche声称桑德兰可能会在今年1月重新点燃他们对马赛奥运会边锋Igor Paixao的兴趣。据说黑猫是……",
+      "source_url": "https://sports.yahoo.com/articles/sunderland-could-reignite-interest-ligue-205000872.html",
+      "publish_time": "2026-09-22T20:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e6243247bd3b",
+      "title": "曼城左后卫的形式似乎存在一个令人担忧的领域",
+      "summary": "曼城这边距离成品还很远。随着恩佐·马雷斯卡（ Enzo Maresca ）的新经理、大量新球员和新战术调整的到位，这座城市正在学习……",
+      "source_url": "https://sports.yahoo.com/articles/looks-area-concern-form-manchester-204000362.html",
+      "publish_time": "2026-09-22T20:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6a925e20efe0",
+      "title": "它终于发生了，明星正处于利物浦大规模回归的边缘",
+      "summary": "一位令人兴奋的球员将重返利物浦，这是个好消息。安东尼·伊拉奥拉（ Andoni Iraola ）知道自己在利物浦踩了一条细线。西班牙人喜欢和一大群人一起工作……",
+      "source_url": "https://sports.yahoo.com/articles/finally-happening-star-brink-massive-203500274.html",
+      "publish_time": "2026-09-22T20:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a476d229aef1",
+      "title": "关于托特纳姆热刺及其追求这一天赋前锋的最新消息： De Zerbi是否应该改变立场？",
+      "summary": "在最近的一份报告中，记者皮特·奥罗克（ Pete O’Rourke ）提供了有关托特纳姆热刺及其追捕毛罗·伊卡尔迪（ Mauro Icardi ）的最新消息，毛罗·伊卡尔迪目前是自由球员。据了解，马刺队选择不...",
+      "source_url": "https://sports.yahoo.com/articles/tottenham-hotspur-pursuit-talented-forward-203500962.html",
+      "publish_time": "2026-09-22T20:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-3a2bff9a8b2c",
+      "title": "奥尼尔在“痛苦”的一周后获得凯尔特人的支持",
+      "summary": "首席执行官迈克尔·尼科尔森（ Michael Nicholson ）表示，凯尔特人将在俱乐部“痛苦”的一周后“走到一起并支持”经理马丁·奥尼尔（ Martin O'Neill",
+      "source_url": "https://sports.yahoo.com/articles/oneill-receives-celtic-backing-painful-201744205.html",
+      "publish_time": "2026-09-22T20:23:46+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-748462dd3ca8",
+      "title": "曼城正在密切关注这位有天赋的中场球员：一位正在酝酿中的明星？",
+      "summary": "在周一的印刷版中， A Bola表示曼城正在密切关注波尔图中场球员Victor Froholdt。据说曼彻斯特俱乐部已经派遣球探去捕捉丹麦人才...",
+      "source_url": "https://sports.yahoo.com/articles/manchester-city-keeping-tabs-gifted-202000298.html",
+      "publish_time": "2026-09-22T20:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-103a2c5b8285",
+      "title": "GGFN社论|在“影响者时代” ，谁拥有德国足球的球迷文化？",
+      "summary": "几十年来，德国足球支持者一直在抱怨他们的运动商业化。一个新的问题现在开始侵入露台。当支持者自己……时会发生什么",
+      "source_url": "https://sports.yahoo.com/articles/ggfn-editorial-owns-german-football-202000883.html",
+      "publish_time": "2026-09-22T20:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4c76ea18f760",
+      "title": "经过七场比赛，曼城已经建立了一个平台，",
+      "summary": "随着国际休息时间的延长，曼城为进入本赛季的下一阶段奠定了坚实的基础。恩佐·马雷斯卡的球队已经连续赢了七场比赛……",
+      "source_url": "https://sports.yahoo.com/articles/seven-games-manchester-city-built-201000878.html",
+      "publish_time": "2026-09-22T20:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-9c2fa1e8071c",
+      "title": "Balerdi ： “我在罗马很开心。”",
+      "summary": "莱昂纳多·巴列尔迪（ Leonardo Balerdi ）因伤缺席世界杯后回到了国家队。玩家几小时前降落在他的家乡，准备在莱昂内尔·斯卡洛尼（ Lionel Scaloni ）的指导下开始训练，但首先他……",
+      "source_url": "https://sports.yahoo.com/articles/balerdi-m-very-happy-roma-201000108.html",
+      "publish_time": "2026-09-22T20:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-12367b5c5ca8",
+      "title": "利物浦正处于大规模公告的边缘，这将是令人难以置信的",
+      "summary": "据报道，利物浦正处于重大公告的边缘，这只是时间问题。在过去的24个月里，变革一直是俱乐部的一个共同主题。从尤尔根·克洛普（ Jurgen Klopp ）离开，到一个新时代的...",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-brink-massive-announcement-going-200500604.html",
+      "publish_time": "2026-09-22T20:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8c85074f47a2",
+      "title": "阿森纳敦促进军桑德兰前锋：阿尔特塔应该让他加入吗？",
+      "summary": "在最近接受talkSPORT与阿德里安·达勒姆（ Adrian Durham ）的Kick-Off采访时，记者达伦·刘易斯（ Darren Lewis ）敦促阿森纳替换桑德兰前锋布莱恩·布罗比（ Brian Bro刘易斯说： “我看过他（布…",
+      "source_url": "https://sports.yahoo.com/articles/arsenal-urged-move-sunderland-forward-200500937.html",
+      "publish_time": "2026-09-22T20:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-226c1fcbd90c",
+      "title": "切尔西被锁定在这场水晶宫左后卫的三路战斗中：阿隆索应该去找他吗？",
+      "summary": "在最近的一份报告中，前曼联首席球探米克·布朗透露，切尔西陷入了一场争夺水晶宫左后卫泰里克·米切尔的三方战斗。有人提到，",
+      "source_url": "https://sports.yahoo.com/articles/chelsea-locked-three-way-battle-195000576.html",
+      "publish_time": "2026-09-22T19:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-203ec65873b2",
       "title": "桑德兰边锋正在从土耳其收集兴趣：勒布里斯今年1月是否应该向他兑现？",
       "summary": "在最近的一份报告中， Fotomac表示，桑德兰边锋Chemsdine Talbi正在吸引土耳其的兴趣。据了解， Fenerbahce对招募摩洛哥大牌玩家表现出浓厚的兴趣……",
@@ -3407,6 +3683,18 @@
       "publish_time": "2026-09-22T19:16:10+00:00",
       "category": "football_intl",
       "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f5138a35278f",
+      "title": "利物浦眼睛重磅炸弹双重交易改造球队",
+      "summary": "利物浦暂时将目光投向了重磅炸弹般的双重交易。这将改变球队。利物浦正忙于在转会窗口之前权衡他们的选择。所有这些都很清楚……",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-eye-bombshell-double-deal-191500984.html",
+      "publish_time": "2026-09-22T19:15:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
@@ -4012,288 +4300,108 @@
       ]
     },
     {
-      "id": "football_intl-12036e0a7e25",
-      "title": "B团队让精英看起来很普通",
-      "summary": "阿森纳并非无敌的事实显然让一些人感到惊讶。在为期三周的国际比赛中，布莱顿和布伦特福德都将进入前四，伯恩茅斯将在新经理的带领下站稳脚跟。在过去的四个赛季中，布莱顿平均排名第八，对于一个较小的省级俱乐部来说，与主要城市相比，这是令人惊讶的。",
-      "source_url": "https://sports.yahoo.com/articles/b-teams-making-elite-look-135042121.html",
-      "publish_time": "2026-09-22T13:50:42+00:00",
-      "category": "football_intl",
+      "id": "nba-a7a6a089a652",
+      "title": "NBA分区的竞争对手达成协议。谁是老鹰队、黄蜂队交易的对象",
+      "summary": "就在训练营开始前几天，夏洛特黄蜂队和亚特兰大老鹰队完成了一项罕见的分区内交易。",
+      "source_url": "https://sports.yahoo.com/articles/nba-division-rivals-deal-hawks-215226317.html",
+      "publish_time": "2026-09-22T21:52:26+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-0bda5c274dc3",
-      "title": "南美国际预览：梅西时代随着2026年世界杯后的新时代开始而结束",
-      "summary": "自2026年世界杯以来的第一个国际窗口即将到来，所有十个CONMEBOL球队都将参加。许多国家已经选择在家外比赛，而有些国家仍然会保持比赛...",
-      "source_url": "https://sports.yahoo.com/articles/south-american-international-preview-messi-135000901.html",
-      "publish_time": "2026-09-22T13:50:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-9baeaab2a0ee",
-      "title": "报告：利物浦已经考虑转会荷兰后卫",
-      "summary": "利物浦追踪Givairo阅读右后卫搜索加剧利物浦是密切关注Feyenoord右后卫Givairo阅读的俱乐部之一，这位20岁的球员继续建立势头...",
-      "source_url": "https://sports.yahoo.com/articles/report-liverpool-already-considering-move-135000903.html",
-      "publish_time": "2026-09-22T13:50:00+00:00",
-      "category": "football_intl",
+      "id": "nba-0e4cdd7f33f2",
+      "title": "底特律活塞队招募DAZN作为流媒体平台合作伙伴",
+      "summary": "套餐起价为每月$ 19.99",
+      "source_url": "https://sports.yahoo.com/articles/detroit-pistons-enlist-dazn-streaming-215047216.html",
+      "publish_time": "2026-09-22T21:50:47+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-294018d89bca",
-      "title": "中立的场地和没有“客场”球迷-以色列v爱尔兰共和国如何变得如此有争议",
-      "summary": "英国广播公司体育频道探讨了爱尔兰共和国与以色列比赛的背景，因为两国之间存在紧张关系。",
-      "source_url": "https://sports.yahoo.com/articles/neutral-venues-no-away-fans-132007654.html",
-      "publish_time": "2026-09-22T13:44:21+00:00",
-      "category": "football_intl",
+      "id": "nba-1512019ae32d",
+      "title": "据报道，亚特兰大将Buddy Hield ， Ryan Nembhard交易到夏洛特以换取Dorian Finney-Smith",
+      "summary": "芬尼-史密斯交易的盾牌变体整个夏天都在酝酿，但现在已经完成了。",
+      "source_url": "https://sports.yahoo.com/articles/atlanta-reportedly-trade-buddy-hield-213521018.html",
+      "publish_time": "2026-09-22T21:35:21+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-614df3e546a1",
-      "title": "塞巴斯蒂亚诺·埃斯波西托（ Sebastiano Esposito ）与兄弟皮奥（ Pio ）一起在意大利首次征召： “当他错过一个进球时，我们",
-      "summary": "塞巴斯蒂亚诺·埃斯波西托（ Sebastiano Esposito ）谈到了赢得他的第一次意大利高级征召的骄傲，以及与他的弟弟弗朗西斯科·皮奥（ Francesco Pio ）分享这一时刻的骄傲。在Coverciano的Vivo Azzur…",
-      "source_url": "https://sports.yahoo.com/articles/sebastiano-esposito-first-italy-call-134000622.html",
-      "publish_time": "2026-09-22T13:40:00+00:00",
-      "category": "football_intl",
+      "id": "nba-21ee988694bb",
+      "title": "火箭队的弗雷德·范弗利特（ Fred VanVleet ）准备参加训练营；凯文·杜兰特（ 凯文·杜兰特 ）不想在第20个赛季",
+      "summary": "休斯顿的首发控球后卫已经获准进行完整的5对5接触比赛，但不会在早期进行背靠背比赛。",
+      "source_url": "https://sports.yahoo.com/nba/article/rockets-fred-vanvleet-ready-for-training-camp-kevin-durant-doesnt-want-minutes-reduced-in-20th-season-212122351.html",
+      "publish_time": "2026-09-22T21:21:22+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-0c288c9e6362",
-      "title": "Sesko加入曼联三人组，退出国际赛事",
-      "summary": "曼联前锋本杰明·塞斯科（ Benjamin Sesko ）表示，在退出斯洛文尼亚即将到来的国家联盟比赛后，他“非常抱歉” ，因此他可以“完全致力于”自己的康复。这位23岁的球员错过了周日在富勒姆的1-1平局，在Carabao杯对阵布莱顿的比…",
-      "source_url": "https://sports.yahoo.com/articles/sesko-joins-man-utd-trio-092739986.html",
-      "publish_time": "2026-09-22T13:33:49+00:00",
-      "category": "football_intl",
+      "id": "nba-16571625a6ed",
+      "title": "多伦多大举押注科怀·伦纳德的健康状况，据报道延期两年， 1.15亿美元$",
+      "summary": "多伦多一直计划延长伦纳德，他上个赛季证明了他是值得的—如果健康的话。",
+      "source_url": "https://sports.yahoo.com/articles/toronto-bets-big-kawhi-leonards-203556037.html",
+      "publish_time": "2026-09-22T20:35:56+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-ffe291033db5",
-      "title": "G-9就在眼前？ BR26如何向解放者发送记录号码",
-      "summary": "2026年巴西锦标赛可能会看到其解放者资格赛区从G-5扩展到前所未有的G-9。这种灵活性源于新的CBF和Conmeb的结合...",
-      "source_url": "https://sports.yahoo.com/articles/g-9-sight-br26-could-133200842.html",
-      "publish_time": "2026-09-22T13:32:00+00:00",
-      "category": "football_intl",
+      "id": "nba-c542e8e92568",
+      "title": "Adem Bona最终能否成为费城的后备中心？",
+      "summary": "Adem Bona正在进入NBA的第三年，比以往任何时候都有更大的压力来建立自己作为一个可靠的后备中心。",
+      "source_url": "https://sports.yahoo.com/articles/adem-bona-finally-establish-himself-201433183.html",
+      "publish_time": "2026-09-22T20:14:33+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-23a4aa5e88be",
-      "title": "在国际比赛结束后，穆里尼奥可能会转向皇家马德里老将作为首发选择",
-      "summary": "皇家马德里队在国际比赛中落后巴塞罗那六分，可以肯定地说，考虑到本赛季的阶段，赤字是巨大的。洛斯布兰科斯在...",
-      "source_url": "https://sports.yahoo.com/articles/mourinho-could-turn-real-madrid-133000939.html",
-      "publish_time": "2026-09-22T13:30:00+00:00",
-      "category": "football_intl",
+      "id": "nba-98714f41b1ac",
+      "title": "科怀·伦纳德与猛龙队的未来以高达1.15亿美元的合同成为焦点",
+      "summary": "科怀·伦纳德在多伦多的未来已经揭晓。猛龙队和伦纳德达成了一项为期两年，价值1.15亿美元的合同延期，并有2028-29赛季的球员选择权。伦纳德是...",
+      "source_url": "https://sports.yahoo.com/articles/kawhi-leonard-future-raptors-comes-200527369.html",
+      "publish_time": "2026-09-22T20:05:27+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-cafa887fa277",
-      "title": "阅读需要在路上整理结果- Roberts",
-      "summary": "雷丁足球俱乐部后卫海顿·罗伯茨（ Haydon Roberts ）表示，在上个赛季失利后，球队本赛季的晋升能力更强。",
-      "source_url": "https://sports.yahoo.com/articles/reading-tidy-results-road-roberts-132929107.html",
-      "publish_time": "2026-09-22T13:29:29+00:00",
-      "category": "football_intl",
+      "id": "nba-7027b111858e",
+      "title": "据报道，老鹰队将Buddy Hield ， Ryan Nembhard交易给黄蜂队，换取Dorian Finney-Smith",
+      "summary": "ESPN的Shams Charania报道，亚特兰大老鹰队正在将Buddy Hield ， Ryan Nembhard和现金交易给夏洛特黄蜂队，以换取前锋Dorian Finney-Smith。",
+      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/hawks-reportedly-trading-buddy-hield-ryan-nembhard-to-hornets-for-dorian-finney-smith-195556097.html",
+      "publish_time": "2026-09-22T19:55:56+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-3c05456602bb",
-      "title": "Younes Ebnoutalib谈到情绪化的Jürgen Klopp电话和代表德国的决定",
-      "summary": "Younes Ebnoutalib从Regionalliga到德国国家队的显着崛起又迈出了重要的一步， Eintracht法兰克福前锋透露， Jürgen Klopp打了一场比赛......",
-      "source_url": "https://sports.yahoo.com/articles/younes-ebnoutalib-speaks-emotional-j-132500376.html",
-      "publish_time": "2026-09-22T13:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-f1fc1c7f452a",
-      "title": "布拉德利与Hibs联系在一起，因为渡轮暂停了邓迪联队的会谈-八卦",
-      "summary": "邓迪联队的爱尔兰共和国国脚不愿意在9月份决定未来，因为苏格兰后卫帮助土耳其队取得优异成绩。",
-      "source_url": "https://sports.yahoo.com/articles/ferry-puts-dundee-united-contract-065556437.html",
-      "publish_time": "2026-09-22T13:24:03+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-8a576b67c26d",
-      "title": "🐣 本周的神奇小子： Younes Ebnoutalib 🇩🇪",
-      "summary": "每周， OneFootball都会点亮正在崛起的年轻天才。本周三，重点是Mannschaft的新面孔！第一次高级征召，为流星般的崛起加冕。被召唤来……",
-      "source_url": "https://sports.yahoo.com/articles/weeks-wonderkid-younes-ebnoutalib-131700919.html",
-      "publish_time": "2026-09-22T13:17:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-fce6f5a080f4",
-      "title": "皇家马德里中场球员Aurélien Tchouaméni同意Zinédine Zidane不被列入法国队",
-      "summary": "据报道，新任法国主教练齐达内和皇家马德里队的Aurélien Tchouaméni （ 26岁）共同决定，这名中场球员将不会被列入9月份的法国队。",
-      "source_url": "https://sports.yahoo.com/articles/real-madrid-midfielder-aur-lien-131500443.html",
-      "publish_time": "2026-09-22T13:15:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1c9451ac697e",
-      "title": "皇家马德里主教练何塞·穆里尼奥跳过拉斯罗萨斯的年度教练会议",
-      "summary": "周一，皇家马德里教练何塞·穆里尼奥（ Jose Mourinho ）在西班牙第一和第二师教练的年度会议上缺席。在拉斯罗萨斯（ Las Rozas ）的足球城（ City of Football ）举行的聚会...",
-      "source_url": "https://sports.yahoo.com/articles/real-madrid-manager-jose-mourinho-131000451.html",
-      "publish_time": "2026-09-22T13:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-13898b1ee130",
-      "title": "马拉维的Afcon 2027挑战始于一个困难的群体",
-      "summary": "马拉维重返非洲国家杯的路线始于一支艰难但易于管理的队伍，因为火焰队准备在2027年锦标赛的资格赛中面对埃及、安哥拉和南苏丹。对于...",
-      "source_url": "https://sports.yahoo.com/articles/malawi-afcon-2027-challenge-starts-131000324.html",
-      "publish_time": "2026-09-22T13:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d09c58d89f2d",
-      "title": "🚨 突破： Scaloni有75%的可能性继续担任阿根廷老板",
-      "summary": "莱昂内尔·斯卡洛尼（ Lionel Scaloni ）将继续担任阿根廷的主教练。这是“DSports”计划“OKDobleAmarilla”的报道：莱昂内尔·斯卡洛尼（ Lionel Scaloni ）将继续与Albiceleste进行谈判…",
-      "source_url": "https://sports.yahoo.com/articles/breaking-scaloni-75-likely-stay-131000892.html",
-      "publish_time": "2026-09-22T13:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-f01cf85f932f",
-      "title": "俱乐部董事否认撕毁阿森纳夏季签约",
-      "summary": "汉堡SV体育总监克劳斯·科斯塔（ Claus Costa ）否认为法比奥·维埃拉（ Fabio Vieira ）剥夺了阿森纳，但他承认HSV对他们同意的交易非常满意。图片来源： Stuart Franklin/Getty ImagesHam…",
-      "source_url": "https://sports.yahoo.com/articles/club-director-denies-ripping-arsenal-130500351.html",
-      "publish_time": "2026-09-22T13:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-f7bc6dd2af92",
-      "title": "Adani ： “Pulisic的幸福是米兰的基础”",
-      "summary": "Lele Adani认为Ruben Amorim的系统是充分利用Christian Pulisic的关键，他在周末的目标结束了意甲的漫长等待。在Rai 2的La Domenica Sportiva演讲， t...",
-      "source_url": "https://sports.yahoo.com/articles/adani-pulisic-happiness-fundamental-milan-130500263.html",
-      "publish_time": "2026-09-22T13:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3d55f8de2832",
-      "title": "Jan Paul van Hecke在阿斯顿维拉战败后瞄准马刺队友",
-      "summary": "在扬·保罗·范·赫克（ Jan Paul van Hecke ）的残酷判决之后，托特纳姆热刺危机加深了。热刺是英超联赛的底线，仍然没有获胜，噪音也越来越大。Jan Paul van Hecke现在说， PU...",
-      "source_url": "https://sports.yahoo.com/articles/jan-paul-van-hecke-takes-130000661.html",
-      "publish_time": "2026-09-22T13:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3b5c8ce50110",
-      "title": "加拉塔萨雷将皇家马德里球星确定为1月梦想目标",
-      "summary": "皇家马德里有一些空间可以在一月份到来时在八年内进行他们的第一次冬季签约，因为他们在中场出现了明显的问题–现在随着消息的消息而变得更糟......",
-      "source_url": "https://sports.yahoo.com/articles/galatasaray-identify-real-madrid-star-130000126.html",
-      "publish_time": "2026-09-22T13:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-23e29bd919f9",
-      "title": "Gavi谈到Lamine Yamal、伤病、压力和足球之旅： “我越年轻，我越享受”",
-      "summary": "Gavi在最近伤病缠身的赛季后，在Hansi Flick的啄食顺序中落后了，但毫无疑问，经理继续支持球员。Pedri ， Rodri ， Dani Olm......",
-      "source_url": "https://sports.yahoo.com/articles/gavi-talks-lamine-yamal-injury-125500511.html",
-      "publish_time": "2026-09-22T12:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-69e580589372",
-      "title": "罗马在意甲高压中排名第二",
-      "summary": "在意甲的前五个比赛日之后，关于球队表现的第一个统计数据开始出现。最有趣的排名之一是与高压相关的排名，这是一个参数，可以...",
-      "source_url": "https://sports.yahoo.com/articles/roma-ranked-second-high-pressing-125500344.html",
-      "publish_time": "2026-09-22T12:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-be1492d5fa7c",
-      "title": "基利安·姆巴佩透露他离加入利物浦有多近： “我妈妈希望我去”",
-      "summary": "这位法国人最终选择租借到巴黎圣日耳曼，而不是2017-18赛季签约利物浦",
-      "source_url": "https://sports.yahoo.com/articles/kylian-mbappe-reveals-close-joining-125417959.html",
-      "publish_time": "2026-09-22T12:54:17+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d6a6b90d744c",
-      "title": "官方|亚历山大·布莱辛作为新任门兴格拉德巴赫主教练重返德甲",
-      "summary": "门兴格拉德巴赫已正式任命亚历山大·布莱辛（ Alexander Blessin ）为他们的新任主教练。这位53岁的球员在被降级到圣保利足球俱乐部后仅四个月就回到了德甲。Gladb...",
-      "source_url": "https://sports.yahoo.com/articles/official-alexander-blessin-returns-bundesliga-125000431.html",
-      "publish_time": "2026-09-22T12:50:00+00:00",
-      "category": "football_intl",
+      "id": "nba-347ab6038912",
+      "title": "科怀·伦纳德建议他将退休与多伦多合作的Raptor: inks扩展",
+      "summary": "伦纳德签约超过1亿美元，并附有玩家选项",
+      "source_url": "https://sports.yahoo.com/articles/kawhi-leonard-suggests-retire-raptor-195424821.html",
+      "publish_time": "2026-09-22T19:54:24+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4305,6 +4413,42 @@
       "summary": "科怀·伦纳德 locks in an extension with Toronto in wake of his trade and after the NBA closed its investigation into hi…",
       "source_url": "https://sports.yahoo.com/articles/months-limbo-kawhi-leonard-gets-195400924.html",
       "publish_time": "2026-09-22T19:54:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e6414d7d3d3a",
+      "title": "波士顿凯尔特人队每日链接9/22/26",
+      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
+      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-9-194551219.html",
+      "publish_time": "2026-09-22T19:45:51+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bdcd6e890f4c",
+      "title": "湖人队的新后卫正在寻找成为NBA明星的第二次机会",
+      "summary": "对于像Collin Sexton这样的球员来说，在NBA的洗牌中很容易迷路。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-guard-looking-second-chance-192953990.html",
+      "publish_time": "2026-09-22T19:29:53+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-27c5080fccc0",
+      "title": "Doc Rivers将加入NBC的报道团队担任分析师",
+      "summary": "仅仅因为他不再执教雄鹿队并已入选名人堂，这并不意味着我们不会很快收到他的消息。NBC宣布，他们将邀请前76人队主教练Doc Rivers担任NBA报道的比赛分析师。这对所有网络来说都很有趣[…]",
+      "source_url": "https://sports.yahoo.com/articles/doc-rivers-join-nbc-coverage-191944192.html",
+      "publish_time": "2026-09-22T19:19:44+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4324,11 +4468,83 @@
       ]
     },
     {
+      "id": "nba-abac76d93754",
+      "title": "勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）在公开赛期间因残酷的砖块盛会而疯狂",
+      "summary": "费城76人队的新星勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）在休赛期公开赛中错过了几次投篮的视频已经病毒式传播。",
+      "source_url": "https://sports.yahoo.com/articles/lebron-james-goes-viral-brutal-182050907.html",
+      "publish_time": "2026-09-22T18:20:50+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e6eb7be4ab68",
+      "title": "Ariel Hukporti可能是76人队的关键人物",
+      "summary": "在不断变化的76人后备中心位置抽奖中， Ariel Hukporti现在进入了市场。",
+      "source_url": "https://sports.yahoo.com/articles/ariel-hukporti-could-key-figure-181205598.html",
+      "publish_time": "2026-09-22T18:12:05+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-372a2e5fc0f6",
       "title": "Former No. 1 pick accuses 勒布朗·詹姆斯 of having ‘toxic’ impact on Lakers stars",
       "summary": "Former NBA top pick Kwame Brown made several powerful claims toward former Los Angeles Lakers star 勒布朗·詹姆斯.",
       "source_url": "https://sports.yahoo.com/articles/former-no-1-pick-accuses-175255126.html",
       "publish_time": "2026-09-22T17:52:55+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-cf6cacd3e98b",
+      "title": "特雷·杨说，亚特兰大前厅的营业额导致了他对贸易的推动",
+      "summary": "“一旦我们上了第三次通用汽车……你就不一定觉得那么舒服了。”",
+      "source_url": "https://sports.yahoo.com/articles/trae-young-says-atlanta-front-173712752.html",
+      "publish_time": "2026-09-22T17:37:12+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-24d3bcf952a3",
+      "title": "为什么勇士队应该对Jalen Duren做出崇高的承诺",
+      "summary": "随着有关Jalen Duren与活塞队未来的谣言肆虐，勇士队应该为下一个休赛期播下种子。",
+      "source_url": "https://sports.yahoo.com/articles/why-warriors-making-lofty-promises-172214066.html",
+      "publish_time": "2026-09-22T17:22:14+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-3263d8a25dfd",
+      "title": "Henri Veesaar撕裂ACL ，将错过整个NBA赛季",
+      "summary": "Veesaar即将开始他的新秀活动。",
+      "source_url": "https://sports.yahoo.com/articles/henri-veesaar-tears-acl-miss-170000424.html",
+      "publish_time": "2026-09-22T17:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-faa4db8918a6",
+      "title": "勇士队第二轮挑选Lajae Jones与意大利队签约",
+      "summary": "今年，金州勇士队将与Pallacanestro Trieste一起在意大利藏匿Lajae Jones。",
+      "source_url": "https://sports.yahoo.com/articles/warriors-second-round-pick-lajae-163818591.html",
+      "publish_time": "2026-09-22T16:38:18+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4353,6 +4569,66 @@
       "summary": "弗雷德·范弗利特（ Fred VanVleet ）的回归可能会使火箭队成为西方的威胁。",
       "source_url": "https://sports.yahoo.com/articles/five-players-facing-critical-comeback-155639169.html",
       "publish_time": "2026-09-22T15:56:39+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-702817cb4557",
+      "title": "MMBets ：克利夫兰骑士队全力以赴",
+      "summary": "骑士队是否有能力在一个更强大的东部联盟中真正竞争？",
+      "source_url": "https://sports.yahoo.com/articles/mmbets-cleveland-cavaliers-153000407.html",
+      "publish_time": "2026-09-22T15:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-69e99cd18bd8",
+      "title": "湖人对沃克·凯斯勒的赌注会得到回报吗？",
+      "summary": "湖人队押注沃克·凯斯勒，但本赛季是否会有回报？",
+      "source_url": "https://sports.yahoo.com/articles/lakers-bet-walker-kessler-pay-152400307.html",
+      "publish_time": "2026-09-22T15:24:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1a5403bf34d4",
+      "title": "为什么Jalen Duren的合同僵局对底特律来说是令人鼓舞的",
+      "summary": "Jalen Duren的僵局可能令人沮丧，但它表明活塞致力于长期成功。",
+      "source_url": "https://sports.yahoo.com/articles/why-jalen-duren-contract-stalemate-143000508.html",
+      "publish_time": "2026-09-22T14:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b8ed5fb56c7e",
+      "title": "Klutch团聚正是Kentavious Caldwell-Pope所需要的吗？",
+      "summary": "过去两年对KCP来说并不容易，但他最好的时光来自与勒布朗·詹姆斯的比赛。",
+      "source_url": "https://sports.yahoo.com/articles/klutch-reunion-just-kentavious-caldwell-141545639.html",
+      "publish_time": "2026-09-22T14:15:45+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e64630c7d8be",
+      "title": "史蒂夫·科尔如何说服前NBA教练弗兰克·沃格尔加入勇士队",
+      "summary": "金州勇士队主教练史蒂夫·科尔（ Steve Kerr ）招募了助理教练弗兰克·沃格尔（ Frank Vogel ） ，在两年前的努力失败后，今年夏天加入了球队。",
+      "source_url": "https://sports.yahoo.com/articles/steve-kerr-convinced-former-nba-140646097.html",
+      "publish_time": "2026-09-22T14:06:46+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4444,6 +4720,18 @@
       ]
     },
     {
+      "id": "nba-7296cc31fa7c",
+      "title": "与意大利队Pallacanestro Trieste一起挑选Lajae Jones标志牌",
+      "summary": "Lajae Jones ，金州勇士队2026年第二轮NBA选秀签约与意大利队Pallacanestro Trieste在海外比赛。",
+      "source_url": "https://sports.yahoo.com/articles/warriors-draft-pick-lajae-jones-114047638.html",
+      "publish_time": "2026-09-22T11:40:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-fe5ab27bb21a",
       "title": "迈克·布朗（ Mike Brown ）在iPad上有了新的视角",
       "summary": "在乔丹·布林克（ Jordan Brink ）转会到蒂亚戈·斯普利特（ Tiago Splitter ）的芝加哥员工之后，鹈鹕队后期埃德·弗林（ Ed Flynn ）接任尼克斯队的主要挑战顾问",
@@ -4497,6 +4785,18 @@
       "summary": "Golden State Warriors veteran forward 德雷蒙德·格林 compared himself to San Francisco 49ers star linebacker Fred Warner…",
       "source_url": "https://sports.yahoo.com/articles/why-warriors-draymond-green-compares-103313803.html",
       "publish_time": "2026-09-22T10:33:13+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-faaa8e4d2375",
+      "title": "2026-27梦幻篮球：在任何联赛形式下都有效的选秀战术",
+      "summary": "任何形式的梦幻篮球选秀技巧。避免炒作选择，优先考虑耐力，在排位赛中幸存下来，并在积分或类别联赛中建立平衡的阵容。",
+      "source_url": "https://sports.yahoo.com/articles/fantasy-basketball-draft-tips-2026-102800922.html",
+      "publish_time": "2026-09-22T10:28:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4953,306 +5253,6 @@
       "summary": "对于步行者队来说，这是一个艰难的15个月。今年应该标志着他们重返竞争者行列",
       "source_url": "https://sports.yahoo.com/articles/mmbets-indiana-pacers-finally-shot-163000218.html",
       "publish_time": "2026-09-21T16:30:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-59555395cd00",
-      "title": "鲍勃·艾格（ Bob Iger ）、乔什·库什纳（ Josh Kushner ）预计在未来十年内将湖",
-      "summary": "湖人队的新所有权对其任期的财务预测很高",
-      "source_url": "https://sports.yahoo.com/articles/bob-iger-josh-kushner-expect-161500206.html",
-      "publish_time": "2026-09-21T16:15:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a71ceae80987",
-      "title": "NBA分析：以披头士为特色的朱利叶斯·兰德尔回顾展",
-      "summary": "向朱利叶斯·兰德尔（ Julius Randle ）致敬，演唱《Hey Jude》",
-      "source_url": "https://sports.yahoo.com/articles/nba-analysis-julius-randle-retrospective-160000258.html",
-      "publish_time": "2026-09-21T16:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-f5359ffcc920",
-      "title": "据报道，老鹰队，黄蜂队正在讨论Dorian Finney-Smith交易的潜在Buddy Hield",
-      "summary": "谈判整个夏天都在断断续续，可能不会发生。",
-      "source_url": "https://sports.yahoo.com/articles/hawks-hornets-reportedly-discussing-potential-154213234.html",
-      "publish_time": "2026-09-21T15:42:13+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-88cbfbea96c2",
-      "title": "昆汀·格兰姆斯（ Quentin Grimes ）能否巩固自己作为未来核心部分的地位？",
-      "summary": "在签下多年合同后，昆汀·格兰姆斯和湖人队希望洛杉矶将成为他的长期家园。",
-      "source_url": "https://sports.yahoo.com/articles/quentin-grimes-solidify-himself-core-152400296.html",
-      "publish_time": "2026-09-21T15:24:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4086ec55db1b",
-      "title": "Doc Rivers加入NBC Sports的NBA报道，担任2026-27赛季的比赛分析师",
-      "summary": "“我喜欢玩游戏，我喜欢执教它，我一直喜欢谈论它，”里弗斯说。",
-      "source_url": "https://sports.yahoo.com/articles/doc-rivers-joins-nbc-sports-152334527.html",
-      "publish_time": "2026-09-21T15:23:34+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-80dad919ac0e",
-      "title": "NBA休赛期：安东尼·爱德华兹招募乔纳森·库明加加入狼队",
-      "summary": "本月早些时候，乔纳森·库明加（ Jonathan Kuminga ）与明尼苏达森林狼队（ Minnesota Timberwolves ）",
-      "source_url": "https://sports.yahoo.com/articles/nba-offseason-anthony-edwards-recruited-144907660.html",
-      "publish_time": "2026-09-21T14:49:07+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5610c2cc22ce",
-      "title": "骑士赛季预览：肯尼·阿特金森（ Kenny Atkinson ） –不仅仅是买进",
-      "summary": "在一个完整的休赛期，这支球队看起来不一样吗？",
-      "source_url": "https://sports.yahoo.com/articles/cavs-season-preview-kenny-atkinson-140000851.html",
-      "publish_time": "2026-09-21T14:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-9ee97f356241",
-      "title": "Labaron Philon在新秀赛季将扮演什么角色？",
-      "summary": "随着备受瞩目的退伍军人抵达费城，一名年轻的新秀后卫可以在雷达下飞行。",
-      "source_url": "https://sports.yahoo.com/articles/role-labaron-philon-fill-rookie-135057946.html",
-      "publish_time": "2026-09-21T13:50:57+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ee0464b8c2d6",
-      "title": "加里·佩顿二世拥抱勇士队在2026-27赛季被排除在外",
-      "summary": "加里·佩顿二世拥抱金州勇士队在2026-27 NBA赛季之前的睡眠。",
-      "source_url": "https://sports.yahoo.com/articles/gary-payton-ii-embraces-warriors-134538348.html",
-      "publish_time": "2026-09-21T13:45:38+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4d1d7100aed5",
-      "title": "NBA季前赛实力排名： 2026-27赛季所有30支球队的积分情况",
-      "summary": "以下是每个团队发生的变化、令人兴奋的事情以及关注的问题。",
-      "source_url": "https://sports.yahoo.com/nba/article/nba-preseason-power-rankings-how-all-30-teams-stack-up-for-2026-27-133839879.html",
-      "publish_time": "2026-09-21T13:38:39+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-bdee3276fa5d",
-      "title": "前维拉诺瓦球星卡姆·惠特莫尔（ Cam Whitmore ）如何最终留在NBA",
-      "summary": "第四次是魅力。",
-      "source_url": "https://sports.yahoo.com/articles/former-villanova-star-cam-whitmore-133416569.html",
-      "publish_time": "2026-09-21T13:34:16+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-aacd837b8cfd",
-      "title": "Cooper Flagg的私人教练菜肴介绍休赛期的发展情况",
-      "summary": "Matt MacKenzie分享了Flagg在这个休赛期所做的工作，以及他对这位年轻球星在第二年的期望",
-      "source_url": "https://sports.yahoo.com/articles/cooper-flagg-personal-trainer-dishes-131337986.html",
-      "publish_time": "2026-09-21T13:13:37+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-15fbeaf2268c",
-      "title": "76人训练营前问题：有多少年轻球员将获得分钟数？",
-      "summary": "76人队的哪位年轻球员将在2026-27赛季获得轮换分钟？",
-      "source_url": "https://sports.yahoo.com/articles/sixers-pre-camp-questions-many-131146435.html",
-      "publish_time": "2026-09-21T13:11:46+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-264404de65b2",
-      "title": "雄鹿反应调查：谁在贸易价值方面领导团队？",
-      "summary": "哪个Buck产生的价值最大？",
-      "source_url": "https://sports.yahoo.com/articles/bucks-reacts-survey-leads-team-130934065.html",
-      "publish_time": "2026-09-21T13:09:34+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-aace9e1edde5",
-      "title": "玩家预览：奥索·伊戈达罗为在山谷中扮演重要角色而战",
-      "summary": "奥索·伊戈达罗（ Oso Ighodaro ）想方设法扮演一个更孤立的角色。",
-      "source_url": "https://sports.yahoo.com/articles/player-preview-oso-ighodaro-fights-120000058.html",
-      "publish_time": "2026-09-21T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-8fa119b287a1",
-      "title": "名册排名：小加里·特伦特13岁时抢购包袋",
-      "summary": "对于一个去年获得第三名的男人来说，这是一个重大的失误。",
-      "source_url": "https://sports.yahoo.com/articles/ranking-roster-gary-trent-jr-120000499.html",
-      "publish_time": "2026-09-21T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-3b7d29d5611b",
-      "title": "预览： Ja 'Kobe可能是猛龙队本赛季最大的X因素",
-      "summary": "沃尔特作为球员的成长应该是多伦多全力以赴的事情",
-      "source_url": "https://sports.yahoo.com/articles/preview-ja-kobe-could-raptors-120000910.html",
-      "publish_time": "2026-09-21T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a28c1103382a",
-      "title": "NBA目前25个最大的运动怪胎",
-      "summary": "这些是进入2026-27赛季的NBA中最具爆发力的运动员。",
-      "source_url": "https://sports.yahoo.com/articles/nba-25-biggest-athletic-freaks-120000142.html",
-      "publish_time": "2026-09-21T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-2389be008f6c",
-      "title": "营地坡道：布拉德·史蒂文斯的下一个凯尔特人大动作是什么？",
-      "summary": "凯尔特人如何重返NBA的精英竞争者队伍？",
-      "source_url": "https://sports.yahoo.com/articles/ramp-camp-brad-stevens-next-114148339.html",
-      "publish_time": "2026-09-21T11:41:48+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c2f230e161e1",
-      "title": "2026-27雅虎梦幻篮球：类别vs积分vs高分联赛",
-      "summary": "九类、标准分还是高分？雅虎为2026-27赛季提供了三种梦幻篮球模式，每种模式都需要不同的草稿策略。以下是玩这三种游戏的方法。",
-      "source_url": "https://sports.yahoo.com/articles/yahoo-fantasy-basketball-2026-27-110400843.html",
-      "publish_time": "2026-09-21T11:04:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1b54609e2ef0",
-      "title": "谣言综述：老鹰在谈论芬尼-史密斯的交易？",
-      "summary": "谣言磨坊隆隆作响。",
-      "source_url": "https://sports.yahoo.com/articles/rumor-roundup-hawks-talking-trade-110000092.html",
-      "publish_time": "2026-09-21T11:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-cfe3c77d9150",
-      "title": "2月预测： Ryan Rollins可能成为下一个Derrick White吗？",
-      "summary": "思考未来永远不会太早。",
-      "source_url": "https://sports.yahoo.com/articles/february-forecast-could-ryan-rollins-100000483.html",
-      "publish_time": "2026-09-21T10:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7ff720e8bc58",
-      "title": "随着2026-27赛季的临近，预览每支NBA球队",
-      "summary": "随着训练营即将开放，今日美国体育为每支NBA球队提供预览。",
-      "source_url": "https://sports.yahoo.com/articles/previewing-nba-team-2026-27-095227518.html",
-      "publish_time": "2026-09-21T09:52:27+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-0cd9c3a340bc",
-      "title": "洛杉矶快船队赛季预览：阵容、名单和预测",
-      "summary": "洛杉矶快船队在经历了一个尴尬的休赛期后，将努力让2026-27赛季变得有意义。",
-      "source_url": "https://sports.yahoo.com/articles/los-angeles-clippers-season-preview-095048004.html",
-      "publish_time": "2026-09-21T09:50:48+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e37b23706ed6",
-      "title": "《火箭2026-2027》球员预告：夸迪尔·科普兰/肖恩·佩杜拉/拉斐尔·卡斯特罗",
-      "summary": "今年火箭队有三名新的双向球员。",
-      "source_url": "https://sports.yahoo.com/articles/rockets-2026-2027-player-previews-095045766.html",
-      "publish_time": "2026-09-21T09:50:45+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
