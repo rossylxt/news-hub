@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-23T08:18:23.029369+00:00",
+  "generated_at": "2026-09-23T10:19:06.828035+00:00",
   "news": [
+    {
+      "id": "ai_cn-02c3c1000278",
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "summary": "商汤大装置异构混推创新实践与技术演进",
+      "source_url": "https://www.qbitai.com/2026/09/496578.html",
+      "publish_time": "2026-09-23T09:56:53+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-fb918a8febe0",
+      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+      "summary": "企业AI服务迎来平台化交付时代",
+      "source_url": "https://www.qbitai.com/2026/09/496493.html",
+      "publish_time": "2026-09-23T09:50:26+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-884f2261325f",
+      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+      "summary": "打造算电协同领域“Windows”级操作系统",
+      "source_url": "https://www.qbitai.com/2026/09/496494.html",
+      "publish_time": "2026-09-23T09:46:57+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-be926c678337",
+      "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+      "summary": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
+      "source_url": "https://www.qbitai.com/2026/09/496481.html",
+      "publish_time": "2026-09-23T08:54:04+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-af1e48595cff",
+      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+      "source_url": "https://www.qbitai.com/2026/09/496471.html",
+      "publish_time": "2026-09-23T08:45:22+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-df0171ea2c11",
       "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
@@ -895,66 +955,6 @@
       "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
       "source_url": "https://www.qbitai.com/2026/09/490756.html",
       "publish_time": "2026-09-16T08:18:44+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-cfff64332c1a",
-      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-      "summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
-      "source_url": "https://www.qbitai.com/2026/09/490750.html",
-      "publish_time": "2026-09-16T08:09:53+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-c77ce445273f",
-      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
-      "summary": "AI协同办公的新官配，我先磕了",
-      "source_url": "https://www.qbitai.com/2026/09/490686.html",
-      "publish_time": "2026-09-16T07:46:38+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-2d443bd55c15",
-      "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
-      "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
-      "source_url": "https://www.qbitai.com/2026/09/490416.html",
-      "publish_time": "2026-09-16T07:38:18+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-c6714b5bbf2d",
-      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
-      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
-      "source_url": "https://www.qbitai.com/2026/09/490400.html",
-      "publish_time": "2026-09-16T06:32:31+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-04e4a3a4c1cb",
-      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
-      "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
-      "source_url": "https://www.qbitai.com/2026/09/490396.html",
-      "publish_time": "2026-09-16T06:23:05+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,30 @@
       ]
     },
     {
+      "id": "jp_football_euro-4880b2075d5e",
+      "title": "A.马德里的中国守护女神，大岩J.愿意参加亚运会“复赛” “准备100%”尊敬荒木龙为",
+      "summary": "[9.23亚运GL第3节中国0-0阿联酋丰田]我不害怕与1月份决赛中打进4球的对手复赛。U-23中国国家队GK李浩（青岛西海岸/中国）在23日被问及在0-0完成亚运会最后一场小组赛后，是否愿意再次对阵日本。“当然。我们将做好100%的准备。…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459558-459558-fl",
+      "publish_time": "2026-09-23T08:45:28+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-5e36ebf7845a",
+      "title": "大岩日本将面对朝鲜，获得亚运会A组第一名，中国将在四分之一决赛中获得第二名……今晚，泰国将面对GL ，获得第一名",
+      "summary": "[9.23亚运会GL第3节中国0-0阿联酋丰田]亚运会男子足球在23日进行了小组联赛的最后一节比赛， U-23中国国家队和U-23阿联酋国家队在B组以0-0战平。中国攀升至5分，进入四分之一决赛。在第二节结束时，中国以4分获胜，阿联酋以1分…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459554-459554-fl",
+      "publish_time": "2026-09-23T07:26:20+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-474a9df68ece",
       "title": "【锦标赛】埼玉县预选赛主要日期",
       "summary": "第105届全国高中足球锦标赛[埼玉] [决赛] [半决赛] [四分之一决赛]",
@@ -3433,6 +3457,30 @@
       "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "football_intl-29d59c83ebbb",
+      "title": "France reveal why Real Madrid star 基利安·姆巴佩 missed training",
+      "summary": "After an incredible last season with Real Madrid, 基利安·姆巴佩 has started the new season in quite a mixed fashion. The…",
+      "source_url": "https://sports.yahoo.com/articles/france-reveal-why-real-madrid-100500406.html",
+      "publish_time": "2026-09-23T10:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6e437e689ad4",
+      "title": "基利安·姆巴佩 reveals how close he came to joining Liverpool prior to Real Madrid move",
+      "summary": "In the summer of 2024, Real Madrid finally secured the services of 基利安·姆巴佩 with a move that had been years in the…",
+      "source_url": "https://sports.yahoo.com/articles/kylian-mbappe-reveals-close-came-090500963.html",
+      "publish_time": "2026-09-23T09:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -4367,30 +4415,6 @@
       "publish_time": "2026-09-22T19:15:00+00:00",
       "category": "football_intl",
       "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-02545556e54b",
-      "title": "曼联将这位多特蒙德王牌确定为目标：他将为老特拉福德带来什么？",
-      "summary": "在最近的一份报告中，记者格雷姆·贝利（ Graeme Bailey ）提到，曼联已将多特蒙德王牌球员谢尔霍·吉拉西（ Serhou Guirassy ）确定为目标。据说红魔们正盯着一个月……",
-      "source_url": "https://sports.yahoo.com/articles/manchester-united-identify-borussia-dortmund-190500851.html",
-      "publish_time": "2026-09-22T19:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-de5ab49bf8d9",
-      "title": "在佛罗伦萨1-1那不勒斯之后，随着紧张局势的加剧，阿莱格里在更衣室打了墙",
-      "summary": "意大利的报道显示，那不勒斯的紧张局势再次开始加剧，最新消息称，主教练马西米利亚诺·阿莱格里（ Massimiliano Allegri ）在热火中表达了他对球员的看法……",
-      "source_url": "https://sports.yahoo.com/articles/allegri-punched-walls-dressing-room-190500214.html",
-      "publish_time": "2026-09-22T19:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
