@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-24T08:18:43.480590+00:00",
+  "generated_at": "2026-09-24T10:19:03.914139+00:00",
   "news": [
+    {
+      "id": "ai_cn-f03f5ea81151",
+      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+      "summary": "人类演示一次，机器人即可实现跨场景任务复用",
+      "source_url": "https://www.qbitai.com/2026/09/496816.html",
+      "publish_time": "2026-09-24T08:20:12+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-3caee869e0dc",
       "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
@@ -943,18 +955,6 @@
       "summary": "GLM已经开始参与构建GLM了",
       "source_url": "https://www.qbitai.com/2026/09/491357.html",
       "publish_time": "2026-09-17T08:28:23+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-c6d59fdd9181",
-      "title": "马斯克睡进工地！为AI基建拼了",
-      "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
-      "source_url": "https://www.qbitai.com/2026/09/491280.html",
-      "publish_time": "2026-09-17T04:37:26+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,42 @@
       ]
     },
     {
+      "id": "jp_football_euro-4645be5a1882",
+      "title": "U-21日本国家队对泰国球迷为运动员加油（ 57张）",
+      "summary": "23日， U-21日本国家队在亚运会A组第三节3-0战胜U-23泰国国家队。●第20届亚运会特色",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459622-459622-pn",
+      "publish_time": "2026-09-24T09:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-d55f7485c487",
+      "title": "在2场比赛中连续21个进球，中岛洋太郎充当先发制人的子弹",
+      "summary": "23日， U-21日本国家队在亚运会A组第三节3-0战胜U-23泰国国家队。●第20届亚运会特色",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459619-459619-pn",
+      "publish_time": "2026-09-24T09:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-39ac03fbcc38",
+      "title": "U-21日本国家队连续三场胜利首次通过GL ！在四分之一决赛中与朝鲜作战（ 55件）",
+      "summary": "23日， U-21日本国家队在亚运会A组第三节3-0战胜U-23泰国国家队。●第20届亚运会特色",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459618-459618-pn",
+      "publish_time": "2026-09-24T09:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-f2c1ee54622f",
       "title": "出色的定位感……石井久嗣连续三回合名列前茅！ “用自己的进球回馈”湘南三人横扫左侧",
       "summary": "[9.23亚运会GL第3节日本3-0泰国丰田]这是一个不要错过连续三个进球的决定性机会的举动。U-21日本国家队MF石井久嗣（湘南）在下半场拿下球队的第三分，在对阵香港的第一场比赛和对阵吉尔吉斯斯坦的第二场比赛后得分。目标是与在湘南一起玩耍…",
@@ -3481,6 +3517,54 @@
       "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "football_intl-828286559a7b",
+      "title": "维尼修斯 determined to rediscover his best form after Real Madrid struggles",
+      "summary": "维尼修斯 has remained one of the main talking points at Real Madrid during the opening stretch of the 2026-27 sea…",
+      "source_url": "https://sports.yahoo.com/articles/vinicius-junior-determined-rediscover-best-100000798.html",
+      "publish_time": "2026-09-24T10:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8d1d1af6dac6",
+      "title": "凯文·德布劳内 looking to hand over responsibility to the next generation",
+      "summary": "凯文·德布劳内 has been talking to the media ahead of Belgium’s clash with Italy in the Nations League. The Napoli midf…",
+      "source_url": "https://sports.yahoo.com/articles/kevin-bruyne-looking-hand-over-095500497.html",
+      "publish_time": "2026-09-24T09:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d449aeb7ac8a",
+      "title": "Jose Mourinho remains convinced 维尼修斯 can rediscover his Real Madrid form",
+      "summary": "Despite being one of the biggest stars in this Real Madrid team, 维尼修斯 continues to underwhelm with his perfor…",
+      "source_url": "https://sports.yahoo.com/articles/jose-mourinho-remains-convinced-vinicius-083000553.html",
+      "publish_time": "2026-09-24T08:30:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-434b3385c8eb",
+      "title": "易卜拉希马·科纳特 sent back to Real Madrid after suffering knee injury",
+      "summary": "The center-back 易卜拉希马·科纳特 has not needed a lot of time to showcase his worth for Real Madrid. After having joined…",
+      "source_url": "https://sports.yahoo.com/articles/ibrahima-konate-sent-back-real-081000713.html",
+      "publish_time": "2026-09-24T08:10:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -4389,54 +4473,6 @@
       "summary": "罗马和米兰可能会在1月份再次尝试从皇家马德里租借恩德里克，因为巴西教练卡洛·安切洛蒂抱怨他“需要上场时间来发展。（意甲两边都紧张了……",
       "source_url": "https://sports.yahoo.com/articles/frustrated-endrick-still-wanted-roma-200000884.html",
       "publish_time": "2026-09-23T20:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-cda0949e7fe9",
-      "title": "前利物浦球星和国际经理建议年轻人可以变得更好",
-      "summary": "刘易斯·库马斯（ Lewis Koumas ）随着利物浦和威尔士拥抱无情的新进攻者而快速崛起刘易斯·库马斯（ Lewis Koumas ）毫不浪费时间在俱乐部和国际层面的谈话中。一名球员......",
-      "source_url": "https://sports.yahoo.com/articles/former-liverpool-star-international-manager-195500101.html",
-      "publish_time": "2026-09-23T19:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-ea1122b19f56",
-      "title": "利物浦是渴望让AC米兰前锋登陆的俱乐部之一： Iraola应该为他回归吗？",
-      "summary": "在最近的一份报告中，记者格雷姆·贝利（ Graeme Bailey ）声称，利物浦是渴望让AC米兰前锋弗朗西斯科·卡马尔达（ Francesco Camarda ）登陆据了解，红军可能会面临来自Ch...",
-      "source_url": "https://sports.yahoo.com/articles/liverpool-were-among-clubs-eager-195000636.html",
-      "publish_time": "2026-09-23T19:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-bb9a54e20138",
-      "title": "米兰准备续签Christian Pulisic合同的细节",
-      "summary": "米兰甲级联赛尚未与克里斯蒂安·普利西奇签订新合同，该球员目前的合同将在2027年到期。虽然体育运动员报告说没有进行谈判，但有些...",
-      "source_url": "https://sports.yahoo.com/articles/details-milan-prepare-renew-christian-194500396.html",
-      "publish_time": "2026-09-23T19:45:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-329de39a5e2e",
-      "title": "德国裁判Siebert被选中参加意大利对比利时的比赛",
-      "summary": "德国裁判丹尼尔·西伯特（ Daniel Siebert ）将主持意大利与比利时的国家联赛比赛，因为同胞巴斯蒂安·丹克特（ Bastian Dankert ）在VAR展位上。它将于周五在罗马的奥林匹克体育场拉开帷幕...",
-      "source_url": "https://sports.yahoo.com/articles/german-referee-siebert-chosen-italy-194000866.html",
-      "publish_time": "2026-09-23T19:40:00+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
