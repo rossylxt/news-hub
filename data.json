@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-24T02:18:00.758252+00:00",
+  "generated_at": "2026-09-24T04:19:11.307786+00:00",
   "news": [
+    {
+      "id": "ai_cn-3c52cd2cfabe",
+      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+      "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+      "source_url": "https://www.qbitai.com/2026/09/496658.html",
+      "publish_time": "2026-09-24T02:51:18+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-2b6910bbfc14",
+      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+      "summary": "美国也开启了全民养虾狂潮",
+      "source_url": "https://www.qbitai.com/2026/09/496647.html",
+      "publish_time": "2026-09-24T02:23:12+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-47a6079dfb80",
       "title": "成立九年，中科类脑把积累装进Token工厂",
@@ -931,30 +955,6 @@
       "summary": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
       "source_url": "https://www.qbitai.com/2026/09/490974.html",
       "publish_time": "2026-09-17T01:55:14+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-79365d8c240f",
-      "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-      "summary": "奖励曲线、显卡故障全公开",
-      "source_url": "https://www.qbitai.com/2026/09/490950.html",
-      "publish_time": "2026-09-17T01:09:25+00:00",
-      "category": "ai_cn",
-      "is_important": true,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-94b3345e7dff",
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "summary": "九大空间测试10B规模通用模型中8项第一",
-      "source_url": "https://www.qbitai.com/2026/09/490839.html",
-      "publish_time": "2026-09-16T13:08:20+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -2714,11 +2714,119 @@
       ]
     },
     {
+      "id": "biz_intl-384c009aeb46",
+      "title": "首席执行官改组刚刚填补了这只股票。如何在这里玩。",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/ceo-shakeup-just-tanked-stock-171351644.html",
+      "publish_time": "2026-09-22T17:13:51+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-23937fec54d8",
+      "title": "火箭实验室股票突破关键趋势线",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
+      "publish_time": "2026-09-22T16:57:28+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
       "id": "biz_intl-9f6ab88a4e64",
       "title": "余额转账信用卡需要什么信用分数？",
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html",
       "publish_time": "2026-09-22T16:57:14+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-018bea5ab3dd",
+      "title": "您认为用现金购买汽车是一种灵活性吗？为什么数以百万计的婴儿潮一代正在悄悄浪费成千上万",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/articles/think-buying-car-cash-flex-165500324.html",
+      "publish_time": "2026-09-22T16:55:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-6e9a5478cc62",
+      "title": "美联储的Barkin表示，经济可能会走强，通货膨胀不仅限于能源，关税冲击",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/economy/policy/articles/feds-barkin-says-economy-may-165255863.html",
+      "publish_time": "2026-09-22T16:52:55+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-e9bf7880bba9",
+      "title": "芝商所集团将推出比特币现金和Uniswap期货",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/crypto/articles/cme-group-launch-bitcoin-cash-165200159.html",
+      "publish_time": "2026-09-22T16:52:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-ab679e254280",
+      "title": "MillerKnoll, Inc. 2027年第一季度盈利电话会议摘要",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/millerknoll-inc-q1-2027-earnings-165135862.html",
+      "publish_time": "2026-09-22T16:51:35+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-fc7d371a4f0c",
+      "title": "Coinbase允许美国零售投资者购买IPO股票",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-allow-u-retail-investors-165100177.html",
+      "publish_time": "2026-09-22T16:51:00+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-e9058221364e",
+      "title": "Masco股票的表现是否落后于道琼斯指数？",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/masco-stock-underperforming-dow-164605028.html",
+      "publish_time": "2026-09-22T16:46:05+00:00",
+      "category": "biz_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "biz_intl-8d59efe53c22",
+      "title": "麦当劳有1个机会扭转其可怕的一年",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-has-1-shot-to-turn-around-its-dreadful-year-164554149.html",
+      "publish_time": "2026-09-22T16:45:54+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -2767,114 +2875,6 @@
       "summary": "（原文暂无摘要，点击查看详情）",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-dana-dan-q2-detractor-163615111.html",
       "publish_time": "2026-09-22T16:36:15+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-f1c2da66ca91",
-      "title": "为什么Graco (GGG)是Gabelli Small Cap Growth Fund第二季度的拖累因素",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-graco-ggg-q2-detractor-163529754.html",
-      "publish_time": "2026-09-22T16:35:29+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-e3f263e414a8",
-      "title": "为什么Myers Industries (MYE)在第二季度成为Gabelli的佼佼者",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-myers-industries-mye-top-163520531.html",
-      "publish_time": "2026-09-22T16:35:20+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-285ad59f69a7",
-      "title": "为什么Crane Co. (CR)跻身Gabelli第二季度最佳表现者之列",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-crane-co-cr-among-163509000.html",
-      "publish_time": "2026-09-22T16:35:09+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-3378e0f87ecf",
-      "title": "为什么Gorman-Rupp Co. (GRC)在第二季度成为Gabelli的佼佼者",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-gorman-rupp-co-grc-163458570.html",
-      "publish_time": "2026-09-22T16:34:58+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-3307d86c6655",
-      "title": "为什么Shopify股票、Twilio在Meta的Muse推出中崛起",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.investors.com/news/technology/shopify-stock-shop-twilio-stock-twlo-meta-muse/?src=A00220&yptr=yahoo",
-      "publish_time": "2026-09-22T16:31:20+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-802d72af99ea",
-      "title": "伯克希尔哈撒韦公司增加了这家摇摇欲坠的房屋建筑商的股份",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.investors.com/news/berkshire-hathaway-lennar-homebuilders/?src=A00220&yptr=yahoo",
-      "publish_time": "2026-09-22T16:30:09+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-1691c2f05897",
-      "title": "下跌47% ，这是否是一代人购买荷兰兄弟股票的机会？",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/down-47-generational-buying-opportunity-161700569.html",
-      "publish_time": "2026-09-22T16:17:00+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-bde32e616c1a",
-      "title": "丹·奈尔斯（ Dan Niles ） ： Meta的无聊12%年份正是其重新评级的原因",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/dan-niles-meta-boring-12-161318201.html",
-      "publish_time": "2026-09-22T16:13:18+00:00",
-      "category": "biz_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Finance"
-      ]
-    },
-    {
-      "id": "biz_intl-a4ce17b64bf2",
-      "title": "独家：小型人工智能模型在预测中与GPT-4.1相匹配，因为OLAS创始成员表示前沿模型面临“不断增加的经济压力”",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://finance.yahoo.com/technology/ai/articles/exclusive-small-ai-model-matches-161256167.html",
-      "publish_time": "2026-09-22T16:12:56+00:00",
       "category": "biz_intl",
       "is_important": false,
       "tags": [
@@ -3481,6 +3481,18 @@
       "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "football_intl-150bee7a3314",
+      "title": "🎙️ Rodri在马德里德比： Kang-in Lee可能是红色的",
+      "summary": "罗德里与El Partidazo de COPE进行了交谈，并重新审视了西甲周末最大的争议之一：马德里德比的“送别”。“我觉得库蒂的难度更大，因为我不会……",
+      "source_url": "https://sports.yahoo.com/articles/rodri-madrid-derby-kang-lees-033400368.html",
+      "publish_time": "2026-09-24T03:34:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -4432,18 +4444,6 @@
       ]
     },
     {
-      "id": "football_intl-ffb8a8057fc9",
-      "title": "Varfolomeev将林肯住宿延长至2030年",
-      "summary": "林肯城中场球员伊万·瓦尔福洛梅耶夫（ Ivan Varfolomeev ）签订了一份为期一年的续约合同，继续留在锦标赛俱乐部，直到2030年夏天。",
-      "source_url": "https://sports.yahoo.com/articles/varfolomeev-extends-lincoln-stay-until-170959276.html",
-      "publish_time": "2026-09-23T17:09:59+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
       "id": "nba-4832995bc845",
       "title": "尼克斯队的第二个围裙即将到来：卡尔-安东尼·汤斯，尼克斯扩展会谈摊位",
       "summary": "Towns和Knicks之间停滞不前的合同延期谈判是一个更大问题的症状。",
@@ -4473,6 +4473,42 @@
       "summary": "圣安东尼奥的翅膀从前100名中被冷落。",
       "source_url": "https://sports.yahoo.com/articles/yes-devin-vassell-top-100-234715058.html",
       "publish_time": "2026-09-23T23:47:15+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1081a5276404",
+      "title": "快船临时老板感谢科怀·伦纳德 ，向领导层致辞",
+      "summary": "Clippers临时首席执行官兼州长John Gibson巩固了新的领导结构。",
+      "source_url": "https://sports.yahoo.com/articles/clippers-interim-boss-thanks-kawhi-233947300.html",
+      "publish_time": "2026-09-23T23:39:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-53404c4739ac",
+      "title": "在2026-27 NBA赛季之前，勇士队有5件事值得激动",
+      "summary": "勇士队不再被视为合法的冠军争夺者，但他们仍然是NBA最有趣的球队之一。有很棒的故事情节。有阴谋，有历史有悬念，他们赢了……",
+      "source_url": "https://sports.yahoo.com/articles/5-things-excited-warriors-ahead-225754612.html",
+      "publish_time": "2026-09-23T22:57:54+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-6ae6686c02fb",
+      "title": "NETS INK夏季联赛二人组填写训练营名册",
+      "summary": "两者都可能在展览10交易中，并在露营后前往G联盟长岛。",
+      "source_url": "https://sports.yahoo.com/articles/nets-ink-summer-league-duo-224826958.html",
+      "publish_time": "2026-09-23T22:48:26+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4564,6 +4600,18 @@
       ]
     },
     {
+      "id": "nba-1ca8aa050b93",
+      "title": "斯蒂芬·库里（ Steph Curry ）在勇士队为NBA训练营做准备时的膝盖状况如何",
+      "summary": "勇士队的明星斯蒂芬·库里（ Steph Curry ）承认了一个“新常态” ，因为他正在处理进入金州勇士队新NBA赛季的跑步者膝盖问题。",
+      "source_url": "https://sports.yahoo.com/articles/steph-currys-ailing-knee-doing-200326324.html",
+      "publish_time": "2026-09-23T20:03:26+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-b9e15dfc503d",
       "title": "预览： Collin Murray-Boyles能否成为猛龙队的长期中心？",
       "summary": "看看Collin Murray-Boyles本赛季能为多伦多带来什么。",
@@ -4629,6 +4677,18 @@
       "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
       "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-9-192339083.html",
       "publish_time": "2026-09-23T19:23:39+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-7acf2a8302d1",
+      "title": "勇士明星斯蒂芬·库里（ Steph Curry ）不会因为视力受损而放慢速度，这是有史以来最好的",
+      "summary": "在被诊断和治疗角膜弯曲后的七个赛季中，斯蒂芬·库里（ Steph Curry ）的射门命中率为92.3 ％ ，远距离射门命中率为40.3 ％。",
+      "source_url": "https://sports.yahoo.com/articles/warriors-star-steph-curry-isnt-191956097.html",
+      "publish_time": "2026-09-23T19:19:56+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5337,66 +5397,6 @@
       "summary": "Adem Bona正在进入NBA的第三年，比以往任何时候都有更大的压力来建立自己作为一个可靠的后备中心。",
       "source_url": "https://sports.yahoo.com/articles/adem-bona-finally-establish-himself-201433183.html",
       "publish_time": "2026-09-22T20:14:33+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-98714f41b1ac",
-      "title": "科怀·伦纳德与猛龙队的未来以高达1.15亿美元的合同成为焦点",
-      "summary": "科怀·伦纳德在多伦多的未来已经揭晓。猛龙队和伦纳德达成了一项为期两年，价值1.15亿美元的合同延期，并有2028-29赛季的球员选择权。伦纳德是...",
-      "source_url": "https://sports.yahoo.com/articles/kawhi-leonard-future-raptors-comes-200527369.html",
-      "publish_time": "2026-09-22T20:05:27+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7027b111858e",
-      "title": "据报道，老鹰队将Buddy Hield ， Ryan Nembhard交易给黄蜂队，换取Dorian Finney-Smith",
-      "summary": "ESPN的Shams Charania报道，亚特兰大老鹰队正在将Buddy Hield ， Ryan Nembhard和现金交易给夏洛特黄蜂队，以换取前锋Dorian Finney-Smith。",
-      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/hawks-reportedly-trading-buddy-hield-ryan-nembhard-to-hornets-for-dorian-finney-smith-195556097.html",
-      "publish_time": "2026-09-22T19:55:56+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-347ab6038912",
-      "title": "科怀·伦纳德建议他将退休与多伦多合作的Raptor: inks扩展",
-      "summary": "伦纳德签约超过1亿美元，并附有玩家选项",
-      "source_url": "https://sports.yahoo.com/articles/kawhi-leonard-suggests-retire-raptor-195424821.html",
-      "publish_time": "2026-09-22T19:54:24+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d660e75bdd0b",
-      "title": "After months in limbo, 科怀·伦纳德 gets $115 million contract extension from Raptors",
-      "summary": "科怀·伦纳德 locks in an extension with Toronto in wake of his trade and after the NBA closed its investigation into hi…",
-      "source_url": "https://sports.yahoo.com/articles/months-limbo-kawhi-leonard-gets-195400924.html",
-      "publish_time": "2026-09-22T19:54:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e6414d7d3d3a",
-      "title": "波士顿凯尔特人队每日链接9/22/26",
-      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-9-194551219.html",
-      "publish_time": "2026-09-22T19:45:51+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
