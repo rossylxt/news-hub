@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-24T04:19:11.307786+00:00",
+  "generated_at": "2026-09-24T06:23:11.530039+00:00",
   "news": [
+    {
+      "id": "ai_cn-3caee869e0dc",
+      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+      "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+      "source_url": "https://www.qbitai.com/2026/09/496779.html",
+      "publish_time": "2026-09-24T05:46:10+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-ac6043902181",
+      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+      "summary": "专治人机动作对不齐",
+      "source_url": "https://www.qbitai.com/2026/09/496778.html",
+      "publish_time": "2026-09-24T05:45:20+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-d9ee94973d9e",
+      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+      "summary": "开源一座具身智能的新“塔台”",
+      "source_url": "https://www.qbitai.com/2026/09/496767.html",
+      "publish_time": "2026-09-24T05:19:55+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-b77a6b6dc702",
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "summary": "懂出海，能记忆，自进化",
+      "source_url": "https://www.qbitai.com/2026/09/496740.html",
+      "publish_time": "2026-09-24T04:11:51+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-3c52cd2cfabe",
       "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
@@ -907,54 +955,6 @@
       "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
       "source_url": "https://www.qbitai.com/2026/09/491280.html",
       "publish_time": "2026-09-17T04:37:26+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-996b8d0ed416",
-      "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
-      "summary": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
-      "source_url": "https://www.qbitai.com/2026/09/491147.html",
-      "publish_time": "2026-09-17T03:39:43+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-ac33df8fa1de",
-      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
-      "summary": "1亿Tokens人人免费领",
-      "source_url": "https://www.qbitai.com/2026/09/491091.html",
-      "publish_time": "2026-09-17T03:26:21+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-2c81d151e486",
-      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
-      "summary": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
-      "source_url": "https://www.qbitai.com/2026/09/491062.html",
-      "publish_time": "2026-09-17T02:01:15+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-4af18d5e3563",
-      "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
-      "summary": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
-      "source_url": "https://www.qbitai.com/2026/09/490974.html",
-      "publish_time": "2026-09-17T01:55:14+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -3484,6 +3484,54 @@
       ]
     },
     {
+      "id": "football_intl-91466de99540",
+      "title": "裘德·贝林厄姆 set for lucrative new Real Madrid contract",
+      "summary": "裘德·贝林厄姆 is next in line for a lucrative contract renewal at Real Madrid despite having almost three years remain…",
+      "source_url": "https://sports.yahoo.com/articles/jude-bellingham-set-lucrative-real-061500661.html",
+      "publish_time": "2026-09-24T06:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e1003c5c1364",
+      "title": "Joao Felix backs Lamine Yamal to claim the Ballon d’Or ahead of 哈里·凯恩 and 基利安·姆巴佩",
+      "summary": "Joao Felix has backed Barcelona sensation Lamine Yamal to win the Ballon d’Or ahead of 哈里·凯恩 and 基利安·姆巴佩, ins…",
+      "source_url": "https://sports.yahoo.com/articles/joao-felix-backs-lamine-yamal-061500904.html",
+      "publish_time": "2026-09-24T06:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-87c0affcf047",
+      "title": "哈里·凯恩: ‘I trust England absentees who have pulled out due to injury’",
+      "summary": "哈里·凯恩 has backed England’s injury-hit players to put their own well-being first after Cole Palmer, 德克兰·赖斯, Mar…",
+      "source_url": "https://sports.yahoo.com/articles/harry-kane-trust-england-absentees-061500205.html",
+      "publish_time": "2026-09-24T06:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-804bb37e9de2",
+      "title": "基利安·姆巴佩 reveals how close he came to joining Liverpool in 2017",
+      "summary": "基利安·姆巴佩 has revealed how close he came to joining Liverpool as a teenager, with his mother making secret trips to…",
+      "source_url": "https://sports.yahoo.com/articles/kylian-mbappe-reveals-close-came-051500122.html",
+      "publish_time": "2026-09-24T05:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-150bee7a3314",
       "title": "🎙️ Rodri在马德里德比： Kang-in Lee可能是红色的",
       "summary": "罗德里与El Partidazo de COPE进行了交谈，并重新审视了西甲周末最大的争议之一：马德里德比的“送别”。“我觉得库蒂的难度更大，因为我不会……",
@@ -4396,48 +4444,48 @@
       ]
     },
     {
-      "id": "football_intl-c3e82298ec28",
-      "title": "加的夫的Krystian Bielik被FA指控与球迷发生争执，但警方密切调查",
-      "summary": "汉普郡警方对这一事件进行了调查，发现一名年轻的朴茨茅斯支持者似乎被Bielik推入喉咙",
-      "source_url": "https://sports.yahoo.com/articles/cardiff-krystian-bielik-charged-fa-171141784.html",
-      "publish_time": "2026-09-23T17:11:41+00:00",
-      "category": "football_intl",
+      "id": "nba-b4613ac56923",
+      "title": "心爱的湖人公开演讲播音员劳伦斯·坦特去世，享年76岁",
+      "summary": "球队宣布，湖人队43年来深受喜爱的公共演讲播音员劳伦斯·坦特（ Lawrence Tanter ）去世，享年76岁。",
+      "source_url": "https://sports.yahoo.com/articles/beloved-lakers-public-address-announcer-052732544.html",
+      "publish_time": "2026-09-24T05:27:32+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-9a588ec26b05",
-      "title": "亚历山大·布莱辛（ Alexander Blessin ）在门兴格拉德巴赫（ Borussia Mönchengladbach ）任务开始时讨论了从圣保罗（ St. Paul",
-      "summary": "新任门兴格拉德巴赫主教练亚历山大·布莱辛（ Alexander Blessin ）在周三的入门课程中讨论了从他对园艺的热情到偶尔可燃的边线气质……",
-      "source_url": "https://sports.yahoo.com/articles/alexander-blessin-discusses-lessons-learned-171000783.html",
-      "publish_time": "2026-09-23T17:10:00+00:00",
-      "category": "football_intl",
+      "id": "nba-d4461dad8ebb",
+      "title": "湖人PA的长期播音员劳伦斯·坦特去世，享年76岁： NBA世界向传奇的声音致敬",
+      "summary": "洛杉矶湖人队和NBA世界正在哀悼湖人队PA长期播音员Lawrence Tanter的去世。",
+      "source_url": "https://sports.yahoo.com/articles/longtime-lakers-pa-announcer-lawrence-050350476.html",
+      "publish_time": "2026-09-24T05:03:50+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-d9dc453f5bd2",
-      "title": "已确认：巴塞罗那四重奏获得9月份西甲联赛奖项提名",
-      "summary": "2026/27赛季在巴塞罗那足球俱乐部取得了辉煌的开局，因为他们看起来势不可挡。由Hansi Flick管理的Blaugrana在所有比赛中赢得了八场比赛中的每一场。",
-      "source_url": "https://sports.yahoo.com/articles/confirmed-barcelona-quartet-nominated-la-171000907.html",
-      "publish_time": "2026-09-23T17:10:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
+      "id": "nba-a08ff0f4b92f",
+      "title": "斯蒂芬·库里（ Steph Curry ）尚未签约延期，但不想离开勇士队",
+      "summary": "斯蒂芬·库里（ Steph Curry ）正在等待签约延期，但他不打算离开勇士队",
+      "source_url": "https://sports.yahoo.com/articles/steph-curry-hasn-t-signed-033742047.html",
+      "publish_time": "2026-09-24T03:37:42+00:00",
+      "category": "nba",
+      "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-fe683c3f5e96",
-      "title": "巴西火车首次满员参赛；参见",
-      "summary": "周三（ 23日） ，巴西国家队在澳大利亚布里斯班的巴利莫尔体育场与卡洛·安切洛蒂（ Carlo Ancelotti ）率领的全队举行了首次训练课程。随着守门员的早晨到达...",
-      "source_url": "https://sports.yahoo.com/articles/brazil-hold-first-full-squad-171000142.html",
-      "publish_time": "2026-09-23T17:10:00+00:00",
-      "category": "football_intl",
+      "id": "nba-980109921085",
+      "title": "尽管失去了人才，但湖人队的2026-27名单比2025-26更深",
+      "summary": "湖人2026-27赛季的阵容更深入，拥有卢卡·东契奇和Austin Reaves所需的技能",
+      "source_url": "https://sports.yahoo.com/articles/lakers-2026-27-roster-deeper-010933934.html",
+      "publish_time": "2026-09-24T01:09:33+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4449,6 +4497,18 @@
       "summary": "Towns和Knicks之间停滞不前的合同延期谈判是一个更大问题的症状。",
       "source_url": "https://sports.yahoo.com/articles/second-apron-coming-knicks-karl-002828066.html",
       "publish_time": "2026-09-24T00:28:28+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-85b5704287a3",
+      "title": "马库斯·斯马特（ Marcus Smart ）抨击湖人队的自由球员报价，称其为“不尊重”",
+      "summary": "在休赛期，洛杉矶湖人队对他们的名单进行了近乎彻底的改革，并因在各个方向上签下新合同而受到称赞，前后卫马库斯·斯马特（ Marcus Smart ）感觉不同。",
+      "source_url": "https://sports.yahoo.com/articles/marcus-smart-blasts-lakers-free-001722688.html",
+      "publish_time": "2026-09-24T00:17:22+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5337,66 +5397,6 @@
       "summary": "套餐起价为每月$ 19.99",
       "source_url": "https://sports.yahoo.com/articles/detroit-pistons-enlist-dazn-streaming-215047216.html",
       "publish_time": "2026-09-22T21:50:47+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-277e4b03b524",
-      "title": "如果湖人三巨头很棒，他们可以成为精英",
-      "summary": "为了让湖人队在下个赛季表现出色，需要做一件事。湖人队的三巨头需要占据主导地位。卢卡·东契奇需要打MVP级别的篮球。奥斯汀·里夫斯需要……",
-      "source_url": "https://sports.yahoo.com/articles/lakers-big-3-great-could-214855633.html",
-      "publish_time": "2026-09-22T21:48:55+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1512019ae32d",
-      "title": "据报道，亚特兰大将Buddy Hield ， Ryan Nembhard交易到夏洛特以换取Dorian Finney-Smith",
-      "summary": "芬尼-史密斯交易的盾牌变体整个夏天都在酝酿，但现在已经完成了。",
-      "source_url": "https://sports.yahoo.com/articles/atlanta-reportedly-trade-buddy-hield-213521018.html",
-      "publish_time": "2026-09-22T21:35:21+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-21ee988694bb",
-      "title": "火箭队的弗雷德·范弗利特（ Fred VanVleet ）准备参加训练营；凯文·杜兰特（ 凯文·杜兰特 ）不想在第20个赛季",
-      "summary": "休斯顿的首发控球后卫已经获准进行完整的5对5接触比赛，但不会在早期进行背靠背比赛。",
-      "source_url": "https://sports.yahoo.com/nba/article/rockets-fred-vanvleet-ready-for-training-camp-kevin-durant-doesnt-want-minutes-reduced-in-20th-season-212122351.html",
-      "publish_time": "2026-09-22T21:21:22+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-16571625a6ed",
-      "title": "多伦多大举押注科怀·伦纳德的健康状况，据报道延期两年， 1.15亿美元$",
-      "summary": "多伦多一直计划延长伦纳德，他上个赛季证明了他是值得的—如果健康的话。",
-      "source_url": "https://sports.yahoo.com/articles/toronto-bets-big-kawhi-leonards-203556037.html",
-      "publish_time": "2026-09-22T20:35:56+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c542e8e92568",
-      "title": "Adem Bona最终能否成为费城的后备中心？",
-      "summary": "Adem Bona正在进入NBA的第三年，比以往任何时候都有更大的压力来建立自己作为一个可靠的后备中心。",
-      "source_url": "https://sports.yahoo.com/articles/adem-bona-finally-establish-himself-201433183.html",
-      "publish_time": "2026-09-22T20:14:33+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
