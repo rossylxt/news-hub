@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-25T14:19:12.001608+00:00",
+  "generated_at": "2026-09-25T16:19:52.364603+00:00",
   "news": [
+    {
+      "id": "ai_cn-81873e2cd313",
+      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/09/497278.html",
+      "publish_time": "2026-09-25T13:24:20+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-c46a77146a1a",
+      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/09/497177.html",
+      "publish_time": "2026-09-25T13:15:45+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-8392b4afa49b",
       "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
@@ -931,30 +955,6 @@
       "summary": "LimiX让模型理解数据背后的因果机制",
       "source_url": "https://www.qbitai.com/2026/09/492175.html",
       "publish_time": "2026-09-18T12:22:47+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-5bfef7ec9e3b",
-      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-      "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
-      "source_url": "https://www.qbitai.com/2026/09/492015.html",
-      "publish_time": "2026-09-18T09:19:37+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-9ed4b9bd6e42",
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "summary": "用通用AI去啃最硬的骨头，这条路走得通",
-      "source_url": "https://www.qbitai.com/2026/09/491875.html",
-      "publish_time": "2026-09-18T06:11:06+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-207c42ac7f32",
+      "title": "输掉世界杯后转到→瓦伦西亚，和久保健秀一起回到日本…… 19岁的MF佐藤龙之助在高水平上度过日常生活“有些地方感到受到攻击的挑战”",
+      "summary": "虽然他没有参加北美和中美洲的世界杯，但他的职业生涯正在稳步前进， 19岁的MF佐藤龙之介（瓦伦西亚）在今年3月的一次英国探险后重返日本国家队，但由于发烧，他没有机会参加比赛。与此同时，他搬到了瓦伦西亚，在西甲首次亮相，甚至在这次代表性活动中…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459718-459718-fl",
+      "publish_time": "2026-09-25T12:42:38+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-c2196ec52a42",
       "title": "喜欢在宫城举行的日本国家队比赛的支持者：第2卷（ 70件）",
       "summary": "日本队24日在麒麟挑战杯上以3比1击败乌拉圭队。",
@@ -3565,6 +3577,18 @@
       "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "football_intl-567c09002ace",
+      "title": "Former Tottenham Hotspur striker backs 哈里·凯恩 to make NFL switch",
+      "summary": "Former Tottenham Hotspur striker Clive Allen has backed 哈里·凯恩 to make the unusual switch from football to the NFL.…",
+      "source_url": "https://sports.yahoo.com/articles/former-tottenham-hotspur-striker-backs-154000019.html",
+      "publish_time": "2026-09-25T15:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -4509,18 +4533,6 @@
       "summary": "本杰明·库格尔（ Benjamin Kugel ）今年夏天应经理汉斯·弗里克（ Hansi Flick ）的要求被任命为巴塞罗那足球俱乐部的新健身教练这位德国战术家在经历了……之后，想要一种新的物理准备方法。",
       "source_url": "https://sports.yahoo.com/articles/barcelona-fitness-coach-methods-transform-100500074.html",
       "publish_time": "2026-09-25T10:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-f5d7eea4d3ac",
-      "title": "阿伯丁在球场入侵后丢失了500张半决赛门票",
-      "summary": "在上一轮球迷的球场入侵和烟火表演之后，阿伯丁在英超体育杯半决赛对阵流浪者的比赛中被削减了门票分配。",
-      "source_url": "https://sports.yahoo.com/articles/aberdeen-lose-500-semi-final-094714964.html",
-      "publish_time": "2026-09-25T10:03:17+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
