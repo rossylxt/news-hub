@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:22:37.400278+00:00",
+  "generated_at": "2026-09-26T02:15:45.336971+00:00",
   "news": [
     {
       "id": "ai_cn-81873e2cd313",
@@ -962,10 +962,202 @@
       ]
     },
     {
+      "id": "ai_intl-4dc5a9b388b9",
+      "title": "Crusoe放弃$ 12.5亿计划，在人工智能数据中心使用Boom涡轮机",
+      "summary": "Boom Supersonic首席执行官Blake Scholl表示，其新的固定发电厂已不在Crusoe的近期计划中。",
+      "source_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "publish_time": "2026-09-25T23:11:10+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-9550a58b2b1b",
+      "title": "不安全的OpenAI客服代表在实验室不知情的情况下在互联网上发布了53张用户图片",
+      "summary": "在OpenAI研究环境中运营的人工智能代理在实验室不知情的情况下，在公共图像托管网站上发布用户图像。",
+      "source_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "publish_time": "2026-09-25T22:20:47+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-8de38d355790",
+      "title": "Meta为Muse新功能开启抢先体验计划",
+      "summary": "任何有兴趣加入的人都必须要求Muse将他们列入名单。",
+      "source_url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "publish_time": "2026-09-25T20:34:53+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-4b9cd4f252fe",
+      "title": "Anthropic将在七年内向Akamai支付116亿美元的云交易",
+      "summary": "Anthropic已承诺在七年内向Akamai的云基础设施投入116亿美元，押注CPU可能会增长到约200亿美元，并且在一个不寻常的安排中， Akamai将向Anthropic提供高达5%的潜在股权，随着Anthropic支出的增加而增长。",
+      "source_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "publish_time": "2026-09-25T19:13:38+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-49ebd97751d4",
+      "title": "Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的",
+      "summary": "Mark Wahlberg加入Disrupt的Bruce K. Lee ，讨论投资、创业、医疗保健、健康和建设业务。",
+      "source_url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "publish_time": "2026-09-25T18:48:33+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-38b884af5757",
+      "title": "在美国IPO之前，英国人工智能新云Nscale获得了33.6亿美元的可转换融资",
+      "summary": "这笔资金来自Third Point、Nvidia和其他公司，将推动该公司大规模的人工智能数据中心建设。",
+      "source_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "publish_time": "2026-09-25T18:33:59+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-b1b0ef608ef5",
+      "title": "Meta的Muse刚刚抢走了OpenAI和Anthropic的AI聚光灯",
+      "summary": "当OpenAI和Anthropic的人工智能领导者开始谈论“踱步前沿”时，也许有人应该问：步伐是什么？现在，随着Anthropic推出Opus 5.5 ， OpenAI的GPT-6模型更新仅在90分钟后推出，两家公司的模型下降周。但抢走聚光…",
+      "source_url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "publish_time": "2026-09-25T18:22:47+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-137693ab52f6",
+      "title": "一些Supabase客户正在公开将大量人的数据暴露给网络",
+      "summary": "研究结果强调了AI生成和vibe编码的应用程序在配置或保护不当时如何泄漏和暴露用户的数据。",
+      "source_url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "publish_time": "2026-09-25T17:29:46+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-656dc5dcef2d",
+      "title": "Astra和Opus刚刚通过了Turing的另一项测试",
+      "summary": "Frontier AI模型正在完成艾伦·图灵（ Alan Turing ）的二战破译工作。",
+      "source_url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "publish_time": "2026-09-25T17:24:36+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-a948e5c03d79",
+      "title": "随着人工智能应用程序的起飞， Meta正在支持Muse",
+      "summary": "Muse在应用商店排行榜上名列前茅，并快速添加用户，而Meta则在自己的应用程序和其他应用程序中提升了个人AI代理的推广。",
+      "source_url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "publish_time": "2026-09-25T16:16:52+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-6c6baa7010d7",
+      "title": "Meta的人工智能Tamagotchi赌注……有效吗？",
+      "summary": "当OpenAI和Anthropic的人工智能领导者开始谈论“踱步前沿”时，也许有人应该问：步伐是什么？现在，随着Anthropic推出Opus 5.5 ， OpenAI的GPT-6模型更新仅在90分钟后推出，两家公司的模型下降周。但抢走聚光…",
+      "source_url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "publish_time": "2026-09-25T16:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-042f70b50965",
+      "title": "几个月来， OpenAI的代理群一直在攻击在线数据库，以寻找晦涩的事实",
+      "summary": "研究人员发现了最新的未经授权的特工群体。",
+      "source_url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "publish_time": "2026-09-25T15:48:14+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-e3cc5ff4f95d",
+      "title": "Anthropic的创始人在IPO之前寻求投票控制权",
+      "summary": "Anthropic正在要求其股东批准一个结构，该结构将使其七位联合创始人在大多数公司事务上获得总计50.1%的投票权。",
+      "source_url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "publish_time": "2026-09-25T15:40:03+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-c9621711fc22",
+      "title": "TechCrunch Disrupt 2026 ： Ricursive Intelligence的安娜·戈尔迪（ Anna Goldie ）和阿扎莉娅·米尔霍塞尼（ Azalia Mirhoseini ）在人工智能开始设计自己的硬件",
+      "summary": "在TechCrunch Disrupt 2026上， Ricursive Intelligence联合创始人Anna Goldie和Azalia Mirhoseini将登上Disrupt Stage ，讨论关闭人工智能和芯片开发之间的循环。…",
+      "source_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "publish_time": "2026-09-25T15:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-1c04fad4c986",
+      "title": "受裁员影响？不要错过TechCrunch Disrupt 2026 Expo + Pass的$ 75优惠",
+      "summary": "您的下一个机会可能是一次对话。只需$ 75 ，即可获得博览会+通行证。仅限前100名符合条件的人士。",
+      "source_url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "publish_time": "2026-09-25T14:15:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-5d28eed03e71",
       "title": "过去24小时内， TechCrunch Disrupt 2026最高可节省200 $。参加原因5/5 ：请提前离开。",
       "summary": "最后24小时， TechCrunch Disrupt 2026通行证最高可节省$ 200。让事件比你开始的地方更进一步地留在你的创业轨迹中。不要错过省钱和充电的机会。",
       "source_url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
+      "publish_time": "2026-09-25T14:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-5d757eca44e9",
+      "title": "过去24小时内， TechCrunch Disrupt 2026最高可节省200 $。参加的原因5 （共5个） ：动力",
+      "summary": "最后24小时， TechCrunch Disrupt 2026通行证最高可节省$ 200。让事件比你开始的地方更进一步地留在你的创业轨迹中。不要错过省钱和充电的机会。",
+      "source_url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
       "publish_time": "2026-09-25T14:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
@@ -1723,198 +1915,6 @@
       "summary": "Petlibro的新型Granary 2智能喂食器使用内置比例和（在价格较高的型号上）人工智能摄像头来准确跟踪您的猫吃多少以及何时吃—尽管最昂贵的健康监测功能将花费您额外的订阅费用。",
       "source_url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
       "publish_time": "2026-09-19T15:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-f48af8241edf",
-      "title": "人工智能安全对话变得令人难以置信",
-      "summary": "本周，两场关于人工智能安全的对话如火如荼，表明从虚构中辨别人工智能事实是多么困难。",
-      "source_url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "publish_time": "2026-09-19T15:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-a4b8614ad9dd",
-      "title": "价格将在7天内上涨。立即获取中断工单。",
-      "summary": "当前门票价格将于太平洋时间9月25日晚上11:59结束。加入Disrupt的10,000多位创始人、投资者和技术领导者，在此之前节省高达200 $的门票费用。",
-      "source_url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "publish_time": "2026-09-19T14:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-0ac6fc9717b5",
-      "title": "Vals在Andreessen Horowitz的支持下，希望成为人工智能基准测试的黄金标准",
-      "summary": "VALS AI希望在日益被AI模型淹没的世界中，使AI基准测试成为更中立、更值得信赖的资源。",
-      "source_url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "publish_time": "2026-09-19T13:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-2f121b448c20",
-      "title": "印度迫使来电显示应用程序向电信公司提供垃圾邮件报告",
-      "summary": "Truecaller表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。",
-      "source_url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "publish_time": "2026-09-19T01:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d8747de7e501",
-      "title": "蒂莉·诺伍德（ Tilly Norwood ）的新闻之旅正在进行，正如您对人工智能所期望的那样",
-      "summary": "在一次特别奇怪的采访中，诺伍德似乎出现了故障，开始说中文。",
-      "source_url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "publish_time": "2026-09-19T00:12:07+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-43903881cded",
-      "title": "一家建立其他初创公司的初创公司筹集了1亿美元，并全力投入物理人工智能",
-      "summary": "UP.Labs现在以Vantora的名义开展业务，正在为工业公司建立初创公司。",
-      "source_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "publish_time": "2026-09-18T23:25:01+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-dcced75f93e2",
-      "title": "Anthropic正在运营一个进行生物学实验的实验室",
-      "summary": "人工智能领导者一直承诺，人工智能是治愈人类疾病的关键。人类学研究人员也一直在警告说，人工智能可能会杀死我们所有人。",
-      "source_url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "publish_time": "2026-09-18T23:13:31+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-99bd6d4072b2",
-      "title": "人工智能幻觉几乎引发美军军事行动",
-      "summary": "一位GovAI研究学者警告说： “对于服务人员来说，了解LLM固有的不确定性非常重要。”",
-      "source_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "publish_time": "2026-09-18T23:12:32+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-49776e1c52dc",
-      "title": "Anthropic的第一个嵌入式评估者是……埃森哲？",
-      "summary": "埃森哲即将承担其有史以来风险最高的咨询业务。",
-      "source_url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "publish_time": "2026-09-18T21:44:33+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-1dbe8d7c6e86",
-      "title": "世界模特公司保守着很多秘密",
-      "summary": "世界上的每一个模特都坐在一堆现金和大量的嗡嗡声上，但祝你好运，从创始人到自己的数据提供商，任何人都可以告诉你他们实际在建造什么。",
-      "source_url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "publish_time": "2026-09-18T20:18:14+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-c787e87aad1d",
-      "title": "来自ChatGPT发明者的一种新型人工智能模型让开发人员兴奋不已",
-      "summary": "Jev是一种新型的人工智能模型，它向开发人员展示了一条更便宜、更快捷的软件智能之路。",
-      "source_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "publish_time": "2026-09-18T18:49:30+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-f5578060dc95",
-      "title": "迪士尼的第一位首席技术官领导了一家人工智能初创公司，该公司曾被指控抄袭其角色",
-      "summary": "这位Character.AI的前首席执行官将担任该公司有史以来第一位首席技术官，迪士尼此前曾向其发送了一封停止信。",
-      "source_url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "publish_time": "2026-09-18T17:59:53+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-37655c8141e2",
-      "title": "谷歌的新“CC”是一种人工智能代理，可帮助家庭经营家庭",
-      "summary": "谷歌正在将CC AI代理的重点重新放在家庭协调上，让家庭共享电子邮件、日程安排和任务，以便AI可以管理日历、填写表格、制作购物清单、计划用餐等。",
-      "source_url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "publish_time": "2026-09-18T17:33:50+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-a7c7509da18b",
-      "title": "Dario Amodei和其他人工智能领导者想“加快前沿步伐” ，但……如何做到？",
-      "summary": "一位人类学研究人员的末日警告震惊了人工智能世界一周后，该公司首席执行官达里奥·阿莫代伊（ Dario Amodei ）概述了他的计划，以“加快人工智能发展的前沿”。该提案依赖于独立的安全评估人员和民主国家人工智能实验室之间的协调，并且已经获…",
-      "source_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "publish_time": "2026-09-18T17:09:56+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-77e43e1ef539",
-      "title": "Automattic的33小时政变，人工智能实验室可以自我监管吗？",
-      "summary": "一位人类学研究人员的末日警告震惊了人工智能世界一周后，该公司首席执行官达里奥·阿莫代伊（ Dario Amodei ）概述了他的计划，以“加快人工智能发展的前沿”。该提案依赖于独立的安全评估人员和民主国家人工智能实验室之间的协调，并且已经获…",
-      "source_url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "publish_time": "2026-09-18T17:06:32+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-ecfc994dbcab",
-      "title": "Manus寻求$ 4B估值在新的$ 5亿筹款，因为它恢复独立运营",
-      "summary": "Manus今年早些时候不得不终止与Meta的合并，目前正在讨论以$ 4B的估值筹集$ 5亿美元。",
-      "source_url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "publish_time": "2026-09-18T16:35:49+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -3592,6 +3592,54 @@
       ]
     },
     {
+      "id": "football_intl-520679f156c3",
+      "title": "关于詹姆斯·罗德里格斯首发位置的争论愈演愈烈",
+      "summary": "最近国家竞技和Millonarios之间的clásico引发了球迷关于詹姆斯·罗德里格斯应该在球队中扮演的角色的争论。渐进的整合和技术贡献",
+      "source_url": "https://sports.yahoo.com/articles/debate-over-james-rodr-guezs-013700586.html",
+      "publish_time": "2026-09-26T01:37:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-7ac1115557bc",
+      "title": "阿根廷💣重磅炸弹： AFA确认与Scaloni续约谈判",
+      "summary": "阿根廷足球协会已经正式启动了确保国家队高级教练周期延续的流程。塔皮亚与教练亚足联主席C…",
+      "source_url": "https://sports.yahoo.com/articles/bombshell-argentina-afa-confirms-renewal-013300632.html",
+      "publish_time": "2026-09-26T01:33:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-36ae3af92692",
+      "title": "姆巴佩从法国队掉下来，但伤势不严重 👇🏽",
+      "summary": "法国和皇家马德里对姆巴佩的状况有所缓解。前锋将错过当前国际比赛的下一场比赛，但他没有遭受更严重的伤病......",
+      "source_url": "https://sports.yahoo.com/articles/mbapp-ruled-france-no-serious-004500214.html",
+      "publish_time": "2026-09-26T00:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1a279ae8bcd1",
+      "title": "🚨 XIs确认： Ortiz对Audax Italiano进行了更改",
+      "summary": "胡里奥·马丁内斯·普拉达诺斯国家体育场（ Julio Martínez Prádanos National Stadium ）于9月25日星期五在智利2026年杯（ Copa Chile 2026 ） 16轮比赛中举办了Colo Colo和…",
+      "source_url": "https://sports.yahoo.com/articles/xis-confirmed-ortiz-rings-changes-223100964.html",
+      "publish_time": "2026-09-25T22:31:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-b073ed494c9b",
       "title": "Warrington EDGE超越利兹，进入总决赛",
       "summary": "Warrington Wolves在八年内首次进入超级联赛总决赛，与利兹犀牛队取得了惊心动魄的胜利。",
@@ -3909,6 +3957,222 @@
       "summary": "基利安·姆巴佩在Zinedine Zidane的第一场比赛中得分时膝盖受伤，法国老板以国家联赛在土耳其的胜利结束。",
       "source_url": "https://sports.yahoo.com/articles/mbappe-injured-while-scoring-france-205235220.html",
       "publish_time": "2026-09-25T20:52:35+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1898624de3f8",
+      "title": "埃弗顿的目标可能达到1500万至2000万英镑：为什么它不适合太妃糖？",
+      "summary": "据报道，托特纳姆在1月转会窗口之前为Richarlison设定了1500万至2000万英镑的要价，在前锋夏季回归默西塞德郡失败后为埃弗顿提出了一个问题。",
+      "source_url": "https://sports.yahoo.com/articles/everton-could-target-15-20m-205000411.html",
+      "publish_time": "2026-09-25T20:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f7a1d241a6dc",
+      "title": "🎥 意大利以失败开启新时代，法国赢得齐达内首秀",
+      "summary": "本周五（ 25日）标志着意大利在错过2018年、2022年和2026年世界杯之后的新周期的开始。对于2026/27年欧足联国家联赛A联赛的Azzurra来说，这并不是一个愉快的首次亮相......",
+      "source_url": "https://sports.yahoo.com/articles/italy-begin-era-defeat-france-204700640.html",
+      "publish_time": "2026-09-25T20:47:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e94fa06afd5a",
+      "title": "国际足联制裁后，阿根廷对玻利维亚的⚠️产能削减至50%",
+      "summary": "阿根廷国家队证实，科尔多瓦的马里奥·阿尔贝托·肯佩斯体育场将在下周三（ 9月30日）对阵玻利维亚的比赛中以50%的容量运营。光盘的起源……",
+      "source_url": "https://sports.yahoo.com/articles/capacity-cut-50-argentina-v-204300435.html",
+      "publish_time": "2026-09-25T20:43:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bcc7bbff1413",
+      "title": "随着重大转会新闻的出现，利物浦球星已经结束",
+      "summary": "安东尼·伊拉奥拉（ Andoni Iraola ）担任利物浦经理的时间到目前为止进展相当顺利。这位西班牙人目前在所有比赛中都保持不败，尽管他刚刚开始让他的球队赢得比赛，但你...",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-star-finished-major-transfer-204000524.html",
+      "publish_time": "2026-09-25T20:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a6edccf242bd",
+      "title": "意大利0-2比利时：曼奇尼的回归始于灾难",
+      "summary": "罗伯托·曼奇尼（ Roberto Mancini ）的第二个意大利时代始于2-0主场输给比利时的灾难性失利，米卡·戈茨（ Mika Godts ）和多迪·卢克巴基奥（ Dodi Lukebakio ）使国家联盟陷入困境。阿祖里（ Azzur…",
+      "source_url": "https://sports.yahoo.com/articles/italy-0-2-belgium-mancini-204000004.html",
+      "publish_time": "2026-09-25T20:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-cb650f0c0d10",
+      "title": "俱乐部就曼城收费赔偿寻求法律意见",
+      "summary": "英超俱乐部正在寻求法律意见，以了解他们是否会就曼城115指控案提出赔偿要求。",
+      "source_url": "https://sports.yahoo.com/articles/man-city-found-guilty-breaking-150725965.html",
+      "publish_time": "2026-09-25T20:37:04+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-967165ee223a",
+      "title": "随着€ 3000万明星重返全面培训，阿斯顿维拉获得了重大提升：为什么他的健康很重要？",
+      "summary": "阿斯顿维拉在9月国际休假期间首次恢复全面训练后，收到了来自日本的令人鼓舞的消息。守门员后来分开工作了……",
+      "source_url": "https://sports.yahoo.com/articles/aston-villa-handed-major-boost-203500915.html",
+      "publish_time": "2026-09-25T20:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-0e3dc9d67bf0",
+      "title": "曼城球迷面对有罪判决的现实",
+      "summary": "曼城球迷对俱乐部被指控犯有大部分财务规则违规行为的消息的反应。",
+      "source_url": "https://sports.yahoo.com/articles/man-city-fans-face-reality-203047477.html",
+      "publish_time": "2026-09-25T20:30:47+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-c4921d6e4c25",
+      "title": "罗德里支持他的前俱乐部：我相信曼城是无辜的",
+      "summary": "罗德里在本周六的英格兰-西班牙比赛之前的新闻发布会上发表了讲话。这是国家队队长的话......可能对曼城的制裁“对于球员来说，我......",
+      "source_url": "https://sports.yahoo.com/articles/rodri-backs-former-club-believe-203000020.html",
+      "publish_time": "2026-09-25T20:30:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-27c21470107a",
+      "title": "Luis de la Fuente ：在十天内打四场比赛并不理想",
+      "summary": "Luis de la Fuente在明天的英格兰-西班牙比赛之前的新闻发布会上发表了讲话。这就是卫冕世界冠军的教练不得不说的话……在温布利打球“这是最好的舞台……",
+      "source_url": "https://sports.yahoo.com/articles/luis-la-fuente-playing-four-202200774.html",
+      "publish_time": "2026-09-25T20:22:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-688ef4829df4",
+      "title": "姆巴佩离开齐达内的首场比赛，可能受伤 🎥",
+      "summary": "姆巴佩在法国和皇家马德里已经成为一个令人担忧的问题。在本周五（ 25日）在国家联赛中打进确保法国战胜土耳其的目标后不久，他感到痛苦......",
+      "source_url": "https://sports.yahoo.com/articles/mbapp-leaves-zidanes-debut-match-202100447.html",
+      "publish_time": "2026-09-25T20:21:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-66a2d6548a92",
+      "title": "从Alex Morgan到Naomi Girma ：当女性转会失败时",
+      "summary": "转移应该代表可能性。一个新的俱乐部，一个新的联赛，一个更大的舞台，以及在职业生涯中迈出下一步的机会。在女子足球中，一个重要的签约可以变成一个故事......",
+      "source_url": "https://sports.yahoo.com/articles/alex-morgan-naomi-girma-women-202000279.html",
+      "publish_time": "2026-09-25T20:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-12ccf1cdbff2",
+      "title": "从Cumbernauld到SWPL ： Lucy Barclay回到开始的地方",
+      "summary": "露西·巴克利（ Lucy Barclay ）在她的后花园里学会了这场比赛，和父亲一起踢了几个小时的球。本周，这位汉密尔顿中场球员回到了一切开始的俱乐部， Cumbernauld Colts Girls ， carr...",
+      "source_url": "https://sports.yahoo.com/articles/cumbernauld-swpl-lucy-barclay-returns-202000739.html",
+      "publish_time": "2026-09-25T20:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f3fd9f5cfabc",
+      "title": "WSL ： Vivien Endemann在利物浦崭露头角",
+      "summary": "WSL创造了历史， Vivien Endemann是其中心。自今年夏天来到俱乐部以来，这位利物浦前锋给人留下了深刻的印象，将自己确立为...",
+      "source_url": "https://sports.yahoo.com/articles/wsl-vivien-endemann-making-her-202000739.html",
+      "publish_time": "2026-09-25T20:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ed2b53782d5e",
+      "title": "曼城即将登陆马德里竞技Ace ：适合Maresca吗？",
+      "summary": "在最近的一份报告中，记者格雷姆·贝利（ Graeme Bailey ）表示，曼城正准备让马德里竞技队（ Atletico Madrid ）的王牌马科斯·略伦特（ Marcos Llorente ）登陆据了解，曼彻斯特俱乐部将不得不与……",
+      "source_url": "https://sports.yahoo.com/articles/manchester-city-mix-land-atletico-202000731.html",
+      "publish_time": "2026-09-25T20:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-3bf74d11b42a",
+      "title": "曼城因违反财务规则而被判有罪",
+      "summary": "曼城被判违反了他们被指控违反的115项财务规则中的大部分。",
+      "source_url": "https://sports.yahoo.com/articles/man-city-found-guilty-breaking-201117286.html",
+      "publish_time": "2026-09-25T20:17:56+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-96c07be2b706",
+      "title": "还有📸 谁？齐达内法国时代的第一个进球已经进球",
+      "summary": "期待已久的齐达内时代与法国国家队开始今晚前往土耳其， 54分钟后，新时代的第一个进球得分。它来自最明显的灵魂……",
+      "source_url": "https://sports.yahoo.com/articles/else-first-goal-zidane-france-201600861.html",
+      "publish_time": "2026-09-25T20:16:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8a25d8bce2b0",
+      "title": "利物浦做出合同决定，明星即将退出",
+      "summary": "近年来，利物浦已经免费失去了一些最大的明星。穆罕默德·萨拉赫（ 穆罕默德·萨拉赫 ）、安迪·罗伯逊（ Andy Robertson ）和易卜拉希马·科纳特（ 易卜拉希马·科纳特 ）是今年夏天的典型例子，",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-contract-decision-stars-exit-201000964.html",
+      "publish_time": "2026-09-25T20:10:00+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
@@ -4288,264 +4552,36 @@
       ]
     },
     {
-      "id": "football_intl-8ca0cdf5394f",
-      "title": "国家联盟官方阵容：意大利对比利时",
-      "summary": "意大利在罗伯托·曼奇尼的第一场比赛中首发弗朗西斯科·皮奥·埃斯波西托、莫伊斯·基恩、亚历山德罗·罗马诺和桑德罗·托纳利，因为他们在国家联赛揭幕战中主持了凯文·德布鲁因的比利时。",
-      "source_url": "https://sports.yahoo.com/articles/nations-league-official-line-ups-174000823.html",
-      "publish_time": "2026-09-25T17:40:00+00:00",
-      "category": "football_intl",
+      "id": "nba-514e710cadfe",
+      "title": "斯蒂芬·库里（ 斯蒂芬·库里 ）认为勇士队可以争夺吗？ “我们仍然相信我们可以成为那个团队”",
+      "summary": "库里还谈到他的职业生涯即将结束。",
+      "source_url": "https://sports.yahoo.com/articles/does-stephen-curry-think-warriors-012211285.html",
+      "publish_time": "2026-09-26T01:22:11+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-a255ec5c6925",
-      "title": "国家联盟直播博客：意大利vs比利时",
-      "summary": "此页面将实时更新最新的相关新闻，无需刷新页面！随着罗伯托·曼奇尼（ Roberto Mancini ）回到I...",
-      "source_url": "https://sports.yahoo.com/articles/nations-league-liveblog-italy-vs-173000944.html",
-      "publish_time": "2026-09-25T17:30:00+00:00",
-      "category": "football_intl",
+      "id": "nba-dcfe96c5d262",
+      "title": "ESPN将维克托·文班亚马评为NBA第二佳球员",
+      "summary": "Wembanyama已经成为联盟中共识的前三名球员，并且只会变得更好。",
+      "source_url": "https://sports.yahoo.com/articles/espn-ranks-victor-wembanyama-second-232907734.html",
+      "publish_time": "2026-09-25T23:29:07+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-5043affe0519",
-      "title": "115起曼城金融丑闻指控中的曼奇尼合同",
-      "summary": "新意大利教练罗伯托·曼奇尼（ Roberto Mancini ）卷入了曼城丑闻，因为涉嫌向他支付账外款项是115起可能违反英超联赛财务规则的行为之一。根据多...",
-      "source_url": "https://sports.yahoo.com/articles/mancini-contract-among-115-manchester-172500602.html",
-      "publish_time": "2026-09-25T17:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c0d0f968b3ef",
-      "title": "马瑟韦尔因球迷混乱被欧足联罚款£ 21,500",
-      "summary": "Motherwell因球场入侵和在与弗莱堡的联盟资格赛轮次中使用烟火而被罚款£ 21,500。欧洲管理机构欧足联已下令苏格兰超级联赛俱乐部支付£ 4,300 ，用于主场进攻，另外£ 17,200用于德国第二回合的烟火排放。马瑟韦尔补充说，他…",
-      "source_url": "https://sports.yahoo.com/articles/motherwell-hit-21-500-uefa-171836656.html",
-      "publish_time": "2026-09-25T17:18:36+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-928a2d123a63",
-      "title": "皇家马德里主席密切关注曼城局势–报告",
-      "summary": "曼城发现自己陷入了困境，一个独立委员会认定该俱乐部在涉嫌违反英超联赛规则的115项指控中，有114项有罪。",
-      "source_url": "https://sports.yahoo.com/articles/real-madrid-president-closely-monitoring-171500238.html",
-      "publish_time": "2026-09-25T17:15:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4f4a8ba48c8f",
-      "title": "Pocognoli参加“好”的第一个营地，了解首发阵容和“战斗精神”",
-      "summary": "塞巴斯蒂安·波科尼奥利（ Sebastien Pocognoli ）在周六的国家联赛揭幕战中首次担任苏格兰主教练之前一直在与媒体交谈。这取决于新球队在四场国家联赛中的表现。流浪者边锋芬德利·柯蒂斯（ Findlay Curtis ）和心脏前…",
-      "source_url": "https://sports.yahoo.com/articles/fgfg-170717037.html",
-      "publish_time": "2026-09-25T17:13:44+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-85c67bca091f",
-      "title": "内马尔站起来，和桑托斯一起在球场上训练",
-      "summary": "桑托斯在本周五的CT Rei Pelé训练中提供了球队身体状况的最新消息，重点是为下一轮对阵圣保罗的比赛做准备。",
-      "source_url": "https://sports.yahoo.com/articles/neymar-steps-trains-pitch-santos-171200529.html",
-      "publish_time": "2026-09-25T17:12:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-373f457d5f81",
-      "title": "利物浦透露他们出售Florian Wirtz需要什么",
-      "summary": "在利物浦度过的时光有点冷漠。当这位中场球员去年夏天首次来到安菲尔德时，大多数球迷都希望他是他们的主要创意渠道。然而，尽管他被用作...",
-      "source_url": "https://sports.yahoo.com/articles/liverpool-reveal-them-sell-florian-171000867.html",
-      "publish_time": "2026-09-25T17:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d6ad9c645fc1",
-      "title": "曼城的判决是一场地震–接下来会发生更大的事情",
-      "summary": "分析：预计曼城将被判犯有115项指控中的大部分，英超联赛在体育史上最重要的法律战之一中取得了非常重要的第一场胜利。现在发生的事情仍然很复杂。作者： Miguel Delaney",
-      "source_url": "https://sports.yahoo.com/articles/man-city-verdict-earthquake-comes-165416983.html",
-      "publish_time": "2026-09-25T16:59:58+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-8c57a5de0998",
-      "title": "前那不勒斯球星透露巴黎圣日耳曼签约西班牙国脚“伤害皇家马德里”",
-      "summary": "到目前为止， Fabian Ruiz一直是路易斯·恩里克（ Luis Enrique ）的PSG时代的最大受益者之一，西班牙人将自己从另一名中场球员转变为球队的重要组成部分......",
-      "source_url": "https://sports.yahoo.com/articles/former-napoli-star-reveals-psg-165500545.html",
-      "publish_time": "2026-09-25T16:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-fc60783b1461",
-      "title": "曼城和115项收费-回答了关键问题",
-      "summary": "花了两年多的时间，但似乎终于对针对曼城的115项指控做出了判决。以下是它的含义。",
-      "source_url": "https://sports.yahoo.com/articles/man-city-115-charges-key-161032453.html",
-      "publish_time": "2026-09-25T16:52:30+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-6720e748d67f",
-      "title": "报告：利兹联队球星在转会谣言中对他的未来做出最终决定",
-      "summary": "丹·詹姆斯·利兹联合未来最新的1月转会退出谈话冷静利兹联队对丹尼尔·詹姆斯看起来很平静，仅这一点就足以说明俱乐部目前对自己的看法。禁食后，呃……",
-      "source_url": "https://sports.yahoo.com/articles/report-leeds-united-star-makes-165000327.html",
-      "publish_time": "2026-09-25T16:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-adedc3819dbe",
-      "title": "史蒂夫·帕里什揭示了为什么利物浦未能签下伊斯梅拉·萨尔",
-      "summary": "利物浦转会新闻：史蒂夫·帕里什（ Steve Parish ）解释说，伊斯梅拉·萨尔（ Ismaila Sarr ）的转会失败利物浦在夏末对伊斯梅拉·萨尔（ Ismaila Sarr ）的追求总是表现为转会到达了错误的",
-      "source_url": "https://sports.yahoo.com/articles/steve-parish-reveals-why-liverpool-165000031.html",
-      "publish_time": "2026-09-25T16:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e818953cb170",
-      "title": "自亚历克斯·弗格森爵士以来的每一位曼联经理",
-      "summary": "弗格森爵士于2013年5月退役，刚刚赢得了第13个英超联赛冠军。在此后的13年里， 11名男子在12个法术中掌舵，随后获得了7个奖杯。迈克尔·卡里克我……",
-      "source_url": "https://sports.yahoo.com/articles/every-manchester-united-manager-since-165000467.html",
-      "publish_time": "2026-09-25T16:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1a57c4a42d39",
-      "title": "Dybala-Gasperini谈话， Cancellieri受伤， Openda未来 🔥",
-      "summary": "在意大利与罗伯托·曼奇尼（ Roberto Mancini ）坐在替补席上重返赛场，意大利超级杯重返意大利的当天（以下是细节） ，意甲大俱乐部的工作并不……",
-      "source_url": "https://sports.yahoo.com/articles/dybala-gasperini-talks-cancellieri-injury-165000481.html",
-      "publish_time": "2026-09-25T16:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-f35ab4b8e67a",
-      "title": "第12至19周的官方意甲比赛日期和时间",
-      "summary": "意甲联赛第12至19周的日期和开赛时间已经公布，包括科摩-尤文图斯、拉齐奥-罗马、那不勒斯-米兰、罗马-尤文、都灵德比、罗马-米兰和英特尤文图斯。",
-      "source_url": "https://sports.yahoo.com/articles/official-serie-dates-times-week-164500903.html",
-      "publish_time": "2026-09-25T16:45:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-fb679b767895",
-      "title": "凯尔特人边锋哈桑退出国际职务",
-      "summary": "凯尔特人边锋海塞姆·哈桑（ Haissem Hassan ）在退出埃及国际职责后加深了格拉斯哥俱乐部的伤病困境。这位24岁的边锋无法与球队一起参加他们对阵安哥拉和南苏丹的非洲杯资格赛，此前主教练霍萨姆·哈桑透露，这位前锋正在接受一个未指明的…",
-      "source_url": "https://sports.yahoo.com/articles/celtic-winger-hassan-withdraws-international-163229542.html",
-      "publish_time": "2026-09-25T16:32:29+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e9dc544a9422",
-      "title": "杰拉德·马丁（ Gerard Martin ）支持巴塞罗那队友拉明·亚马尔（ Lamine Yamal ）获得金球奖： “他是最好的”",
-      "summary": "Ballon d 'Or在投票结束前的最后几天备受关注。巴塞罗那足球俱乐部（ FC Barcelona ）的青少年感觉拉明·亚马尔（ Lamine Yamal ）恰好是赢得最高奖项的最爱之一，尽管竞争激烈......",
-      "source_url": "https://sports.yahoo.com/articles/gerard-martin-backs-barcelona-teammate-163000020.html",
-      "publish_time": "2026-09-25T16:30:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3c724f4365bd",
-      "title": "官方： Supercoppa Italiana Inter vs. Lazio ，圣西罗， 12月22日",
-      "summary": "已经证实， 2026/27赛季的意大利超级杯将是国际米兰和拉齐奥于12月22日在圣西罗举行的一场一次性比赛，取消了四强赛的形式。最后一场比赛是...",
-      "source_url": "https://sports.yahoo.com/articles/official-supercoppa-italiana-inter-vs-162500643.html",
-      "publish_time": "2026-09-25T16:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4d262c45e3cf",
-      "title": "前皇家马德里球星对穆里尼奥投下信任票： “一切都被放大了”",
-      "summary": "众所周知，皇家马德里的情况并不顺利。球队已经盯着过去两年困扰他们的问题，包括功能失调的更衣室。新教练J...",
-      "source_url": "https://sports.yahoo.com/articles/former-real-madrid-star-gives-162500458.html",
-      "publish_time": "2026-09-25T16:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-6972b0449afd",
-      "title": "意甲提议被接受，将于12月28日开启1月转会窗口",
-      "summary": "意甲俱乐部已要求提前几天开放2027年1月的转会窗口，因此他们将能够在12月28日进行交易，等待国际足联的批准。双方提出了...",
-      "source_url": "https://sports.yahoo.com/articles/serie-proposal-accepted-open-january-161000975.html",
-      "publish_time": "2026-09-25T16:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-ab93be55b882",
-      "title": "默里专注于巴罗的未来，而不是沉溺于过去",
-      "summary": "巴罗（ Barrow ）经理亚当·默里（ Adam Murray ）希望在霍尔克街（ Holker Street ）进行夏季大型重建",
-      "source_url": "https://sports.yahoo.com/articles/murray-focus-barrow-future-not-160705641.html",
-      "publish_time": "2026-09-25T16:07:05+00:00",
-      "category": "football_intl",
+      "id": "nba-6497978f83cd",
+      "title": "黄蜂队的Kon Knueppel可能会因左腿筋紧张而错过2026-27 NBA赛季的开始",
+      "summary": "Knueppel在上赛季的NBA年度最佳新秀投票中获得第二名，此前他以三分球领先联盟。",
+      "source_url": "https://sports.yahoo.com/nba/article/hornets-kon-knueppel-will-likely-miss-start-of-2026-27-nba-season-with-strained-left-hamstring-232237354.html",
+      "publish_time": "2026-09-25T23:22:37+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4557,6 +4593,18 @@
       "summary": "勒布朗·詹姆斯 shared details about his decision to not retire and instead join the Philadelphia 76ers on his \"Mind the Ga…",
       "source_url": "https://sports.yahoo.com/articles/why-did-lebron-james-sign-231826458.html",
       "publish_time": "2026-09-25T23:18:26+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0f6881ebca57",
+      "title": "勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）爱上了与父亲时间（ Father Time ）的竞争，希望帮助乔尔·恩比德（ 乔尔·恩比德 ）克服费城的",
+      "summary": "在他42岁的赛季之前，詹姆斯致力于保持身心健康，同时分享他在NBA二十多年来积累的丰富知识。",
+      "source_url": "https://sports.yahoo.com/nba/article/lebron-james-is-in-love-with-competing-vs-father-time-hopes-to-help-joel-embiid-over-the-hump-in-philly-222604406.html",
+      "publish_time": "2026-09-25T22:26:04+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4588,11 +4636,35 @@
       ]
     },
     {
+      "id": "nba-ccab14916151",
+      "title": "湖人队如何使用上限机制来建立他们的G联赛名单",
+      "summary": "随着训练营即将到来，湖人队正在利用展览10的合同。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-already-using-cap-mechanism-212124569.html",
+      "publish_time": "2026-09-25T21:21:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-d74f8b8ed54d",
       "title": "骑士队的科比·奥尔特曼纠正了对签下勒布朗·詹姆斯的“误解”",
       "summary": "奥尔特曼直截了当地记录了勒布朗的决定。",
       "source_url": "https://sports.yahoo.com/articles/cavs-koby-altman-corrects-misconception-203624117.html",
       "publish_time": "2026-09-25T20:36:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-db2e76a25198",
+      "title": "波士顿凯尔特人队每日链接9/25/26",
+      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
+      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-9-202416696.html",
+      "publish_time": "2026-09-25T20:24:16+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5433,78 +5505,6 @@
       "summary": "76人做了几个巨大的飞溅，但他们也加强了他们的深度。",
       "source_url": "https://sports.yahoo.com/articles/sixers-bench-183000785.html",
       "publish_time": "2026-09-24T18:30:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ee40c77afe01",
-      "title": "骑士队宣布训练营名单",
-      "summary": "骑士队正在加紧训练营。",
-      "source_url": "https://sports.yahoo.com/articles/cavs-announce-training-camp-roster-182335921.html",
-      "publish_time": "2026-09-24T18:23:35+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a02d7998207f",
-      "title": "这是Luka Dončić最终赢得MVP的赛季吗？",
-      "summary": "尽管他获得了所有的荣誉，但Luka Dončić仍然没有获得MVP。他今年可以在奖杯柜里加一个吗？",
-      "source_url": "https://sports.yahoo.com/articles/finally-season-luka-don-wins-180523039.html",
-      "publish_time": "2026-09-24T18:05:23+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-cb3b984e2f61",
-      "title": "2026-27赛季KOC季前力量排名+ Jalen Duren的最新消息",
-      "summary": "凯文·奥康纳（ Kevin O'Connor ）与汤姆·哈伯斯特罗（ Tom Haberstroh ）分享了他即将到来的NBA赛季的",
-      "source_url": "https://sports.yahoo.com/nba/article/kocs-preseason-power-rankings-for-2026-27-nba-season--the-latest-on-jalen-duren-180446506.html",
-      "publish_time": "2026-09-24T18:04:46+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e8913f5af263",
-      "title": "Jalen Duren和活塞：一种无法修复的关系？",
-      "summary": "双方都没有要求分手，但双方都希望",
-      "source_url": "https://sports.yahoo.com/articles/jalen-duren-pistons-relationship-beyond-172929509.html",
-      "publish_time": "2026-09-24T17:29:29+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-004b4a51a203",
-      "title": "奇才总经理威尔·道金斯（ Will Dawkins ）的压力机的五个要点",
-      "summary": "华盛顿—华盛顿奇才队总经理威尔·道金斯（ Will Dawkins ）周四与媒体会面时称2026-27赛季是“增长的季节”。道金斯说，虽然奇才队希望增加有竞争力的篮球时刻，但球员发展仍然是头号目标。“作为一个组织，我们希望朝着构建[…]迈出…",
-      "source_url": "https://sports.yahoo.com/articles/five-takeaways-wizards-gm-dawkins-171728853.html",
-      "publish_time": "2026-09-24T17:17:28+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-224147fd7854",
-      "title": "Luka Dončić ， Jeanie Buss对传奇湖人队PA播音员去世的反应",
-      "summary": "湖人队失去了任职时间最长的员工之一。",
-      "source_url": "https://sports.yahoo.com/articles/luka-don-jeanie-buss-react-171516282.html",
-      "publish_time": "2026-09-24T17:15:16+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
