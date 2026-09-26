@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-26T08:17:40.597025+00:00",
+  "generated_at": "2026-09-26T10:18:25.991530+00:00",
   "news": [
+    {
+      "id": "ai_cn-61646d2ded9d",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "source_url": "https://www.qbitai.com/2026/09/498271.html",
+      "publish_time": "2026-09-26T09:07:41+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-a532feb3d58b",
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "source_url": "https://www.qbitai.com/2026/09/497624.html",
+      "publish_time": "2026-09-26T09:01:00+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-4c90ac444460",
       "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
@@ -931,30 +955,6 @@
       "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
       "source_url": "https://www.qbitai.com/2026/09/492467.html",
       "publish_time": "2026-09-19T06:44:02+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-fba59f0fc220",
-      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-      "summary": "同一预测核心，跨七类系统验证",
-      "source_url": "https://www.qbitai.com/2026/09/492429.html",
-      "publish_time": "2026-09-19T06:39:32+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-7ff77023a503",
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-      "summary": "协同布局AI基础设施",
-      "source_url": "https://www.qbitai.com/2026/09/492426.html",
-      "publish_time": "2026-09-18T15:58:21+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -3604,6 +3604,18 @@
       ]
     },
     {
+      "id": "football_intl-9897271e0ee7",
+      "title": "基利安·姆巴佩’s France teammate offers important update after injury blow: ‘Wasn’t anything serious’",
+      "summary": "Real Madrid fans were given quite the scare when 基利安·姆巴佩 suffered an injury during the international break while o…",
+      "source_url": "https://sports.yahoo.com/articles/kylian-mbappe-france-teammate-offers-085500529.html",
+      "publish_time": "2026-09-26T08:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-1f32c6e25cfd",
       "title": "前巴塞罗那青年教练解释了费尔明·洛佩兹崛起背后的艰苦工作： “他身体虚弱……”",
       "summary": "费尔明·洛佩兹（ Fermin Lopez ）在巴塞罗那的崛起并没有让他的一位前青年教练感到惊讶，奥斯卡·洛佩兹（ Oscar Lopez ）透露，这位中场球员已经开发出了一种独特的比赛方式。",
@@ -4544,18 +4556,6 @@
       "title": "WSL ： Vivien Endemann在利物浦崭露头角",
       "summary": "WSL创造了历史， Vivien Endemann是其中心。自今年夏天来到俱乐部以来，这位利物浦前锋给人留下了深刻的印象，将自己确立为...",
       "source_url": "https://sports.yahoo.com/articles/wsl-vivien-endemann-making-her-202000739.html",
-      "publish_time": "2026-09-25T20:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-ed2b53782d5e",
-      "title": "曼城即将登陆马德里竞技Ace ：适合Maresca吗？",
-      "summary": "在最近的一份报告中，记者格雷姆·贝利（ Graeme Bailey ）表示，曼城正准备让马德里竞技队（ Atletico Madrid ）的王牌马科斯·略伦特（ Marcos Llorente ）登陆据了解，曼彻斯特俱乐部将不得不与……",
-      "source_url": "https://sports.yahoo.com/articles/manchester-city-mix-land-atletico-202000731.html",
       "publish_time": "2026-09-25T20:20:00+00:00",
       "category": "football_intl",
       "is_important": false,
