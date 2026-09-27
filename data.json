@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-27T14:16:42.223185+00:00",
+  "generated_at": "2026-09-27T16:18:54.887592+00:00",
   "news": [
+    {
+      "id": "ai_cn-24cd0f7f0981",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/09/498633.html",
+      "publish_time": "2026-09-27T14:20:35+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-e97d490a30d5",
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "summary": "想让开发者“说句话就能跑量子计算”",
+      "source_url": "https://www.qbitai.com/2026/09/498605.html",
+      "publish_time": "2026-09-27T13:57:57+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-5e5c2970316d",
+      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "summary": "中秋假期文具OpenRouter调用日榜榜首",
+      "source_url": "https://www.qbitai.com/2026/09/498584.html",
+      "publish_time": "2026-09-27T13:40:02+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-5584220040b5",
       "title": "啥题啊能干崩OpenAI最强模型训练…",
@@ -919,42 +955,6 @@
       "summary": "老马想买倒闭公司数据为哪般",
       "source_url": "https://www.qbitai.com/2026/09/492661.html",
       "publish_time": "2026-09-19T11:48:06+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-9947f2045091",
-      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
-      "summary": "设计、前端一口气全干了，结果后端没来上班",
-      "source_url": "https://www.qbitai.com/2026/09/492573.html",
-      "publish_time": "2026-09-19T11:43:12+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-1db99c4669c7",
-      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
-      "summary": "AI能否提出相对论？",
-      "source_url": "https://www.qbitai.com/2026/09/492550.html",
-      "publish_time": "2026-09-19T11:36:11+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-2846ed8a2304",
-      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
-      "summary": "1000万，把才华送上真正的大舞台",
-      "source_url": "https://www.qbitai.com/2026/09/492501.html",
-      "publish_time": "2026-09-19T08:34:35+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -4588,11 +4588,59 @@
       ]
     },
     {
+      "id": "nba-a03b85f22b52",
+      "title": "尼克斯队是否有足够的前场深度来进行冠军防守？ 3个乐观的理由",
+      "summary": "纽约输了米切尔·罗宾逊，但冠军真的会更好吗？",
+      "source_url": "https://sports.yahoo.com/nba/article/do-the-knicks-have-enough-frontcourt-depth-for-title-defense-3-reasons-for-optimism-154347419.html",
+      "publish_time": "2026-09-27T15:43:47+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1dd73c0b57b6",
+      "title": "前北卡罗来纳州立大学主教练Kevin Keatts发布UNC实践报告",
+      "summary": "一位意想不到的消息来源对他从卡罗莱纳州的第一次练习中看到的东西提出了他的想法。",
+      "source_url": "https://sports.yahoo.com/articles/former-nc-state-head-coach-150000729.html",
+      "publish_time": "2026-09-27T15:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9aa93eab465a",
+      "title": "乔尔·恩比德（ 乔尔·恩比德 ）最佳季后赛，第五部分： 2026年第7场对阵波士顿",
+      "summary": "Embiid在系列赛中间的回归以决定者的出色努力而告终。",
+      "source_url": "https://sports.yahoo.com/articles/joel-embiid-best-playoff-games-133254559.html",
+      "publish_time": "2026-09-27T13:32:54+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-5b843b4322f8",
       "title": "斯坦福大学对乔治亚理工学院的胜利是否会引发动力，扭亏为盈？",
       "summary": "斯坦福大学下半场对阵佐治亚理工大学。这会导致红衣主教的季节提前转变吗？",
       "source_url": "https://sports.yahoo.com/articles/stanfords-win-against-georgia-tech-131044849.html",
       "publish_time": "2026-09-27T13:10:44+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-00cfdb8f68f2",
+      "title": "MMBets ：奥兰多站着不动，而东部其他地区变得更好",
+      "summary": "魔法需要在成败之年结束。",
+      "source_url": "https://sports.yahoo.com/articles/mmbets-orlando-stood-still-while-130000546.html",
+      "publish_time": "2026-09-27T13:00:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5493,54 +5541,6 @@
       "summary": "根据他的主教练的说法，第二年的翅膀是健康和蓬勃发展的",
       "source_url": "https://sports.yahoo.com/articles/jj-redick-says-adou-thiero-170000225.html",
       "publish_time": "2026-09-25T17:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e257fd2c5eac",
-      "title": "他们忘记了Trey",
-      "summary": "有一段时间，这位30岁的前锋一直在身边，直到他不在，但现在他在这里。",
-      "source_url": "https://sports.yahoo.com/articles/forgot-trey-170000793.html",
-      "publish_time": "2026-09-25T17:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7e5dcd5a7f74",
-      "title": "据报道， D 'Angelo Russell在Wizards交易后2个月被Grizzlies放弃",
-      "summary": "罗素的下一支球队将是他过去两个赛季中的第四支球队。",
-      "source_url": "https://sports.yahoo.com/nba/article/dangelo-russell-reportedly-waived-by-grizzlies-2-months-after-trade-from-wizards-165351084.html",
-      "publish_time": "2026-09-25T16:53:51+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-38a76164cd86",
-      "title": "贾伦·布伦森（ 贾伦·布伦森 ）表示，在休赛期手腕手术后，他已“完全清除”尼克斯训练营",
-      "summary": "当尼克斯队下周正式开始他们的NBA总冠军防守时，他们的队长将在场上带领他们。",
-      "source_url": "https://sports.yahoo.com/nba/article/jalen-brunson-says-hes-fully-cleared-for-knicks-training-camp-after-offseason-wrist-surgery-164430661.html",
-      "publish_time": "2026-09-25T16:44:30+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-46b7572cb1ef",
-      "title": "勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）谈到费城的原因： “最重要的[原因]之一是大个子，”乔尔·恩比德（ 乔尔·恩比德 ）",
-      "summary": "勒布朗还表示，他与泰雷兹·马克西（ Tyrese Maxey ）的距离很重要，杰伦·布朗（ 杰伦·布朗 ）的交易也是如此。",
-      "source_url": "https://sports.yahoo.com/articles/lebron-james-why-philadelphia-one-163723865.html",
-      "publish_time": "2026-09-25T16:37:23+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
