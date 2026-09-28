@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-28T10:18:59.625322+00:00",
+  "generated_at": "2026-09-28T12:22:48.652900+00:00",
   "news": [
+    {
+      "id": "ai_cn-541be18312e1",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "summary": "AI基础设施下一站：算电协同",
+      "source_url": "https://www.qbitai.com/2026/09/498787.html",
+      "publish_time": "2026-09-28T11:18:27+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-24cd0f7f0981",
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
@@ -943,18 +955,6 @@
       "summary": "AI有可能终结我们所有人",
       "source_url": "https://www.qbitai.com/2026/09/492755.html",
       "publish_time": "2026-09-19T11:53:12+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-9f3db6884dd5",
-      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
-      "summary": "老马想买倒闭公司数据为哪般",
-      "source_url": "https://www.qbitai.com/2026/09/492661.html",
-      "publish_time": "2026-09-19T11:48:06+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -4600,6 +4600,90 @@
       ]
     },
     {
+      "id": "nba-b7b43821ba2b",
+      "title": "随着训练营的开放，到2027年，所有30支球队的NBA实力排名都有机会获得冠军",
+      "summary": "让我们按照进入2026-27赛季的冠军机会对每支NBA球队进行排名。",
+      "source_url": "https://sports.yahoo.com/articles/nba-power-rankings-30-teams-120000142.html",
+      "publish_time": "2026-09-28T12:00:00+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c859254ef396",
+      "title": "Naji Marshall可以为达拉斯小牛队做任何事情",
+      "summary": "马歇尔处于有利地位，可以在本赛季对小牛队产生重大影响",
+      "source_url": "https://sports.yahoo.com/articles/naji-marshall-little-bit-everything-100000374.html",
+      "publish_time": "2026-09-28T10:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f7666319f707",
+      "title": "您在凯尔特人训练营前的热门问题",
+      "summary": "随着媒体日的临近，我们希望直接听取粉丝的意见",
+      "source_url": "https://sports.yahoo.com/articles/burning-questions-celtics-training-camp-100000804.html",
+      "publish_time": "2026-09-28T10:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ea7d41aec659",
+      "title": "VanVleet ，亚当斯征服了伤病康复，现在他们已经准备好点燃火箭",
+      "summary": "火箭队希望VanVleet和亚当斯在本赛季重返球场，这将在第一轮季后赛退出后提升表现和士气。",
+      "source_url": "https://sports.yahoo.com/articles/vanvleet-adams-conquered-injury-rehab-095531818.html",
+      "publish_time": "2026-09-28T09:55:31+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8a343049b59d",
+      "title": "YouTube金牌：凯尔特人对皇室， 1966年NBA季后赛",
+      "summary": "1966年的一段非常清晰的彩色镜头",
+      "source_url": "https://sports.yahoo.com/articles/youtube-gold-celtics-vs-royals-094700624.html",
+      "publish_time": "2026-09-28T09:47:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-22bdc98fee1c",
+      "title": "《火箭2026-2027》选手预告：克林特·卡佩拉",
+      "summary": "卡佩拉煮熟了吗？还是他又准备好一年了？",
+      "source_url": "https://sports.yahoo.com/articles/rockets-2026-2027-player-previews-091301514.html",
+      "publish_time": "2026-09-28T09:13:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9bf4e1f8c13e",
+      "title": "罗布·佩林卡（ Rob Pelinka ）表示，湖人队已经增加了超过15名前台人员，计划雇佣更多的球探",
+      "summary": "虽然并非所有的举动都已公开，但湖人队正在幕后建立自己的前台。",
+      "source_url": "https://sports.yahoo.com/articles/rob-pelinka-says-lakers-added-064711110.html",
+      "publish_time": "2026-09-28T06:47:11+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-ccab14916151",
       "title": "湖人队如何使用上限机制来建立他们的G联赛名单",
       "summary": "随着训练营即将到来，湖人队正在利用展览10的合同。",
@@ -5469,90 +5553,6 @@
       "summary": "在他的Mind the Game播客中，詹姆斯说他相信Edgecombe可以成为全NBA的后卫。",
       "source_url": "https://sports.yahoo.com/articles/lebron-james-sees-elite-defensive-070000955.html",
       "publish_time": "2026-09-26T07:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-03830bff2e54",
-      "title": "勇士队，斯蒂芬·库里同意延长两年， $ 1.16亿",
-      "summary": "终身战士。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-stephen-curry-agree-two-031129036.html",
-      "publish_time": "2026-09-26T03:11:29+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-52bb10db4da7",
-      "title": "斯蒂芬·库里 signs 2-year, $116 million extension with Warriors: What it means",
-      "summary": "The Golden State Warriors are keeping superstar 斯蒂芬·库里 in the Bay Area for at least two more years.",
-      "source_url": "https://sports.yahoo.com/articles/stephen-curry-signs-2-116-025923547.html",
-      "publish_time": "2026-09-26T02:59:23+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-00b185e9a10e",
-      "title": "斯蒂芬·库里留在湾区：他，勇士队同意延长两年， $ 1.16亿",
-      "summary": "库里一直表示他想退役一名勇士，这份合同让他度过了他的第20个赛季。",
-      "source_url": "https://sports.yahoo.com/articles/stephen-curry-staying-bay-area-025923429.html",
-      "publish_time": "2026-09-26T02:59:23+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ad692dd7d558",
-      "title": "斯蒂芬·库里的勇士队合同延期没有达到潜在的超大交易",
-      "summary": "勇士队和斯蒂芬·库里终于同意延长合同。这对双方都有好处。根据ESPN NBA内部人士Shams Charania的说法，库里已经同意...",
-      "source_url": "https://sports.yahoo.com/articles/steph-curry-warriors-contract-extension-024018080.html",
-      "publish_time": "2026-09-26T02:40:18+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e3e69ce4c81f",
-      "title": "斯蒂芬·库里 signs 2-year, $116 million extension to stay in Golden State",
-      "summary": "斯蒂芬·库里 was only eligible to add 2 years to his existing contract due to the NBA's \"over-38 rule.\"",
-      "source_url": "https://sports.yahoo.com/nba/article/stephen-curry-signs-2-year-116-million-extension-to-stay-in-golden-state-022319276.html",
-      "publish_time": "2026-09-26T02:23:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-514e710cadfe",
-      "title": "斯蒂芬·库里（ 斯蒂芬·库里 ）认为勇士队可以争夺吗？ “我们仍然相信我们可以成为那个团队”",
-      "summary": "库里还谈到他的职业生涯即将结束。",
-      "source_url": "https://sports.yahoo.com/articles/does-stephen-curry-think-warriors-012211285.html",
-      "publish_time": "2026-09-26T01:22:11+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-dcfe96c5d262",
-      "title": "ESPN将维克托·文班亚马评为NBA第二佳球员",
-      "summary": "Wembanyama已经成为联盟中共识的前三名球员，并且只会变得更好。",
-      "source_url": "https://sports.yahoo.com/articles/espn-ranks-victor-wembanyama-second-232907734.html",
-      "publish_time": "2026-09-25T23:29:07+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
