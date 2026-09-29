@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:19:03.783835+00:00",
+  "generated_at": "2026-09-29T06:22:06.984535+00:00",
   "news": [
     {
       "id": "ai_cn-8e436fbf05f4",
@@ -962,6 +962,18 @@
       ]
     },
     {
+      "id": "ai_intl-f5aa58f3c193",
+      "title": "Anthropic的招股说明书详细说明了亏损、增长，以及，是的，关于其人工智能可能会终结人类的警告",
+      "summary": "在其招股说明书中， Anthropic刚刚告诉投资者，它每年损失数百亿美元，但也在疯狂增长，而且—哦，是的—它自己的人工智能可能对人类构成生存风险。",
+      "source_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "publish_time": "2026-09-29T05:13:43+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-71c7b9385ab3",
       "title": "Peak XV将种子投资上限提升至500万$ ，推出18个创业队列",
       "summary": "在Peak XV最新的Surge队列中， 18家初创公司中有13家瞄准全球市场，而超过一半的初创公司位于印度。",
@@ -1903,18 +1915,6 @@
       "summary": "Anthropic称之为“迄今为止我们测试过的表现最强的模型”。",
       "source_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "publish_time": "2026-09-22T16:30:07+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-8fdc384c018e",
-      "title": "每个创始人都应该在TechCrunch Disrupt 2026议程上举办五次人工智能安全会议",
-      "summary": "在TechCrunch Disrupt 2026上，来自Anthropic、NVIDIA、AWS、Waabi等公司的领导者参加了AI Stage和Real World AI Stage的五场会议，讨论了人工智能的安全问题。立即注册，在9月2…",
-      "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "publish_time": "2026-09-22T15:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4648,6 +4648,18 @@
       ]
     },
     {
+      "id": "nba-29eb7cf4fd4c",
+      "title": "卢卡·东契奇 gives strong opinion on Lakers’ offseason moves as the team’s post-Lebron era begins",
+      "summary": "卢卡·东契奇 gave his thoughts of the Lakers’ roster moves.",
+      "source_url": "https://sports.yahoo.com/articles/luka-doncic-gives-strong-opinion-002151783.html",
+      "publish_time": "2026-09-29T00:21:51+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-8f26addca2ea",
       "title": "卢卡·东契奇 and Austin Reaves ready to take charge of new-look Lakers",
       "summary": "With 勒布朗·詹姆斯 gone, 卢卡·东契奇 and Austin Reaves understand they'll need to take over as leaders for a Lakers team…",
@@ -5579,18 +5591,6 @@
       "publish_time": "2026-09-27T16:00:00+00:00",
       "category": "nba",
       "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a03b85f22b52",
-      "title": "尼克斯队是否有足够的前场深度来进行冠军防守？ 3个乐观的理由",
-      "summary": "纽约输了米切尔·罗宾逊，但冠军真的会更好吗？",
-      "source_url": "https://sports.yahoo.com/nba/article/do-the-knicks-have-enough-frontcourt-depth-for-title-defense-3-reasons-for-optimism-154347419.html",
-      "publish_time": "2026-09-27T15:43:47+00:00",
-      "category": "nba",
-      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
