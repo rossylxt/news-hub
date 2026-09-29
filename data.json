@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-29T08:22:13.590720+00:00",
+  "generated_at": "2026-09-29T10:20:08.761473+00:00",
   "news": [
+    {
+      "id": "ai_cn-299e73250492",
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/09/499188.html",
+      "publish_time": "2026-09-29T07:59:46+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-5f4197d7db91",
       "title": "OpenAI因新模型太强叫停发布",
@@ -943,18 +955,6 @@
       "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
       "source_url": "https://www.qbitai.com/2026/09/492946.html",
       "publish_time": "2026-09-20T12:22:41+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-c33ec3bbf1e5",
-      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-      "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
-      "source_url": "https://www.qbitai.com/2026/09/492939.html",
-      "publish_time": "2026-09-20T08:30:32+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,30 @@
       ]
     },
     {
+      "id": "jp_football_euro-b3796efe15a6",
+      "title": "五人A代表初次亮相，森康夫，逆势赢得委内瑞拉！上田清在中间打进2球：第2卷（ 65张牌）",
+      "summary": "28日，日本在麒麟挑战杯上以2比1击败委内瑞拉。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459985-459985-pn",
+      "publish_time": "2026-09-29T09:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-01a34d5d2867",
+      "title": "五人A代表初次亮相，森康夫，逆势赢得委内瑞拉！上田清在中间打进2球：第1卷（ 72粒）",
+      "summary": "28日，日本在麒麟挑战杯上以2比1击败委内瑞拉。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459983-459983-pn",
+      "publish_time": "2026-09-29T09:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-c246e1bfe934",
       "title": "登上亚运会巅峰……大岩J工作人员支持球员（ 9件）",
       "summary": "U-21日本国家队28日在大阪府堺市训练， 30日半决赛对阵乌兹别克斯坦。●第20届亚运会特色",
@@ -4636,6 +4660,66 @@
       ]
     },
     {
+      "id": "nba-7fc298835941",
+      "title": "76人队的明星能否获得冠军头衔？勒布朗·詹姆斯说这不是“即食燕麦片”",
+      "summary": "费城76人队的球星们一致认为：牺牲、化学反应、努力和耐心将是关键，因为“五大人物”试图赢得球队自1983年以来的第一个冠军。",
+      "source_url": "https://sports.yahoo.com/articles/76ers-stars-deliver-title-lebron-093152676.html",
+      "publish_time": "2026-09-29T09:31:52+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-2614cddae407",
+      "title": "贝勒·谢尔曼谈论波士顿凯尔特人队的新面貌： “我们只是要篮球”",
+      "summary": "在获得延期资格的一个月前， Scheierman正在寻求简化他的方法。",
+      "source_url": "https://sports.yahoo.com/articles/baylor-scheierman-look-boston-celtics-080000393.html",
+      "publish_time": "2026-09-29T08:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0beec32fbfc5",
+      "title": "Curry的扩展为勇士队节省了2000万$。你的举动，邓利维",
+      "summary": "库里想要科比获得的单一专营权。他刚刚给勇士队增加了2000万$的灵活性来实现这一目标。",
+      "source_url": "https://sports.yahoo.com/articles/curry-extension-saved-warriors-20-071210250.html",
+      "publish_time": "2026-09-29T07:12:10+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-33296834700c",
+      "title": "退伍军人和友谊的力量能为布鲁克林篮网带来什么？",
+      "summary": "“现在NBA有一个蓝图，一些最好的球队—球员们真的很喜欢彼此共度时光。“我很喜欢Danny Wolf在布鲁克林篮网媒体日（ Collin Helwig在这里做了令人钦佩的报道，特别是所有新闻条目）上的这句话，因为您通常会听到有关名册构建和[…",
+      "source_url": "https://sports.yahoo.com/articles/veterans-power-friendship-brooklyn-nets-070334402.html",
+      "publish_time": "2026-09-29T07:03:34+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8708b92c53e9",
+      "title": "说奶酪，勒布朗·詹姆斯是76人： 76人最佳媒体日",
+      "summary": "我们在76人媒体日的最佳照片，当时终于看到杰伦·布朗和勒布朗·詹姆斯穿着制服。",
+      "source_url": "https://sports.yahoo.com/articles/cheese-lebron-james-sixer-best-060000007.html",
+      "publish_time": "2026-09-29T06:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-5e96caae70d9",
       "title": "凯尔特人媒体日最大收获",
       "summary": "关于2026-27赛季波士顿凯尔特人队，我们学到了5件事",
@@ -4660,6 +4744,18 @@
       ]
     },
     {
+      "id": "nba-f619b8b09508",
+      "title": "篮网带有“妄想信心” ，他们可以凭借崇高的胜利目标藐视赔率",
+      "summary": "Oddmakers预计网队将赢得不到25场比赛。妄想自信的篮网认为他们可以赢得两倍的胜利。他们把它作为一个目标，谈论它……",
+      "source_url": "https://sports.yahoo.com/articles/nets-carrying-delusional-confidence-defy-051802580.html",
+      "publish_time": "2026-09-29T05:18:02+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-9f7e1f1df4e5",
       "title": "Brandin Podziemski在勇士队的媒体日掀起波澜",
       "summary": "勇士队的后卫必须做出足够的飞溅，以证明他可以成为斯蒂芬之后发生的事情的一部分。",
@@ -4667,6 +4763,42 @@
       "publish_time": "2026-09-29T05:09:23+00:00",
       "category": "nba",
       "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-63a95f083d6e",
+      "title": "贾伦·布伦森（ 贾伦·布伦森 ）准备在“痛苦”的伤病后继续前进，他没有让尼克斯的冠军希望脱轨",
+      "summary": "贾伦·布伦森（ 贾伦·布伦森 ）在手腕上接受了休赛期手术，以修复肌腱问题。尽管如此，他在季后赛结束时在赢得总决赛MVP的途中表现出色。",
+      "source_url": "https://sports.yahoo.com/articles/jalen-brunson-ready-painful-injury-043811864.html",
+      "publish_time": "2026-09-29T04:38:11+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-006febea547e",
+      "title": "篮网正在进行的迈克尔·波特（ Michael Porter Jr. ）扩展谈判进入训练营",
+      "summary": "虽然波特永远无法获得整整四年，他有资格获得2.34亿美元的$ ，但他和经纪人马克·巴特尔斯坦（ Mark Bartelstein ）的要求是多少？",
+      "source_url": "https://sports.yahoo.com/articles/where-nets-ongoing-michael-porter-042353580.html",
+      "publish_time": "2026-09-29T04:23:53+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c8597881f95f",
+      "title": "尼克斯相信他们知道如何实现罕见的NBA总冠军重复",
+      "summary": "NBA冠军尼克斯的目标是如何以一个主要的核心，更强大的东部对手和更新的焦点来挑战NBA的重复赔率。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-believe-know-takes-deliver-041827964.html",
+      "publish_time": "2026-09-29T04:18:27+00:00",
+      "category": "nba",
+      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
@@ -5481,114 +5613,6 @@
       "summary": "科怀·伦纳德 wants to focus on basketball.",
       "source_url": "https://sports.yahoo.com/nba/article/kawhi-leonard-says-he-wants-to-move-forward-from-nba-investigation-in-first-comments-back-with-raptors-150935229.html",
       "publish_time": "2026-09-28T15:09:35+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5f2bfe3d0a4b",
-      "title": "骑士队玩家预览：近身托马斯–骑士队将如何平衡发展和需求？",
-      "summary": "骑士队在发展和必要性之间有一条微妙的平衡线。",
-      "source_url": "https://sports.yahoo.com/articles/cavs-player-preview-meleek-thomas-145004522.html",
-      "publish_time": "2026-09-28T14:50:04+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4cc833552cd3",
-      "title": "2026年NBA媒体日现场更新： 科怀·伦纳德在猛龙媒体日发表讲话，希望在NBA调查后“向前迈进”",
-      "summary": "NBA的28支球队将于周一举行各自的媒体日。",
-      "source_url": "https://sports.yahoo.com/nba/live/nba-media-day-2026-live-updates-kawhi-leonard-speaks-at-raptors-media-day-wants-to-move-forward-after-nba-investigation-143418524.html",
-      "publish_time": "2026-09-28T14:34:18+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c4d8c385c446",
-      "title": "2026年奇才媒体日讨论",
-      "summary": "华盛顿奇才队将于美国东部时间上午11点在CareFirst竞技场举办媒体日活动。格雷格·芬伯格（ Greg Finberg ）正在国会高地为我们服务。Monumental Sports Network将播出报道，我会尽快发布嵌入内容。享受N…",
-      "source_url": "https://sports.yahoo.com/articles/wizards-media-day-2026-discussion-141223923.html",
-      "publish_time": "2026-09-28T14:12:23+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c602b4c1a94e",
-      "title": "更多好消息--2001年的黑色球衣将在2026-27赛季回归",
-      "summary": "耐克和NBA自己的规则该死， 76人队将在2026-27赛季带回艾弗森时代的黑色球衣。",
-      "source_url": "https://sports.yahoo.com/articles/more-good-sixers-news-2001-140048522.html",
-      "publish_time": "2026-09-28T14:00:48+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-382833403a5e",
-      "title": "讨论主题： 2026年尼克斯媒体日",
-      "summary": "伙计们，你们等待了几个月的那一刻终于到来了！在比我们尼克斯球迷习惯的休赛期短得多之后， 2026-27 NBA赛季的积累从今天媒体日正式开始。卫冕冠军、卫冕冠军、无可争议的NBA冠军在参加总冠军赛后又回到了一起，他们的第一次[…]",
-      "source_url": "https://sports.yahoo.com/articles/discussion-thread-knicks-media-day-135249196.html",
-      "publish_time": "2026-09-28T13:52:49+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-0b4e6d7028f7",
-      "title": "How 勒布朗·詹姆斯 can complete the process",
-      "summary": "Nearly two months from the day his signing was announced, 勒布朗·詹姆斯 will speak to the Philadelphia media for the firs…",
-      "source_url": "https://sports.yahoo.com/articles/lebron-james-complete-process-133329708.html",
-      "publish_time": "2026-09-28T13:33:29+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c2cddbe5bcf0",
-      "title": "活塞队的Jalen Duren不在媒体上，也不会在合同纠纷中向训练营报告",
-      "summary": "Duren拒绝了活塞队5年的报价， $ 2亿。",
-      "source_url": "https://sports.yahoo.com/nba/article/pistons-jalen-duren-not-at-media-and-wont-report-to-training-camp-amid-contract-dispute-132631267.html",
-      "publish_time": "2026-09-28T13:26:31+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-8c2979c60420",
-      "title": "3名围绕他们进入2026-27 NBA赛季的最大问题的尼克斯球员",
-      "summary": "NBA休赛期正式成为历史。随着尼克斯队将于周一举办媒体日，随着纽约开始冠军防守，肯定会有很多问题。",
-      "source_url": "https://sports.yahoo.com/articles/3-knicks-players-biggest-questions-131238873.html",
-      "publish_time": "2026-09-28T13:12:38+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-09414653c379",
-      "title": "How Yaxel Lendeborg impressed 德雷蒙德·格林 at Warriors' players-only camp",
-      "summary": "德雷蒙德·格林 praised Yaxel Lendeborg's understanding of the game and shooting ability after 吉米·巴特勒 III's player-…",
-      "source_url": "https://sports.yahoo.com/articles/yaxel-lendeborg-impressed-draymond-green-122039847.html",
-      "publish_time": "2026-09-28T12:20:39+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
