@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T02:17:43.570828+00:00",
+  "generated_at": "2026-09-29T04:19:03.783835+00:00",
   "news": [
     {
       "id": "ai_cn-8e436fbf05f4",
@@ -962,6 +962,90 @@
       ]
     },
     {
+      "id": "ai_intl-71c7b9385ab3",
+      "title": "Peak XV将种子投资上限提升至500万$ ，推出18个创业队列",
+      "summary": "在Peak XV最新的Surge队列中， 18家初创公司中有13家瞄准全球市场，而超过一半的初创公司位于印度。",
+      "source_url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "publish_time": "2026-09-29T00:30:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-df051edc9234",
+      "title": "据报道， OpenAI因安全问题而放弃了模型",
+      "summary": "人工智能实验室的一位高级管理人员告诉《华尔街日报》，该模型在服从命令方面表现不佳。",
+      "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "publish_time": "2026-09-28T23:39:20+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-b30ea06fa8e9",
+      "title": "资料来源：推理提供商Modal Labs以157.5亿美元的估值接近7.5亿美元",
+      "summary": "新融资预计将使这家AI基础设施初创公司的估值比四个月前增加两倍以上。",
+      "source_url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "publish_time": "2026-09-28T21:29:18+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-6004394fcd29",
+      "title": "AMD将以82亿美元收购李飞飞的世界实验室（ $ Fei-Fei Li's World Labs ）",
+      "summary": "此次收购将使世界实验室创始人李飞飞加入AMD ，担任执行副总裁兼首席科学家。",
+      "source_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "publish_time": "2026-09-28T20:39:33+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-99c674f70f3c",
+      "title": "Shopify向基于浏览器的人工智能代理开放结账",
+      "summary": "Shopify正在将WebMCP支持扩展到结账，允许基于浏览器的人工智能代理在买方授权下更新订单详细信息并完成购买。",
+      "source_url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "publish_time": "2026-09-28T19:33:57+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-19b5c695e972",
+      "title": "人工智能热潮接管了气候周，并非所有人都对此感到高兴",
+      "summary": "就像美国其他地区一样，数据中心和人工智能正在分裂气候技术创始人和投资者。",
+      "source_url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "publish_time": "2026-09-28T19:21:59+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d578c7a80779",
+      "title": "英伟达推出控制流氓人工智能代理的新平台",
+      "summary": "英伟达首席执行官Jensen Huang周一推出了一个软件和硬件产品工具包，该工具包在人工智能代理周围添加了独立的安全层，以确保它们即使试图突破也能保持在测试环境中。",
+      "source_url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "publish_time": "2026-09-28T18:31:23+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-342eef48a635",
       "title": "Anthropic发布了Sonnet 5.5 ，它称之为更便宜、更快捷的工作伙伴",
       "summary": "Anthropic发布了其最新版本的中端模型，具有更快的响应时间和更少的代币燃烧。",
@@ -1831,90 +1915,6 @@
       "summary": "在TechCrunch Disrupt 2026上，来自Anthropic、NVIDIA、AWS、Waabi等公司的领导者参加了AI Stage和Real World AI Stage的五场会议，讨论了人工智能的安全问题。立即注册，在9月2…",
       "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
       "publish_time": "2026-09-22T15:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-63278f8d0a1c",
-      "title": "AstroForge正在让人工智能掌控其下一个航天器",
-      "summary": "Autonomy-1将拥有一个小型的基于变压器的人工智能模型，负责空间探测器。",
-      "source_url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "publish_time": "2026-09-22T15:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-7c8fe9cba559",
-      "title": "TechCrunch Disrupt 2026 ： Aaron Edsinger将Hello Robot的Stretch 4带入舞台",
-      "summary": "Hello Robot首席执行官兼联合创始人Aaron Edsinger将在TechCrunch Disrupt 2026的真实世界人工智能舞台上带来Stretch 4的现场演示。请在9月25日前注册，最多可节省$ 200 ，并以50%的折…",
-      "source_url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "publish_time": "2026-09-22T14:30:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d047be013a0e",
-      "title": "添加了展览表：在TechCrunch Disrupt 2026上展示您的创业公司的最后一次机会",
-      "summary": "我们的参展商计划已重新开放1周。请在太平洋时间9月30日晚上11:59之前预订您的展览桌，并于10月13日至15日在旧金山Moscone West向10,000多名创始人、投资者和技术领袖展示您的创业公司。",
-      "source_url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "publish_time": "2026-09-22T14:15:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-6d9c628eaad5",
-      "title": "4天节省高达200 $ ：参加TechCrunch Disrupt 2026的5个理由中的第2个",
-      "summary": "TechCrunch Disrupt 2026通行证最高可节省200 $ ，在太平洋时间9月25日晚上11:59的价格上涨之前，第二张通行证还可享受50%的折扣。立即注册。",
-      "source_url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "publish_time": "2026-09-22T14:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-2665fc5c20dc",
-      "title": "每个人都可以找到不喜欢数据中心建设的理由",
-      "summary": "两年来，宾夕法尼亚州的人工智能数据中心辩论令人担忧。",
-      "source_url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "publish_time": "2026-09-22T13:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-020fc8cb0d6e",
-      "title": "Nscale的IPO将再次测试华尔街对集中人工智能押注的兴趣",
-      "summary": "这家英国人工智能数据中心开发商的大部分收入都依赖于科技巨头微软和Anthropic。",
-      "source_url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "publish_time": "2026-09-22T12:23:05+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-502072b10c62",
-      "title": "建造苹果商店的人不会买硅谷在人工智能购物上的赌注",
-      "summary": "苹果零售店建筑师罗恩·约翰逊（ Ron Johnson ）表示，苹果的秘密酱汁一直",
-      "source_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "publish_time": "2026-09-21T23:44:28+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4636,6 +4636,18 @@
       ]
     },
     {
+      "id": "nba-96f2d398f2f1",
+      "title": "NBA Media Day 2026 news and notes: 尼古拉·约基奇 says 'I'm gonna sign next year'",
+      "summary": "We also heard from Ben Simmons, 安东尼·戴维斯, 斯蒂芬·库里 and 贾·莫兰特.",
+      "source_url": "https://sports.yahoo.com/articles/nba-media-day-2026-news-021227891.html",
+      "publish_time": "2026-09-29T02:12:27+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-8f26addca2ea",
       "title": "卢卡·东契奇 and Austin Reaves ready to take charge of new-look Lakers",
       "summary": "With 勒布朗·詹姆斯 gone, 卢卡·东契奇 and Austin Reaves understand they'll need to take over as leaders for a Lakers team…",
@@ -5579,18 +5591,6 @@
       "publish_time": "2026-09-27T15:43:47+00:00",
       "category": "nba",
       "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1dd73c0b57b6",
-      "title": "前北卡罗来纳州立大学主教练Kevin Keatts发布UNC实践报告",
-      "summary": "一位意想不到的消息来源对他从卡罗莱纳州的第一次练习中看到的东西提出了他的想法。",
-      "source_url": "https://sports.yahoo.com/articles/former-nc-state-head-coach-150000729.html",
-      "publish_time": "2026-09-27T15:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
