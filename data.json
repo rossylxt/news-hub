@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:13:45.876055+00:00",
+  "generated_at": "2026-10-01T04:20:13.687952+00:00",
   "news": [
     {
       "id": "ai_cn-56458f706d62",
@@ -962,6 +962,54 @@
       ]
     },
     {
+      "id": "ai_intl-b0e8a6f4f58b",
+      "title": "谷歌发布Gemini 4 Argon ，被称为迄今为止最强大的型号",
+      "summary": "谷歌发布了最新的双子座模型，将其作为编码和网络安全工作的主力进行营销。",
+      "source_url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "publish_time": "2026-09-30T23:43:07+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-1531fa606099",
+      "title": "Valor、Atreides和Sequoia以7.5亿美元的估值支持人工智能初创公司Flow Engineering",
+      "summary": "Flow Engineering将人工智能代理引入硬件设计，也让Roelof Botha成为天使投资人和董事会成员。",
+      "source_url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "publish_time": "2026-09-30T21:07:40+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-b8d72f3674ce",
+      "title": "OpenAI的JEV克隆可以帮助前沿实验室阻止其集群特工",
+      "summary": "OpenAI的“Decisions API”是一个JEV克隆，它证实了快速、廉价智能的重要性。",
+      "source_url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "publish_time": "2026-09-30T19:00:57+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-7b98304de632",
+      "title": "人工智能语音初创公司ElevenLabs的估值翻番至220亿美元（ $ 220亿）",
+      "summary": "3亿美元的员工招标由惠灵顿和T. Rowe Price共同牵头。",
+      "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "publish_time": "2026-09-30T18:23:57+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-5713af8d86df",
       "title": "由于人工智能机器人， Reddit正在杀死RSS Feed并终止公共API访问",
       "summary": "Reddit正在结束对RSS源的支持，因为该公司继续收紧对其大量用户生成内容的访问权限。",
@@ -1867,54 +1915,6 @@
       "summary": "Meta的新AI小工具可能看起来像Tamagotchi ，但其悬挂的外形尺寸利用了更广泛的Z世代趋势，包括手袋吊饰、复古科技以及将小工具变成时尚配饰。",
       "source_url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "publish_time": "2026-09-24T17:39:24+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-1ac6e3fa768e",
-      "title": "Google相册“Clueless”风格的虚拟衣柜现已在Android和iOS上推出",
-      "summary": "人工智能功能从您的照片中构建了一个虚拟衣柜，在6月首次向Android用户推出后，现在可以广泛使用。",
-      "source_url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "publish_time": "2026-09-24T17:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d767bf27e51e",
-      "title": "TechCrunch创始人峰会2026 ：您需要了解的一切",
-      "summary": "TechCrunch创始人峰会于11月4日在波士顿举行，为期一整天，所有阶段的创始人都会与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建立和扩展公司的战术见解。",
-      "source_url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "publish_time": "2026-09-24T16:46:47+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-84fff2272860",
-      "title": "ElevenLabs的首席执行官了解利润率、IPO时间，并告诉客户他们正在与机器人交谈",
-      "summary": "ElevenLabs为许多客户服务电话的另一端的人工智能语音提供支持，其首席执行官本周告诉我，企业可能应该告诉你—至少在获得机器之前是每个人都期望的。",
-      "source_url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "publish_time": "2026-09-24T16:35:13+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-ba83901647bc",
-      "title": "在TechCrunch Disrupt 2026上迎接下一波风投评选《创业战场200》",
-      "summary": "在TechCrunch Disrupt 2026的主舞台上，迎接下一波风投对Startup Battlefield 200竞争者的评判。在太平洋时间9月25日晚上11:59之前注册，可节省高达200 $ ，并获得最激烈的创业推介比赛之一的前…",
-      "source_url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "publish_time": "2026-09-24T16:03:36+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-1cb6655881cd",
+      "title": "“我不喜欢交替”我想要的剧本，即使我的脚痉挛了……石桥石（湘南）情绪激动地抓住了领带头子弹",
+      "summary": "[9.30亚运会半决赛日本1-1 （ PK9-8 ）乌兹别克斯坦洋马]即使双腿抽搐，我也想留在球场上。U-21日本国家队FW石桥关（湘南）在0-1后下半场43分钟打进了期待已久的平局进球。“我自己也不喜欢轮换。我真的感觉到了，我想走到最后。…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460082-460082-fl",
+      "publish_time": "2026-09-30T23:33:27+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-1646a58e8d15",
       "title": "11名首发玩家总轮换的背景...大岩J积累的“参与时间”和“实际战斗经验”的准备“与所有23名玩家战斗”",
       "summary": "[9.30亚运会半决赛日本1-1 (PK9-8)乌兹别克斯坦缅甸]半决赛总共更换了11名首发球员，从未达到预期的比赛。U-21日本国家队将在30日亚运会半决赛对阵乌兹别克斯坦。领先被允许直到下半场43分钟，我们以1-1比9-8赢得了PK比赛…",
@@ -3757,6 +3769,18 @@
       "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "football_intl-17f8ef1ebab8",
+      "title": "大牌命中： 10名球员在这次国际比赛中受伤 🏥",
+      "summary": "国际比赛的突破经常引起人们对将球员送往国家队的俱乐部的担忧，最近几天，这种头痛已经被证明是合理的。来自世界上一些最有实力的球员的关键球员......",
+      "source_url": "https://sports.yahoo.com/articles/big-names-hit-10-players-015000909.html",
+      "publish_time": "2026-10-01T01:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -4708,12 +4732,96 @@
       ]
     },
     {
-      "id": "football_intl-3c05b68bbdc9",
-      "title": "尽管英超联赛做出了有罪判决，但曼城女性的“一切照旧”",
-      "summary": "曼城主教练安德烈·耶格尔茨（ Andree Jeglertz ）表示，尽管英超联赛对女子足球俱乐部提出了指控，但女子足球队“一切照旧”。",
-      "source_url": "https://sports.yahoo.com/articles/business-usual-man-city-women-160841377.html",
-      "publish_time": "2026-09-30T16:26:16+00:00",
-      "category": "football_intl",
+      "id": "nba-6131e512581f",
+      "title": "以赛亚·托马斯（ Isiah Thomas ）尽管过去在特许经营方面失败，但仍将重返尼克斯，加入新成立的董事会",
+      "summary": "无论尼克斯球迷喜不喜欢， Isiah Thomas都将重返纽约尼克斯队。",
+      "source_url": "https://sports.yahoo.com/nba/article/isiah-thomas-returning-to-knicks-on-newly-formed-board-of-directors-despite-his-past-failures-with-franchise-030707666.html",
+      "publish_time": "2026-10-01T03:07:07+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-47105c83cea6",
+      "title": "Ryan Nembhard将前往一英里高的城市",
+      "summary": "NCAA的2024-25助攻领袖在多次被抛出联盟后终于找到了新家。",
+      "source_url": "https://sports.yahoo.com/articles/ryan-nembhard-off-mile-high-021524139.html",
+      "publish_time": "2026-10-01T02:15:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-7088153ff26a",
+      "title": "Kelly Olynyk离开NBA ，加入意大利俱乐部",
+      "summary": "现年35岁的加拿大人前往海外。",
+      "source_url": "https://sports.yahoo.com/articles/kelly-olynyk-leaves-nba-joins-014827045.html",
+      "publish_time": "2026-10-01T01:48:27+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-68e4441d1e0b",
+      "title": "凤凰城的狄龙·布鲁克斯（ Dillon Brooks ）被正式指控与3月事件有关的酒后驾车",
+      "summary": "太阳队表示，他们已经与布鲁克斯解决了这个问题。",
+      "source_url": "https://sports.yahoo.com/articles/phoenixs-dillon-brooks-officially-charged-011847754.html",
+      "publish_time": "2026-10-01T01:18:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ecc42cd81e83",
+      "title": "您对2026-27赛季有什么期望？",
+      "summary": "更高？更低？相同？",
+      "source_url": "https://sports.yahoo.com/articles/expectations-2026-27-season-002850237.html",
+      "publish_time": "2026-10-01T00:28:50+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-af2c96c7e5d7",
+      "title": "湖人由于“巨大的努力和体力”而被迫改变练习",
+      "summary": "JJ雷迪克教练在湖人队训练营的早期阶段得到了他想要的东西。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-forced-alter-practice-due-233952292.html",
+      "publish_time": "2026-09-30T23:39:52+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-aa65f6b3b3aa",
+      "title": "迈尔斯·麦克布莱德（ Miles McBride ）正在为一个可能与尼克斯队不同的未来而战",
+      "summary": "McBride是联盟中最好的价值观之一。但假设他又有一个富有成效的赛季，他将有望大幅加薪。",
+      "source_url": "https://sports.yahoo.com/articles/miles-mcbride-playing-future-may-231310012.html",
+      "publish_time": "2026-09-30T23:13:10+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-71b81a1aab21",
+      "title": "湖人训练营笔记本：两名杰出球员涌现",
+      "summary": "在训练营的第二天，两名湖人队在防守端掀起波澜。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-training-camp-notebook-two-230345662.html",
+      "publish_time": "2026-09-30T23:03:45+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4725,6 +4833,30 @@
       "summary": "这位资深后卫很快提到了新翅膀Matisse Thybulle和Ziaire Williams以及第二年前锋Adou Thiero。教练指出了球队的深度。",
       "source_url": "https://sports.yahoo.com/articles/lakers-early-defensive-prowess-impresses-230028904.html",
       "publish_time": "2026-09-30T23:00:28+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-17656dedadc5",
+      "title": "兰德里·沙梅特（ Landry Shamet ） “自豪地”终于获得了他奖励的尼克斯清晰度",
+      "summary": "Landry Shamet从未有过这种奢华。",
+      "source_url": "https://sports.yahoo.com/articles/landry-shamet-proud-finally-rewarding-224021600.html",
+      "publish_time": "2026-09-30T22:40:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-576991d70a60",
+      "title": "在卢卡·东契奇连续5次半场投篮后， Austin Reaves打断了新闻发布会",
+      "summary": "奥斯汀·里夫斯（ Austin Reaves ）被问及他从周三与沃克·凯斯勒（ Walker Kessler ）一起在湖人训练中他开始对凯斯勒的护理因素充满诗意--然后突然切断……",
+      "source_url": "https://sports.yahoo.com/articles/austin-reaves-interrupts-news-conference-221637461.html",
+      "publish_time": "2026-09-30T22:16:37+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4773,6 +4905,18 @@
       "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
       "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-9-202305221.html",
       "publish_time": "2026-09-30T20:23:05+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d5ef9815d6c9",
+      "title": "勇士训练营总结：在夏威夷开始五场比赛",
+      "summary": "勇士队教练史蒂夫·克尔（ Steve Kerr ）强烈表示，金州勇士队在斯蒂芬·库里（ Steph Curry ）和德雷蒙德·格林（ 德雷蒙德·格林 ）",
+      "source_url": "https://sports.yahoo.com/articles/warriors-training-camp-takeaways-starting-201733749.html",
+      "publish_time": "2026-09-30T20:17:33+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5543,138 +5687,6 @@
       "publish_time": "2026-09-29T20:06:02+00:00",
       "category": "nba",
       "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-18502ab99747",
-      "title": "布朗尼·詹姆斯本赛季有动力证明自己",
-      "summary": "Bronny本赛季已准备好在洛杉矶开辟自己的道路",
-      "source_url": "https://sports.yahoo.com/articles/bronny-james-motivated-prove-himself-195013306.html",
-      "publish_time": "2026-09-29T19:50:13+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-73cd91c2437a",
-      "title": "76人训练营开幕， Nick Nurse准备进行实验： “我们需要为每个人明确定义角色”",
-      "summary": "为了让76人队达到已经设定的崇高目标，他们需要在战术上大大提高自己。",
-      "source_url": "https://sports.yahoo.com/nba/article/76ers-training-camp-opens-with-nick-nurse-ready-to-experiment-we-need-to-clearly-define-roles-for-everybody-194710078.html",
-      "publish_time": "2026-09-29T19:47:10+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-3b96bfa99e14",
-      "title": "杰克史密斯探测器回答了一个大问题：爱荷华鹰眼队不是亚特兰大老鹰队",
-      "summary": "你会认为中西部参议员会知道爱荷华鹰眼队不在亚特兰大。",
-      "source_url": "https://sports.yahoo.com/articles/jack-smith-probe-answers-big-194705773.html",
-      "publish_time": "2026-09-29T19:47:05+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b29fa2235aba",
-      "title": "史蒂夫·科尔（ Steve Kerr ）终于在亚克塞尔·伦德堡（ Yaxel Lendeborg ）得到了他",
-      "summary": "勇士队花了数年时间寻找克尔可以信任的年轻前场球员。新秀亚克塞尔得到了下一个机会。",
-      "source_url": "https://sports.yahoo.com/articles/did-steve-kerr-finally-young-193829813.html",
-      "publish_time": "2026-09-29T19:38:29+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-876f1ec0b61c",
-      "title": "沃克·凯斯勒（ Walker Kessler ）表示，他感觉进入赛季后“110 ％”健康",
-      "summary": "湖人队的首发中锋已经超越了2025-26赛季大部分时间让他缺阵的伤病",
-      "source_url": "https://sports.yahoo.com/articles/walker-kessler-says-feels-110-192928813.html",
-      "publish_time": "2026-09-29T19:29:28+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5128d3810507",
-      "title": "安德烈·德拉蒙德（ Andre Drummond ）在自由球员方面有选择权，但尼克斯（ Knicks ）最有意义： “这是真正的荣",
-      "summary": "资深大个子安德烈·德拉蒙德（ Andre Drummond ）讨论了加入他的童年球队尼克斯（ Knicks ）自由球员的问题。",
-      "source_url": "https://sports.yahoo.com/articles/andre-drummond-had-options-free-183047232.html",
-      "publish_time": "2026-09-29T18:30:47+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-74cd03aafcc0",
-      "title": "奥斯汀·里夫斯（ Austin Reaves ）在与勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）打",
-      "summary": "里夫斯正在采取新的措施，以确保他为漫长的NBA赛季做好准备",
-      "source_url": "https://sports.yahoo.com/articles/austin-reaves-focused-body-years-182850907.html",
-      "publish_time": "2026-09-29T18:28:50+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-938a1362956b",
-      "title": "“大费拉大学” ：凯尔特人不认为他们的前场人满为患",
-      "summary": "Neemias Queta ， Mitchell Robinson和Joe Mazzulla都在同一页上。",
-      "source_url": "https://sports.yahoo.com/articles/big-fella-university-celtics-don-181956271.html",
-      "publish_time": "2026-09-29T18:19:56+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-8c566307ea39",
-      "title": "奥斯汀·里夫斯（ Austin Reaves ）分享了他从勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）那里学到的“休闲粉丝",
-      "summary": "湖人队历史最悠久的球员从与勒布朗·詹姆斯的五个赛季中学到了一个重要的教训。",
-      "source_url": "https://sports.yahoo.com/articles/austin-reaves-shares-casual-fans-181056272.html",
-      "publish_time": "2026-09-29T18:10:56+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-730659ac87ba",
-      "title": "为什么米切尔·罗宾逊（ Mitchell Robinson ）在离开尼克斯后希望凯尔特人教练乔·马祖拉（ Joe Mazzulla ）",
-      "summary": "这位大个子在赢得NBA总冠军后离开了尼克斯，并与对手凯尔特人队签约。",
-      "source_url": "https://sports.yahoo.com/articles/why-mitchell-robinson-wanted-apology-175751730.html",
-      "publish_time": "2026-09-29T17:57:51+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-68bb0566eb48",
-      "title": "两届NBA冠军，前尼克J.R.史密斯在德克萨斯州因袭击指控被捕",
-      "summary": "他被指控造成人身伤害—家庭暴力。",
-      "source_url": "https://sports.yahoo.com/articles/two-time-nba-champion-former-170749137.html",
-      "publish_time": "2026-09-29T17:07:49+00:00",
-      "category": "nba",
-      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
