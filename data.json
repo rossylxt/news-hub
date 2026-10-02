@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:17:51.858384+00:00",
+  "generated_at": "2026-10-02T00:24:30.520983+00:00",
   "news": [
     {
       "id": "ai_cn-a06074be875c",
@@ -962,6 +962,42 @@
       ]
     },
     {
+      "id": "ai_intl-c3e3f87fd90c",
+      "title": "据报道，马斯克的人工智能聊天机器人Grok鼓励特朗普抓捕委内瑞拉总统",
+      "summary": "据报道，特朗普总统在入侵委内瑞拉并抓获尼古拉斯·马杜罗之前征求了格罗克的意见。",
+      "source_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "publish_time": "2026-10-01T21:08:11+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-a4548c383007",
+      "title": "ChatGPT现在可以虚拟地为您试穿衣服",
+      "summary": "OpenAI正在为ChatGPT推出新的购物功能，允许用户使用自己的照片虚拟试穿服装和配饰，并将他们喜欢的产品保存到收藏夹库。",
+      "source_url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "publish_time": "2026-10-01T19:21:53+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-a95ce7e33dd0",
+      "title": "谷歌认为SpaceX的星际飞船必须发射1800次才能让太空数据中心起飞",
+      "summary": "谷歌推出了首个进入轨道的先进芯片，为太空数据中心铺平了道路。",
+      "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "publish_time": "2026-10-01T19:18:03+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-b56eb6fb25bd",
       "title": "据《华尔街日报》报道， OpenAI与三名安全研究人员断绝了联系",
       "summary": "报告称， OpenAI已与三名安全研究人员分道扬镳，此前内部调查发现他们对敏感的公司信息处理不当。",
@@ -1879,42 +1915,6 @@
       "summary": "当OpenAI和Anthropic的人工智能领导者开始谈论“踱步前沿”时，也许有人应该问：步伐是什么？现在，随着Anthropic推出Opus 5.5 ， OpenAI的GPT-6模型更新仅在90分钟后推出，两家公司的模型下降周。但抢走聚光…",
       "source_url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
       "publish_time": "2026-09-25T16:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-042f70b50965",
-      "title": "几个月来， OpenAI的代理群一直在攻击在线数据库，以寻找晦涩的事实",
-      "summary": "研究人员发现了最新的未经授权的特工群体。",
-      "source_url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "publish_time": "2026-09-25T15:48:14+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-e3cc5ff4f95d",
-      "title": "Anthropic的创始人在IPO之前寻求投票控制权",
-      "summary": "Anthropic正在要求其股东批准一个结构，该结构将使其七位联合创始人在大多数公司事务上获得总计50.1%的投票权。",
-      "source_url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "publish_time": "2026-09-25T15:40:03+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-c9621711fc22",
-      "title": "TechCrunch Disrupt 2026 ： Ricursive Intelligence的安娜·戈尔迪（ Anna Goldie ）和阿扎莉娅·米尔霍塞尼（ Azalia Mirhoseini ）在人工智能开始设计自己的硬件",
-      "summary": "在TechCrunch Disrupt 2026上， Ricursive Intelligence联合创始人Anna Goldie和Azalia Mirhoseini将登上Disrupt Stage ，讨论关闭人工智能和芯片开发之间的循环。…",
-      "source_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "publish_time": "2026-09-25T15:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
