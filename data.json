@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:19:04.464532+00:00",
+  "generated_at": "2026-10-02T18:23:36.936257+00:00",
   "news": [
     {
       "id": "ai_cn-3902c77b9c93",
@@ -962,6 +962,102 @@
       ]
     },
     {
+      "id": "ai_intl-6a225a11d9fc",
+      "title": "苹果表示，由于人工智能代理的新风险，它正在加强macOS的“全磁盘访问”控制",
+      "summary": "苹果表示，它将围绕macOS的完整磁盘访问权限添加新的控件，并警告说，功能日益强大的人工智能代理会增加对用户文件、消息、邮件和浏览历史记录的广泛访问风险。",
+      "source_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "publish_time": "2026-10-02T18:11:27+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-cf700e075881",
+      "title": "称之为AI ，称之为超级智能，只有2%的消费者购买",
+      "summary": "本周，白宫让几乎所有主要的科技公司首席执行官--扎克伯格、贝索斯、马斯克和Anthropic的达里奥·阿莫代伊（ Dario Amodei ） --在一个房间里签署了一项人工智能安全承诺，唐纳德·特朗普总统称之为“具有道德约束力”。特朗普还…",
+      "source_url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "publish_time": "2026-10-02T17:56:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-398e0e7a6913",
+      "title": "它不再是人工智能，而是“超级智能” （根据白宫的说法）",
+      "summary": "本周，白宫让几乎所有主要的科技公司首席执行官--扎克伯格、贝索斯、马斯克和Anthropic的达里奥·阿莫代伊（ Dario Amodei ） --在一个房间里签署了一项人工智能安全承诺，唐纳德·特朗普总统称之为“具有道德约束力”。特朗普还…",
+      "source_url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "publish_time": "2026-10-02T17:48:16+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-03c99bd3ec42",
+      "title": "TechCrunch Disrupt 2026 ： Blackstone的Jas Khaira打造下一代人工智能巨头",
+      "summary": "Blackstone的Jas Khaira将在TechCrunch Disrupt 2026上登上构建下一代AI的建设者舞台。注册您的通行证，一秒钟即可享受五折优惠。",
+      "source_url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "publish_time": "2026-10-02T17:32:05+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-0b1cf3414054",
+      "title": "Circuit Breaker Labs希望为您的孩子（以及您自己）打造更安全的人工智能",
+      "summary": "人们都在谈论人工智能未来可能会如何毁灭人类，很容易忘记人工智能已经对一些人造成了心理伤害。Circuit Breaker Labs公司研发的“碰撞测试假人”正是为了解决这个问题。",
+      "source_url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "publish_time": "2026-10-02T17:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-acfe1bdd02da",
+      "title": "教皇利奥十四世不喜欢人工智能产生的艺术",
+      "summary": "教皇写道： “甚至在美学之前，艺术与机器可以通过基于他人创建的数百万图像的统计计算产生的东西之间存在本体论差异。” “算法缺乏人性的火花。”",
+      "source_url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "publish_time": "2026-10-02T15:39:41+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-3acf4b0fefe7",
+      "title": "TechCrunch Disrupt 2026 ： Clay的Kareem Amin谈GTM工程师的崛起",
+      "summary": "Clay联合创始人兼首席执行官Kareem Amin加入AI Stage ，在TechCrunch Disrupt 2026上讨论GTM工程师的崛起。注册您的门票，并以50%的折扣获得第二张通行证。",
+      "source_url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "publish_time": "2026-10-02T14:30:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-8e45888a0af6",
+      "title": "过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者",
+      "summary": "今天是您在TechCrunch Disrupt 2026上预订展台的最后一天。10月13日至15日，超过1万名创始人、投资者、运营商和技术领导者将抵达旧金山的Moscone West ，寻找值得了解的公司、产品、创意和人才。问题是：他们会找…",
+      "source_url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "publish_time": "2026-10-02T14:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-c3e3f87fd90c",
       "title": "据报道，马斯克的人工智能聊天机器人Grok鼓励特朗普抓捕委内瑞拉总统",
       "summary": "据报道，特朗普总统在入侵委内瑞拉并抓获尼古拉斯·马杜罗之前征求了格罗克的意见。",
@@ -1819,102 +1915,6 @@
       "summary": "任何有兴趣加入的人都必须要求Muse将他们列入名单。",
       "source_url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
       "publish_time": "2026-09-25T20:34:53+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-4b9cd4f252fe",
-      "title": "Anthropic将在七年内向Akamai支付116亿美元的云交易",
-      "summary": "Anthropic已承诺在七年内向Akamai的云基础设施投入116亿美元，押注CPU可能会增长到约200亿美元，并且在一个不寻常的安排中， Akamai将向Anthropic提供高达5%的潜在股权，随着Anthropic支出的增加而增长。",
-      "source_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "publish_time": "2026-09-25T19:13:38+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-49ebd97751d4",
-      "title": "Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的",
-      "summary": "Mark Wahlberg加入Disrupt的Bruce K. Lee ，讨论投资、创业、医疗保健、健康和建设业务。",
-      "source_url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "publish_time": "2026-09-25T18:48:33+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-38b884af5757",
-      "title": "在美国IPO之前，英国人工智能新云Nscale获得了33.6亿美元的可转换融资",
-      "summary": "这笔资金来自Third Point、Nvidia和其他公司，将推动该公司大规模的人工智能数据中心建设。",
-      "source_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "publish_time": "2026-09-25T18:33:59+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-b1b0ef608ef5",
-      "title": "Meta的Muse刚刚抢走了OpenAI和Anthropic的AI聚光灯",
-      "summary": "当OpenAI和Anthropic的人工智能领导者开始谈论“踱步前沿”时，也许有人应该问：步伐是什么？现在，随着Anthropic推出Opus 5.5 ， OpenAI的GPT-6模型更新仅在90分钟后推出，两家公司的模型下降周。但抢走聚光…",
-      "source_url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "publish_time": "2026-09-25T18:22:47+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-137693ab52f6",
-      "title": "一些Supabase客户正在公开将大量人的数据暴露给网络",
-      "summary": "研究结果强调了AI生成和vibe编码的应用程序在配置或保护不当时如何泄漏和暴露用户的数据。",
-      "source_url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "publish_time": "2026-09-25T17:29:46+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-656dc5dcef2d",
-      "title": "Astra和Opus刚刚通过了Turing的另一项测试",
-      "summary": "Frontier AI模型正在完成艾伦·图灵（ Alan Turing ）的二战破译工作。",
-      "source_url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "publish_time": "2026-09-25T17:24:36+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-a948e5c03d79",
-      "title": "随着人工智能应用程序的起飞， Meta正在支持Muse",
-      "summary": "Muse在应用商店排行榜上名列前茅，并快速添加用户，而Meta则在自己的应用程序和其他应用程序中提升了个人AI代理的推广。",
-      "source_url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "publish_time": "2026-09-25T16:16:52+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-6c6baa7010d7",
-      "title": "Meta的人工智能Tamagotchi赌注……有效吗？",
-      "summary": "当OpenAI和Anthropic的人工智能领导者开始谈论“踱步前沿”时，也许有人应该问：步伐是什么？现在，随着Anthropic推出Opus 5.5 ， OpenAI的GPT-6模型更新仅在90分钟后推出，两家公司的模型下降周。但抢走聚光…",
-      "source_url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "publish_time": "2026-09-25T16:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
