@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:18:08.282428+00:00",
+  "generated_at": "2026-10-03T02:18:29.885745+00:00",
   "news": [
     {
       "id": "ai_cn-3902c77b9c93",
@@ -962,6 +962,18 @@
       ]
     },
     {
+      "id": "ai_intl-c0e86fd993a7",
+      "title": "Meta希望您的下一个小工具融入Muse",
+      "summary": "Meta希望将Muse放入您的电视和烤面包机中，因此它会免费提供代码。",
+      "source_url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "publish_time": "2026-10-03T00:45:39+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-f8f9945809c1",
       "title": "Sean Parker正在围绕音乐重建稳定AI",
       "summary": "肖恩·帕克（ Sean Parker ）曾经教过音乐界什么是请求原谅，现在又带着唱片公司的祝福和金钱回来了。",
@@ -1903,18 +1915,6 @@
       "summary": "Facebook和Instagram背后的公司希望通过其不断增长的智能眼镜系列让消费者与数字世界保持联系。",
       "source_url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "publish_time": "2026-09-26T01:08:57+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-4dc5a9b388b9",
-      "title": "Crusoe放弃$ 12.5亿计划，在人工智能数据中心使用Boom涡轮机",
-      "summary": "Boom Supersonic首席执行官Blake Scholl表示，其新的固定发电厂已不在Crusoe的近期计划中。",
-      "source_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "publish_time": "2026-09-25T23:11:10+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -3844,6 +3844,126 @@
       ]
     },
     {
+      "id": "football_intl-e360e3a8aed8",
+      "title": "库蒂尼奥首次亮相，随着桑托斯击败圣保罗，加比戈尔海豹队卷土重来",
+      "summary": "在MorumBIS ，桑托斯本周五（ 2 ）从2026年巴西利昂第21轮推迟的比赛中从后面击败圣保罗2-1。三色保利斯塔实际上开始更好，并打开了scorin...",
+      "source_url": "https://sports.yahoo.com/articles/coutinho-debuts-gabigol-seals-comeback-010700985.html",
+      "publish_time": "2026-10-03T01:07:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-b1720030e2fb",
+      "title": "Brasileirão回来了！在延迟的San-São之后查看更新的表格",
+      "summary": "“超级数据国际足联”仍在进行中，包括本周六（ 3日）上午11点（巴西利亚时间）对阵印度的国家队，但巴西队已经回来了！本周五...",
+      "source_url": "https://sports.yahoo.com/articles/brasileir-o-back-check-updated-010700345.html",
+      "publish_time": "2026-10-03T01:07:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-5706d9b256be",
+      "title": "莫拉⚠️会打对美国的比赛吗？墨西哥老板在比赛前发言",
+      "summary": "最近几天，有很多关于Gilberto Mora可能受伤的猜测。在与美国的冲突发生前几个小时，国家队教练谈到了这一点。他证实......",
+      "source_url": "https://sports.yahoo.com/articles/mora-play-v-usa-mexico-005700666.html",
+      "publish_time": "2026-10-03T00:57:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-9a80f1abe7b2",
+      "title": "Rayados开始寻找Stefan Medina的替代品",
+      "summary": "在俱乐部传奇人物Stefan Medina即将离开之际， Rayados开始探索各种选择。根据社交媒体上的信息，蒙特雷已经对个人信息进行了初步调查。",
+      "source_url": "https://sports.yahoo.com/articles/rayados-start-search-stefan-medina-001500083.html",
+      "publish_time": "2026-10-03T00:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-27c2f3d3d6e7",
+      "title": "已确认Boca和Unión之间冲突的阵容",
+      "summary": "作为阿根廷足球第11场比赛的一部分，博卡已准备好举办Unión体验。博卡在进入阿根廷杯半决赛后进入了这场比赛，他们目前在……排名第五。",
+      "source_url": "https://sports.yahoo.com/articles/confirmed-line-ups-clash-between-001000256.html",
+      "publish_time": "2026-10-03T00:10:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f5cc91a7bbbf",
+      "title": "🐢 Liga MX ，世界上最慢的",
+      "summary": "根据CIES足球天文台的一项研究，西甲MX在全国比赛中排名第七，比赛强度最低。",
+      "source_url": "https://sports.yahoo.com/articles/liga-mx-among-slowest-world-235500983.html",
+      "publish_time": "2026-10-02T23:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-171fde6d347e",
+      "title": "泰勒·亚当斯（ Tyler Adams ）在墨西哥对抗赛之前开始第二次担任USMNT队长",
+      "summary": "袖标已归还给泰勒·亚当斯（ Tyler Adams ） ，但这位27岁的年轻人表示，这不会改变他领导USMNT的方式： “我要成为完全相同的人。”",
+      "source_url": "https://sports.yahoo.com/soccer/article/tyler-adams-begins-second-stint-as-usmnt-captain-ahead-of-mexico-rivalry-match-234626909.html",
+      "publish_time": "2026-10-02T23:46:26+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6e9f47924571",
+      "title": "👕 告别、致敬等：衬衫发布综述",
+      "summary": "9月的最后几天和10月初带来了以怀旧、致敬和宣传活动为标志的发布。由于已经成为传统， OneFootball为您带来了...",
+      "source_url": "https://sports.yahoo.com/articles/farewells-tributes-more-round-shirts-232700566.html",
+      "publish_time": "2026-10-02T23:27:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d0dd8116cdaf",
+      "title": "曼城的“膨胀”资金在转会市场流向了哪些俱乐部？",
+      "summary": "英国广播公司体育频道(BBC Sport)追踪了曼城(Manchester City)违反财务规则期间向其他俱乐部转移资金的轨迹。",
+      "source_url": "https://sports.yahoo.com/articles/clubs-did-man-citys-inflated-223031405.html",
+      "publish_time": "2026-10-02T23:11:12+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-378c61faf473",
+      "title": "📋 桑托斯和圣保罗以重新安排的Brasileirão德比命名",
+      "summary": "本周五（ 2日） ，圣保罗和桑托斯在2026年巴西利昂第21轮推迟的比赛中于晚上8点（巴西利亚时间）在MorumBIS对决。在联赛中连续四场胜利后， Peixe...",
+      "source_url": "https://sports.yahoo.com/articles/santos-o-paulo-named-rearranged-220800082.html",
+      "publish_time": "2026-10-02T22:08:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-71f4d9770cc8",
       "title": "Rabiot对意大利精神和“非凡”的Donnarumma印象深刻",
       "summary": "阿德里安·拉比奥（ Adrien Rabiot ）在法国1-1战平意大利后称赞“非凡”的吉安路易吉·多纳鲁马（ Gianluigi Donnarumma ） ，并对罗伯托·曼奇尼（ Roberto Mancini ）的球队印象深刻。阿祖里（…",
@@ -4684,120 +4804,24 @@
       ]
     },
     {
-      "id": "football_intl-db198a8dedba",
-      "title": "在休斯的领导下，庞培取得了稳固的进步",
-      "summary": "BBC索伦特电台的安德鲁·穆恩（ Andrew Moon ）回顾了理查德·休斯（ Richard Hughes ）担任弗拉顿公园体育总监的四",
-      "source_url": "https://sports.yahoo.com/articles/pompey-moving-direction-under-hughes-124458398.html",
-      "publish_time": "2026-10-02T13:05:59+00:00",
-      "category": "football_intl",
+      "id": "nba-fd0e4e24458a",
+      "title": "Big Blue Madness的最佳时刻和Twitter反应",
+      "summary": "篮球赛季来了！",
+      "source_url": "https://sports.yahoo.com/articles/best-moments-twitter-reactions-big-015856922.html",
+      "publish_time": "2026-10-03T01:58:56+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-b86e8df342b8",
-      "title": "新的更新可能会改变Saliba预期的伤病复发日期",
-      "summary": "本周的报道显示，威廉·萨利巴可能会在11月重返赛场，但接近球员的消息人士给出了一个稍微不那么乐观的时间表。照片由David Ramos/Getty ImagesReports提供...",
-      "source_url": "https://sports.yahoo.com/articles/could-change-saliba-expected-injury-130500680.html",
-      "publish_time": "2026-10-02T13:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-2945dc34db89",
-      "title": "齐达内（ Zinédine Zidane ）在2006年世界杯决赛中对马可·马特拉齐（ Marco Materazzi ）的头撞“不自豪",
-      "summary": "Zinédine Zidane周五晚上在法兰西体育场的防空洞里，当他负责L 'Équipe de France的冷杉时，一些不同的回忆可能会重新浮出水面……",
-      "source_url": "https://sports.yahoo.com/articles/zin-dine-zidane-not-proud-130500602.html",
-      "publish_time": "2026-10-02T13:05:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-578a2054b43f",
-      "title": "Danny Batth谈印度足球和代表印度国家队的愿望",
-      "summary": "印度周六迎战巴西，巴西方面可以期待加尔各答盐湖体育场的热烈欢迎，据估计他们拥有数千万球迷。主场从未...",
-      "source_url": "https://sports.yahoo.com/articles/danny-batth-indian-football-desire-130500477.html",
-      "publish_time": "2026-10-02T13:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1da26085a304",
-      "title": "安切洛蒂尝试改变，佩德罗可以提前获得机会",
-      "summary": "佩德罗本周六可以在对阵印度的比赛中成为巴西国家队的首发球员。这些信息来自周五在加尔各答培训课程之后的ge。随着Raphinha的出现，...",
-      "source_url": "https://sports.yahoo.com/articles/ancelotti-tries-changes-pedro-could-125700450.html",
-      "publish_time": "2026-10-02T12:57:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-9daf126a7be2",
-      "title": "穆里尼奥拒绝放弃皇家马德里超级巨星，尽管自新冠肺炎疫情以来开局最差",
-      "summary": "穆里尼奥无意放弃维尼修斯. ，尽管皇家马德里前锋在新冠肺炎疫情后的一个赛季中经历了最不富有成效的开局。根据AS的说法，穆里尼奥仍然...",
-      "source_url": "https://sports.yahoo.com/articles/mourinho-refuses-abandon-real-madrid-125500655.html",
-      "publish_time": "2026-10-02T12:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d258f1ea97b5",
-      "title": "为什么意大利在这次国际比赛中将伊纳西奥排除在所有三支比赛日球队之外",
-      "summary": "当18岁的萨穆埃莱·伊纳西奥（ Samuele Inacio ）在9月和10月被召集到意大利国家队参加国家联赛对阵比利时、土耳其和法国的比赛时，人们非常兴奋……",
-      "source_url": "https://sports.yahoo.com/articles/why-italy-left-inacio-three-125500113.html",
-      "publish_time": "2026-10-02T12:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c02dacc30a86",
-      "title": "前巴黎圣日耳曼队经理克里斯托夫·加尔蒂埃（ Christophe Galtier ）为法甲回",
-      "summary": "沙特阿拉伯SC Neom的经理Christophe Galtier在接受Le Parisien采访时为回归法甲敞开了大门。Galtier在巴黎圣日耳曼度过了一年的时光（之前...",
-      "source_url": "https://sports.yahoo.com/articles/former-psg-manager-christophe-galtier-125000688.html",
-      "publish_time": "2026-10-02T12:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b36eb1fd9af7",
-      "title": "USMNT与墨西哥预测的阵容： Pochettino ， Marquez将如何与CONCACAF巨头排队？",
-      "summary": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）在秘鲁和智利的胜利之间对他的首发阵容进行了10次更改，而马尔克斯（ Marquez ）则开始了22",
-      "source_url": "https://sports.yahoo.com/articles/usmnt-vs-mexico-predicted-lineups-124445487.html",
-      "publish_time": "2026-10-02T12:44:45+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d621780e852a",
-      "title": "在二级联赛-安斯沃思，屋檐将令人恐惧",
-      "summary": "吉林汉姆老板加雷思·安斯沃思（ Gareth Ainsworth ）表示，在本周早些时候重返俱乐部后，汤姆·伊夫斯（ Tom Eaves ）将为他的球队提供一种不同类型的选择",
-      "source_url": "https://sports.yahoo.com/articles/eaves-feared-league-two-ainsworth-123845642.html",
-      "publish_time": "2026-10-02T12:38:45+00:00",
-      "category": "football_intl",
+      "id": "nba-12f8eb80469d",
+      "title": "热衷于举办罪恶都市之夜，宣传《侠盗猎车手6》和Giannis对雄鹿的比赛",
+      "summary": "迈阿密热火队将在扬尼斯·阿德托昆博对阵密尔沃基雄鹿队的第一场比赛中举办“A Night in Vice City” ，以推广“侠盗猎车手6”。",
+      "source_url": "https://sports.yahoo.com/articles/heat-host-vice-city-night-231207914.html",
+      "publish_time": "2026-10-02T23:12:07+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4809,6 +4833,18 @@
       "summary": "这里有一个新的周末开放线程，专为您而设。",
       "source_url": "https://sports.yahoo.com/articles/csr-weekend-warriors-220000775.html",
       "publish_time": "2026-10-02T22:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4018eb0dcd14",
+      "title": "别忘了Labaron Philon",
+      "summary": "休赛期是一个令人兴奋的赛季，但它始于76人队拿下小拉巴伦·菲隆（ Labaron Philon, Jr. ）。",
+      "source_url": "https://sports.yahoo.com/articles/don-t-forget-labaron-philon-212519464.html",
+      "publish_time": "2026-10-02T21:25:19+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4840,11 +4876,47 @@
       ]
     },
     {
+      "id": "nba-f2b169b42bd9",
+      "title": "安妮·海瑟薇（ Anne Hathaway ）透露了她为第二次尼克斯冠军而放弃的内容",
+      "summary": "安妮·海瑟薇（ Anne Hathaway ）明确表示，她的尼克斯球迷并没有动摇。",
+      "source_url": "https://www.yahoo.com/entertainment/celebrity/articles/anne-hathaway-reveals-she-d-193003148.html",
+      "publish_time": "2026-10-02T19:30:03+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-e0ee1bd23056",
       "title": "NBA的拉斯维加斯扩张队可能要到2029-30赛季才会首次亮相",
       "summary": "无论谁拥有新的拉斯维加斯团队，都将建造一个新的竞技场，这需要时间。",
       "source_url": "https://sports.yahoo.com/articles/nbas-las-vegas-expansion-team-192824181.html",
       "publish_time": "2026-10-02T19:28:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-474238762019",
+      "title": "勇士明星斯蒂芬·库里（ Steph Curry ）展示了他所面对过的最强硬的后卫",
+      "summary": "斯蒂芬·库里即将进入他的第18个NBA赛季。在接受ABC7新闻湾区采访时，这位38岁的球员透露了他在整个职业生涯中遇到的最强硬的后卫。",
+      "source_url": "https://sports.yahoo.com/articles/warriors-star-steph-curry-reveals-191021762.html",
+      "publish_time": "2026-10-02T19:10:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-2bbb8632f936",
+      "title": "前NBA球星J.R.史密斯的袭击逮捕令人不安的指控浮出水面",
+      "summary": "根据加州邮报获得的新法庭文件，前NBA球星J.R.史密斯据称在本周被捕前几天粗暴对待了一名女子。",
+      "source_url": "https://sports.yahoo.com/articles/disturbing-allegations-ex-nba-star-190626314.html",
+      "publish_time": "2026-10-02T19:06:26+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5685,78 +5757,6 @@
       "summary": "凯尔特人队可以将年度第六人再锁定三年，价格为6700万$。",
       "source_url": "https://sports.yahoo.com/articles/now-payton-pritchard-extension-eligible-183403590.html",
       "publish_time": "2026-10-01T18:34:03+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d35fcf44af31",
-      "title": "KOC从NBA媒体日获得的10大收获+本赛季值得观看的非顶级10名新秀",
-      "summary": "凯文·奥康纳（ Kevin O'Connor ）和汤姆·哈伯斯特罗（ Tom Haberstroh ）分析了NBA媒体日的热门报道。",
-      "source_url": "https://sports.yahoo.com/nba/article/kocs-10-biggest-takeaways-from-nba-media-day--non-top-10-rookies-to-watch-this-season-181605786.html",
-      "publish_time": "2026-10-01T18:16:05+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c977caa3ae68",
-      "title": "森林狼教练克里斯·芬奇赞扬NBA重新强调失败",
-      "summary": "“希望联盟能清理这些垃圾，因为没有人想看。”",
-      "source_url": "https://sports.yahoo.com/articles/timberwolves-coach-chris-finch-applauds-175033015.html",
-      "publish_time": "2026-10-01T17:50:33+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1e05c4a98958",
-      "title": "沃克·凯斯勒真的很想为湖人队穿过一堵砖墙",
-      "summary": "沃克·凯斯勒听起来愿意为湖人队做所有的小事",
-      "source_url": "https://sports.yahoo.com/articles/walker-kessler-really-wants-run-173000518.html",
-      "publish_time": "2026-10-01T17:30:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a389030ddfdc",
-      "title": "尼克斯公告： “我会让前台和我的机构来处理这件事”",
-      "summary": "你相信尼克斯队明天会打篮球吗！ ？没错，他们对所有球队的费城76人队都是如此，这无疑是以他们的绰号向他们的阵容时代致敬。以下是我们周三直接从Tarrytown和其他地方听到的最新消息。迈克·布朗（ Mike Brown ）最终讨论了迈尔斯·…",
-      "source_url": "https://sports.yahoo.com/articles/knicks-bulletin-ll-let-front-170000136.html",
-      "publish_time": "2026-10-01T17:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5e9c171c3878",
-      "title": "MMBets ：糟糕的氛围使底特律活塞队陷入窒息",
-      "summary": "在上赛季错过了进入东部总决赛的黄金机会之后，底特律的回归之路变得越来越长",
-      "source_url": "https://sports.yahoo.com/articles/mmbets-bad-vibes-detroit-pistons-163000994.html",
-      "publish_time": "2026-10-01T16:30:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-fcc4b8e7746e",
-      "title": "奇才公布2026-27年促销时间表",
-      "summary": "华盛顿奇才队周四发布了他们的2026-27促销时间表，其中包括2月10日奇才队在迈阿密热火队比赛时的AJ Dybantsa摇头公仔之夜。Dybantsa在整个新秀活动中将有三个独立的摇头夜： 特雷·杨 “Ice Trae”摇头夜…",
-      "source_url": "https://sports.yahoo.com/articles/wizards-unveil-2026-27-promotional-152704472.html",
-      "publish_time": "2026-10-01T15:27:04+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
