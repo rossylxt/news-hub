@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-03T06:26:04.358497+00:00",
+  "generated_at": "2026-10-03T08:19:04.117760+00:00",
   "news": [
+    {
+      "id": "ai_cn-a763d94cb13a",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "summary": "岗位JD甩了篇技术报告",
+      "source_url": "https://www.qbitai.com/2026/10/501381.html",
+      "publish_time": "2026-10-03T07:54:43+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-ee26523a2343",
       "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
@@ -943,18 +955,6 @@
       "summary": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
       "source_url": "https://www.qbitai.com/2026/09/493629.html",
       "publish_time": "2026-09-22T03:48:05+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-09de0c801270",
-      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-      "summary": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
-      "source_url": "https://www.qbitai.com/2026/09/493625.html",
-      "publish_time": "2026-09-22T03:42:43+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -3844,6 +3844,18 @@
       ]
     },
     {
+      "id": "football_intl-2a8872caab57",
+      "title": "Davide Ancelotti explains why 维尼修斯 is so loved inside Real Madrid dressing room",
+      "summary": "维尼修斯 has endured plenty of scrutiny during his Real Madrid career and is going through a less-than-favourable…",
+      "source_url": "https://sports.yahoo.com/articles/davide-ancelotti-explains-why-vinicius-064000384.html",
+      "publish_time": "2026-10-03T06:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-4c4f9f2ac19c",
       "title": "尤文图斯密切关注布伦特福德后卫迈克尔·卡约德",
       "summary": "根据La Gazzetta dello Sport.Bianconeri首席执行官的说法，尤文图斯正在密切关注布伦特福德后卫迈克尔·卡约德，因为意甲巨人希望将更多的意大利人才带入他们的阵容。",
@@ -4792,12 +4804,24 @@
       ]
     },
     {
-      "id": "football_intl-6f837194a6e3",
-      "title": "我从一开始就报道了曼城丑闻–这就是它如何改变了足球和我",
-      "summary": "内幕：在总理安迪·伯纳姆（ Andy Burnham ）发表评论之后，曼城案已经颠覆了足球并触及了其他行业，包括政治，但是，正如米格尔·德莱尼（ Miguel Delaney ）在多年报道丑闻后详细介绍的那样，这个故事已经改变了这项运动和那…",
-      "source_url": "https://sports.yahoo.com/articles/covered-man-city-scandal-start-133606656.html",
-      "publish_time": "2026-10-02T13:36:06+00:00",
-      "category": "football_intl",
+      "id": "nba-e9dacbb86b03",
+      "title": "NBA一直不尊重爵士乐",
+      "summary": "又是一天，又是一种不尊重！在最近的一次采访中， Bub Carrington透露，奇才队上赛季试图选拔AJ Dybantsa。您可以在下面看到兑换。那应该是罚款吧？我的意思是，这就是他们对犹他爵士乐的所作所为？原来他们不会罚款[…]",
+      "source_url": "https://sports.yahoo.com/articles/nba-just-keeps-disrespecting-jazz-051729585.html",
+      "publish_time": "2026-10-03T05:17:29+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-71e192d93f1b",
+      "title": "KSL Sports的Chandler Holt带你预览犹他爵士乐季",
+      "summary": "犹他州爵士乐季节预览、见解、情报等！",
+      "source_url": "https://sports.yahoo.com/articles/utah-jazz-season-preview-chandler-045515811.html",
+      "publish_time": "2026-10-03T04:55:15+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4833,6 +4857,18 @@
       "summary": "篮球赛季来了！",
       "source_url": "https://sports.yahoo.com/articles/best-moments-twitter-reactions-big-015856922.html",
       "publish_time": "2026-10-03T01:58:56+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e761a29b5332",
+      "title": "Keon Ellis在Jordi Fernandez团聚中找到篮网的“安全空间”",
+      "summary": "Keon Ellis为篮网队效力的主要原因之一是： Jordi Fernández。",
+      "source_url": "https://sports.yahoo.com/articles/keon-ellis-finds-nets-safe-014859694.html",
+      "publish_time": "2026-10-03T01:48:59+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5728,42 +5764,6 @@
       ]
     },
     {
-      "id": "nba-e1983fd591b4",
-      "title": "Tristan Vukcevic因髋部受伤缺阵",
-      "summary": "奇才队周四宣布，奇才队前锋/中锋特里斯坦·武克切维奇（ Tristan Vukčević ）患有左髋关节撞击，将在大约四周后重新评估。在训练营的前两天，武克切维奇一直是部分参与者。在整个营地的剩余时间里，他将继续是部分参与者。这位23岁的年…",
-      "source_url": "https://sports.yahoo.com/articles/tristan-vukcevic-sidelined-hip-injury-200943384.html",
-      "publish_time": "2026-10-01T20:09:43+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-3145488946ce",
-      "title": "维克托·文班亚马 takes strong stand against promoting sports betting",
-      "summary": "San Antonio Spurs phenom 维克托·文班亚马 has spoken out about a number of cultural issues. His latest was about the sp…",
-      "source_url": "https://sports.yahoo.com/articles/victor-wembanyama-takes-strong-stand-191217883.html",
-      "publish_time": "2026-10-01T19:12:17+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-abf810982cf4",
-      "title": "2026-27年值得期待的5个凤凰太阳阵容",
-      "summary": "太阳队今年夏天做了一些动作，但保持了核心的完好无损。他们可以在那里抛出哪些有趣的阵容？",
-      "source_url": "https://sports.yahoo.com/articles/5-phoenix-suns-lineups-look-190000856.html",
-      "publish_time": "2026-10-01T19:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
       "id": "jp_football_highschool-d2767e29ca6d",
       "title": "[選手権]九州地域各県予選日程",
       "summary": "第105届全国高中足球锦标赛■资格赛主要日期和结果[福冈] [佐贺] [长崎] [熊本] [大分] [宫崎] [鹿儿岛] [冲绳]●第105届全国高中足球锦标赛特别",
@@ -6504,6 +6504,366 @@
       ],
       "_raw_title": "[選手権]北海道予選主な日程",
       "_raw_summary": "第105回全国高校サッカー選手権【北海道】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "biz_cn-a55ff337ca05",
+      "title": "苹果确认：这类iPhone 18 Pro Max有问题，只能换机",
+      "summary": "市场消息，美版iPhone 18 Pro Max出现断网问题，苹果公司确认，只能通过换机解决。（中新经纬）",
+      "source_url": "https://36kr.com/newsflashes/4009762765688704?f=rss",
+      "publish_time": "2026-10-03T06:31:31+00:00",
+      "category": "biz_cn",
+      "is_important": true,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-2a4edbc88d90",
+      "title": "阿根廷推出“投资换国籍”计划",
+      "summary": "阿根廷政府10月2日推出一项“投资换国籍”计划，申请人出资数十万美元就有可能成为这个南美洲国家公民。根据方案，一名申请入籍者需要向阿根廷直接投资至少35万美元，且不可退还；或购买80万美元公共债券。（新华社）",
+      "source_url": "https://36kr.com/newsflashes/4009745778512003?f=rss",
+      "publish_time": "2026-10-03T06:13:11+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-55621cd7dca3",
+      "title": "国庆假期第三天，铁路公路民航水路客流持续高位运行",
+      "summary": "今天是国庆假期的第三天，全国公路、铁路、民航、水路客流持续高位运行。旅游出行热度居高不下，景区观光、城市漫游、短途度假等出行需求集中释放，交通部门持续增加热门旅游线路运力投放。 今天，全国铁路预计发送旅客1890万人次，预计加开列车910列…",
+      "source_url": "https://36kr.com/newsflashes/4009696374050693?f=rss",
+      "publish_time": "2026-10-03T05:59:54+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-70ba1843e5d9",
+      "title": "央视曝光租车公司划车骗赔偿",
+      "summary": "近年来，网上频现低价租车广告，一些商家制作精美视频，并挂出“99元租豪车”等超低价位吸引顾客下单。然而，“99元一天”很多都是裸车价，顾客提车时，保险、服务费、异地还车费等需要另外收钱，到店还会强制推销高价保险。当租车价格明显低于市场价，且…",
+      "source_url": "https://36kr.com/newsflashes/4009689054040198?f=rss",
+      "publish_time": "2026-10-03T05:44:28+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-4ff3caaae0e7",
+      "title": "蔚来：蔚来充电服务突破1亿次",
+      "summary": "36氪获悉，蔚来微博消息称，蔚来充电服务突破1亿次，86.67%充电电量服务于非蔚来公司品牌用户。",
+      "source_url": "https://36kr.com/newsflashes/4009687937683328?f=rss",
+      "publish_time": "2026-10-03T05:31:20+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-b4e85663a6a7",
+      "title": "推动科技型企业孵化器高质量发展，浙江印发五年行动方案",
+      "summary": "36氪获悉，浙江省人民政府办公厅印发《浙江省科技型企业孵化器高质量发展行动方案（2026—2030年）》。《行动方案》明确，到2030年，全省孵化器数量突破2000家、孵化场地总面积突破2500万平方米，培育工业和信息化部孵化器200家、省…",
+      "source_url": "https://36kr.com/newsflashes/4009682383818624?f=rss",
+      "publish_time": "2026-10-03T05:16:39+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-a1fbbe7840e5",
+      "title": "中国信保前8个月承保金额同比增长12.6%",
+      "summary": "据中国出口信用保险公司，今年前8个月，中国信保扩大出口信用保险覆盖面，承保金额8541.8亿美元，同比增长12.6%；服务客户25.1万家，同比增长5.2%。今年前8个月，中国信保助力培育外贸新动能，新业态和服务贸易承保金额同比分别增长18…",
+      "source_url": "https://36kr.com/newsflashes/4009680802992007?f=rss",
+      "publish_time": "2026-10-03T05:05:01+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-331f70cdddfd",
+      "title": "华泰证券：美联储难以在10月连续加息 基准情形下12月再次加息",
+      "summary": "华泰证券指出，9月非农报告不及预期，美联储短期连续加息的紧迫性下降。由于非农单月数据波动较大，以3个月均值来看，新增非农为5.1万，位于均衡就业水平附近，叠加失业率仍处于较低水平，显示就业市场仍是稳健但难言紧张。9月非农走弱，叠加薪资增速下…",
+      "source_url": "https://36kr.com/newsflashes/4009656978706306?f=rss",
+      "publish_time": "2026-10-03T04:45:51+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-7ec7fbfd34ee",
+      "title": "国庆假期首日上海口岸出入境旅客达13.2万人次，同比增长4.8%",
+      "summary": "国庆假期，上海口岸迎来新一轮出入境客流高峰。新民晚报记者从上海边检总站获悉，10月1日，上海口岸出入境旅客达13.2万人次，同比增长4.8%。上海边检总站数据显示，今年以来，上海口岸出入境人员数量持续保持高位运行。前三季度，上海边检机关累计…",
+      "source_url": "https://36kr.com/newsflashes/4009656474832768?f=rss",
+      "publish_time": "2026-10-03T04:33:29+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-46af80e7da94",
+      "title": "台积电或与马斯克晶圆厂合作",
+      "summary": "科技媒体人 Tim Culpan（高鸣璨）爆料称，台积电 (TSMC) 正在探索与 Elon Musk（埃隆 · 马斯克）旗下 Terafab 晶圆厂的合作事宜。 Terafab 此前已与 Intel（英特尔）达成合作；近来有风声传出台积电…",
+      "source_url": "https://36kr.com/newsflashes/4009601618710661?f=rss",
+      "publish_time": "2026-10-03T04:14:28+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-197734c33145",
+      "title": "谷歌搭载AI芯片测试卫星发射升空",
+      "summary": "美国谷歌公司一颗搭载谷歌张量处理单元（TPU）芯片的原型卫星日前发射升空，以测试该芯片在太空环境中的运行性能，研究未来能否在太空部署人工智能（AI）基础设施。谷歌方面表示，其团队已与卫星建立通信，卫星目前运行正常。谷歌表示，此次发射是一项长…",
+      "source_url": "https://36kr.com/newsflashes/4009581990268808?f=rss",
+      "publish_time": "2026-10-03T03:58:33+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-3430356427c5",
+      "title": "2026年度电影总票房突破300亿",
+      "summary": "截至10月3日2026年度电影总票房（含预售）突破300亿元总观影人次达7.63亿放映总场次1.12亿场。（央视新闻）",
+      "source_url": "https://36kr.com/newsflashes/4009580560879753?f=rss",
+      "publish_time": "2026-10-03T03:40:06+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-505f69ca2fba",
+      "title": "长三角铁路今日预计发送旅客372万人次，增开列车105列",
+      "summary": "国庆假期进入第三日，长三角铁路出行客流持续保持高位态势。记者10月3日从中国铁路上海局集团有限公司（以下简称上铁集团）获悉，10月3日，上铁集团预计发送旅客372万人次。自9月23日中秋国庆假期运输启动以来，截至10月2日，长三角铁路累计发…",
+      "source_url": "https://36kr.com/newsflashes/4009555841601665?f=rss",
+      "publish_time": "2026-10-03T03:25:56+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-e5967cbb17e6",
+      "title": "老年人购买10月18日至12月30日铁路12306标注“敬”字车次的火车票将享受“折上折”票价优惠",
+      "summary": "36氪获悉，“中国铁路”消息，继今年5至6月实行老年人淡季周中购票优惠措施后，国铁集团进一步优化这一惠民举措，年满60周岁及以上老年人购买2026年10月18日（含）至12月30日（含）标注“敬”字车次的火车票将享受“折上折”票价优惠，进一…",
+      "source_url": "https://36kr.com/newsflashes/4009553270116481?f=rss",
+      "publish_time": "2026-10-03T03:12:18+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-d34d504a5e2d",
+      "title": "OpenAI安全系统团队负责人David Robinson已从公司离职",
+      "summary": "OpenAI安全系统团队负责人David Robinson已从公司离职。（财联社）",
+      "source_url": "https://36kr.com/newsflashes/4009502398549890?f=rss",
+      "publish_time": "2026-10-03T02:41:33+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-31342cfb085a",
+      "title": "个人投资者在ETF投资中的占比仍在持续扩大，三类主题ETF受青睐",
+      "summary": "个人投资者在ETF投资中的占比仍在持续扩大。根据基金观察室统计，9月以来新上市的48只ETF中，个人投资者的份额占比超过了80%，其中有19只ETF的个人投资者份额占比超过90%。 从投资类型看，主题和行业ETF是个人投资者最为青睐的产品。…",
+      "source_url": "https://36kr.com/newsflashes/4009500583497607?f=rss",
+      "publish_time": "2026-10-03T02:26:41+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-a9429893b289",
+      "title": "曙光8000助力攻克火箭回收技术难题，国产异构计算平台再创纪录",
+      "summary": "36氪获悉，近日，中科曙光联合西安交通大学科研团队，在曙光8000上完成了33喷口火箭发动机阵列超声速尾焰的超大规模高保真数值模拟，计算规模高达6.774万亿网格单元，成为已知规模最大的超声速时空耦合高精度射流仿真案例。 双方在国产异构计算…",
+      "source_url": "https://36kr.com/newsflashes/4009505749143685?f=rss",
+      "publish_time": "2026-10-03T02:15:50+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-aa3427f980cf",
+      "title": "今天全国铁路预计发送旅客1890万人次",
+      "summary": "今天（10月3日），全国铁路预计发送旅客1890万人次，预计加开列车910列。针对假日短途客流集中出行的特点，多地铁路部门加密城际列车开行，充分释放运输能力。（央视新闻）",
+      "source_url": "https://36kr.com/newsflashes/4009497994154115?f=rss",
+      "publish_time": "2026-10-03T02:10:00+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-8fc44ccf45fd",
+      "title": "华为乾崑智驾累计辅助驾驶里程突破160亿公里",
+      "summary": "截至2026年10月2日，华为乾崑官网显示累计辅助驾驶里程已正式突破160亿公里。",
+      "source_url": "https://36kr.com/newsflashes/4009496968466310?f=rss",
+      "publish_time": "2026-10-03T01:51:13+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-9be219e613a3",
+      "title": "130余家公司国庆节后率先披露三季报，部分上半年盈利个股获融资客重点加仓",
+      "summary": "今年前三季度已结束，部分公司率先披露前三季度业绩预告。据证券时报·数据宝统计，截至当前，已有近40家公司预告三季报业绩情况（不含业绩类型为“不确定”的公司）。随着三季度的结束，交易所已公布三季报预计披露日期。据数据宝统计，今年国庆节后前10…",
+      "source_url": "https://36kr.com/newsflashes/4009466826887044?f=rss",
+      "publish_time": "2026-10-03T01:42:24+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-f50f399bfb80",
+      "title": "三天四千万，一周破亿：琳朝现象的背后，是一场文化品牌的静默崛起",
+      "summary": "未来真正的奢侈，是文化、价值观的输出，是中国特有的文化叙事。 9月25日，琳朝南京德基店正式开业。但真正的震动，发生在更早之前。 试营业三天，仅对德基广场少量VIP会员开放，单日营业额连续突破千万，三天累计四千万多万。正式开业后，热度不减反…",
+      "source_url": "https://36kr.com/p/4005786829312136?f=rss",
+      "publish_time": "2026-09-30T11:38:45+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-ca246d5adb93",
+      "title": "理想再谈自研电池：电芯谁来造都行，前提是打通数据",
+      "summary": "自研电池上车，是理想汽车今年的核心战略之一。 今年6月，理想第一次公开回应业界对理想自研电池的种种质疑时，舆论焦点还集中在为何自研、是否可靠。近日，理想再次就自研电池召开沟通会。但这一次，质疑声渐弱，取而代之的是对车企自研对电池供应链重构的…",
+      "source_url": "https://36kr.com/p/3994346489084932?f=rss",
+      "publish_time": "2026-09-30T05:41:47+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-59513667f78b",
+      "title": "品牌出海进入系统能力竞争阶段,亿邦智库 x Pattern栢藤《品牌全球化加速增长洞察报告》解析增长新路径",
+      "summary": "当AI重塑消费者的发现与决策路径，平台规则与合规要求日趋复杂，不同区域市场的增长节奏与竞争形态也在加速分化。从成熟市场到新兴区域，全球化探索持续深入，增长的稳定性、效率与可持续性，正成为品牌共同面对的新命题。 为寻找答案，品牌方、创始人、C…",
+      "source_url": "https://36kr.com/p/4005358837076101?f=rss",
+      "publish_time": "2026-09-30T03:42:44+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-5e3d85921c72",
+      "title": "最前线丨打造“太空4S店”，未来宇航雄安智造基地启用，「锋行一号」首飞出征",
+      "summary": "9月29日，未来宇航雄安智能制造基地在雄安新区科创中心中试基地正式启用。仪式现场，未来宇航首款空间飞行器锋行一号（FX-1）从总装车间驶出，进入首飞前工程节点，后续将按计划开展在轨技术验证。 智能制造基地揭牌 未来宇航创始人兼CEO牛旼在现…",
+      "source_url": "https://36kr.com/p/4005279658708868?f=rss",
+      "publish_time": "2026-09-30T02:26:30+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-b85b7719a2f2",
+      "title": "地卫二启动“太空之弦”千星蓝图，2028年对标SpaceX Starmind计划",
+      "summary": "2026年9月，中国商业航天进入一个密集爆发期，多家公司完成数亿元融资，还在一个月内完成至少10次航天发射，将44颗卫星送入轨道。 资本热度和密集发射共同指向一个趋势：商业航天正在从技术验证期转向规模化部署。但卫星发得越多，也越逼近“天感地…",
+      "source_url": "https://36kr.com/p/4005156110389120?f=rss",
+      "publish_time": "2026-09-30T00:17:57+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-0ead2f4a4257",
+      "title": "8点1氪丨10月1日起将对居民购房实施贷款贴息；AMD回应收购李飞飞公司；网红超长蛋挞全是皮没蛋液？鲍师傅回应",
+      "summary": "今日热点导览 OpenAI推出全天候自主智能体Dots、GPT-6.1 Sol模型 长鑫科技宣布349亿元投资，官宣投建两大新项目 央行：下调抵押补充贷款（PSL）利率0.25个百分点 美光财报前夕，超级多头重申2000美元目标价 英伟达追…",
+      "source_url": "https://36kr.com/p/4005136008761217?f=rss",
+      "publish_time": "2026-09-30T00:01:53+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-241b4133c688",
+      "title": "Manus 回来了，可Agent 的战场已经挤满对手",
+      "summary": "文｜李炤锋 编辑 ｜ 张雨忻 2025 年3月6日，Manus 上线那天，办公室里一群工程师看着一张 Manus生成的NBA 球员象限图，觉得十分亮眼——图上排着球员头像，基于得分和投篮次数分布。创始人肖弘后来回忆，让他们意外的不是象限图有…",
+      "source_url": "https://36kr.com/p/4004527155171460?f=rss",
+      "publish_time": "2026-09-29T14:01:34+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-9ca016cc579c",
+      "title": "腾讯 Marvis做 Agent 的不同选择：把用户的电脑“管理起来”",
+      "summary": "文｜李炤锋 编辑 | 张雨忻 近日，腾讯推出新版 Marvis，将这款以“小黑马”为形象的个人 Agent 定位升级为“AI 管家”。智能涌现了解到，截至本月，Marvis 的日活跃用户数比 5 月上线时增长近四倍。 Marvis 源自做应…",
+      "source_url": "https://36kr.com/p/4004514681016456?f=rss",
+      "publish_time": "2026-09-29T13:30:00+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-dac1d66e4ac2",
+      "title": "了不起的OPC，你在用AI做什么？",
+      "summary": "了不起的OPC 36氪 AI 测评 · 轻访谈栏目 —— 轻访谈邀请函 —— 《了不起的opc，你在用AI做什么？》是36氪AI测评发起的轻访谈栏目。不搭演播室、不摆讲台，我们到你常待的地方，像朋友聊天一样，聊聊你正在做的事、你对AI的真实…",
+      "source_url": "https://36kr.com/p/4003934076456836?f=rss",
+      "publish_time": "2026-09-29T09:56:51+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
+    },
+    {
+      "id": "biz_cn-611d39493ae4",
+      "title": "从欧洲到大湾区：香港如何打造全球硬科技人才的\"超级通道\"",
+      "summary": "九月上旬，Aleksandr Gorbunov 从德国远赴中国香港，参与大湾区考察之旅。访问行程第三天，他在前海与机械人互动，又搭乘无人驾驶出租车穿梭深圳街道，近距离体验大湾区前沿科技的落地应用。 三个月前，他还在德国慕尼黑的会场里，为一座…",
+      "source_url": "https://36kr.com/p/3995406571933824?f=rss",
+      "publish_time": "2026-09-29T06:00:59+00:00",
+      "category": "biz_cn",
+      "is_important": false,
+      "tags": [
+        "36氪"
+      ]
     }
   ],
   "matchPreviews": [
