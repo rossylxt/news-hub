@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-05T04:21:55.530638+00:00",
+  "generated_at": "2026-10-05T06:27:17.138141+00:00",
   "news": [
+    {
+      "id": "ai_cn-890e83a79266",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+      "source_url": "https://www.qbitai.com/2026/10/501705.html",
+      "publish_time": "2026-10-05T04:42:52+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-c5f2391cf1a9",
       "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
@@ -943,18 +955,6 @@
       "summary": "Hugging Face CEO：「太棒了」",
       "source_url": "https://www.qbitai.com/2026/09/494179.html",
       "publish_time": "2026-09-22T11:50:28+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-f2d6168620a0",
-      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-      "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
-      "source_url": "https://www.qbitai.com/2026/09/494120.html",
-      "publish_time": "2026-09-22T10:06:34+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
