@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:17:37.382505+00:00",
+  "generated_at": "2026-10-06T04:20:43.342863+00:00",
   "news": [
     {
       "id": "ai_cn-5f770e0cb201",
@@ -962,6 +962,54 @@
       ]
     },
     {
+      "id": "ai_intl-212da1d35ed9",
+      "title": "OpenAI将开始在欧盟为ChatGPT的文本添加水印",
+      "summary": "OpenAI将在欧盟对ChatGPT和Codex文本进行水印，以符合《人工智能法》。它说，编辑会使隐形标记更难被检测到。",
+      "source_url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "publish_time": "2026-10-05T20:36:48+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-13557b75794f",
+      "title": "Reflection推出开放式权重AI模型Beam ，以更低的计算成本与中国机型相媲美",
+      "summary": "Reflection将Beam和未来模型瞄准企业和主权国家。推销的目的是建立“人工智能工厂” ，该产品将允许机构通过在自己的专有数据上训练Reflection的人工智能模型来构建自己的定制本地人工智能系统。",
+      "source_url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "publish_time": "2026-10-05T19:33:53+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-a8ac03afa12d",
+      "title": "Instinct将其AI代理带到群聊中，即使对于没有帐户的朋友也是如此",
+      "summary": "Instinct正在推出群聊，让好友一起使用其AI代理来规划行程、组织拼车和协调活动等任务。该公司表示，个人帐户保持独立，在个人代理共享信息或采取行动之前需要获得许可。",
+      "source_url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "publish_time": "2026-10-05T18:54:30+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-1278561c2128",
+      "title": "TikTok推出人工智能购物助手和一键结账",
+      "summary": "TikTok将其新的购物助手描述为会话式人工智能代理，旨在帮助用户发现和购买产品。",
+      "source_url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "publish_time": "2026-10-05T18:29:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-d31c63ac3bf4",
       "title": "Hot Girl Hotline就像AI时代的“Dear Abby”",
       "summary": "Hot Girl Hotline由两姐妹创立，使用人工智能为年轻女性提供个性化的约会和关系建议，重点关注安全和避免情感依赖。",
@@ -1867,54 +1915,6 @@
       "summary": "英伟达首席执行官Jensen Huang周一推出了一个软件和硬件产品工具包，该工具包在人工智能代理周围添加了独立的安全层，以确保它们即使试图突破也能保持在测试环境中。",
       "source_url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "publish_time": "2026-09-28T18:31:23+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-342eef48a635",
-      "title": "Anthropic发布了Sonnet 5.5 ，它称之为更便宜、更快捷的工作伙伴",
-      "summary": "Anthropic发布了其最新版本的中端模型，具有更快的响应时间和更少的代币燃烧。",
-      "source_url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "publish_time": "2026-09-28T18:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-fc22beaf1f7b",
-      "title": "谷歌正在淘汰双子座的宝石，转而支持“技能”",
-      "summary": "随着Meta的Muse和Instinct等一体化人工智能代理的起飞，谷歌选择结束一项构建特定任务代理的功能。",
-      "source_url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "publish_time": "2026-09-28T17:29:50+00:00",
-      "category": "ai_intl",
-      "is_important": true,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-f53aca4c59c8",
-      "title": "OpenAI似乎仍然无法处理其所有流氓AI活动",
-      "summary": "周五， OpenAI发布了一个专门用于“错位报告”的新网站，事件的广度令人震惊。",
-      "source_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "publish_time": "2026-09-28T17:09:02+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-2d794519f8a7",
-      "title": "Meta推出企业人工智能平台，聘请MongoDB首席执行官领导新举措",
-      "summary": "Meta表示，它将专注于将其完整的技术堆栈（包括Muse、Meta Business Agent、Muse API、Muse Code等）带给企业和开发人员。",
-      "source_url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "publish_time": "2026-09-28T16:52:38+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4804,11 +4804,227 @@
       ]
     },
     {
+      "id": "nba-dc73e93cd90e",
+      "title": "根据报道，名人堂成员Jason Kidd即将加入ESPN担任NBA分析师",
+      "summary": "据报道，名人堂成员杰森·基德（ Jason Kidd ）即将开启他作为ESPN NBA色彩评论员和分析师职业生涯的新篇章。",
+      "source_url": "https://sports.yahoo.com/articles/hall-famer-jason-kidd-close-015407503.html",
+      "publish_time": "2026-10-06T01:54:07+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-824f86cbeab8",
+      "title": "76人120 ，尼克斯97 ：昏昏欲睡的混战场景",
+      "summary": "纽约从深处投出41杆中的8杆，并在季前赛揭幕战中出场20人",
+      "source_url": "https://sports.yahoo.com/articles/76ers-120-knicks-97-scenes-014617355.html",
+      "publish_time": "2026-10-06T01:46:17+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d85718b17a2e",
+      "title": "快船队的Max Strus因足底筋膜部分撕裂而错过赛季开始",
+      "summary": "快船队已经有四名轮换球员出局，预计将错过本赛季的开始。",
+      "source_url": "https://sports.yahoo.com/articles/clippers-max-strus-miss-start-014515161.html",
+      "publish_time": "2026-10-06T01:45:15+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-efda7e49247d",
+      "title": "Ariel Hukporti离开比赛对阵尼克斯，腿部明显受伤",
+      "summary": "我们正在等待备用大个子受伤的严重程度的消息。",
+      "source_url": "https://sports.yahoo.com/articles/ariel-hukporti-leaves-game-vs-233535383.html",
+      "publish_time": "2026-10-06T01:38:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-536b6041192a",
+      "title": "老鹰队的下半场表现强劲，但在第一场季前赛中以132-123输给灰熊队",
+      "summary": "书中的第一个。",
+      "source_url": "https://sports.yahoo.com/articles/hawks-strong-second-half-lose-013527569.html",
+      "publish_time": "2026-10-06T01:35:27+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f741362faf72",
+      "title": "尼克斯在第一场季前赛中挣扎射门，跌至76人",
+      "summary": "尼克斯队打出了自赢得NBA总决赛第5场比赛以来的第一场比赛，在季前赛中落入费城76人队。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-struggle-shooting-first-preseason-013509837.html",
+      "publish_time": "2026-10-06T01:35:09+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c57760618339",
+      "title": "奥斯汀的沃克·凯斯勒（ Walker Kessler ）在季前赛揭幕战中对阵国王",
+      "summary": "在周一对阵国王队的季前赛揭幕战中，湖人队将没有两位三巨头。",
+      "source_url": "https://sports.yahoo.com/articles/walker-kessler-austin-reaves-vs-013402747.html",
+      "publish_time": "2026-10-06T01:34:02+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0ed652419aec",
+      "title": "布朗， Edgecombe占主导地位，但Hukporti伤病笼罩着76人队对阵尼克斯队的季前赛胜利",
+      "summary": "杰伦·布朗占据主导地位， VJ Edgecombe看起来很自信， 76人队对抗尼克斯队的常客。",
+      "source_url": "https://sports.yahoo.com/articles/brown-edgecombe-dominant-hukporti-injury-012717702.html",
+      "publish_time": "2026-10-06T01:27:17+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-73412f5d9c37",
+      "title": "作为小牛队的粉丝，这通常是杀死你的希望",
+      "summary": "库珀·弗拉格（ Cooper Flagg ）和凯里·欧文（ 凯里·欧文 ）是2026-27赛季小牛队前景多云的两个最大的希望之光",
+      "source_url": "https://sports.yahoo.com/articles/mavericks-fan-usually-hope-kills-010000345.html",
+      "publish_time": "2026-10-06T01:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0e8a6dc79e89",
+      "title": "狄龙·布鲁克斯（ Dillon Brooks ）、约翰·柯林斯（ John Collins ）参与了太阳-活塞季前赛的",
+      "summary": "凤凰城太阳队前锋狄龙·布鲁克斯和底特律活塞队前锋约翰·柯林斯在10月5日底特律季前赛的第一节进入了比赛。",
+      "source_url": "https://sports.yahoo.com/articles/dillon-brooks-john-collins-involved-005122891.html",
+      "publish_time": "2026-10-06T00:51:22+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-80dc706270fd",
+      "title": "Steph Curry提醒我们季前赛结果并不重要",
+      "summary": "不要为损失而烦恼，它们不算数。",
+      "source_url": "https://sports.yahoo.com/articles/steph-curry-reminds-us-preseason-001258251.html",
+      "publish_time": "2026-10-06T00:12:58+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-09e6952be071",
       "title": "卡尔-安东尼·唐斯, Knicks face contract extension stalemate. Where do they go from here?",
       "summary": "One of the huge questions facing the defending-champion New York Knicks is the future of star 卡尔-安东尼·唐斯. He doe…",
       "source_url": "https://sports.yahoo.com/articles/karl-anthony-towns-knicks-face-231629533.html",
       "publish_time": "2026-10-05T23:16:29+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-6e68c3e6f69b",
+      "title": "季前赛主题：尼克斯76人队， 2026年10月5日",
+      "summary": "新面孔的费城人希望在季前赛揭幕战中撼动冠军。",
+      "source_url": "https://sports.yahoo.com/articles/preseason-game-thread-knicks-76ers-223000074.html",
+      "publish_time": "2026-10-05T22:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-56077cf477eb",
+      "title": "湖人队的第一次射门揭示了Collin Sexton的不确定状态",
+      "summary": "湖人队在2026-27赛季的第一次射门中学到了什么？",
+      "source_url": "https://sports.yahoo.com/articles/lakers-first-shootaround-sheds-light-222438843.html",
+      "publish_time": "2026-10-05T22:24:38+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a24e13514984",
+      "title": "由于最近的足部受伤， Max Strus将错过快船的赛季开始",
+      "summary": "Max Strus右脚足底筋膜部分撕裂，将在四周后再次评估。",
+      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/max-strus-will-miss-start-of-season-for-clippers-due-to-latest-foot-injury-222154899.html",
+      "publish_time": "2026-10-05T22:21:54+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a63966bb3ac8",
+      "title": "游戏主题：欢迎来到季前赛！",
+      "summary": "走开！",
+      "source_url": "https://sports.yahoo.com/articles/game-thread-welcome-preseason-220000508.html",
+      "publish_time": "2026-10-05T22:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b91f1d6c7e1c",
+      "title": "灰熊队在老鹰队，季前赛：开始时间，电视，流媒体，广播，比赛线程",
+      "summary": "等待已经结束。",
+      "source_url": "https://sports.yahoo.com/articles/grizzlies-hawks-preseason-start-time-220000368.html",
+      "publish_time": "2026-10-05T22:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fe4dadccfa52",
+      "title": "76人队赢得季前赛揭幕战后的观察结果，布朗在上半场得到22分",
+      "summary": "76人队周一晚上的季前赛揭幕战以22分的杰伦·布朗（ 杰伦·布朗 ）表现为特色。",
+      "source_url": "https://sports.yahoo.com/articles/observations-sixers-win-preseason-opener-212844758.html",
+      "publish_time": "2026-10-05T21:28:44+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0d5c1cbdb686",
+      "title": "布兰登·威廉姆斯可以成为勇士队的第二个单位火花塞吗？",
+      "summary": "他穿着勇士队球衣的第一场比赛表明他可以。",
+      "source_url": "https://sports.yahoo.com/articles/brandon-williams-2nd-unit-spark-212828053.html",
+      "publish_time": "2026-10-05T21:28:28+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4828,11 +5044,59 @@
       ]
     },
     {
+      "id": "nba-6dd021c3dec6",
+      "title": "活塞对太阳： Jalen Duren和底特律活塞开始季前赛",
+      "summary": "活塞以更多的投篮、更多关于D的问题开启赛季",
+      "source_url": "https://sports.yahoo.com/articles/pistons-vs-suns-jalen-duren-210456816.html",
+      "publish_time": "2026-10-05T21:04:56+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b7fc94eebdbd",
+      "title": "波士顿凯尔特人队每日链接2026年10月5日",
+      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
+      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-202637403.html",
+      "publish_time": "2026-10-05T20:26:37+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-40a7d18b79d1",
+      "title": "桑德罗·马穆克拉什维利（ Sandro Mamukelashvili ）在科比·布莱恩特（ Kobe Bryant ）的粉丝成",
+      "summary": "格鲁吉亚大个子记得小时候看过科比和湖人",
+      "source_url": "https://sports.yahoo.com/articles/sandro-mamukelashvili-excited-laker-growing-201500353.html",
+      "publish_time": "2026-10-05T20:15:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-e18826f0e1c4",
       "title": "昆汀·格兰姆斯（ Quentin Grimes ）说，在父亲成长为一名球迷后，与湖人签约是“超现实的",
       "summary": "格兰姆斯听起来很高兴能为他父亲与他分享历史的球队效力",
       "source_url": "https://sports.yahoo.com/articles/quentin-grimes-says-surreal-sign-193000594.html",
       "publish_time": "2026-10-05T19:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-97aa30b8eff5",
+      "title": "德雷蒙德·格林（ 德雷蒙德·格林 ）分享了在勇士进攻中改变角色的谦卑观点",
+      "summary": "金州勇士队的球星德雷蒙德·格林（ 德雷蒙德·格林 ）在2026-27 NBA赛季前对球队的进攻做出改变后解释了他的立场。",
+      "source_url": "https://sports.yahoo.com/articles/draymond-green-shares-humbling-perspective-191502583.html",
+      "publish_time": "2026-10-05T19:15:02+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4859,6 +5123,18 @@
       "publish_time": "2026-10-05T19:10:00+00:00",
       "category": "nba",
       "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a19ba6f80eaa",
+      "title": "湖人新秀欺凌被确认为妈妈透露In-N-Out特技，因为飞机滑稽动作病毒式传播",
+      "summary": "卡梅伦·卡尔（ Cameron Carr ）的新秀赛季正在如火如荼地进行，球队前往萨克拉门托的旅程就证明了这一点。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-rookie-hazing-confirmed-mom-183015622.html",
+      "publish_time": "2026-10-05T18:30:15+00:00",
+      "category": "nba",
+      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
@@ -5481,282 +5757,6 @@
       "summary": "Matisse Thybulle says practice is sure to be tougher than games when he gets pushed by offensive savants 卢卡·东契奇 and…",
       "source_url": "https://sports.yahoo.com/articles/lakers-ace-defender-matisse-thybulle-195301150.html",
       "publish_time": "2026-10-04T19:53:01+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e1b22cec24a3",
-      "title": "Jalen Duren说：我看到自己在底特律“结束我的职业生涯”",
-      "summary": "活塞大个子强烈否认在长期自由球员期间对他的大部分报道",
-      "source_url": "https://sports.yahoo.com/articles/jalen-duren-speaks-see-myself-193203367.html",
-      "publish_time": "2026-10-04T19:32:03+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-17bfef99e7c3",
-      "title": "勇士队以对快船队的微弱失利拉开NBA季前赛序幕，我们学到了什么",
-      "summary": "道尔顿·约翰逊（ Dalton Johnson ）周日在夏威夷檀香山向洛杉矶快船队（ Los Angeles Clippers ）传递了金州勇士队季前赛输球的三个要点。",
-      "source_url": "https://sports.yahoo.com/articles/learned-warriors-kick-off-nba-190001462.html",
-      "publish_time": "2026-10-04T19:00:01+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ce7a8cb3c6ce",
-      "title": "如何观看勇士对快船",
-      "summary": "金州篮球就在路上！快来加入我们的游戏帖子，在这里聊聊今晚的比赛。",
-      "source_url": "https://sports.yahoo.com/articles/watch-warriors-vs-clippers-190000385.html",
-      "publish_time": "2026-10-04T19:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-515065313755",
-      "title": "波士顿凯尔特人队每日链接2026年10月4日",
-      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-185700808.html",
-      "publish_time": "2026-10-04T18:57:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-2c23532f04b5",
-      "title": "对于Egor Dëmin来说，强化大改进，多功能性是重中之重",
-      "summary": "他不仅仅是一个射手。",
-      "source_url": "https://sports.yahoo.com/articles/egor-d-min-strength-big-155415715.html",
-      "publish_time": "2026-10-04T15:54:15+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-08749795f2a8",
-      "title": "凯尔特人查尔斯顿训练营笔记本：瑜伽、不太可能的兽医和新教练",
-      "summary": "凯尔特人队已经在南卡罗来纳州查尔斯顿开始了他们的下半场训练营。以下是The Citadel现场的完整信息。",
-      "source_url": "https://sports.yahoo.com/articles/celtics-charleston-training-camp-notebook-155245345.html",
-      "publish_time": "2026-10-04T15:52:45+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e8e1a3fa81f1",
-      "title": "ESPN将火箭队Ime Udoka列为压力最大的教练",
-      "summary": "休斯顿的教练真的坐在火热的座位上吗？",
-      "source_url": "https://sports.yahoo.com/articles/espn-lists-rockets-ime-udoka-144518839.html",
-      "publish_time": "2026-10-04T14:45:18+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-407b8651c2d9",
-      "title": "尼克斯公告： “我认为他有无限的优势”",
-      "summary": "向我最大的大脑放屁致敬……你相信尼克斯明天会打篮球吗！ ？以下是Tarrytown和这些地方的最新消息。迈克·布朗（ Mike Brown ）谈到穆罕默德·迪亚瓦拉（ Mohamed Diawara ）进入第二年的舒适度和发展： “去年，你…",
-      "source_url": "https://sports.yahoo.com/articles/knicks-bulletin-think-endless-upside-140000523.html",
-      "publish_time": "2026-10-04T14:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d0b146f63037",
-      "title": "2026-27 NBA赛季的3个尼克斯将扮演更大的角色",
-      "summary": "以下是本赛季最有可能成长的三名尼克斯球员，因为纽约正在追求近期NBA历史上的第一次重演。",
-      "source_url": "https://sports.yahoo.com/articles/3-knicks-due-bigger-roles-134500291.html",
-      "publish_time": "2026-10-04T13:45:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d4c68d2d07cb",
-      "title": "Moneyball Mailbag –媒体日版",
-      "summary": "在多事的媒体日之后从邮袋中回答问题",
-      "source_url": "https://sports.yahoo.com/articles/moneyball-mailbag-media-day-edition-130000947.html",
-      "publish_time": "2026-10-04T13:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-915c57d79097",
-      "title": "NBA ：森林狼初学者成绩单预览",
-      "summary": "关于即将到来的森林狼季节，面部毛发、精灵宝可梦和高级调酒师可以告诉我们什么？",
-      "source_url": "https://sports.yahoo.com/articles/nba-timberwolves-starters-report-card-120000393.html",
-      "publish_time": "2026-10-04T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-fd320512c18d",
-      "title": "猛龙队的新秀艾伦·格雷夫斯是如何从足球变成篮球的？",
-      "summary": "长大后成为路易斯安那州篮球先生的孩子有一些成长要做",
-      "source_url": "https://sports.yahoo.com/articles/did-raptors-rookie-allen-graves-120000485.html",
-      "publish_time": "2026-10-04T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-07b64a2b7e31",
-      "title": "太阳内部：媒体日的反应， Khaman Maluach ， Luke Kennard",
-      "summary": "您的每周Inside the Suns分析直接来自生活和呼吸团队的BSotS社区。",
-      "source_url": "https://sports.yahoo.com/articles/inside-suns-media-day-reactions-120000875.html",
-      "publish_time": "2026-10-04T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-767a2e9e136b",
-      "title": "开放线程：与George Gervin一起训练的Tobias Harris",
-      "summary": "他的游戏里有一些冰人",
-      "source_url": "https://sports.yahoo.com/articles/open-thread-tobias-harris-trained-110000581.html",
-      "publish_time": "2026-10-04T11:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5500d5856855",
-      "title": "三种场景：历史对本赛季奇才的描述",
-      "summary": "在经历了残酷的设计失败之后，奇才队将尝试在今年开始获胜。在过去的三个赛季中，球队总共赢得了50场胜利—与2021-24赛季的底特律活塞队并列NBA历史上第10个最差的三年。最糟糕的是属于费城76人队的The Process ，它[…]",
-      "source_url": "https://sports.yahoo.com/articles/three-scenarios-history-says-wizards-110000563.html",
-      "publish_time": "2026-10-04T11:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-693be737ed70",
-      "title": "MMBets ：狼队全力以赴",
-      "summary": "森林狼抬起了天花板，但他们也让自己变得更加脆弱",
-      "source_url": "https://sports.yahoo.com/articles/mmbets-wolves-110000309.html",
-      "publish_time": "2026-10-04T11:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-2745042971fe",
-      "title": "2026-27亚特兰大老鹰队球员预览：双向",
-      "summary": "开始我们的预览。",
-      "source_url": "https://sports.yahoo.com/articles/2026-27-atlanta-hawks-player-110000265.html",
-      "publish_time": "2026-10-04T11:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-9b38faf2d94e",
-      "title": "犹他爵士vs丹佛掘金：季前赛揭幕战",
-      "summary": "爵士乐希望以胜利开始26/27在丹佛的竞选活动",
-      "source_url": "https://sports.yahoo.com/articles/utah-jazz-vs-denver-nuggets-063938751.html",
-      "publish_time": "2026-10-04T06:39:38+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-54efe7f13db7",
-      "title": "猛龙队将首场季前赛降至热火队",
-      "summary": "斯科蒂·巴恩斯（ Scottie Barnes ）和RJ ·巴雷特（ RJ Barrett ）看起来很强势，尽管",
-      "source_url": "https://sports.yahoo.com/articles/raptors-drop-first-preseason-game-014612023.html",
-      "publish_time": "2026-10-04T01:46:12+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-071d7392330a",
-      "title": "扬尼斯·阿德托昆博得9分， 7次助攻首场热火出场，休息下半场",
-      "summary": "Antetokounmpo与其他迈阿密首发球员一起在下半场休息。",
-      "source_url": "https://sports.yahoo.com/nba/article/giannis-antetokounmpo-posts-9-points-7-assists-in-first-heat-appearance-rests-second-half-013713856.html",
-      "publish_time": "2026-10-04T01:37:13+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-76b5add04261",
-      "title": "尼克斯向大个子穆罕默德·迪亚瓦拉（ Mohamed Diawara ）寻求2年级的突破",
-      "summary": "最终，尼克斯需要其中一个来突破。Mohamed Diawara是最有可能的。",
-      "source_url": "https://sports.yahoo.com/articles/knicks-seek-2-breakthrough-big-001948005.html",
-      "publish_time": "2026-10-04T00:19:48+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-34763ea643c2",
-      "title": "布朗尼·詹姆斯（ Bronny James ）继续完善他在湖人队的技能和角色",
-      "summary": "这位三年级控球后卫在今年夏天和训练营中努力成为更好的沟通者、调解者和后卫。",
-      "source_url": "https://sports.yahoo.com/articles/bronny-james-continues-refine-skills-231620517.html",
-      "publish_time": "2026-10-03T23:16:20+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a85232048fc5",
-      "title": "为什么湖人队的“翅膀”惹恼了明星球员",
-      "summary": "奥斯汀·里夫斯（ Austin Reaves ）在训练营期间一直对湖人的侧翼感到恼火。",
-      "source_url": "https://sports.yahoo.com/articles/why-good-lakers-wings-annoy-230843799.html",
-      "publish_time": "2026-10-03T23:08:43+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
