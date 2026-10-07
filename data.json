@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-07T12:24:49.106048+00:00",
+  "generated_at": "2026-10-07T14:21:21.450422+00:00",
   "news": [
+    {
+      "id": "ai_cn-a1e84c1f84ca",
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/10/501803.html",
+      "publish_time": "2026-10-07T11:34:47+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-7bb1ef36a5cc",
       "title": "晕…这年头还有说人话的AI不",
@@ -950,15 +962,39 @@
       ]
     },
     {
-      "id": "ai_cn-722aa02e2ba4",
-      "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
-      "summary": "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。",
-      "source_url": "https://www.qbitai.com/2026/09/496124.html",
-      "publish_time": "2026-09-23T03:12:31+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-504b159a6162",
+      "title": "亲身体验： TechCrunch Disrupt 2026互动圆桌会议的完整阵容",
+      "summary": "从Nvidia和Chime到Obvious Ventures和Anthropic ，在TechCrunch Disrupt 2026上探索整个圆桌会议议程。立即注册，通行证最高可节省$ 100 ，并以50%的优惠获得第二张通行证。",
+      "source_url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "publish_time": "2026-10-07T14:15:00+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-f34b82d8ad4a",
+      "title": "距离TechCrunch Disrupt 2026还有6天：开门前享受通行证优惠",
+      "summary": "在6天内，来自全球创业公司和技术生态系统的1万多名员工将齐聚旧金山Moscone West ，参加TechCrunch Disrupt 2026。如果您计划成为其中一员，请不要等到门票价格上涨时才登记。使用通行证最多可节省$ 100 ，再加…",
+      "source_url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "publish_time": "2026-10-07T14:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-230c231afcec",
+      "title": "谷歌新的SynthID网站可以识别AI生成的媒体",
+      "summary": "谷歌周二推出了一个新网站，允许任何人验证媒体（无论是图像、视频还是音频剪辑）是否使用人工智能生成。",
+      "source_url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "publish_time": "2026-10-07T14:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -1879,42 +1915,6 @@
       "summary": "OpenAI正在通过可重用的云开发环境、经过改进的语音控制CLI、新的代码审查工具以及用于扫描存储库和准备修复程序的以安全为重点的产品来扩展Codex。",
       "source_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
       "publish_time": "2026-09-29T17:15:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-594dcc5078a0",
-      "title": "聊天机器人可以修复政府迷宫吗？白宫即将发现",
-      "summary": "America.gov旨在简化政府官僚机构的导航过程，但语言模型不完善，仍然容易产生幻觉，这可能会导致新的问题。",
-      "source_url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "publish_time": "2026-09-29T16:55:56+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-c0fc128f8867",
-      "title": "Instinct创始人表示，平台上超过50%的交易与旅行相关",
-      "summary": "Instinct创始人表示，该平台每天都在增长10% ，交易量以类似的速度增长。",
-      "source_url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "publish_time": "2026-09-29T15:12:07+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-2acce7e829ee",
-      "title": "通过Dazzle ， Marissa Mayer打赌您的相机胶卷比您的收件箱有更多关于您生活的信息",
-      "summary": "这位前雅虎首席执行官将完全基于您的照片推出一款新的人工智能个人助理。",
-      "source_url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "publish_time": "2026-09-29T13:53:01+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4816,10 +4816,34 @@
       ]
     },
     {
+      "id": "nba-d23358baf9ef",
+      "title": "3名太阳队球员密切关注这个季前赛的剩余时间",
+      "summary": "我们还有4场季前赛要解决阵容后端的问题。",
+      "source_url": "https://sports.yahoo.com/articles/3-suns-players-watch-closely-120000688.html",
+      "publish_time": "2026-10-07T12:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-2378530e6350",
       "title": "骑士赛季预告： Peyton Watson –他是他们一直在等待的人吗？",
       "summary": "沃森可能是克利夫兰一直在等待的人。",
       "source_url": "https://sports.yahoo.com/articles/cavs-season-preview-peyton-watson-110000611.html",
+      "publish_time": "2026-10-07T11:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-01844d253df2",
+      "title": "开放线程： Kelly Olynyk与BC Roma签约",
+      "summary": "马刺队的大个子球员将把他的天赋带到意大利。",
+      "source_url": "https://sports.yahoo.com/articles/open-thread-kelly-olynyk-signs-110000974.html",
       "publish_time": "2026-10-07T11:00:00+00:00",
       "category": "nba",
       "is_important": false,
@@ -5733,30 +5757,6 @@
       "summary": "萨克拉门托国王队的后卫Darius Acuff Jr.在他的第一场NBA季前赛中表现出色。",
       "source_url": "https://sports.yahoo.com/articles/darius-acuff-jr-looked-comfortable-060131044.html",
       "publish_time": "2026-10-06T06:01:31+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-290585a4b487",
-      "title": "湖人vs勇士预览：打造强劲开局",
-      "summary": "在季前赛令人印象深刻的揭幕战之后，湖人队在周二对阵勇士队。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-vs-warriors-preview-building-051646139.html",
-      "publish_time": "2026-10-06T05:16:46+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e6ec3f0f9f8c",
-      "title": "Kings将媒体室专用于长期广播声音Gary \"G-Man\" Gerould",
-      "summary": "萨克拉门托国王队重新命名了他们的新闻媒体室，以纪念长期的电台广播声音Gary Gerould。",
-      "source_url": "https://sports.yahoo.com/articles/kings-dedicate-media-room-longtime-050029219.html",
-      "publish_time": "2026-10-06T05:00:29+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
