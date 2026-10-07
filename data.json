@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:21:59.354668+00:00",
+  "generated_at": "2026-10-07T18:22:20.327492+00:00",
   "news": [
     {
       "id": "ai_cn-b4a6af129476",
@@ -962,6 +962,90 @@
       ]
     },
     {
+      "id": "ai_intl-d15468da1732",
+      "title": "ChatGPT for Teens让青少年保持交谈，即使在心理健康危机期间也是如此",
+      "summary": "ChatGPT的青少年安全措施旨在保护弱势用户，但新的测试发现，聊天机器人在危机期间继续鼓励参与，并可能鼓励与人工智能本身的不健康关系。",
+      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "publish_time": "2026-10-07T18:15:28+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-b81f72b7c1ca",
+      "title": "随着新界面的推出， ChatGPT变得更加可视化",
+      "summary": "OpenAI正在推出一个新的用户界面，将为ChatGPT带来交互式视觉效果。",
+      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "publish_time": "2026-10-07T18:00:19+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-dfd3923fff90",
+      "title": "Meta推出新的人工智能工具，以检测秘密导致儿童性虐待材料的广告",
+      "summary": "Meta在发现其平台上的广告后推出了新的人工智能工具，这些广告可能看起来很正常，但会引导用户在网上其他地方看到有害内容。",
+      "source_url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "publish_time": "2026-10-07T16:53:46+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-fc38477a8aad",
+      "title": "Healthleap为其人工智能筹集了3800万美元$ ，用于标记可能需要仔细观察的医院患者",
+      "summary": "此次融资包括由Sequoia Capital和First Round Capital共同牵头的$ 800万种子轮融资，以及由Hummingbird Ventures牵头的$ 3000万A轮融资。",
+      "source_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "publish_time": "2026-10-07T15:07:08+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-3499b6fe79a2",
+      "title": "托尼·法德尔（ Tony Fadell ）谈第一波人工智能小工具失败的原因—以及接下来会发生什么",
+      "summary": "“iPod之父”表示，第一代人工智能设备未能解决实际问题，下一波浪潮将需要赢得消费者的信任。",
+      "source_url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "publish_time": "2026-10-07T14:41:38+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-60862e24b98b",
+      "title": "谷歌在人工智能驱动的游戏平台上进行实验",
+      "summary": "Google Labs正在开发一个名为Playground的新型人工智能游戏创建平台，供用户使用简单的文本提示构建基于浏览器的游戏。",
+      "source_url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "publish_time": "2026-10-07T14:36:23+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-3cadd0110a70",
+      "title": "OpenAI的Alexander Embiricos即将加入TechCrunch Disrupt 2026--就在Dots推出几天后",
+      "summary": "OpenAI的Alexander Embiricos将在TechCrunch Disrupt 2026上登上人工智能舞台，就在Dots推出几天后。注册通行证即可加入此对话。立即获取通行证，最多可节省$ 100 ，还可享受半价优惠。",
+      "source_url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "publish_time": "2026-10-07T14:30:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-504b159a6162",
       "title": "亲身体验： TechCrunch Disrupt 2026互动圆桌会议的完整阵容",
       "summary": "从Nvidia和Chime到Obvious Ventures和Anthropic ，在TechCrunch Disrupt 2026上探索整个圆桌会议议程。立即注册，通行证最高可节省$ 100 ，并以50%的优惠获得第二张通行证。",
@@ -1831,90 +1915,6 @@
       "summary": "预计新一轮融资将是该公司在2027年推迟公开亮相之前的最后一轮融资。",
       "source_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "publish_time": "2026-09-29T19:52:37+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-b7ee266b3aff",
-      "title": "这就是为什么OpenAI没有参与英伟达在全行业范围内结束流氓AI代理的努力",
-      "summary": "据TechCrunch了解， OpenAI并不是英伟达开放代理安全平台的公共支持者，但它正在与英伟达私下合作。",
-      "source_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "publish_time": "2026-09-29T18:35:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-3a556bd4fc98",
-      "title": "OpenAI推出了与ChatGPT自己的办公套件非常相似的功能，与微软展开竞争",
-      "summary": "OpenAI新推出的办公功能套件使其与更传统的软件公司直接竞争。",
-      "source_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "publish_time": "2026-09-29T17:45:51+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-e7ce24fdf0ff",
-      "title": "人工智能应用程序制造商Wabi转向消息传递体验",
-      "summary": "Wabi正在将其基于提示的应用构建器重新定位为个人AI代理，该代理可以根据需要创建界面，将聊天、应用和正在进行的任务结合起来。",
-      "source_url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "publish_time": "2026-09-29T17:20:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-855aad9db334",
-      "title": "OpenAI推出冒泡特工头像Dots",
-      "summary": "DOT旨在独立于任何特定硬件或接口运行，以最少的监督在后台持续追求用户定义的目标。",
-      "source_url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "publish_time": "2026-09-29T17:17:15+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-c3416222c8ba",
-      "title": "OpenAI通过类似应用程序的界面和自动化扩展了ChatGPT的插件",
-      "summary": "OpenAI正在扩展ChatGPT插件，包括专用侧边栏主页、交互式面板、文件查看器、改进的发现以及对自动化的支持。",
-      "source_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "publish_time": "2026-09-29T17:15:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-95026b243ee0",
-      "title": "OpenAI推出GPT-6.1 Sol ，称其几乎与GPT-6 Astra相匹配，成本更低",
-      "summary": "OpenAI表示， GPT-6.1 SOL在复杂的专业任务方面比GPT-6 SOL有显著改进，包括代码编写和调试、文档理解以及执行多步骤业务工作流程。",
-      "source_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "publish_time": "2026-09-29T17:15:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-26c92756de6d",
-      "title": "OpenAI为Codex提供了跨设备工作的可重用云环境",
-      "summary": "OpenAI正在通过可重用的云开发环境、经过改进的语音控制CLI、新的代码审查工具以及用于扫描存储库和准备修复程序的以安全为重点的产品来扩展Codex。",
-      "source_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "publish_time": "2026-09-29T17:15:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4852,6 +4852,18 @@
       ]
     },
     {
+      "id": "nba-5f40d7620fc1",
+      "title": "Dave Portnoy calls 勒布朗·詹姆斯’ 76ers contract ‘illegal’ over Fanatics ‘side deal’",
+      "summary": "Dave Portnoy thinks 勒布朗·詹姆斯 is aspiring to be the next 科怀·伦纳德.",
+      "source_url": "https://sports.yahoo.com/articles/dave-portnoy-calls-lebron-james-133449901.html",
+      "publish_time": "2026-10-07T13:34:49+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-858b07939ac1",
       "title": "密尔沃基雄鹿对俄克拉荷马城雷霆季前赛预览和比赛主题：婴儿步伐",
       "summary": "另一个改进的机会正在等待着您。",
@@ -5744,18 +5756,6 @@
       "title": "开放主题：马刺队庆祝与卫理公会医疗保健的10年合作伙伴关系",
       "summary": "合作以多种方式影响社区",
       "source_url": "https://sports.yahoo.com/articles/open-thread-spurs-celebrate-10-110000055.html",
-      "publish_time": "2026-10-06T11:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-48a9dc0c5014",
-      "title": "布朗、埃奇科姆、沃克在76人队季前揭幕战的亮点中闪耀",
-      "summary": "76人队周一晚上开始了他们的季前赛。了解在比赛中脱颖而出的亮点。",
-      "source_url": "https://sports.yahoo.com/articles/brown-edgecombe-walker-shine-highlights-110000865.html",
       "publish_time": "2026-10-06T11:00:00+00:00",
       "category": "nba",
       "is_important": false,
