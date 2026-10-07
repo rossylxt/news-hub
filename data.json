@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-07T02:19:19.353641+00:00",
+  "generated_at": "2026-10-07T04:19:06.962719+00:00",
   "news": [
+    {
+      "id": "ai_cn-03dd94d4f0ed",
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "summary": "三位菲尔兹奖得主：不代表认可",
+      "source_url": "https://www.qbitai.com/2026/10/501749.html",
+      "publish_time": "2026-10-07T01:05:13+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-dc59ec33aa1e",
       "title": "刚刚，诺贝尔物理奖一人独揽！",
@@ -943,18 +955,6 @@
       "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
       "source_url": "https://www.qbitai.com/2026/09/494429.html",
       "publish_time": "2026-09-22T15:59:35+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-dc76f354b975",
-      "title": "Agent时代，CPU的价值该重估了",
-      "summary": "CPU与GPU趋近1∶1",
-      "source_url": "https://www.qbitai.com/2026/09/494430.html",
-      "publish_time": "2026-09-22T15:46:54+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,90 @@
       ]
     },
     {
+      "id": "jp_football_euro-6bbec2aa72bc",
+      "title": "传达日本国家队的激战的奢华游客（ 12张）",
+      "summary": "日本队5日在麒麟杯上以2比1击败新西兰队。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460442-460442-pn",
+      "publish_time": "2026-10-07T03:05:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4b5c21456a11",
+      "title": "61,812名日本游客！邀请长颈鹿杯冠军的日本支持者：第2卷（ 38张）",
+      "summary": "日本队5日在麒麟杯上以2比1击败新西兰队。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460441-460441-pn",
+      "publish_time": "2026-10-07T03:05:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9cd78a8e0607",
+      "title": "61,812名日本游客！邀请长颈鹿杯冠军的日本支持者：第1卷（ 38张）",
+      "summary": "日本队5日在麒麟杯上以2比1击败新西兰队。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460439-460439-pn",
+      "publish_time": "2026-10-07T03:05:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-fac09dc641e2",
+      "title": "上田清巧妙地偷走了先发制人的子弹，在当前系列的4场比赛中， “我很幸运” 4G1A （ 26件）",
+      "summary": "日本队5日在麒麟杯上以2比1击败新西兰队。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460435-460435-pn",
+      "publish_time": "2026-10-07T03:05:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-0f912b525b3e",
+      "title": "森康J以2比1击败新西兰！长颈鹿杯冠军和世界杯后连续4场胜利：第3卷（ 34件）",
+      "summary": "日本队5日在麒麟杯上以2比1击败新西兰队。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460434-460434-pn",
+      "publish_time": "2026-10-07T03:05:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-c0c1c43a3e05",
+      "title": "森康J以2比1击败新西兰！长颈鹿杯冠军和世界杯后连续4场胜利：第2卷（ 25张）",
+      "summary": "日本队5日在麒麟杯上以2比1击败新西兰队。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460433-460433-pn",
+      "publish_time": "2026-10-07T03:05:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4c2a8cb9eccf",
+      "title": "森康J以2比1击败新西兰！长颈鹿杯冠军和世界杯后连续4场胜利：第1卷（ 62张）",
+      "summary": "日本队5日在麒麟杯上以2比1击败新西兰队。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460432-460432-pn",
+      "publish_time": "2026-10-07T03:05:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-561aaf4bb360",
       "title": "国家层面的喜悦！观看长颈鹿杯胜利的日本支持者：第3卷（ 60张）",
       "summary": "日本队5日在麒麟杯上以2比1击败新西兰队。",
@@ -3760,87 +3844,39 @@
       "_raw_summary": "【プレミアリーグ第5節】(バイタリティ スタジアム)ボーンマス 0-1(前半0-0)リバプール[リ]アレクサンデル・イサク(57分)[ボ]アントニオ・シウバ(81分)[リ]ドミニク・ショボスライ(46分)、アレクサンデル・イサク(58分)観衆:11,316人└遠藤航が今季プレミア初のメンバー外…リバプールはイラオラ監督凱旋マッチでボーンマス破って今季"
     },
     {
-      "id": "jp_football_euro-ec783342b02b",
-      "title": "与日本同组，泰国以5分的大成绩两次夺得亚运会冠军！香港是“十号”市川悟有机会……不幸的是连续两场失利",
-      "summary": "[9.20亚运会GL第2节泰国5-1香港丰田]亚运会于20日举行小组联赛第2节。U-23泰国国家队和U-23香港国家队与U-21日本国家队在同一组中连续两次获胜，泰国队以5-1获胜。作为对这一结果的回应，如果从晚上7:30开始比赛的日本击败…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459237-459237-fl",
-      "publish_time": "2026-09-20T08:50:26+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
+      "id": "football_intl-5a4bd76f310d",
+      "title": "🎥 梅西最后的探戈时刻",
+      "summary": "在El Monumental ，这是一个情绪复杂的日子。一方面，球迷们对梅西在阿根廷国家队度过的时光表示了所有的热爱和感激，但在他们心中的某个地方...",
+      "source_url": "https://sports.yahoo.com/articles/moments-defined-messis-last-tango-031800001.html",
+      "publish_time": "2026-10-07T03:18:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
       ]
     },
     {
-      "id": "jp_football_euro-b3b2cf117a27",
-      "title": "在对阵吉尔吉斯斯坦的比赛前一天完成训练的U-21日本国家队回国（ 16件）",
-      "summary": "U-21日本国家队19日在丰田市训练， 20日在亚运会小组联赛第二节对阵吉尔吉斯斯坦。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459217-459217-pn",
-      "publish_time": "2026-09-20T01:42:07+00:00",
-      "category": "jp_football_euro",
+      "id": "football_intl-7cd7b0caeb5a",
+      "title": "🥹 观看梅西在阿根廷的最新讲话：我不想离开",
+      "summary": "莱昂内尔·梅西（ 利昂内尔·梅西 ）周二（ 6日）在布宜诺斯艾利斯的努涅斯体育场（ Estadio Monumental de Núñez ）举行了一场盛大的庆祝活动，告别了阿根廷国家队。比赛结束时， 10号星星……",
+      "source_url": "https://sports.yahoo.com/articles/watch-messis-latest-argentina-remarks-021600661.html",
+      "publish_time": "2026-10-07T02:16:00+00:00",
+      "category": "football_intl",
       "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
       ]
     },
     {
-      "id": "jp_football_euro-e6ce9f8a4db4",
-      "title": "今晚，我们将迎来亚运会与吉尔吉斯斯坦的第二轮比赛！ U-21日本国家队前一天训练（ 21张）",
-      "summary": "U-21日本国家队19日在丰田市训练， 20日在亚运会小组联赛第二节对阵吉尔吉斯斯坦。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459209-459209-pn",
-      "publish_time": "2026-09-20T01:35:00+00:00",
-      "category": "jp_football_euro",
+      "id": "football_intl-f9f38a5d3fd2",
+      "title": "贾斯汀·埃利斯（ Justin Ellis ）以1-0战胜加拿大，帮助美国赢得了完美",
+      "summary": "尽管如此，毛里西奥·波切蒂诺（ Mauricio Pochettino ）的球队在四场比赛中获得了四场胜利，另一名年轻球员发挥了作用。",
+      "source_url": "https://sports.yahoo.com/articles/justin-ellis-helps-us-cap-021326373.html",
+      "publish_time": "2026-10-07T02:13:26+00:00",
+      "category": "football_intl",
       "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-32b51a1f30fe",
-      "title": "早上刷新... U-21日本国家队重启亚运会GL第2节： FW队（ 24张）",
-      "summary": "U-21日本国家队18日在丰田市训练， 20日在亚运会小组联赛第二节对阵吉尔吉斯斯坦。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459104-459104-pn",
-      "publish_time": "2026-09-19T01:36:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-a24efa508718",
-      "title": "早上刷新…… U-21日本国家队重启亚运会GL第二节： MF队（ 31件）",
-      "summary": "U-21日本国家队18日在丰田市训练， 20日在亚运会小组联赛第二节对阵吉尔吉斯斯坦。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459103-459103-pn",
-      "publish_time": "2026-09-19T01:36:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-884d3292be56",
-      "title": "早上刷新…… U-21日本国家队重启亚运会GL第二节：东风队（ 37件）",
-      "summary": "U-21日本国家队18日在丰田市训练， 20日在亚运会小组联赛第二节对阵吉尔吉斯斯坦。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459102-459102-pn",
-      "publish_time": "2026-09-19T01:36:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-239dbc895461",
-      "title": "清晨清爽…… U-21日本国家队重启亚运会GL第二节： GK队（ 14件）",
-      "summary": "U-21日本国家队18日在丰田市训练， 20日在亚运会小组联赛第二节对阵吉尔吉斯斯坦。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459101-459101-pn",
-      "publish_time": "2026-09-19T01:36:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
       ]
     },
     {
@@ -4768,42 +4804,6 @@
       ]
     },
     {
-      "id": "football_intl-2a115d4de19f",
-      "title": "英超联赛确认利物浦对曼城的裁判",
-      "summary": "利物浦vs曼城：克里斯·卡瓦纳的任命提高了安菲尔德的赌注克里斯·卡瓦纳将于周日在安菲尔德裁判利物浦与曼城的英超联赛会议，并且...",
-      "source_url": "https://sports.yahoo.com/articles/premier-league-confirm-referee-liverpool-165500086.html",
-      "publish_time": "2026-10-06T16:55:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-5fdb35a1e3e1",
-      "title": "Julian Alvarez在巴塞罗那转会失败后考虑新经纪人",
-      "summary": "朱利安·阿尔瓦雷斯（ Julian Alvarez ）在拟议的夏季从马德里竞技（ Atletico Madrid ）转会到巴塞罗那（ Barcelona ）失败后，正在考虑任命一名新经纪人。阿根廷国脚一直没有",
-      "source_url": "https://sports.yahoo.com/articles/julian-alvarez-considering-agent-failed-165500925.html",
-      "publish_time": "2026-10-06T16:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3696dbf5363e",
-      "title": "曼奇尼： “意大利的批评需要平衡，快乐的FIGC解决了，许多Vialli小姐”",
-      "summary": "教练Roberto Mancini向Gianluca Vialli致敬，很高兴Giovanni Malagò周围的FIGC传奇已经“解决” ，并警告我们在意大利混合结果后需要“平衡”。CT有问题......",
-      "source_url": "https://sports.yahoo.com/articles/mancini-italy-criticism-needs-balance-165500633.html",
-      "publish_time": "2026-10-06T16:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
       "id": "nba-8343732444c1",
       "title": "JJ雷迪克反思了湖人队主教练第三年的增长情况",
       "summary": "洛杉矶湖人队主教练JJ雷迪克谈到了他进入湖人队第三年的教练方法。",
@@ -4857,6 +4857,18 @@
       "summary": "参与评论",
       "source_url": "https://sports.yahoo.com/articles/live-preseason-discussion-brooklyn-nets-223000194.html",
       "publish_time": "2026-10-06T22:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-42bc5c3aaffa",
+      "title": "Without 勒布朗·詹姆斯, Bronny has chance to prove he really belongs",
+      "summary": "You could tell Bronny James needed this. 勒布朗·詹姆斯 fulfilled his dream of becoming the first NBA player to play along…",
+      "source_url": "https://sports.yahoo.com/articles/without-lebron-james-bronny-chance-221019801.html",
+      "publish_time": "2026-10-06T22:10:19+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5745,18 +5757,6 @@
       "summary": "阿杜·蒂耶罗在湖人队的训练营中展示了什么？",
       "source_url": "https://sports.yahoo.com/articles/adou-thiero-sees-great-opportunity-003440895.html",
       "publish_time": "2026-10-06T00:34:40+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-80dc706270fd",
-      "title": "Steph Curry提醒我们季前赛结果并不重要",
-      "summary": "不要为损失而烦恼，它们不算数。",
-      "source_url": "https://sports.yahoo.com/articles/steph-curry-reminds-us-preseason-001258251.html",
-      "publish_time": "2026-10-06T00:12:58+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
