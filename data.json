@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-08T10:20:28.029099+00:00",
+  "generated_at": "2026-10-08T12:23:39.173708+00:00",
   "news": [
+    {
+      "id": "ai_cn-5ce9b894c69d",
+      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+      "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
+      "source_url": "https://www.qbitai.com/2026/10/502020.html",
+      "publish_time": "2026-10-08T10:23:53+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-92ed27634be9",
+      "title": "浪子回头！Manus重启北京办公室大举招聘",
+      "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
+      "source_url": "https://www.qbitai.com/2026/10/502009.html",
+      "publish_time": "2026-10-08T09:30:17+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-be4199028472",
+      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+      "source_url": "https://www.qbitai.com/2026/10/501995.html",
+      "publish_time": "2026-10-08T09:28:44+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-ae821b1920b2",
+      "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+      "summary": "2027年底实现“县县通”",
+      "source_url": "https://www.qbitai.com/2026/10/501956.html",
+      "publish_time": "2026-10-08T09:10:55+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-790e24bb1b5d",
       "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
@@ -907,54 +955,6 @@
       "summary": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
       "source_url": "https://www.qbitai.com/2026/09/496471.html",
       "publish_time": "2026-09-23T08:45:22+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-df0171ea2c11",
-      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
-      "summary": "每秒能产生5000+个沙盒",
-      "source_url": "https://www.qbitai.com/2026/09/496393.html",
-      "publish_time": "2026-09-23T07:29:50+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-a7b0ffe638e6",
-      "title": "Qwen一号位定了！刘大一恒接棒",
-      "summary": "与稚晖君同届天才少年",
-      "source_url": "https://www.qbitai.com/2026/09/496384.html",
-      "publish_time": "2026-09-23T07:27:49+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-524c68551a07",
-      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
-      "summary": "对复杂现实进行推演与决策",
-      "source_url": "https://www.qbitai.com/2026/09/496352.html",
-      "publish_time": "2026-09-23T06:38:07+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-8e21b202b99e",
-      "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
-      "summary": "实时性和通用能力，世界模型可以全都要",
-      "source_url": "https://www.qbitai.com/2026/09/496329.html",
-      "publish_time": "2026-09-23T06:08:50+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
