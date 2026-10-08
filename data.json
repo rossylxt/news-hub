@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-08T06:25:07.650960+00:00",
+  "generated_at": "2026-10-08T08:20:33.585495+00:00",
   "news": [
+    {
+      "id": "ai_cn-790e24bb1b5d",
+      "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+      "summary": "管理岗砍掉四成，顶级车型涨价20%卖",
+      "source_url": "https://www.qbitai.com/2026/10/501930.html",
+      "publish_time": "2026-10-08T07:10:24+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-959b5474e372",
       "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
@@ -943,18 +955,6 @@
       "summary": "实时性和通用能力，世界模型可以全都要",
       "source_url": "https://www.qbitai.com/2026/09/496329.html",
       "publish_time": "2026-09-23T06:08:50+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-148b22429c53",
-      "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
-      "summary": "两万元，买到的是怎样一个机器人",
-      "source_url": "https://www.qbitai.com/2026/09/496304.html",
-      "publish_time": "2026-09-23T05:16:54+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -3844,6 +3844,18 @@
       "_raw_summary": "【プレミアリーグ第5節】(バイタリティ スタジアム)ボーンマス 0-1(前半0-0)リバプール[リ]アレクサンデル・イサク(57分)[ボ]アントニオ・シウバ(81分)[リ]ドミニク・ショボスライ(46分)、アレクサンデル・イサク(58分)観衆:11,316人└遠藤航が今季プレミア初のメンバー外…リバプールはイラオラ監督凱旋マッチでボーンマス破って今季"
     },
     {
+      "id": "football_intl-9d2e3e2d561a",
+      "title": "MLS boss urges 哈里·凯恩 to follow Messi and Beckham before NFL dream",
+      "summary": "哈里·凯恩 shows no signs of slowing down after he marked his record-equalling England appearance with two goals",
+      "source_url": "https://sports.yahoo.com/articles/mls-boss-urges-harry-kane-081225946.html",
+      "publish_time": "2026-10-08T08:12:25+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-779393d58b28",
       "title": "朱利安·沃德（ Julian Ward ）排起了11个进球的感觉，以取代米洛斯·克尔克斯（ Milos",
       "summary": "利物浦可能只是在排队替换米洛斯·克尔克斯。安菲尔德有一个新的负责人。不过，他是一个熟悉的面孔。朱利安·沃德来过这里，他以前也做过。他之前的……",
@@ -4792,12 +4804,84 @@
       ]
     },
     {
-      "id": "football_intl-7c76f102d743",
-      "title": "如何观看阿森纳vs利兹直播：直播、电视、球队新闻、预测",
-      "summary": "枪手在这个赛季不再完美，他们有几周的时间在比曼城低三分的地方炖菜。",
-      "source_url": "https://sports.yahoo.com/articles/watch-arsenal-vs-leeds-live-171611411.html",
-      "publish_time": "2026-10-07T17:16:11+00:00",
-      "category": "football_intl",
+      "id": "nba-c40046e8055c",
+      "title": "湖人VS国王季前赛预览：家，甜蜜的家",
+      "summary": "湖人队将在周四对阵国王队的季前赛中首次在主场比赛。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-vs-kings-preseason-preview-052314625.html",
+      "publish_time": "2026-10-08T05:23:14+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-78479d22c6cc",
+      "title": "步行者123 ，森林狼112 ：即使在失利中也不会忽视新外观的进攻",
+      "summary": "狼队的第二场季前赛没有第一场好，因为明尼苏达队落入了步行者队",
+      "source_url": "https://sports.yahoo.com/articles/pacers-123-timberwolves-112-look-040010639.html",
+      "publish_time": "2026-10-08T04:00:10+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-27052a69d592",
+      "title": "休斯顿火箭队对达拉斯小牛队季前赛预览",
+      "summary": "请原谅我提前预览，但由于休斯顿火箭队和达拉斯小牛队之间的对决将在美国东部时间上午7点结束，我想最好在前一天把这个拿出来。对于中部时间居民来说，游戏开始的时间非常糟糕，因为它发生在澳门， […]",
+      "source_url": "https://sports.yahoo.com/articles/houston-rockets-vs-dallas-mavericks-040000356.html",
+      "publish_time": "2026-10-08T04:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ccfb1883a9b0",
+      "title": "季前赛预览：尼克斯vs.奇才， 2026年10月8日",
+      "summary": "冠军们回到花园迎接特雷·杨和华盛顿重建的名册。",
+      "source_url": "https://sports.yahoo.com/articles/preseason-game-preview-knicks-vs-040000010.html",
+      "publish_time": "2026-10-08T04:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0779e868f425",
+      "title": "季前赛快速回顾： 128美元，雷霆126",
+      "summary": "密尔沃基赢得了后詹尼斯时代的第一场胜利。",
+      "source_url": "https://sports.yahoo.com/articles/preseason-rapid-recap-bucks-128-035346665.html",
+      "publish_time": "2026-10-08T03:53:46+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0687c65c4e72",
+      "title": "游戏回顾：太阳落到公牛124-117 ，因为失误仍然是一个问题",
+      "summary": "虽然核心轮换显示出其潜力，但不一致的重点和周转令人担忧。",
+      "source_url": "https://sports.yahoo.com/articles/game-recap-suns-fall-bulls-034316053.html",
+      "publish_time": "2026-10-08T03:43:16+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-385e351305ab",
+      "title": "预览：奇才队周四晚上开始对阵尼克斯队的季前赛",
+      "summary": "华盛顿奇才队明天将与纽约尼克斯队比赛，开始季前赛。让我们开始吧。游戏信息时间：美国东部时间10月8日星期四下午7:30地点： Madison Square Arena, New York, NY观看方式： Monumental Sports…",
+      "source_url": "https://sports.yahoo.com/articles/preview-wizards-begin-preseason-against-022215689.html",
+      "publish_time": "2026-10-08T02:22:15+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4828,11 +4912,35 @@
       ]
     },
     {
+      "id": "nba-5b4dc38b1ea7",
+      "title": "达科塔·约翰逊（ Dakota Johnson ）承认，她不相信OG Anunoby是一个真实的人： “那不是真的”",
+      "summary": "新电影“Verity”的明星出现在在线节目“First We Feast”中，约翰逊在节目中透露，她不知道尼克斯明星OG Anunoby是谁。",
+      "source_url": "https://www.yahoo.com/entertainment/celebrity/articles/dakota-johnson-admits-she-didn-004759704.html",
+      "publish_time": "2026-10-08T00:47:59+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-0f924dd2cfce",
       "title": "犹他州与丹佛双人约会的爵士乐笔记",
       "summary": "如果有的话，我们可以从犹他州的首次季前赛中学到什么？",
       "source_url": "https://sports.yahoo.com/articles/jazz-notes-utah-double-date-001832734.html",
       "publish_time": "2026-10-08T00:18:32+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e5f4d20fc077",
+      "title": "Buss兄弟姐妹就湖人出售对Jeanie Buss提起诉讼",
+      "summary": "巴斯家族之间的法律纠纷仍在继续。",
+      "source_url": "https://sports.yahoo.com/articles/buss-siblings-filing-case-against-000825928.html",
+      "publish_time": "2026-10-08T00:08:25+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4869,6 +4977,18 @@
       "summary": "Cal QB Jaron-Keawe Sagapolutele在Cal与UNLV的比赛中受了可怕的伤。以下是更新内容：",
       "source_url": "https://sports.yahoo.com/articles/cal-qb-jaron-keawe-sagapolutele-220202780.html",
       "publish_time": "2026-10-07T22:26:33+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-cb4ffb29a608",
+      "title": "布兰登·威廉姆斯利用勇士队短手失利的机会",
+      "summary": "布兰登·威廉姆斯（ Brandon Williams ）在金州勇士队（ Golden State Warriors ）以123-118输给莫达中心（ Moda Center ）的波特兰开拓者队（ Portland Trail Blazers…",
+      "source_url": "https://sports.yahoo.com/articles/brandon-williams-takes-advantage-opportunity-220659781.html",
+      "publish_time": "2026-10-07T22:06:59+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5637,126 +5757,6 @@
       "summary": "湖人队将在球队的第二场季前赛中缺席三巨头和更多比赛。",
       "source_url": "https://sports.yahoo.com/articles/lakers-resting-basically-everyone-against-005658938.html",
       "publish_time": "2026-10-07T00:56:58+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-591536c4aa27",
-      "title": "湖人队的卡梅伦·卡尔（ Cameron Carr ）在新秀赛季可能会有更多",
-      "summary": "湖人新秀卡梅隆·卡尔在他的第一场季前赛中表现如何？",
-      "source_url": "https://sports.yahoo.com/articles/lakers-cameron-carr-might-more-232025359.html",
-      "publish_time": "2026-10-06T23:20:25+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-8343732444c1",
-      "title": "JJ雷迪克反思了湖人队主教练第三年的增长情况",
-      "summary": "洛杉矶湖人队主教练JJ雷迪克谈到了他进入湖人队第三年的教练方法。",
-      "source_url": "https://sports.yahoo.com/articles/jj-redick-reflects-growth-third-231840523.html",
-      "publish_time": "2026-10-06T23:18:40+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-f1db7b38d7c2",
-      "title": "NBA比赛主题：狼队vs步行者队预览",
-      "summary": "狼在爱荷华州与步行者队比赛时，希望保持高亢的氛围。",
-      "source_url": "https://sports.yahoo.com/articles/nba-game-thread-wolves-vs-230000854.html",
-      "publish_time": "2026-10-06T23:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-cbd4344de6da",
-      "title": "太阳队在底特律发现了一件值得担心的事情",
-      "summary": "太阳队表现出了他们想要的侵略性，但当这种侵略性造成罚球时，他们必须转换。",
-      "source_url": "https://sports.yahoo.com/articles/suns-found-one-thing-worry-230000099.html",
-      "publish_time": "2026-10-06T23:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-658565194500",
-      "title": "雄鹿队签下Johni Broome加入训练营名册",
-      "summary": "这位身高6英尺9英寸的大个子将争夺18人名单上的最后一个位置。",
-      "source_url": "https://sports.yahoo.com/articles/bucks-sign-johni-broome-training-225959216.html",
-      "publish_time": "2026-10-06T22:59:59+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e48cb11b20ff",
-      "title": "前Knick Ariel Hukporti在撕裂阿基里斯后出场",
-      "summary": "这位大个子在休赛期与76人队签下了一份为期一年，价值340万美元的合同，此前他在尼克斯队赢得了2025-26赛季的冠军。",
-      "source_url": "https://sports.yahoo.com/articles/ex-knick-ariel-hukporti-season-223333837.html",
-      "publish_time": "2026-10-06T22:33:33+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c5d8baceacb3",
-      "title": "现场季前赛讨论：美国东部时间晚上7:00 ，夏洛特黄蜂队的布鲁克林篮网队",
-      "summary": "参与评论",
-      "source_url": "https://sports.yahoo.com/articles/live-preseason-discussion-brooklyn-nets-223000194.html",
-      "publish_time": "2026-10-06T22:30:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-42bc5c3aaffa",
-      "title": "Without 勒布朗·詹姆斯, Bronny has chance to prove he really belongs",
-      "summary": "You could tell Bronny James needed this. 勒布朗·詹姆斯 fulfilled his dream of becoming the first NBA player to play along…",
-      "source_url": "https://sports.yahoo.com/articles/without-lebron-james-bronny-chance-221019801.html",
-      "publish_time": "2026-10-06T22:10:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-68fa9fc3d9db",
-      "title": "如何观看勇士对湖人",
-      "summary": "金州篮球就在路上！快来加入我们的游戏帖子，在这里聊聊今晚的比赛。",
-      "source_url": "https://sports.yahoo.com/articles/watch-warriors-vs-lakers-220000355.html",
-      "publish_time": "2026-10-06T22:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-09ea931b9c76",
-      "title": "凯文·拜亚德（ Kevin Byard ）详细介绍了迈克·弗拉贝尔（ Mike Vrabel ）受艾伦·艾弗森（",
-      "summary": "“是时候开始跨越人了。”",
-      "source_url": "https://sports.yahoo.com/articles/kevin-byard-details-mike-vrabels-214746009.html",
-      "publish_time": "2026-10-06T21:47:46+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
