@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-09T02:16:59.146327+00:00",
+  "generated_at": "2026-10-09T04:20:20.207394+00:00",
   "news": [
+    {
+      "id": "ai_cn-32ca9a4db60d",
+      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+      "summary": "江淮再度跌停",
+      "source_url": "https://www.qbitai.com/2026/10/502114.html",
+      "publish_time": "2026-10-09T02:51:10+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-df7b48cbe94a",
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "summary": "多Agent协同还能自我进化",
+      "source_url": "https://www.qbitai.com/2026/10/502106.html",
+      "publish_time": "2026-10-09T02:37:22+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-f25025c98106",
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "summary": "让AI反复试错的“练兵场”来了",
+      "source_url": "https://www.qbitai.com/2026/10/502096.html",
+      "publish_time": "2026-10-09T02:03:48+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-ae9e127c4ad4",
       "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
@@ -919,42 +955,6 @@
       "summary": "懂出海，能记忆，自进化",
       "source_url": "https://www.qbitai.com/2026/09/496740.html",
       "publish_time": "2026-09-24T04:11:51+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-3c52cd2cfabe",
-      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-      "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
-      "source_url": "https://www.qbitai.com/2026/09/496658.html",
-      "publish_time": "2026-09-24T02:51:18+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-2b6910bbfc14",
-      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-      "summary": "美国也开启了全民养虾狂潮",
-      "source_url": "https://www.qbitai.com/2026/09/496647.html",
-      "publish_time": "2026-09-24T02:23:12+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-47a6079dfb80",
-      "title": "成立九年，中科类脑把积累装进Token工厂",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.qbitai.com/2026/09/496615.html",
-      "publish_time": "2026-09-24T00:48:02+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -3844,6 +3844,54 @@
       "_raw_summary": "【プレミアリーグ第5節】(バイタリティ スタジアム)ボーンマス 0-1(前半0-0)リバプール[リ]アレクサンデル・イサク(57分)[ボ]アントニオ・シウバ(81分)[リ]ドミニク・ショボスライ(46分)、アレクサンデル・イサク(58分)観衆:11,316人└遠藤航が今季プレミア初のメンバー外…リバプールはイラオラ監督凱旋マッチでボーンマス破って今季"
     },
     {
+      "id": "football_intl-a4f822328688",
+      "title": "随着雄心壮志的回归，斯旺西是如何找到回归的",
+      "summary": "随着EFL的回归，斯旺西市领先冠军， BBC Sport着眼于俱乐部如何带回旧的价值观和新的希望。",
+      "source_url": "https://sports.yahoo.com/articles/swansea-found-way-back-ambition-035526767.html",
+      "publish_time": "2026-10-09T03:55:26+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-21a8c611aedf",
+      "title": "Brasileirão第29轮：冠军争夺、溃败和复出；参见表格",
+      "summary": "周四晚上（ 8日） ，四场比赛结束了Brasileirão的第29周比赛。排名前十的球队中有八支在比赛中。冠军争夺战的差距缩小了，排名前四的竞争者选手……",
+      "source_url": "https://sports.yahoo.com/articles/brasileir-o-round-29-title-024300550.html",
+      "publish_time": "2026-10-09T02:43:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-cc8d23818a8b",
+      "title": "🎥 帕尔梅拉斯（ Palmeiras ）让球迷保持警惕，但击败巴伊亚（ Bahia ） ，靠近弗拉门",
+      "summary": "帕尔梅拉斯很感激，然后利用弗拉门戈的失误。他们没有抓住他们在努班克公园创造的众多机会，让他们的球迷感到不安，但在周四以1比0击败巴伊亚（ 8...",
+      "source_url": "https://sports.yahoo.com/articles/palmeiras-keep-fans-edge-beat-022700234.html",
+      "publish_time": "2026-10-09T02:27:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d254413bcfbe",
+      "title": "基利安·姆巴佩去阿森纳还是利物浦？报告称皇家马德里球星考虑在2027年更换俱乐部",
+      "summary": "姆巴佩转会皇马本应将世界杯冠军的职业生涯提升到一个新的水平。相反，他看到前俱乐部巴黎圣日耳曼连续赢得冠军联赛冠军。",
+      "source_url": "https://sports.yahoo.com/articles/kylian-mbappe-arsenal-liverpool-reports-021645874.html",
+      "publish_time": "2026-10-09T02:16:45+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-12a2218cbe70",
       "title": "🔥 剧情丰富！桑托斯反击以赢得对弗拉门戈的积分",
       "summary": "弗拉门戈在维拉贝尔米罗（ Vila Belmiro ）领先桑托斯（ Santos ） ，当时他们仍有11名球员在场上。但是内马尔（ 内马尔 ）转换了两个点球，以确保在比赛的第29天以2–2战平。",
@@ -4756,54 +4804,6 @@
       ]
     },
     {
-      "id": "football_intl-b832d85527af",
-      "title": "在最新的健身更新后，巴塞罗那队长将开始对赫塔菲的比赛",
-      "summary": "巴塞罗那越来越有可能对拉菲尼亚对赫塔菲采取谨慎的态度，预计这位队长将在周六的比赛开始时坐在替补席上，而不是冒险加剧他最近的比赛。",
-      "source_url": "https://sports.yahoo.com/articles/barcelona-captain-set-start-bench-123000696.html",
-      "publish_time": "2026-10-08T12:30:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-8094f3293282",
-      "title": "在动荡的国际休息之后， Werder Bremen严重依赖Niclas Füllkrug",
-      "summary": "一场国际比赛开始时，不来梅在四场德甲联赛之后获得7分，这对德国绿色汉萨城邦俱乐部来说并不友好。Daniel Thioune的侧面是...",
-      "source_url": "https://sports.yahoo.com/articles/werder-bremen-lean-heavily-niclas-122500930.html",
-      "publish_time": "2026-10-08T12:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c231d1268970",
-      "title": "五个国家，两场比赛，一个进球卡莱尔的Obiero",
-      "summary": "米卡·奥别罗（ Micah Obiero ）在卡莱尔联队（ Carlisle United ）在奥尔德肖特（ Aldershot ）的胜利中客串进球，涉及五个国家和",
-      "source_url": "https://sports.yahoo.com/articles/five-nations-two-games-one-122100115.html",
-      "publish_time": "2026-10-08T12:21:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-9ec68055dc05",
-      "title": "Zanetti透露了他如何从国际米兰队长到副总裁",
-      "summary": "哈维尔·扎内蒂（ Javier Zanetti ）透露了他如何将训练场地换成董事会会议室，以及为什么他仍在学习以跟上国际米兰副总裁的角色。通过CalcioMercato.com的报价， Ne...",
-      "source_url": "https://sports.yahoo.com/articles/zanetti-reveals-went-inter-captain-121500973.html",
-      "publish_time": "2026-10-08T12:15:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
       "id": "nba-03752319aa94",
       "title": "尼克斯进攻再次落后，被巫师击倒， 111-109",
       "summary": "自6月中旬以来，在麦迪逊广场花园的第一场比赛中，尼克斯队以111-109落后于华盛顿奇才队，这是他们在2026-27季前赛中的第二场失利。",
@@ -4833,6 +4833,18 @@
       "summary": "骑士队在季前赛的第一场比赛中被击败。",
       "source_url": "https://sports.yahoo.com/articles/final-score-cavs-lose-first-012738563.html",
       "publish_time": "2026-10-09T01:27:38+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c50e5cff4786",
+      "title": "勒布朗·詹姆斯, 76ers' loaded starting 5 play preseason game: Did we learn anything?",
+      "summary": "勒布朗·詹姆斯 and 杰伦·布朗 made their 76ers debuts during Thursday's preseason game. How did the revamped Sixers look…",
+      "source_url": "https://sports.yahoo.com/articles/lebron-james-76ers-loaded-starting-012228256.html",
+      "publish_time": "2026-10-09T01:22:28+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5745,18 +5757,6 @@
       "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
       "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-201419824.html",
       "publish_time": "2026-10-07T20:14:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5fffeb8156a3",
-      "title": "Dana Altman在休赛期暮色中的退休成为神秘趋势的最新动向",
-      "summary": "德纳·奥尔特曼（ Dana Altman ）成为本赛季开始前退休的最新高调的大学篮球教练。这是这项运动的问题吗？",
-      "source_url": "https://sports.yahoo.com/articles/dana-altmans-retirement-offseasons-twilight-191222249.html",
-      "publish_time": "2026-10-07T19:12:22+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
