@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-09T08:20:08.055135+00:00",
+  "generated_at": "2026-10-09T10:21:01.837761+00:00",
   "news": [
+    {
+      "id": "ai_cn-d3ef9560acd1",
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+      "source_url": "https://www.qbitai.com/2026/10/502422.html",
+      "publish_time": "2026-10-09T08:53:08+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-e1b4ff478237",
+      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+      "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+      "source_url": "https://www.qbitai.com/2026/10/502411.html",
+      "publish_time": "2026-10-09T08:47:34+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-5e182b57c906",
       "title": "字节找到了DeepSeek时强时弱的原因",
@@ -931,30 +955,6 @@
       "summary": "1.5台6000D跑赢1台B300！",
       "source_url": "https://www.qbitai.com/2026/09/496925.html",
       "publish_time": "2026-09-24T14:17:48+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-1ff8f18390c1",
-      "title": "时隔十年，AI大牛署名新论文",
-      "summary": "让自动驾驶“走一步想十步”",
-      "source_url": "https://www.qbitai.com/2026/09/496834.html",
-      "publish_time": "2026-09-24T12:58:55+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-f03f5ea81151",
-      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
-      "summary": "人类演示一次，机器人即可实现跨场景任务复用",
-      "source_url": "https://www.qbitai.com/2026/09/496816.html",
-      "publish_time": "2026-09-24T08:20:12+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
