@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-09T10:21:01.837761+00:00",
+  "generated_at": "2026-10-09T12:19:58.457585+00:00",
   "news": [
+    {
+      "id": "ai_cn-e88a465d3709",
+      "title": "TRAE终于把Code和Work合并了",
+      "summary": "大写的方便",
+      "source_url": "https://www.qbitai.com/2026/10/502426.html",
+      "publish_time": "2026-10-09T09:19:57+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-d3ef9560acd1",
       "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
@@ -943,18 +955,6 @@
       "summary": "懂出海，能记忆，自进化",
       "source_url": "https://www.qbitai.com/2026/09/496961.html",
       "publish_time": "2026-09-24T14:20:14+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-4eb2ac75c487",
-      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
-      "summary": "1.5台6000D跑赢1台B300！",
-      "source_url": "https://www.qbitai.com/2026/09/496925.html",
-      "publish_time": "2026-09-24T14:17:48+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -4804,6 +4804,18 @@
       ]
     },
     {
+      "id": "nba-70288d318fe2",
+      "title": "Darko Rajakovic on 科怀·伦纳德, Scottie Barnes and the Raptors’ championship ambitions",
+      "summary": "An interview with Raptors head coach Darko Rajakovic on the team’s sudden championship aspirations with 科怀·伦纳德.",
+      "source_url": "https://sports.yahoo.com/articles/darko-rajakovic-kawhi-leonard-scottie-120000609.html",
+      "publish_time": "2026-10-09T12:00:00+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-cd4144fdf110",
       "title": "卢卡·东契奇 and Austin Reaves show why they click in Lakers' preseason win",
       "summary": "The Lakers will lean on 卢卡·东契奇 and Austin Reaves to lead the team this season, and they showed their on-court chemi…",
@@ -5745,18 +5757,6 @@
       "summary": "勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）在社交媒体上推翻了迈克·布林（ Mike Breen ）关于他和乔尔·恩比",
       "source_url": "https://sports.yahoo.com/nba/article/espn-announcer-mike-breen-apologizes-after-lebron-james-refutes-on-air-story-about-him-and-joel-embiid-205418751.html",
       "publish_time": "2026-10-07T20:54:18+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-da4fd95e76fb",
-      "title": "在欧洲联赛拒绝合并后， NBA欧洲计划仍在继续",
-      "summary": "NBA正在推进其拟议的NBA欧洲联赛。与欧洲联赛合并的关键投票刚刚落下。",
-      "source_url": "https://sports.yahoo.com/articles/nba-europe-plans-continue-euroleague-202710522.html",
-      "publish_time": "2026-10-07T20:27:10+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
