@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:20:22.674797+00:00",
+  "generated_at": "2026-10-10T14:17:23.319371+00:00",
   "news": [
     {
       "id": "ai_cn-46673aa669d6",
@@ -6868,96 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-8a889f5b13ab",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "热那亚",
-      "away_team": "佛罗伦萨",
-      "match_time": "2026-10-10T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-b938d79f3a21",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "美因茨05",
-      "away_team": "勒沃库森",
-      "match_time": "2026-10-10T13:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-ebd481ecd8bc",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "霍芬海姆",
-      "away_team": "汉堡",
-      "match_time": "2026-10-10T13:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-76e9543d99f9",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "奥格斯堡",
-      "away_team": "拜仁慕尼黑",
-      "match_time": "2026-10-10T13:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-0579baba7c39",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "桑德兰",
-      "away_team": "布莱顿",
-      "match_time": "2026-10-10T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-6c299714e010",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "切尔西",
-      "away_team": "伯恩茅斯",
-      "match_time": "2026-10-10T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-962eb33042e0",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "伊普斯维奇",
-      "away_team": "富勒姆",
-      "match_time": "2026-10-10T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-3f22443e7527",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "阿斯顿维拉",
-      "away_team": "布伦特福德",
-      "match_time": "2026-10-10T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-352cf52a374b",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "阿拉维斯",
-      "away_team": "马德里竞技",
-      "match_time": "2026-10-10T14:15:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-5f4c5360d0ca",
       "sport": "football",
       "competition": "意甲",
@@ -7004,6 +6914,106 @@
       "home_team": "布雷斯特",
       "away_team": "昂热",
       "match_time": "2026-10-10T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-cc833181b7e4",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "摩纳哥",
+      "away_team": "图卢兹",
+      "match_time": "2026-10-10T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-d312f8779421",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "皇家马德里",
+      "away_team": "比利亚雷亚尔",
+      "match_time": "2026-10-10T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-d03a04ac8fce",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "科莫",
+      "away_team": "罗马",
+      "match_time": "2026-10-11T10:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b0f13280cc90",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "赫尔城",
+      "away_team": "埃弗顿",
+      "match_time": "2026-10-11T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-771e0df14dee",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "水晶宫",
+      "away_team": "诺丁汉森林",
+      "match_time": "2026-10-11T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-866979f4cd6e",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "莱切",
+      "away_team": "博洛尼亚",
+      "match_time": "2026-10-11T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-2c22268244f6",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "拉齐奥",
+      "away_team": "蒙扎",
+      "match_time": "2026-10-11T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b9724bc9930b",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "尼斯",
+      "away_team": "斯特拉斯堡",
+      "match_time": "2026-10-11T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b883e6ee0556",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "科隆",
+      "away_team": "门兴格拉德巴赫",
+      "match_time": "2026-10-11T13:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3e037fd022f6",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "皇家社会",
+      "away_team": "拉科鲁尼亚",
+      "match_time": "2026-10-11T14:15:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
