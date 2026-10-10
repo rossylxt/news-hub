@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:26:42.731353+00:00",
+  "generated_at": "2026-10-10T02:19:51.283375+00:00",
   "news": [
     {
       "id": "ai_cn-e88a465d3709",
@@ -962,6 +962,18 @@
       ]
     },
     {
+      "id": "ai_intl-3fc0fe8ac680",
+      "title": "Anthropic无法可靠地控制其AI代理。相反，它正在从实时互联网中切断其内部淘汰",
+      "summary": "Anthropic表示，在另行通知之前，它“关闭了所有内部评估的实时互联网接入”。",
+      "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publish_time": "2026-10-10T00:18:32+00:00",
+      "category": "ai_intl",
+      "is_important": true,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-6609f1addbf3",
       "title": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
       "summary": "TypeSafe AI在由a16Z领投的一轮融资中筹集了8.7亿美元$。",
@@ -1903,18 +1915,6 @@
       "summary": "谷歌推出了首个进入轨道的先进芯片，为太空数据中心铺平了道路。",
       "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "publish_time": "2026-10-01T19:18:03+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-b56eb6fb25bd",
-      "title": "据《华尔街日报》报道， OpenAI与三名安全研究人员断绝了联系",
-      "summary": "报告称， OpenAI已与三名安全研究人员分道扬镳，此前内部调查发现他们对敏感的公司信息处理不当。",
-      "source_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "publish_time": "2026-10-01T18:14:42+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -3844,6 +3844,54 @@
       "_raw_summary": "【プレミアリーグ第5節】(バイタリティ スタジアム)ボーンマス 0-1(前半0-0)リバプール[リ]アレクサンデル・イサク(57分)[ボ]アントニオ・シウバ(81分)[リ]ドミニク・ショボスライ(46分)、アレクサンデル・イサク(58分)観衆:11,316人└遠藤航が今季プレミア初のメンバー外…リバプールはイラオラ監督凱旋マッチでボーンマス破って今季"
     },
     {
+      "id": "football_intl-df70685e1544",
+      "title": "曼城举报人继续受到证人保护",
+      "summary": "在葡萄牙当局暂停终止调查的决定后，发布有助于引发英超对曼城的调查的文件的计算机黑客将继续受到证人保护。",
+      "source_url": "https://sports.yahoo.com/articles/man-city-whistleblower-remain-witness-230123908.html",
+      "publish_time": "2026-10-09T23:01:23+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-5ffa1eabb656",
+      "title": "曼城的一个主要武器已经准备好进入利物浦，但对两名球员的健康状况仍然存在疑问",
+      "summary": "周日，曼城在安菲尔德迎战利物浦，这将是他们本赛季的第六场英超比赛。恩佐·马雷斯卡（ Enzo Maresca ）在赢得前五场比赛后坐在桌子上……",
+      "source_url": "https://sports.yahoo.com/articles/major-manchester-city-weapon-ready-223800533.html",
+      "publish_time": "2026-10-09T22:38:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4134245b049b",
+      "title": "国际米兰对帕尔马：苏西奇在柯蒂斯·琼斯受伤后备受青睐",
+      "summary": "国际米兰将在周日面对帕尔马，没有柯蒂斯·琼斯（ Curtis Jones ） ，预计他将因内收肌受伤缺席三到四周，因为佩塔尔·苏西奇（ Petar Sucic ）成为据报道的最爱替换他。",
+      "source_url": "https://sports.yahoo.com/articles/inter-vs-parma-sucic-favoured-222500192.html",
+      "publish_time": "2026-10-09T22:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-47b8ebbac4ec",
+      "title": "恩佐·马雷斯卡（ Enzo Maresca ）在面对围绕曼城的棘手问题时支持他的俱乐部",
+      "summary": "恩佐·马雷斯卡（ Enzo Maresca ）在曼城与利物浦在安菲尔德发生英超联赛冲突之前的比赛前新闻发布会上面对媒体时知道会发生什么。几乎不会有……",
+      "source_url": "https://sports.yahoo.com/articles/enzo-maresca-backed-club-faced-221300589.html",
+      "publish_time": "2026-10-09T22:13:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-5035a7677ee8",
       "title": "少年莫拉的阿森纳眼睛交易-周六的八卦",
       "summary": "墨西哥少年Gilberto Mora的阿森纳EYE交易， AC米兰在Endrick的杆位，诺丁汉森林为Murillo的兴趣做好准备",
@@ -4749,54 +4797,6 @@
       "summary": "曼城已经向他们的球员保证，他们不必担心俱乐部的财务案件。根据《太阳报》的说法，城市人坚持认为， “体育正义”将占上风，因为他们...",
       "source_url": "https://sports.yahoo.com/articles/manchester-city-chiefs-confident-winning-164500056.html",
       "publish_time": "2026-10-09T16:45:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-db5faaed3e09",
-      "title": "有人会停止Infantino连任国际足联主席吗？",
-      "summary": "距离Infantino的国际足联前锋企业提案的消息传出不到两个月， Gianni Infantino可能被免除总统职位的可能性似乎很小。",
-      "source_url": "https://sports.yahoo.com/articles/anyone-stop-election-infantino-fifa-163558018.html",
-      "publish_time": "2026-10-09T16:35:58+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-d0f51c9d8028",
-      "title": "成交👀？ AFA阻止了Marcos Rojo转学到Estudiantes",
-      "summary": "马科斯·罗霍（ Marcos Rojo ）转会拉普拉塔大学（ Estudiantes de La Plata ）的决定被搁置，因为亚足联决定不让这名后卫在国内联赛中出场。额外的注册时段被拒绝， CONMEBOL的stanceArge...",
-      "source_url": "https://sports.yahoo.com/articles/deal-off-afa-blocks-marcos-163000398.html",
-      "publish_time": "2026-10-09T16:30:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-dbdd3e188ab1",
-      "title": "功能| Niko Kovač已经恢复了多特蒙德，但他能让他们再次成为赢家吗？",
-      "summary": "自2025年2月取代努里·萨欣（ Nuri Sahin ）以来，尼科·科瓦奇（ Niko Kovač ）将多特蒙德从德甲联赛的第11名拖入欧洲冠军联赛，随后在2025/26赛季获得第二名。现在，多特……",
-      "source_url": "https://sports.yahoo.com/articles/feature-niko-kova-restored-borussia-163000628.html",
-      "publish_time": "2026-10-09T16:30:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-15b6fbf222a5",
-      "title": "野蛮人将给予Posh “能量” -狐狸老板马丁",
-      "summary": "莱斯特经理拉塞尔·马丁（ Russell Martin ）表示，本周在新老板罗比·萨维奇（ Robbie Savage ）的领导下，彼得堡将是一个更加神秘的前景–但他预计POSH会带来“大量能量”。",
-      "source_url": "https://sports.yahoo.com/articles/savage-posh-energy-foxes-boss-162731749.html",
-      "publish_time": "2026-10-09T16:27:31+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
