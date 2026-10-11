@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-11T10:18:20.935774+00:00",
+  "generated_at": "2026-10-11T12:21:51.407582+00:00",
   "news": [
+    {
+      "id": "ai_cn-059125bf4e89",
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "summary": "一套生成论文初稿的多智能体工作流",
+      "source_url": "https://www.qbitai.com/2026/10/502644.html",
+      "publish_time": "2026-10-11T09:04:31+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-f5d88ee10f28",
+      "title": "何恺明团队发布多模态Harness框架",
+      "summary": "多模态模型的视觉原生Harness，来了！",
+      "source_url": "https://www.qbitai.com/2026/10/502628.html",
+      "publish_time": "2026-10-11T08:59:06+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-260a4b999cbe",
+      "title": "陶哲轩：数学2.0时代已至！",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/10/502594.html",
+      "publish_time": "2026-10-11T07:52:16+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-b94423f90750",
       "title": "王的猜想，刚刚扩展到四维",
@@ -919,42 +955,6 @@
       "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
       "source_url": "https://www.qbitai.com/2026/09/498271.html",
       "publish_time": "2026-09-26T09:07:41+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-a532feb3d58b",
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "source_url": "https://www.qbitai.com/2026/09/497624.html",
-      "publish_time": "2026-09-26T09:01:00+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-4c90ac444460",
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "source_url": "https://www.qbitai.com/2026/09/497613.html",
-      "publish_time": "2026-09-26T07:18:05+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-9209d16fc8cb",
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "summary": "vLLM人马创业公司团队出品",
-      "source_url": "https://www.qbitai.com/2026/09/497425.html",
-      "publish_time": "2026-09-26T07:12:05+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -6868,16 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-d03a04ac8fce",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "科莫",
-      "away_team": "罗马",
-      "match_time": "2026-10-11T10:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-b0f13280cc90",
       "sport": "football",
       "competition": "英超",
@@ -7024,6 +7014,16 @@
       "home_team": "都灵",
       "away_team": "乌迪内斯",
       "match_time": "2026-10-12T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ca935f3dbcea",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "莱万特",
+      "away_team": "塞维利亚",
+      "match_time": "2026-10-12T19:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
