@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:17:28.950841+00:00",
+  "generated_at": "2026-10-11T20:17:51.044312+00:00",
   "news": [
     {
       "id": "ai_cn-059125bf4e89",
@@ -962,6 +962,18 @@
       ]
     },
     {
+      "id": "ai_intl-c99af546fb45",
+      "title": "距离TechCrunch Disrupt 2026有48小时的路程—直接聆听开发人员的心声",
+      "summary": "在不到48小时的时间里， TechCrunch Disrupt 2026在旧金山的Moscone West启动。在价格上涨之前，通行证最多可节省$ 100 ，第二张通行证还可享受50%的优惠。或获得其他优惠。",
+      "source_url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "publish_time": "2026-10-11T19:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-0cb44539674b",
       "title": "人工智能行业能否通过摆脱保密协议来说服数据中心的对手？",
       "summary": "在Equity上，我们讨论了数据中心暂停的影响以及人工智能行业是否存在通信问题。",
@@ -1903,18 +1915,6 @@
       "summary": "Blackstone的Jas Khaira将在TechCrunch Disrupt 2026上登上构建下一代AI的建设者舞台。注册您的通行证，一秒钟即可享受五折优惠。",
       "source_url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
       "publish_time": "2026-10-02T17:32:05+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-0b1cf3414054",
-      "title": "Circuit Breaker Labs希望为您的孩子（以及您自己）打造更安全的人工智能",
-      "summary": "人们都在谈论人工智能未来可能会如何毁灭人类，很容易忘记人工智能已经对一些人造成了心理伤害。Circuit Breaker Labs公司研发的“碰撞测试假人”正是为了解决这个问题。",
-      "source_url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "publish_time": "2026-10-02T17:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -6868,26 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-f193f2a46d8e",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "卡利亚里",
-      "away_team": "尤文图斯",
-      "match_time": "2026-10-11T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-aab401a72381",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "桑坦德竞技",
-      "away_team": "瓦伦西亚",
-      "match_time": "2026-10-11T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-a56f4c6de568",
       "sport": "football",
       "competition": "意甲",
@@ -6963,6 +6943,16 @@
       "competition": "欧冠",
       "home_team": "曼城",
       "away_team": "巴黎圣日耳曼",
+      "match_time": "2026-10-14T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-b369b799b354",
+      "sport": "football",
+      "competition": "欧冠",
+      "home_team": "皇家贝蒂斯",
+      "away_team": "波尔图",
       "match_time": "2026-10-14T19:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
