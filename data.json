@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:16:43.961997+00:00",
+  "generated_at": "2026-10-11T18:17:28.950841+00:00",
   "news": [
     {
       "id": "ai_cn-059125bf4e89",
@@ -962,6 +962,18 @@
       ]
     },
     {
+      "id": "ai_intl-0cb44539674b",
+      "title": "人工智能行业能否通过摆脱保密协议来说服数据中心的对手？",
+      "summary": "在Equity上，我们讨论了数据中心暂停的影响以及人工智能行业是否存在通信问题。",
+      "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "publish_time": "2026-10-11T16:52:33+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-1b97ced39af6",
       "title": "这些高管认为语音AI尚未达到ChatGPT时刻",
       "summary": "语音人工智能经常错过上下文层的重要点，并导致整个管道中断",
@@ -1903,18 +1915,6 @@
       "summary": "人们都在谈论人工智能未来可能会如何毁灭人类，很容易忘记人工智能已经对一些人造成了心理伤害。Circuit Breaker Labs公司研发的“碰撞测试假人”正是为了解决这个问题。",
       "source_url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
       "publish_time": "2026-10-02T17:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-acfe1bdd02da",
-      "title": "教皇利奥十四世不喜欢人工智能产生的艺术",
-      "summary": "教皇写道： “甚至在美学之前，艺术与机器可以通过基于他人创建的数百万图像的统计计算产生的东西之间存在本体论差异。” “算法缺乏人性的火花。”",
-      "source_url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "publish_time": "2026-10-02T15:39:41+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -3844,6 +3844,330 @@
       "_raw_summary": "【プレミアリーグ第5節】(バイタリティ スタジアム)ボーンマス 0-1(前半0-0)リバプール[リ]アレクサンデル・イサク(57分)[ボ]アントニオ・シウバ(81分)[リ]ドミニク・ショボスライ(46分)、アレクサンデル・イサク(58分)観衆:11,316人└遠藤航が今季プレミア初のメンバー外…リバプールはイラオラ監督凱旋マッチでボーンマス破って今季"
     },
     {
+      "id": "football_intl-be1789fbdd70",
+      "title": "伯纳姆将公布曼城会议的细节",
+      "summary": "安迪·伯纳姆（ Andy Burnham ）在曼城被判犯有与违反英超财务规则有关的所有指控后发表的言论遭到了批评。",
+      "source_url": "https://www.yahoo.com/news/politics/articles/burnham-release-details-man-city-180250401.html",
+      "publish_time": "2026-10-11T18:02:50+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-47ece7bde079",
+      "title": "谁“只需要做得更好” ？利物浦v曼城球员评分",
+      "summary": "利物浦和曼城球员在英超比赛后的评分。",
+      "source_url": "https://sports.yahoo.com/articles/cherki-sparkles-must-more-player-173736296.html",
+      "publish_time": "2026-10-11T18:02:20+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6ef82cdddb98",
+      "title": "球迷愤怒，队长降级：前冠军联赛冠军是否会崩溃？",
+      "summary": "“法甲2项目2026 ？”几周前，在奥林匹克马赛主场看到一则横幅。下面挂着另一个，针对多数股东弗兰克·麦考特： “麦考特比赛结束！”粉丝们很生气……",
+      "source_url": "https://sports.yahoo.com/articles/fans-rage-captain-demoted-former-180200428.html",
+      "publish_time": "2026-10-11T18:02:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-25b8fe9daee7",
+      "title": "随着不确定的未来迫在眉睫，曼城的支持者对他们俱乐部的过去感到安慰",
+      "summary": "埃尔林·哈兰德（ 厄林·哈兰德 ）、杰里米·多库（ Jeremy Doku ）和拉扬·切尔基（ Rayan Cherki ）在安菲尔德取得了不错的胜利，但对曼城来说，违反英超联赛财务规则",
+      "source_url": "https://sports.yahoo.com/articles/manchester-city-supporters-solace-club-175524805.html",
+      "publish_time": "2026-10-11T17:55:24+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-cd66f4b76669",
+      "title": "🚨已确认的XI ： Vasco将在El Sardinero首次亮相",
+      "summary": "El Sardinero在西班牙足球的顶级联赛中举办了一场紧张的比赛，桑坦德车队和瓦伦西亚车队拼命寻求三分，为自己在积分榜上留出一些喘息的空间。",
+      "source_url": "https://sports.yahoo.com/articles/confirmed-xis-vasco-set-debut-175500096.html",
+      "publish_time": "2026-10-11T17:55:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-bd08a4988b7b",
+      "title": "确认🚨阵容：尤文图斯参观意甲的惊喜套餐",
+      "summary": "Unipol Domus在意甲联赛第6天的卡利亚里和尤文图斯之间举办了一场诱人的周日晚上冲突。法比奥·皮萨卡内（ Fabio Pisacane ）的球队已经成为比赛的惊喜套餐，收集了12分......",
+      "source_url": "https://sports.yahoo.com/articles/line-ups-confirmed-juventus-visit-175300081.html",
+      "publish_time": "2026-10-11T17:53:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-fbfe190cfb08",
+      "title": "Mac Allister、Munoz和Wirtz获得6.5分|利物浦球员以令人失望的失利战胜曼城",
+      "summary": "利物浦今天早些时候在安菲尔德欢迎曼城，因为他们希望在英超主场取得好成绩。红军在比赛中取得了光明的开局，但却被扣到了一个没有得分的...",
+      "source_url": "https://sports.yahoo.com/articles/mac-allister-munoz-wirtz-6-174500191.html",
+      "publish_time": "2026-10-11T17:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-52a9013e5b88",
+      "title": "我们从利物浦对阵曼城的比赛中学到了三件事，因为红牌挥杆对丝绸之城有利",
+      "summary": "由于一个关键的决定，曼城从利物浦飙升至16分钟的世界级。",
+      "source_url": "https://sports.yahoo.com/articles/learned-liverpool-vs-manchester-city-173349542.html",
+      "publish_time": "2026-10-11T17:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-600bb825ecca",
+      "title": "曼城3利物浦0 ：曼城在安菲尔德的压倒性胜利中对曼城球员的评分",
+      "summary": "曼城3 （ 厄林·哈兰德 65 '， Jeremy Doku 68' ， Rayan Cherki 78 '）利物浦0这里是曼城今天在安菲尔德以3-0击败利物浦的城市球员评分。Ryan Gravenberch是……",
+      "source_url": "https://sports.yahoo.com/articles/manchester-city-3-liverpool-0-174100396.html",
+      "publish_time": "2026-10-11T17:41:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2bc1099bfb56",
+      "title": "德甲球员评分|弗莱堡2-1沙尔克04",
+      "summary": "朱利安·舒斯特（ Julian Schuster ）的布赖斯高尔（ Breisgauer ）在2026/27赛季的第5场比赛中以2比1击败沙尔克（ Schalke ） ，夺回了德甲榜首。本周末从Borussia Dortm...",
+      "source_url": "https://sports.yahoo.com/articles/bundesliga-player-ratings-freiburg-2-174100262.html",
+      "publish_time": "2026-10-11T17:41:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-c1f73aa4f81a",
+      "title": "利物浦对曼城球员评分：恩佐为恩佐效力，多库在替补席上脱颖而出",
+      "summary": "这不是许多人预期的那一天，因为曼城在下半场精彩的表现背后，以3比0击败利物浦。",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-vs-manchester-city-player-174046475.html",
+      "publish_time": "2026-10-11T17:40:46+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ad68e68b0a2a",
+      "title": "意甲：卡利亚里对尤文图斯：已确认阵容",
+      "summary": "卡利亚里希望在周日晚上在意甲主场迎战尤文图斯时保持他们令人印象深刻的连胜纪录。尤文图斯进入了国际比赛。",
+      "source_url": "https://sports.yahoo.com/articles/serie-cagliari-vs-juventus-confirmed-174000174.html",
+      "publish_time": "2026-10-11T17:40:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-7f5b294573d6",
+      "title": "Enzo Maresca ， 厄林·哈兰德对利物浦比赛的反应，在安菲尔德的接待",
+      "summary": "周日，恩佐·马雷斯卡（ Enzo Maresca ）面临着一项艰巨的任务，引导曼城（ Manchester City ）对他们的第一场比赛做出反应，并在他们被定罪后反对人群。",
+      "source_url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
+      "publish_time": "2026-10-11T17:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ffd7eea36337",
+      "title": "曼城在安菲尔德击败了利物浦–但这一切都毫无意义吗？",
+      "summary": "利物浦0-3曼城：杰里米·多库（ Jeremy Doku ）在瑞安·格雷文伯奇（ Ryan Gravenberch ）因两张黄牌被罚下场后，从替补席上改变了一场奇怪",
+      "source_url": "https://sports.yahoo.com/articles/man-city-blow-liverpool-away-173726842.html",
+      "publish_time": "2026-10-11T17:37:26+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-7d68d92ccc28",
+      "title": "曼城3利物浦0 ：城市胜利的观察，这意味着更多",
+      "summary": "曼城3 （ 厄林·哈兰德 65 '， Jeremy Doku 68' ， Rayan Cherki 78 '）利物浦0曼城今天在安菲尔德以3-0击败利物浦。今天的比赛是偶数……",
+      "source_url": "https://sports.yahoo.com/articles/manchester-city-3-liverpool-0-173300038.html",
+      "publish_time": "2026-10-11T17:33:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-090b50892a79",
+      "title": "Donnarumma在曼城开启风格之前奠定了基础",
+      "summary": "曼城在安菲尔德夺取控制权，因为多库激发了利物浦的无情反应曼城经受住了利物浦的早期压力曼城在安菲尔德的下午要求耐心等待...",
+      "source_url": "https://sports.yahoo.com/articles/donnarumma-lays-foundations-manchester-city-172700498.html",
+      "publish_time": "2026-10-11T17:27:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-c6d4cec26623",
+      "title": "Andoni Iraola的反应—利物浦老板在Gravenberch红牌上说了什么，后期内爆vs曼城？",
+      "summary": "利物浦主帅安东尼·伊拉奥拉（ Andoni Iraola ）周日看到他的球队状态非常糟糕，因为他们在安菲尔德以3比0输给曼城时遭遇了下半场内爆。",
+      "source_url": "https://sports.yahoo.com/articles/andoni-iraola-reaction-did-liverpool-172259661.html",
+      "publish_time": "2026-10-11T17:22:59+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1ba00694ad47",
+      "title": "欧洲前5名联赛中只有一名后卫比卡拉菲奥里有更多的进球贡献",
+      "summary": "继周六下午在英超联赛中为阿森纳对阵利兹的进球之后，意大利的里卡多·卡拉菲奥里现在在欧洲五大联赛的进球贡献中排名第二。",
+      "source_url": "https://sports.yahoo.com/articles/only-one-defender-europe-top-171500076.html",
+      "publish_time": "2026-10-11T17:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-3f203a11e330",
+      "title": "穆里尼奥对阿尔特塔和阿森纳发表了不假思索的评论",
+      "summary": "何塞·穆里尼奥（ Jose Mourinho ）对阿森纳和米克尔·阿尔特塔（ Mikel Arteta ）进行了奇怪的挖掘，暗示经理的新合同不应该在皇家马德里发生。照片由丹尼斯·道尔（ Denis Doyle ）/盖蒂图片社（ Getty…",
+      "source_url": "https://sports.yahoo.com/articles/mourinho-makes-unprompted-remark-arteta-170500002.html",
+      "publish_time": "2026-10-11T17:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-7ef5d9ae4955",
+      "title": "“我只想专注于自己” – Dario Essugo在开设斯特拉斯堡账户后没有试图向切尔西证明一点",
+      "summary": "Dario Essugo （ 21岁）自今年夏天从合伙人俱乐部切尔西租借加入RC斯特拉斯堡阿尔萨斯以来，首次为斯特拉斯堡阿尔萨斯效力。这位葡萄牙青年国际队以第...场比赛的揭幕战得分庆祝。",
+      "source_url": "https://sports.yahoo.com/articles/just-want-focus-myself-dario-170500204.html",
+      "publish_time": "2026-10-11T17:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-78938868cf22",
+      "title": "英超联赛历史进球领袖— 厄林·哈兰德眼中的Gerrard、Lukaku、Sterling",
+      "summary": "Alan Shearer是英超联赛射手之王， 厄林·哈兰德远远落后于国王，成为最接近的活跃PL对手。",
+      "source_url": "https://sports.yahoo.com/articles/premier-league-time-goal-leaders-062500776.html",
+      "publish_time": "2026-10-11T17:03:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-86c91996b1d5",
+      "title": "👀 西多夫的科林蒂安协议包括一项降级终止条款",
+      "summary": "Seedorf与Corinthians的合同规定，如果降级到Série B ，则终止合同。本周日（ 11日）宣布，这位50岁的荷兰人最初加入了一份合同，直至...",
+      "source_url": "https://sports.yahoo.com/articles/seedorfs-corinthians-deal-includes-relegation-164600086.html",
+      "publish_time": "2026-10-11T16:46:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6ffca440f393",
+      "title": "随着加比亚泪流满面，米兰被迫提前改变对阵萨索洛的比赛",
+      "summary": "米兰后卫马泰奥·加比亚（ Matteo Gabbia ）在周日晚上的意甲对阵萨索洛（ Sassuolo ）的比赛中遭受了超过四分之一小时的不幸受伤，迫使鲁本·阿莫林（ Ruben Amorim ）进入早期阶段。",
+      "source_url": "https://sports.yahoo.com/articles/milan-forced-early-change-against-164000278.html",
+      "publish_time": "2026-10-11T16:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-2dc10a100212",
+      "title": "杜兰获得8.5分，鲍尔获得8分|凯尔特球员在对阵马瑟韦尔的比赛中获得评分",
+      "summary": "在国际比赛前连续三场失利后，凯尔特人决心今天下午反弹，因为他们前往冷杉公园与马瑟韦尔发生冲突。Camilo Duran带网...",
+      "source_url": "https://sports.yahoo.com/articles/duran-gets-8-5-baur-163500469.html",
+      "publish_time": "2026-10-11T16:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-78ad2ff9d612",
+      "title": "尽管蒙扎3-1获胜，加图索对拉齐奥感到沮丧： “就像下半场对阵米兰一样”",
+      "summary": "由于周日下午以3比1战胜蒙扎，拉齐奥在六场比赛后成为意甲联赛的联赛冠军，但主教练根纳罗·加图索仍然对他从他的比赛中看到的情况不太满意。",
+      "source_url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
+      "publish_time": "2026-10-11T16:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4d150e212f50",
+      "title": "为什么曼城球迷在英超联赛与利物浦的比赛中在安菲尔德有充气香蕉",
+      "summary": "自独立委员会做出裁决以来，曼城首次参加英超联赛",
+      "source_url": "https://sports.yahoo.com/articles/why-man-city-fans-inflatable-155348226.html",
+      "publish_time": "2026-10-11T16:10:56+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e48b5de5a2f8",
+      "title": "船体2-2埃弗顿分析：太妃糖街巴里错过和越位旗",
+      "summary": "埃弗顿状态良好，自2013-14赛季以来首次在首场六场联赛中避免失利。",
+      "source_url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
+      "publish_time": "2026-10-11T16:04:05+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-a05c562b950a",
       "title": "利物浦对曼城冲突的打击， Dominik Szoboszlai受伤",
       "summary": "利物浦比赛日阵容中缺少有影响力的中场Szoboszlai",
@@ -3861,6 +4185,18 @@
       "summary": "曼城前往安菲尔德参加他们的第一场英超比赛，因为一个独立的委员会发现他们违反了财务规则",
       "source_url": "https://sports.yahoo.com/articles/man-city-greeted-boos-chants-150647603.html",
       "publish_time": "2026-10-11T16:03:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-687606445e9f",
+      "title": "船体2-2埃弗顿分析：城市的强劲开局仍在继续",
+      "summary": "在周二为阿尔及利亚队进球后，穆罕默德·贝卢米（ Mohamed Belloumi ）只适合替补出场，但他后期的进球足以挽救他球队本赛季不败的主场开局。",
+      "source_url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
+      "publish_time": "2026-10-11T16:01:14+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
@@ -4468,336 +4804,72 @@
       ]
     },
     {
-      "id": "football_intl-2b58ef94f497",
-      "title": "阿尔维尼： “那不勒斯3-0弗罗西诺内对我的球队来说太苛刻了”",
-      "summary": "马西米利亚诺·阿尔维尼（ Massimiliano Alvini ）在弗罗西诺内（ Frosinone ） 3-0击败那不勒斯的比赛中失误，坚称“胜利是当之无愧的，但结果太苛刻了。“卡纳里尼是本赛季的惊喜套餐……",
-      "source_url": "https://sports.yahoo.com/articles/alvini-napoli-3-0-frosinone-213500343.html",
-      "publish_time": "2026-10-10T21:35:00+00:00",
-      "category": "football_intl",
+      "id": "nba-7ca3bd66a9a8",
+      "title": "观看特雷·杨 ， Daniss Jenkins在推动事件后被弹出",
+      "summary": "没什么大不了的，两名玩家都被淘汰了。",
+      "source_url": "https://sports.yahoo.com/articles/watch-trae-young-daniss-jenkins-161510051.html",
+      "publish_time": "2026-10-11T16:15:10+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-e14da5b093e3",
-      "title": "拜仁与JJ Gabriel举行新一轮会谈-周日的八卦",
-      "summary": "拜仁慕尼黑是许多热衷于布莱顿后卫卢卡·武斯科维奇的俱乐部之一， AC米兰看着伯恩茅斯的亚历克斯·斯科特，利物浦对巴塞罗那后卫朱尔斯·昆德感兴趣，还有更多。",
-      "source_url": "https://sports.yahoo.com/articles/vuskovic-target-bayern-sundays-gossip-204515531.html",
-      "publish_time": "2026-10-10T21:32:39+00:00",
-      "category": "football_intl",
+      "id": "nba-3743aec9e0f9",
+      "title": "尼克斯公告： “无论如何，我们都会互相支持”",
+      "summary": "周日没有尼克斯篮球；您对我们所有人休息和断开连接的那一天有什么期望？ （就好像我曾经做过一样笑）然而，纽约人一直保持着伐木习惯，并向全世界发送报价供我们享用。以下是周一与LaMelo-Ant Wolves发生冲突之前Tarrytown的最新…",
+      "source_url": "https://sports.yahoo.com/articles/knicks-bulletin-gonna-other-back-141357414.html",
+      "publish_time": "2026-10-11T14:13:57+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-1668ba0f0bfd",
-      "title": "McTominay在心脏手术后返回，因为那不勒斯击败了Frosinone",
-      "summary": "苏格兰球星斯科特·麦克托米奈（ Scott McTominay ）在心脏手术后复出，马西米利亚诺·阿莱格里（ Massimiliano Allegri ）在意甲联赛中以3比0战胜弗罗西诺内（ Fros",
-      "source_url": "https://sports.yahoo.com/articles/mctominay-returns-heart-surgery-napoli-212116519.html",
-      "publish_time": "2026-10-10T21:28:09+00:00",
-      "category": "football_intl",
+      "id": "nba-866e70478f6e",
+      "title": "在Kawhi交易后的第一场比赛中，猛龙队以114-106击败快船队",
+      "summary": "多伦多在不列颠哥伦比亚省与休赛期的定期接触者进行季前赛",
+      "source_url": "https://sports.yahoo.com/articles/raptors-beat-clippers-114-106-135533674.html",
+      "publish_time": "2026-10-11T13:55:33+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-5c33dff47ec4",
-      "title": "巴尔韦德获得8分，迪奥曼德获得7.5分|皇家马德里球员与比利亚雷亚尔的比赛获得稳定胜利",
-      "summary": "皇家马德里今晚早些时候在圣地亚哥伯纳乌体育场欢迎比利亚雷亚尔，因为他们希望在西甲主场取得好成绩。洛斯布兰科斯在比赛中取得了稳固的开局，但被认为是...",
-      "source_url": "https://sports.yahoo.com/articles/valverde-gets-8-diomande-7-212500675.html",
-      "publish_time": "2026-10-10T21:25:00+00:00",
-      "category": "football_intl",
+      "id": "nba-a2adc8fb1609",
+      "title": "在尼克斯历史上的这一天：纽约签名Trey Burke",
+      "summary": "在尼克斯签下特雷·伯克九年后，另一位前彩票选秀权正在寻找回归的途径。",
+      "source_url": "https://sports.yahoo.com/articles/date-knicks-history-ny-signs-134632127.html",
+      "publish_time": "2026-10-11T13:46:32+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-12da013b7bc2",
-      "title": "USWNT有多个得分机会，但落在西班牙， 2-0",
-      "summary": "这是美国在5年半的96场比赛中第三次落后于多个进球。",
-      "source_url": "https://sports.yahoo.com/soccer/breaking-news/article/uswnt-has-multiple-scoring-opportunities-but-falls-to-spain-2-0-212326569.html",
-      "publish_time": "2026-10-10T21:23:26+00:00",
-      "category": "football_intl",
+      "id": "nba-3d73e72f90b5",
+      "title": "小牛队132-115季前赛在澳门击败休斯顿火箭队的6件事",
+      "summary": "小牛队的进攻在凯里·欧文回来的时候似乎是第一次像一个有凝聚力的单位。",
+      "source_url": "https://sports.yahoo.com/articles/6-things-mavericks-132-115-124754584.html",
+      "publish_time": "2026-10-11T12:47:54+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-bf36b36bf796",
-      "title": "Allegri ： “De Bruyne不喜欢新角色，我告诉Hojlund ’在点球闹剧中",
-      "summary": "Max Allegri透露，他正试图说服凯文·德布劳内扮演一个新的那不勒斯角色，但“他不太喜欢这个角色” ，同时他开玩笑说对Frosinone的惩罚混乱。Partenope...",
-      "source_url": "https://sports.yahoo.com/articles/allegri-bruyne-doesn-t-role-212000067.html",
-      "publish_time": "2026-10-10T21:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1f2fbe07411e",
-      "title": "Steven Gerrard认为利物浦已经找到了范戴克的替代者",
-      "summary": "Steven Gerrard将Jeremy Jacquet确定为范戴克的利物浦继任者利物浦在过去十年中的大部分时间都在围绕范戴克建立他们的防守身份。寻找一些...",
-      "source_url": "https://sports.yahoo.com/articles/steven-gerrard-believes-liverpool-found-212000189.html",
-      "publish_time": "2026-10-10T21:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-f2d97ff68077",
-      "title": "“我吻了罗德里戈并表示感谢” -德泽尔比“喜欢”马刺红牌",
-      "summary": "罗伯托·德·泽尔比（ Roberto de Zerbi ）在对阵曼联的1-1平局中被罚下场后，赞扬了罗德里戈·本坦库尔（ Rodrigo B",
-      "source_url": "https://sports.yahoo.com/articles/kissed-rodrigo-said-thanks-zerbi-205917053.html",
-      "publish_time": "2026-10-10T21:11:57+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-01f62e2f421e",
-      "title": "利物浦参加£ 6000万英超球星的比赛",
-      "summary": "周日，利物浦和他们的球员开始准备迎战曼城。安菲尔德队将面临本赛季对阵恩佐·马雷斯卡（ Enzo Maresca ）的球员的最大挑战。",
-      "source_url": "https://sports.yahoo.com/articles/liverpool-join-race-60m-premier-211000321.html",
-      "publish_time": "2026-10-10T21:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-8b23d8e3b1e4",
-      "title": "De Bruyne不确定那不勒斯的新角色： “我一直是8号或10号”",
-      "summary": "凯文·德布鲁因（ 凯文·德布劳内 ）承认，尽管他打进了两球，但他对那不勒斯的新位置并不完全满意，而诺亚·朗（ Noa Lang ）则希望重新开始。“我一直是8号或10号。（比利时人……",
-      "source_url": "https://sports.yahoo.com/articles/bruyne-uncertain-napoli-role-always-210500530.html",
-      "publish_time": "2026-10-10T21:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-678fbc9bb9a8",
-      "title": "嘘声，痛苦和逐渐消失的信念-压力不足的卡里克的“令人担忧的一天”",
-      "summary": "不会再发生了吧？在对阵托特纳姆热刺1-1战平后，又一次未能击败10名男子，增加了曼联老板迈克尔·卡里克的压力。",
-      "source_url": "https://sports.yahoo.com/articles/boos-anguish-fading-belief-worrying-205452774.html",
-      "publish_time": "2026-10-10T20:54:52+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3a221f2f3afa",
-      "title": "西班牙率先出击，在华盛顿击败美国",
-      "summary": "由索尼娅·贝穆德斯（ Sonia Bermúdez ）领导的西班牙女子国家队在世界冠军和奥运会冠军之间的重磅冲突中以2比0击败美国队。从La RojaSpain quic开始...",
-      "source_url": "https://sports.yahoo.com/articles/spain-strike-first-beat-united-204600168.html",
-      "publish_time": "2026-10-10T20:46:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3740c36dcf2b",
-      "title": "埃弗顿收购扭曲弗里德金眼睛退出：新老板可以解决俱乐部的转会问题吗？",
-      "summary": "根据前曼城财务顾问Stefan Borson的说法，埃弗顿寻找新业主的过程可能已经涉及到潜在买家，尽管完成收购可能需要长达六个月的时间。",
-      "source_url": "https://sports.yahoo.com/articles/everton-takeover-twist-friedkin-eyes-204500905.html",
-      "publish_time": "2026-10-10T20:45:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-609fb9e17d40",
-      "title": "Vini Jr被罚下场，并因拉对手的头发而被排除进球 🎥",
-      "summary": "维尼修斯·茹尼奥尔（ Vinícius Júnior ）本周六（ 10日）继续表现不佳。奇怪的是，他的最新挫折发生在巴西人在圣地亚哥·伯纳乌（ Santiago Bernabéu ）发现球网后不久。他的进球被禁止，他被送到......",
-      "source_url": "https://sports.yahoo.com/articles/vini-jr-sent-off-goal-204300658.html",
-      "publish_time": "2026-10-10T20:43:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c7a4915a0505",
-      "title": "🚨 疯狂： 维尼修斯因拉对手的头发而被罚下场",
-      "summary": "周末的时刻。本周六晚上，皇家马德里在西甲第八场比赛中主持比利亚雷亚尔。在何塞·穆里尼奥（ José Mourinho ）的长凳上，维尼修斯（ 维尼修斯 ）走上前来，认为他已经领先了一倍，最后",
-      "source_url": "https://sports.yahoo.com/articles/madness-vinicius-sent-off-pulling-204100888.html",
-      "publish_time": "2026-10-10T20:41:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-a9bd89f0355e",
-      "title": "完成了，利物浦已经获得了他们的新Divock Origi",
-      "summary": "利物浦有了他们的新Divock Origi ，他令人难以置信。还记得那个比利时袭击者吗？我的意思是，谁能忘记， Origi ，没有他，足球就什么都不是。他从来都不是利物浦的首发球员，阿尔瓦……",
-      "source_url": "https://sports.yahoo.com/articles/done-liverpool-secured-divock-origi-204000234.html",
-      "publish_time": "2026-10-10T20:40:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c6245fec706a",
-      "title": "意甲|那不勒斯3-0弗罗西诺内：德布鲁因激发新方法",
-      "summary": "那不勒斯以3-4-3的新战术以混乱的凯文·德·布鲁因（ 凯文·德布劳内 ）支撑和诺亚·朗（ Noa Lang ）轻拍击败弗罗西诺内（ Frosinone ） ，给那不勒斯留下了深刻的印象，而斯科特·麦克托米奈（ Scott…",
-      "source_url": "https://sports.yahoo.com/articles/serie-napoli-3-0-frosinone-204000487.html",
-      "publish_time": "2026-10-10T20:40:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-22741a29cf70",
-      "title": "McTominay在心脏手术4周后让那不勒斯卷土重来",
-      "summary": "斯科特·麦克托米奈（ Scott McTominay ）在回到那不勒斯（ Napoli ）战场时起立鼓掌，手术后一个月，他矫正了良性心律失常。苏格兰国脚只在...",
-      "source_url": "https://sports.yahoo.com/articles/mctominay-makes-napoli-comeback-4-202500636.html",
-      "publish_time": "2026-10-10T20:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-44f408a59828",
-      "title": "曼联1-1马刺： Solanke Rescues Tottenham的球员评级",
-      "summary": "曼联球员评级vs马刺队：后期均衡器否认曼联胜利曼联在老特拉福德感到沮丧，因为托特纳姆热刺队在首映式中获得了戏剧性的伤时均衡器......",
-      "source_url": "https://sports.yahoo.com/articles/man-united-1-1-spurs-202100696.html",
-      "publish_time": "2026-10-10T20:21:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-6297f614ec4a",
-      "title": "Andoni Iraola确认不可思议的球员将取代Alexander Isak",
-      "summary": "Andoni Iraola已经确认了谁将取代Alexander Isak。利物浦即将开始本赛季最重要的比赛。说圣代有这么多游乐设施并不牵强……",
-      "source_url": "https://sports.yahoo.com/articles/andoni-iraola-confirms-incredible-player-201000078.html",
-      "publish_time": "2026-10-10T20:10:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3489b59cf8a7",
-      "title": "De Zerbi在马刺队与曼联平局后获得Bentancur红牌： “我吻了他并表示感谢”",
-      "summary": "罗伯托·德·泽比（ Roberto De Zerbi ）坚持认为，在多米尼克·索兰克（ Dominic Solanke ）的暂停时间头衔在曼联以1-1平局获胜后，托特纳姆热刺“打得非常好”。这位意大利教练通过football.london引…",
-      "source_url": "https://sports.yahoo.com/articles/zerbi-bentancur-red-card-spurs-200500255.html",
-      "publish_time": "2026-10-10T20:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3e286fbfc4e3",
-      "title": "São Januário冲突的Vasco和Remo名单",
-      "summary": "Vasco和Remo已经为本周六在São Januário举行的(10) Brasileirão冲突命名了他们的阵容。两支球队都在桌子的下半部分，但形势截然不同。Vasco赢得了三场比赛......",
-      "source_url": "https://sports.yahoo.com/articles/vasco-remo-name-line-ups-200300610.html",
-      "publish_time": "2026-10-10T20:03:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-c3a1034c851b",
-      "title": "穆里尼奥在皇家马德里权衡下一步时留下了Vinícius的角色",
-      "summary": "穆里尼奥认为，皇家马德里在决定如何帮助前锋恢复最佳状态时，应该考虑小维尼修斯目前的状态，而不仅仅是他的声誉。在别墅前说话……",
-      "source_url": "https://sports.yahoo.com/articles/mourinho-leaves-vin-cius-role-200000607.html",
-      "publish_time": "2026-10-10T20:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-a5fbf56bc0ba",
-      "title": "内线教练Chivu ： “自私不是Pio Esposito词汇的一部分”",
-      "summary": "克里斯蒂安·奇武（ Cristian Chivu ）很高兴终于看到了杰德·斯彭斯（ Djed Spence ）的行动，并在国际米兰以3比0战胜帕尔马之后赞扬了皮奥·埃斯波西托（ Pio Esposito ）的无私。通过FcInterNews…",
-      "source_url": "https://sports.yahoo.com/articles/inter-coach-chivu-selfishness-isn-200000518.html",
-      "publish_time": "2026-10-10T20:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-76288ad81dda",
-      "title": "PSG ULTRAS在移除横幅后离开体育场",
-      "summary": "王子公园（ Parc des Princes ）的争议。本周六晚上，巴黎圣日耳曼主办了法甲第六场比赛。上半场，巴黎Collectif Ultras在Virage Auteuil展出了一面旗帜……",
-      "source_url": "https://sports.yahoo.com/articles/psg-ultras-leave-stadium-banner-194800762.html",
-      "publish_time": "2026-10-10T19:48:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-86f113aa12ab",
-      "title": "曼联应该担心的一致和令人担忧的趋势",
-      "summary": "曼联1-1热刺：多米尼克·索兰克（ Dominic Solanke ）的后期罢工取消了布莱恩·姆贝乌莫（ Bryan Mbeumo ）的揭幕战，尽管马刺队降至10人，但曼联还是放弃了另一个领先",
-      "source_url": "https://sports.yahoo.com/articles/consistent-concerning-trend-worry-manchester-190529712.html",
-      "publish_time": "2026-10-10T19:45:30+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-92c539a08648",
-      "title": "托纳利获得7.5分，索兰克获得7分|托特纳姆热刺球员在激烈平局中与曼联的比赛中获得评分",
-      "summary": "托特纳姆热刺今晚早些时候在老特拉福德与曼联发生冲突，因为他们希望在英超联赛中取得好成绩。马刺队在比赛中开了一个好头...",
-      "source_url": "https://sports.yahoo.com/articles/tonali-gets-7-5-solanke-194500053.html",
-      "publish_time": "2026-10-10T19:45:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1c750e1703d5",
-      "title": "那不勒斯对Allegri、De Bruyne和Hojlund的处罚混乱期间发生了什么",
-      "summary": "当那不勒斯被授予对Frosinone的软处罚时，发生了混乱和争议，因为Max Allegri非常愤怒，所以凯文·德布劳内从Rasmus Hojlund手中接管了。您可以跟随所有动作......",
-      "source_url": "https://sports.yahoo.com/articles/happened-during-napoli-penalty-chaos-194500590.html",
-      "publish_time": "2026-10-10T19:45:00+00:00",
-      "category": "football_intl",
+      "id": "nba-3dbb91c9d1cb",
+      "title": "奠定基础：凯尔特人/76人队的收获",
+      "summary": "你看费城是这样的，你要么抽烟，要么抽烟。你被吸烟了。",
+      "source_url": "https://sports.yahoo.com/articles/laying-foundations-takeaways-celtics-sixers-121145513.html",
+      "publish_time": "2026-10-11T12:11:45+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -5685,78 +5757,6 @@
       "summary": "ESPN播音员迈克·布林（ Mike Breen ）此前曾为讲述一个被反驳的故事而道歉，在这个故事中，勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）被描述为谴责Embiid迟到。",
       "source_url": "https://sports.yahoo.com/nba/article/76ers-joel-embiid-denies-tardiness-report-questions-why-it-happened-it-feels-like-im-an-easy-target-191017824.html",
       "publish_time": "2026-10-09T18:53:50+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a4c115a5d838",
-      "title": "湖人队友放弃了野生科比·布莱恩特的“脱衣舞派对”认罪",
-      "summary": "前洛杉矶湖人队后卫尼克·杨（ Nick Young ）曾经为队友投掷过派对，科比·布莱恩特（ Kobe Bryant ）对此进行了",
-      "source_url": "https://sports.yahoo.com/articles/wild-kobe-bryant-stripper-party-184305682.html",
-      "publish_time": "2026-10-09T18:43:05+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-cdf568a137b9",
-      "title": "湖人队的奥斯汀·里夫斯揭示了回归的关键方面， “名列前茅”",
-      "summary": "奥斯汀·里夫斯几乎没有错过一个节拍。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-austin-reaves-uncovers-key-183331045.html",
-      "publish_time": "2026-10-09T18:33:31+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-eba23fe32741",
-      "title": "太平洋赛区预览+ WNBA半决赛第2场反应",
-      "summary": "Nekias Duncan和Steve Jones预览了太平洋赛区和WNBA半决赛。",
-      "source_url": "https://sports.yahoo.com/nba/article/pacific-division-preview--wnba-semifinals-game-2-reactions-183315263.html",
-      "publish_time": "2026-10-09T18:33:15+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-6a4e5d03e737",
-      "title": "打破NBA的第二条围裙—以及随之而来的尼克斯头痛",
-      "summary": "击退尼克斯冠军球队的最大障碍之一是避免超出NBA工资上限的严厉处罚。",
-      "source_url": "https://sports.yahoo.com/articles/breaking-down-nba-second-apron-181918728.html",
-      "publish_time": "2026-10-09T18:19:18+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-746257ca598b",
-      "title": "为什么我们没有在湖人季前赛中看到沃克·凯斯勒？",
-      "summary": "凯斯勒还没有适应，但这应该很快就会改变。",
-      "source_url": "https://sports.yahoo.com/articles/why-haven-t-seen-walker-175911964.html",
-      "publish_time": "2026-10-09T17:59:11+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-715d875958c1",
-      "title": "Steph Curry的母亲Sonya与前NBA球星离婚后，在旋风般的浪漫中结婚",
-      "summary": "索尼娅·库里（ Sonya Curry ）在周五的Instagram帖子中分享了她今年夏天与“最神奇的男人”结婚",
-      "source_url": "https://www.yahoo.com/entertainment/celebrity/articles/steph-curry-mom-sonya-married-175516177.html",
-      "publish_time": "2026-10-09T17:55:16+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -6868,16 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-bd6a44002e9d",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "皇家贝蒂斯",
-      "away_team": "奥萨苏纳",
-      "match_time": "2026-10-11T16:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-f193f2a46d8e",
       "sport": "football",
       "competition": "意甲",
@@ -6963,6 +6953,16 @@
       "competition": "欧冠",
       "home_team": "罗马",
       "away_team": "皇家马德里",
+      "match_time": "2026-10-14T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-550e70214e74",
+      "sport": "football",
+      "competition": "欧冠",
+      "home_team": "曼城",
+      "away_team": "巴黎圣日耳曼",
       "match_time": "2026-10-14T19:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
