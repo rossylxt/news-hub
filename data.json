@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:34:16.361815+00:00",
+  "generated_at": "2026-10-14T20:29:57.945849+00:00",
   "news": [
     {
       "id": "ai_cn-12ef2ebcc416",
@@ -3844,6 +3844,30 @@
       ]
     },
     {
+      "id": "football_intl-669f644ccc1f",
+      "title": "Who are the UEFA Champions League all-time goals leaders? 基利安·姆巴佩 passes Raul for fifth",
+      "summary": "哈里·凯恩, 厄林·哈兰德, and 基利安·姆巴佩 are making their way up the all-time leaderboard for goals in the UEFA Cha…",
+      "source_url": "https://sports.yahoo.com/articles/uefa-champions-league-time-scoring-204609184.html",
+      "publish_time": "2026-10-14T19:42:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-eccdc56e963c",
+      "title": "Mourinho reacts to 维尼修斯 suspension: “Why announce it two hours before an important match?”",
+      "summary": "Real Madrid manager Jose Mourinho has questioned the RFEF Disciplinary Committee’s decision to announce 维尼修斯.’s f…",
+      "source_url": "https://sports.yahoo.com/articles/mourinho-reacts-vinicius-suspension-why-185700533.html",
+      "publish_time": "2026-10-14T18:57:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-8a011240bc45",
       "title": "狼队老将希门尼斯接受膝盖手术",
       "summary": "狼队的老将前锋劳尔·希门尼斯（ Raul Jimenez ）将进行膝盖手术，现在预计将在明年1月之前停止活动。",
@@ -4775,30 +4799,6 @@
       "publish_time": "2026-10-14T13:25:00+00:00",
       "category": "football_intl",
       "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-6302be32b155",
-      "title": "如何观看LASK与利物浦的比赛–今晚冠军联赛的电视和直播",
-      "summary": "LASK对阵利物浦：如何在TV上观看冠军联赛比赛直播利物浦前往奥地利，在冠军联赛中面对LASK ， Andoni Iraola希望克服日益严重的伤病危机，并...",
-      "source_url": "https://sports.yahoo.com/articles/watch-lask-vs-liverpool-tv-132000852.html",
-      "publish_time": "2026-10-14T13:20:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-64fc18aa5134",
-      "title": "记者将阿森纳球星列为皇家马德里1月唯一可行的中场目标",
-      "summary": "最近有报道称，皇家马德里已经开始研究转会市场，以解决他们在中场的问题。在夏天错过了罗德里之后，俱乐部热衷于...",
-      "source_url": "https://sports.yahoo.com/articles/journalist-names-arsenal-star-only-131300423.html",
-      "publish_time": "2026-10-14T13:13:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
@@ -6868,36 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-050e5fb1c3e5",
-      "sport": "football",
-      "competition": "欧冠",
-      "home_team": "罗马",
-      "away_team": "皇家马德里",
-      "match_time": "2026-10-14T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-550e70214e74",
-      "sport": "football",
-      "competition": "欧冠",
-      "home_team": "曼城",
-      "away_team": "巴黎圣日耳曼",
-      "match_time": "2026-10-14T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-b369b799b354",
-      "sport": "football",
-      "competition": "欧冠",
-      "home_team": "皇家贝蒂斯",
-      "away_team": "波尔图",
-      "match_time": "2026-10-14T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-9c56a82db676",
       "sport": "football",
       "competition": "德甲",
@@ -6974,6 +6944,76 @@
       "home_team": "富勒姆",
       "away_team": "赫尔城",
       "match_time": "2026-10-17T14:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-f5601e7a7b24",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "曼城",
+      "away_team": "伊普斯维奇",
+      "match_time": "2026-10-17T14:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3088be475a72",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "布伦特福德",
+      "away_team": "利物浦",
+      "match_time": "2026-10-17T14:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3ec04c7ba3d3",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "比利亚雷亚尔",
+      "away_team": "埃尔切",
+      "match_time": "2026-10-17T14:15:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-83443de76547",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "斯特拉斯堡",
+      "away_team": "巴黎圣日耳曼",
+      "match_time": "2026-10-17T15:15:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-5798e0c9cefe",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "博洛尼亚",
+      "away_team": "国际米兰",
+      "match_time": "2026-10-17T16:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-10b54b42d76d",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "纽卡斯尔联",
+      "away_team": "阿斯顿维拉",
+      "match_time": "2026-10-17T16:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-8d390c398e39",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "皇家贝蒂斯",
+      "away_team": "巴塞罗那",
+      "match_time": "2026-10-17T16:30:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
