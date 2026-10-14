@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T02:28:21.516737+00:00",
+  "generated_at": "2026-10-14T04:28:09.871100+00:00",
   "news": [
     {
       "id": "ai_cn-8499d011aab7",
@@ -962,6 +962,54 @@
       ]
     },
     {
+      "id": "ai_intl-f698b7de989c",
+      "title": "科学公司将其视力恢复芯片植入其首例Stargardt病患者体内",
+      "summary": "Neuralink前总裁兼联合创始人马克斯·霍达克（ Max Hodak ）在TechCrunch Disrupt的舞台上详细介绍了他的公司与PRIMA的合作如何成为其迈向新型脑机接口（ BCI ）之路的一部分。",
+      "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "publish_time": "2026-10-13T23:13:31+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-b982fab38e0c",
+      "title": "Cerebras首席执行官表示，我们即将迎来每个人在家都有个人AI助手的未来",
+      "summary": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）预测，未来个人人工智能助理将像家用电器一样普遍，部分在本地设备上运行，部分在云中运行。",
+      "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "publish_time": "2026-10-13T23:05:34+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-757b6b0d2cd8",
+      "title": "Industrial Next希望工厂机器人在几分钟内切换任务，而不是几周",
+      "summary": "Industrial Next可帮助制造商实现传统上需要人力的复杂精细任务的自动化。",
+      "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "publish_time": "2026-10-13T23:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-ef5219e107b2",
+      "title": "Cerebras首席执行官拒绝接受人工智能世界末日警告",
+      "summary": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）向人工智能领导者发出了世界末日警告：也许停止说话？在TechCrunch Disrupt上，他认为业界对人工智能风险的关注正在淹没其潜在的好处。",
+      "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "publish_time": "2026-10-13T22:36:59+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-025ffa23c015",
       "title": "法官命令OpenAI交出苹果商业机密案件的招聘记录",
       "summary": "一名联邦法官裁定，苹果可以访问OpenAI涉及前苹果员工的采访材料，以及此案中关键人物的私人消息和证词。",
@@ -1867,54 +1915,6 @@
       "summary": "OpenAI将在欧盟对ChatGPT和Codex文本进行水印，以符合《人工智能法》。它说，编辑会使隐形标记更难被检测到。",
       "source_url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "publish_time": "2026-10-05T20:36:48+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-13557b75794f",
-      "title": "Reflection推出开放式权重AI模型Beam ，以更低的计算成本与中国机型相媲美",
-      "summary": "Reflection将Beam和未来模型瞄准企业和主权国家。推销的目的是建立“人工智能工厂” ，该产品将允许机构通过在自己的专有数据上训练Reflection的人工智能模型来构建自己的定制本地人工智能系统。",
-      "source_url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "publish_time": "2026-10-05T19:33:53+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-a8ac03afa12d",
-      "title": "Instinct将其AI代理带到群聊中，即使对于没有帐户的朋友也是如此",
-      "summary": "Instinct正在推出群聊，让好友一起使用其AI代理来规划行程、组织拼车和协调活动等任务。该公司表示，个人帐户保持独立，在个人代理共享信息或采取行动之前需要获得许可。",
-      "source_url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "publish_time": "2026-10-05T18:54:30+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-1278561c2128",
-      "title": "TikTok推出人工智能购物助手和一键结账",
-      "summary": "TikTok将其新的购物助手描述为会话式人工智能代理，旨在帮助用户发现和购买产品。",
-      "source_url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "publish_time": "2026-10-05T18:29:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d31c63ac3bf4",
-      "title": "Hot Girl Hotline就像AI时代的“Dear Abby”",
-      "summary": "Hot Girl Hotline由两姐妹创立，使用人工智能为年轻女性提供个性化的约会和关系建议，重点关注安全和避免情感依赖。",
-      "source_url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "publish_time": "2026-10-05T17:29:22+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -3844,6 +3844,18 @@
       ]
     },
     {
+      "id": "football_intl-dde9c87ba15c",
+      "title": "🎥 瓦斯科降到十岁，但挺身而出，领先于博卡",
+      "summary": "瓦斯科在周二晚上真的是巨人（ 13 ）。在La Bombonera的比赛中， Cruz-Maltino在2026年Copa Sudamericana决赛中战胜了Boca Juniors。艾德森得分在……",
+      "source_url": "https://sports.yahoo.com/articles/vasco-man-sent-off-stand-023100874.html",
+      "publish_time": "2026-10-14T02:31:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-14ddce881475",
       "title": "西班牙无法坚持，因为美国抢占了平局",
       "summary": "西班牙女子队在2027年世界杯之前的第二场热身赛中，在费城以惊心动魄的2-2战平美国队，结束了他们的北美之旅。早期的主导地位和目标......",
@@ -4792,13 +4804,61 @@
       ]
     },
     {
-      "id": "football_intl-bea0d22fba48",
-      "title": "特雷索尔迪： “梦想成真，感觉就像德比”对阵欧洲冠军联赛的国米",
-      "summary": "尼科洛·特雷索尔迪（ Nicolò Tresoldi ）承认，在圣西罗（ San Siro ）为布鲁日俱乐部（ Club Brugge ）对阵欧洲冠军联赛的国米踢球是“梦想成真” ，因为这位潜在的意大利国脚是米兰的终身支持者。",
-      "source_url": "https://sports.yahoo.com/articles/tresoldi-dream-come-true-feels-181000611.html",
-      "publish_time": "2026-10-13T18:10:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
+      "id": "nba-a7f28b05cd24",
+      "title": "骑士最高级： Meleek Thomas以令人失望的表现对抗魔法",
+      "summary": "克利夫兰糟糕的防守导致了季前赛的压倒性收场。",
+      "source_url": "https://sports.yahoo.com/articles/cavalier-superlatives-meleek-thomas-shines-030138074.html",
+      "publish_time": "2026-10-14T03:01:38+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-2471024149b6",
+      "title": "球员等级：骑士队在季前赛决赛中落入魔术队，尽管Meleek Thomas的表现令人印象深刻",
+      "summary": "托马斯是一场令人难忘的比赛中唯一的亮点。",
+      "source_url": "https://sports.yahoo.com/articles/player-grades-cavs-fall-magic-020025404.html",
+      "publish_time": "2026-10-14T02:00:25+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-69a05a23e495",
+      "title": "猛龙148 ，尼克斯98 ： Kawhi回归的场景",
+      "summary": "尼克斯队延续了他们完美的季前赛纪录。",
+      "source_url": "https://sports.yahoo.com/articles/raptors-148-knicks-98-scenes-014808463.html",
+      "publish_time": "2026-10-14T01:48:08+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d984e9f2ffdc",
+      "title": "克里斯塔普斯波尔齐阿斯抵达大通中心",
+      "summary": "值得注意的是，勇士队不是。",
+      "source_url": "https://sports.yahoo.com/articles/kristaps-porzi-arrives-chase-center-014201650.html",
+      "publish_time": "2026-10-14T01:42:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-149c9f0a9219",
+      "title": "尼克斯在季前赛中降至0-4 ，因为板凳在148-98输给猛龙队的比赛中挣扎",
+      "summary": "尼克斯队周二晚上在多伦多又输了一场季前赛，以148-98落后猛龙队。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-drop-0-4-preseason-013812037.html",
+      "publish_time": "2026-10-14T01:38:12+00:00",
+      "category": "nba",
+      "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
@@ -4809,6 +4869,30 @@
       "summary": "科怀·伦纳德 was dealt to the Raptors earlier this offseason once his scandal with the Clippers was settled with the le…",
       "source_url": "https://sports.yahoo.com/nba/article/kawhi-leonard-drops-21-points-in-opening-half-of-raptors-preseason-debut-after-clippers-trade-scandal-013454152.html",
       "publish_time": "2026-10-14T01:34:54+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c41181028dd6",
+      "title": "骑士队在季前赛结局中被魔术队赶出了健身房",
+      "summary": "克利夫兰结束了展览第1-2季。",
+      "source_url": "https://sports.yahoo.com/articles/cavs-run-gym-magic-preseason-013448052.html",
+      "publish_time": "2026-10-14T01:34:48+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ff381503a166",
+      "title": "光明面反应：谁应该从太阳的中心开始？",
+      "summary": "Oso Ighodaro提供组织性和多功能性，而Khaman Maluach则带来规模、篮板和防守潜力。谁应该开始？",
+      "source_url": "https://sports.yahoo.com/articles/bright-side-reacts-start-center-000000845.html",
+      "publish_time": "2026-10-14T00:00:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4840,11 +4924,47 @@
       ]
     },
     {
+      "id": "nba-c8c7563c0bbe",
+      "title": "诺兰·特劳雷（ Nolan Traore ）在第二年出名",
+      "summary": "小米克尔·布朗（ Mikel Brown Jr. ）将于周四首次亮相，但与此同时，请看看年轻的队友。",
+      "source_url": "https://sports.yahoo.com/articles/nolan-traore-makes-name-known-232308561.html",
+      "publish_time": "2026-10-13T23:23:08+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-9e4cd4f50b59",
       "title": "Cavs at Magic季前赛线程",
       "summary": "骑士队在奥兰多结束了季前赛。",
       "source_url": "https://sports.yahoo.com/articles/cavs-magic-preseason-game-thread-230000447.html",
       "publish_time": "2026-10-13T23:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fd6de9ad5b35",
+      "title": "季前赛预览# 5 ：狼对活塞比赛线程",
+      "summary": "狼队终于在周三晚上回到了目标中心！",
+      "source_url": "https://sports.yahoo.com/articles/preseason-preview-5-wolves-vs-230000622.html",
+      "publish_time": "2026-10-13T23:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-406056e035f1",
+      "title": "季前赛主题： Knicks at Raptors ， 2026年10月13日",
+      "summary": "在丰业银行竞技场（ Scotiabank Arena ）与考伊（ Kawhi ）的比赛中，第二名弦乐队获得了中心舞台。",
+      "source_url": "https://sports.yahoo.com/articles/preseason-game-thread-knicks-raptors-223000059.html",
+      "publish_time": "2026-10-13T22:30:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4893,6 +5013,30 @@
       "summary": "这位前年度第六人留在他曾经效力过的唯一一支球队。",
       "source_url": "https://sports.yahoo.com/articles/celtics-reportedly-reach-contract-extension-203640829.html",
       "publish_time": "2026-10-13T20:36:40+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b8ada9783fc3",
+      "title": "湖人队面对对战勇士队的关键考验，常规赛即将到来",
+      "summary": "湖人和勇士队在10月份的四场比赛中的第二场比赛有什么利害关系？",
+      "source_url": "https://sports.yahoo.com/articles/lakers-face-key-test-against-203501022.html",
+      "publish_time": "2026-10-13T20:35:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-26ba0baba742",
+      "title": "勇士开始五场比赛可能包括令人惊讶的转折",
+      "summary": "随着克里斯塔普斯·波尔津吉斯（ Kristaps Porzingis ）无限期出局，勇士队教练史蒂夫·克尔（ Steve Kerr ）透露了他在常规赛开幕之夜的潜在克尔说，他“倾向于”从斯蒂芬·库里、德雷蒙德开始……",
+      "source_url": "https://sports.yahoo.com/articles/warriors-starting-five-could-surprising-203014802.html",
+      "publish_time": "2026-10-13T20:30:14+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5613,150 +5757,6 @@
       "summary": "俄克拉荷马城的Cason Wallace扩建项目也进行了讨论。",
       "source_url": "https://sports.yahoo.com/articles/nba-rumors-news-roundup-brandon-233500069.html",
       "publish_time": "2026-10-12T23:35:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-166bbb0551c9",
-      "title": "您是否希望NBA和太阳队就您的商业理念提供建议？",
-      "summary": "太阳队和NBA正在合作帮助亚利桑那州的企业家。",
-      "source_url": "https://sports.yahoo.com/articles/want-nba-suns-advice-business-232735907.html",
-      "publish_time": "2026-10-12T23:27:35+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-62030e4f11d9",
-      "title": "季前赛主题：尼克斯vs森林狼， 2026年10月12日",
-      "summary": "纽约的季前赛继续对阵明尼苏达州。",
-      "source_url": "https://sports.yahoo.com/articles/preseason-game-thread-knicks-vs-230000857.html",
-      "publish_time": "2026-10-12T23:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1fc4a0721453",
-      "title": "NBA季前讨论：布鲁克林篮网队在华盛顿奇才队，美国东部时间晚上7:00",
-      "summary": "篮网在季前赛中连续第三次获胜。",
-      "source_url": "https://sports.yahoo.com/articles/nba-preseason-discussion-brooklyn-nets-222000513.html",
-      "publish_time": "2026-10-12T22:20:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-835b60c7a198",
-      "title": "Wizards vs. Nets讨论",
-      "summary": "今晚美国东部时间晚上7点，华盛顿奇才队主办了布鲁克林篮网队。在Monumental Sports Network上观看。伦佐在这里有预览。去吧，巫师们。",
-      "source_url": "https://sports.yahoo.com/articles/wizards-vs-nets-discussion-220000723.html",
-      "publish_time": "2026-10-12T22:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-110af2138c86",
-      "title": "湖人队还剩下2场季前赛，还有很多事情要清理",
-      "summary": "随着季前赛的结束，湖人队仍然需要清理一些区域。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-still-plenty-clean-2-211819257.html",
-      "publish_time": "2026-10-12T21:18:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-abf51ab3cd38",
-      "title": "乔丹“Last Dance”球衣以创纪录的1060万英镑成交",
-      "summary": "迈克尔·乔丹（ Michael Jordan ）《最后一支舞》（ Last Dance ）赛季的球衣售价为1400万美元（ 1060万英镑） ，创下了篮球纪念品的纪录。",
-      "source_url": "https://sports.yahoo.com/articles/jordan-last-dance-jersey-sells-211027548.html",
-      "publish_time": "2026-10-12T21:10:27+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-84932973c673",
-      "title": "经典，重生：篮网推出ABA经典版制服和球场第60赛季",
-      "summary": "篮网为该系列的第60个赛季带来了永恒的经典。",
-      "source_url": "https://sports.yahoo.com/articles/classic-reborn-nets-unveil-aba-202928106.html",
-      "publish_time": "2026-10-12T20:29:28+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4d9163f92aed",
-      "title": "波士顿凯尔特人队每日链接2026年10月12日",
-      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-200157694.html",
-      "publish_time": "2026-10-12T20:01:57+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1fd4b53b3bac",
-      "title": "Three big questions about 特雷·杨 as a Wizard",
-      "summary": "特雷·杨 is in D.C. for the long haul. Your mileage may vary on the four-year max extension the Wizards handed him thi…",
-      "source_url": "https://sports.yahoo.com/articles/three-big-questions-trae-young-190000498.html",
-      "publish_time": "2026-10-12T19:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-045746f529b0",
-      "title": "迈克尔·乔丹NBA总决赛球衣以创纪录的1400万美元成交",
-      "summary": "迈克尔·乔丹与公牛队的最后一次总冠军是在1998年，那一季NBA总决赛的一件纪念品以创纪录的八位数价格售出。",
-      "source_url": "https://sports.yahoo.com/articles/michael-jordan-nba-finals-jersey-184536243.html",
-      "publish_time": "2026-10-12T18:45:36+00:00",
-      "category": "nba",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-911a560737ff",
-      "title": "教练达科·拉贾科维奇（ Darko Rajaković ）表示，科怀·伦纳德（ 科怀·伦纳德 ）可以与尼克斯",
-      "summary": "这位明星前锋将于明天在丰业银行竞技场上场",
-      "source_url": "https://sports.yahoo.com/articles/kawhi-leonard-available-matchup-knicks-183400619.html",
-      "publish_time": "2026-10-12T18:34:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-0b79e8283e35",
-      "title": "马刺队推出全新ABA风格经典版制服和球场",
-      "summary": "这就像我们回到了半球公园！ （适合身边的人。）",
-      "source_url": "https://sports.yahoo.com/articles/spurs-release-aba-inspired-classic-180726505.html",
-      "publish_time": "2026-10-12T18:07:26+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
