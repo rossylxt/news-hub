@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-14T04:28:09.871100+00:00",
+  "generated_at": "2026-10-14T06:35:58.585325+00:00",
   "news": [
+    {
+      "id": "ai_cn-150545ec9c28",
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "summary": "给Ego补上缺失的交互信息",
+      "source_url": "https://www.qbitai.com/2026/10/503172.html",
+      "publish_time": "2026-10-14T04:51:32+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-2b7b4901d0e0",
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "summary": "从“懂空间”到“能干活”",
+      "source_url": "https://www.qbitai.com/2026/10/503173.html",
+      "publish_time": "2026-10-14T04:09:29+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-3a45e61a4521",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "source_url": "https://www.qbitai.com/2026/10/503165.html",
+      "publish_time": "2026-10-14T03:32:48+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-f4ebb26ed6bb",
+      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+      "summary": "一次采集，反复使用",
+      "source_url": "https://www.qbitai.com/2026/10/503157.html",
+      "publish_time": "2026-10-14T02:14:50+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-58d53eb1e004",
+      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+      "summary": "面壁开源MiniCPM-V 4.7",
+      "source_url": "https://www.qbitai.com/2026/10/503109.html",
+      "publish_time": "2026-10-13T20:55:15+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-8499d011aab7",
       "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
@@ -895,66 +955,6 @@
       "summary": "给Agent配上手机号，再拉个群",
       "source_url": "https://www.qbitai.com/2026/09/499592.html",
       "publish_time": "2026-09-30T07:58:37+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-6f802b209cc6",
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "summary": "让GPT把机器人技能当工具调用",
-      "source_url": "https://www.qbitai.com/2026/09/499493.html",
-      "publish_time": "2026-09-30T07:54:54+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-939c2f707f6d",
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-      "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-      "source_url": "https://www.qbitai.com/2026/09/499308.html",
-      "publish_time": "2026-09-30T05:18:05+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-f93191fb2753",
-      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-      "summary": "机器人上市，风向有变",
-      "source_url": "https://www.qbitai.com/2026/09/499280.html",
-      "publish_time": "2026-09-30T04:42:22+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-09424972eb1a",
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.qbitai.com/2026/09/499263.html",
-      "publish_time": "2026-09-30T02:53:17+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-27e9d49604e5",
-      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-      "summary": "今年devday牙膏挤爆",
-      "source_url": "https://www.qbitai.com/2026/09/499246.html",
-      "publish_time": "2026-09-29T23:01:05+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
