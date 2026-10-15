@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:32:15.346365+00:00",
+  "generated_at": "2026-10-15T20:27:54.399250+00:00",
   "news": [
     {
       "id": "ai_cn-a2113dd5cab5",
@@ -962,6 +962,66 @@
       ]
     },
     {
+      "id": "ai_intl-b79cf62ab2ac",
+      "title": "Meta推出在Mac上运行的开放式权重AI模型",
+      "summary": "Meta和苹果已经联手推出了这家社交媒体巨头的最新型号Muse Spark Open ，它将在苹果芯片上本地运行。",
+      "source_url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "publish_time": "2026-10-15T20:04:53+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d37081d91074",
+      "title": "亚马逊设备主管Panos Panay认为，未来人工智能设备将取代使用应用程序的需求",
+      "summary": "在TechCrunch Disrupt上，亚马逊设备主管帕诺斯·帕奈（ Panos Panay ）描述了未来环境人工智能设备在后台工作，预测用户的需求，而不是等待命令。",
+      "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "publish_time": "2026-10-15T19:55:25+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-6b32532a1652",
+      "title": "Anthropic让METR研究人员通过员工级别的访问权限查看引擎盖下方",
+      "summary": "METR将发布自己对Anthropic的风险、事件和实践的评估，前沿AI模型制造商已放弃阻止这些风险、事件和实践的权利。",
+      "source_url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "publish_time": "2026-10-15T19:14:26+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-aa35977b34b4",
+      "title": "Bluesky扩展了其基于人工智能的Attie应用程序，让任何人都可以构建网站、游戏等",
+      "summary": "Bluesky正在将“社交氛围编码”引入其实验性的Attie平台，允许用户创建互动体验，如游戏、测验和网站，以吸引社交网络的受众。",
+      "source_url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "publish_time": "2026-10-15T18:56:46+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-f927c27e2539",
+      "title": "为您的TechCrunch创始人峰会通行证节省高达200 $的最后机会：提前预订将于10月16日结束",
+      "summary": "TechCrunch创始人峰会于10月16日结束，最多可节省200 $。创始人和投资者通行证的这些节省将在周五之后消失。11月4日，在波士顿的SoWa发电站，与1,000名创始人和投资者一起参加。提出您最棘手的问题，让您的日常业务发挥作用。",
+      "source_url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "publish_time": "2026-10-15T18:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-534bc46e6ba2",
       "title": "人工智能特工来到Rivian的车上",
       "summary": "我们可能会在公司即将于12月举行的“人工智能和自治日”活动中了解更多有关其工作原理的信息。",
@@ -1855,66 +1915,6 @@
       "summary": "ChatGPT的青少年安全措施旨在保护弱势用户，但新的测试发现，聊天机器人在危机期间继续鼓励参与，并可能鼓励与人工智能本身的不健康关系。",
       "source_url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
       "publish_time": "2026-10-07T18:15:28+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-b81f72b7c1ca",
-      "title": "随着新界面的推出， ChatGPT变得更加可视化",
-      "summary": "OpenAI正在推出一个新的用户界面，将为ChatGPT带来交互式视觉效果。",
-      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "publish_time": "2026-10-07T18:00:19+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-dfd3923fff90",
-      "title": "Meta推出新的人工智能工具，以检测秘密导致儿童性虐待材料的广告",
-      "summary": "Meta在发现其平台上的广告后推出了新的人工智能工具，这些广告可能看起来很正常，但会引导用户在网上其他地方看到有害内容。",
-      "source_url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "publish_time": "2026-10-07T16:53:46+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-fc38477a8aad",
-      "title": "Healthleap为其人工智能筹集了3800万美元$ ，用于标记可能需要仔细观察的医院患者",
-      "summary": "此次融资包括由Sequoia Capital和First Round Capital共同牵头的$ 800万种子轮融资，以及由Hummingbird Ventures牵头的$ 3000万A轮融资。",
-      "source_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "publish_time": "2026-10-07T15:07:08+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-3499b6fe79a2",
-      "title": "托尼·法德尔（ Tony Fadell ）谈第一波人工智能小工具失败的原因—以及接下来会发生什么",
-      "summary": "“iPod之父”表示，第一代人工智能设备未能解决实际问题，下一波浪潮将需要赢得消费者的信任。",
-      "source_url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "publish_time": "2026-10-07T14:41:38+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-60862e24b98b",
-      "title": "谷歌在人工智能驱动的游戏平台上进行实验",
-      "summary": "Google Labs正在开发一个名为Playground的新型人工智能游戏创建平台，供用户使用简单的文本提示构建基于浏览器的游戏。",
-      "source_url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "publish_time": "2026-10-07T14:36:23+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
