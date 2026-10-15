@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:30:31.951595+00:00",
+  "generated_at": "2026-10-15T06:35:24.520187+00:00",
   "news": [
     {
       "id": "ai_cn-a2113dd5cab5",
@@ -962,6 +962,18 @@
       ]
     },
     {
+      "id": "ai_intl-74a5b05214cc",
+      "title": "Figma宣布推出新功能，以定义客服代表在其平台上的工作方式",
+      "summary": "Figma还在公开测试版中发布其代码层功能。",
+      "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "publish_time": "2026-10-15T04:30:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-7624c31011dc",
       "title": "Ricursive Intelligence押注于人工智能设计的芯片，以帮助解决计算危机",
       "summary": "创始人详细介绍了他们的创业公司如何开发能够设计芯片、从每次迭代中学习并改进后续设计的人工智能，所有这些都是为了实现芯片设计过程的自动化和加速。",
@@ -1903,18 +1915,6 @@
       "summary": "谷歌周二推出了一个新网站，允许任何人验证媒体（无论是图像、视频还是音频剪辑）是否使用人工智能生成。",
       "source_url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
       "publish_time": "2026-10-07T14:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-3bd217aa84bd",
-      "title": "前Ramp工程师在报废第一款产品后为平台Melius筹集了2000万美元$",
-      "summary": "该公司没有帮助营销人员管理和优化广告支出，而是专注于构建生成创意资产和广告系列的工具。",
-      "source_url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "publish_time": "2026-10-06T22:34:03+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4804,11 +4804,131 @@
       ]
     },
     {
+      "id": "nba-a61c944b8b4d",
+      "title": "掘金队的朱利安·斯托瑟（ Julian Stawther ）在膝盖受伤后离开比赛",
+      "summary": "丹佛侧翼将于周四进行核磁共振成像。",
+      "source_url": "https://sports.yahoo.com/articles/nuggets-julian-stawther-leaves-game-054909200.html",
+      "publish_time": "2026-10-15T05:49:09+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-be34ddd559ea",
+      "title": "季前赛预览：尼克斯对猛龙， 2026年10月15日",
+      "summary": "纽约以另一场对阵多伦多的比赛结束了季前赛。",
+      "source_url": "https://sports.yahoo.com/articles/preseason-game-preview-knicks-vs-040000227.html",
+      "publish_time": "2026-10-15T04:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d08267932c53",
+      "title": "休斯顿火箭对俄克拉荷马城雷霆季前赛预览",
+      "summary": "今晚是休斯顿火箭队的第三场也是最后一场季前赛。在球场的另一边，俄克拉荷马雷霆队正在打他们的第五场比赛，这场比赛不算数。显然，其中一些是由于火箭队穿越太平洋与[…]一起玩两场比赛",
+      "source_url": "https://sports.yahoo.com/articles/houston-rockets-vs-oklahoma-city-040000052.html",
+      "publish_time": "2026-10-15T04:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-527358644579",
+      "title": "活塞128 ，森林狼106 ：缠绕敌人渗透目标中心",
+      "summary": "明尼苏达森林狼将他们唯一的主场季前赛投给底特律活塞队",
+      "source_url": "https://sports.yahoo.com/articles/pistons-128-timberwolves-106-pestering-033741619.html",
+      "publish_time": "2026-10-15T03:37:41+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-60a7646687ac",
+      "title": "季前赛快速回顾：公牛125 ，公牛104",
+      "summary": "密尔沃基迎来第三场季前赛失利。",
+      "source_url": "https://sports.yahoo.com/articles/preseason-rapid-recap-bulls-125-033050199.html",
+      "publish_time": "2026-10-15T03:30:50+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a50f937f07fc",
+      "title": "4件事，因为小牛队在季前赛101-97输给新奥尔良鹈鹕队的比赛中没有复出",
+      "summary": "达拉斯2026-27赛季在主场进行的第一场季前赛是一场失利。凯里·欧文和Cooper Flagg被拦住了。",
+      "source_url": "https://sports.yahoo.com/articles/4-things-mavericks-comeback-falls-031800336.html",
+      "publish_time": "2026-10-15T03:18:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-cc6bade8e3d3",
+      "title": "比赛总结：马刺队远离人手不足的太阳队， 123-103",
+      "summary": "太阳队落入马刺队，卢克·肯纳德（ Luke Kennard ）因膝盖受伤而提前退出。",
+      "source_url": "https://sports.yahoo.com/articles/game-recap-spurs-pull-away-030223873.html",
+      "publish_time": "2026-10-15T03:02:23+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-2fd8c498cd5a",
+      "title": "Jalen Duren在井喷战胜狼队中几乎完美无瑕",
+      "summary": "在占主导地位的下半场，底特律的深度再次闪耀",
+      "source_url": "https://sports.yahoo.com/articles/jalen-duren-nearly-flawless-blowout-025825379.html",
+      "publish_time": "2026-10-15T02:58:25+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-db23eda4d842",
+      "title": "游戏主题：犹他州沙漠徒步之旅（季前赛决赛对阵凤凰城）",
+      "summary": "这是备受期待的季前赛决赛！我知道您为此在日历上做了标记。",
+      "source_url": "https://sports.yahoo.com/articles/game-thread-utah-treks-desert-022511898.html",
+      "publish_time": "2026-10-15T02:25:11+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-5c9c6e062154",
       "title": "篮网新秀小米克尔·布朗在首场季前赛对阵热火的比赛中闪现出潜力",
       "summary": "篮网新秀小米克尔·布朗（ Mikel Brown Jr. ）在周三晚上首次亮相季前赛，并展示了为什么球队认为他配得上2026年NBA选秀中的第六顺位。",
       "source_url": "https://sports.yahoo.com/articles/nets-mikel-brown-jr-flashes-022406871.html",
       "publish_time": "2026-10-15T02:24:06+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8fd476b51914",
+      "title": "小米克尔·布朗（ Mikel Brown Jr. ）首次亮相，但篮网队在季前赛决赛中以144-128落后",
+      "summary": "这是2026年季前赛的总结！以下是今晚在南海滩发生的事情。",
+      "source_url": "https://sports.yahoo.com/articles/mikel-brown-jr-makes-strong-022321894.html",
+      "publish_time": "2026-10-15T02:23:21+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5637,126 +5757,6 @@
       "summary": "垃圾时间工作人员把它拉下来。",
       "source_url": "https://sports.yahoo.com/articles/warriors-win-over-lakers-vegas-073005234.html",
       "publish_time": "2026-10-14T07:30:05+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b88fd254cb94",
-      "title": "沃克·凯斯勒（ Walker Kessler ）首次亮相，但卢卡·东契奇（ 卢卡·东契奇 ）在湖人队季前赛输给勇士队",
-      "summary": "沃克·凯斯勒（ Walker Kessler ）在周二晚上首次亮相湖人队，并在季前赛输给勇士队的比赛中得到11分。",
-      "source_url": "https://sports.yahoo.com/articles/walker-kessler-debuts-luka-doncic-043725996.html",
-      "publish_time": "2026-10-14T04:37:25+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ac9b4edaeb02",
-      "title": "沃克·凯斯勒（ Walker Kessler ）首次亮相，湖人队落入勇士队",
-      "summary": "沃克·凯斯勒（ Walker Kessler ）在他的首次亮相中留下了深刻的印象，奥斯汀·里夫斯（ Austin Reaves ）在洛杉矶输给勇士队的比赛",
-      "source_url": "https://sports.yahoo.com/articles/walker-kessler-shines-debut-lakers-042837661.html",
-      "publish_time": "2026-10-14T04:28:37+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d274e2ab7167",
-      "title": "凯尔特人反应调查：谁排在第二位？",
-      "summary": "我们知道杰森·塔图姆是蝙蝠侠，但罗宾对他的蝙蝠侠来说是谁？",
-      "source_url": "https://sports.yahoo.com/articles/celtics-reacts-survey-coming-second-040000659.html",
-      "publish_time": "2026-10-14T04:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-135825122284",
-      "title": "尼克斯预备队被猛龙队摧毁，因为首发球员没有参加丑陋的50分季前赛损失",
-      "summary": "不，季前赛结果实际上并不重要。尼克斯队教练迈克·布朗（ Mike Brown ）在这个过程中竖起了然而，无论这个过程是什么，它都是丑陋的。",
-      "source_url": "https://sports.yahoo.com/articles/knicks-reserves-demolished-raptors-starters-032148685.html",
-      "publish_time": "2026-10-14T03:21:48+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a7f28b05cd24",
-      "title": "骑士最高级： Meleek Thomas以令人失望的表现对抗魔法",
-      "summary": "克利夫兰糟糕的防守导致了季前赛的压倒性收场。",
-      "source_url": "https://sports.yahoo.com/articles/cavalier-superlatives-meleek-thomas-shines-030138074.html",
-      "publish_time": "2026-10-14T03:01:38+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b144959fc556",
-      "title": "群聊的想法和名言：猛龙vs.尼克斯",
-      "summary": "多伦多猛龙队历史上最电动的季前赛之一的速查表。",
-      "source_url": "https://sports.yahoo.com/articles/thoughts-quotes-group-chat-raptors-022103580.html",
-      "publish_time": "2026-10-14T02:21:03+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-cb37f14cebe1",
-      "title": "湖人队的沃克·凯斯勒在对阵勇士队的比赛中首次亮相",
-      "summary": "湖人队收购的大型自由球员球队在对阵勇士队的比赛中首次亮相",
-      "source_url": "https://sports.yahoo.com/articles/lakers-walker-kessler-makes-preseason-022059708.html",
-      "publish_time": "2026-10-14T02:20:59+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-2471024149b6",
-      "title": "球员等级：骑士队在季前赛决赛中落入魔术队，尽管Meleek Thomas的表现令人印象深刻",
-      "summary": "托马斯是一场令人难忘的比赛中唯一的亮点。",
-      "source_url": "https://sports.yahoo.com/articles/player-grades-cavs-fall-magic-020025404.html",
-      "publish_time": "2026-10-14T02:00:25+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-69a05a23e495",
-      "title": "猛龙148 ，尼克斯98 ： Kawhi回归的场景",
-      "summary": "尼克斯队延续了他们完美的季前赛纪录。",
-      "source_url": "https://sports.yahoo.com/articles/raptors-148-knicks-98-scenes-014808463.html",
-      "publish_time": "2026-10-14T01:48:08+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d984e9f2ffdc",
-      "title": "克里斯塔普斯波尔齐阿斯抵达大通中心",
-      "summary": "值得注意的是，勇士队不是。",
-      "source_url": "https://sports.yahoo.com/articles/kristaps-porzi-arrives-chase-center-014201650.html",
-      "publish_time": "2026-10-14T01:42:01+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
