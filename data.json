@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-17T20:21:24.724286+00:00",
+  "generated_at": "2026-10-17T23:55:47.918049+00:00",
   "news": [
+    {
+      "id": "ai_cn-6826351d0e95",
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "source_url": "https://www.qbitai.com/2026/10/504067.html",
+      "publish_time": "2026-10-17T12:21:09+00:00",
+      "category": "ai_cn",
+      "is_important": true,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-67fdbde969ed",
+      "title": "智谱新模型，懂法方面全球第一了",
+      "summary": "AI的风还是刮到了法律圈",
+      "source_url": "https://www.qbitai.com/2026/10/503965.html",
+      "publish_time": "2026-10-17T12:13:45+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-d6d7453c142d",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "summary": "整套系统原生支持MCP",
+      "source_url": "https://www.qbitai.com/2026/10/503935.html",
+      "publish_time": "2026-10-17T12:10:35+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-fedbf2b87fbc",
+      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+      "summary": "谜底指向时间",
+      "source_url": "https://www.qbitai.com/2026/10/503910.html",
+      "publish_time": "2026-10-17T12:06:51+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-5f7ed44c3073",
+      "title": "科技企业出海，为啥我推荐你去迪拜？",
+      "summary": "通往全球市场的超级跳板",
+      "source_url": "https://www.qbitai.com/2026/10/503893.html",
+      "publish_time": "2026-10-17T09:05:08+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-b1b4a2ab77b6",
       "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
@@ -895,66 +955,6 @@
       "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
       "source_url": "https://www.qbitai.com/2026/10/502009.html",
       "publish_time": "2026-10-08T09:30:17+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-be4199028472",
-      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
-      "source_url": "https://www.qbitai.com/2026/10/501995.html",
-      "publish_time": "2026-10-08T09:28:44+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-ae821b1920b2",
-      "title": "吉利智充技术正式发布，重塑全球补能新标杆",
-      "summary": "2027年底实现“县县通”",
-      "source_url": "https://www.qbitai.com/2026/10/501956.html",
-      "publish_time": "2026-10-08T09:10:55+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-790e24bb1b5d",
-      "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
-      "summary": "管理岗砍掉四成，顶级车型涨价20%卖",
-      "source_url": "https://www.qbitai.com/2026/10/501930.html",
-      "publish_time": "2026-10-08T07:10:24+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-959b5474e372",
-      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.qbitai.com/2026/10/501915.html",
-      "publish_time": "2026-10-08T02:15:37+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-8a78c30182ee",
-      "title": "GPT-6今起免费用！拒答变少，话变多了",
-      "summary": "ChatGPT聊天框长出界面",
-      "source_url": "https://www.qbitai.com/2026/10/501834.html",
-      "publish_time": "2026-10-08T01:07:19+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -4816,6 +4816,18 @@
       ]
     },
     {
+      "id": "nba-bb54fe20f28d",
+      "title": "J·J·雷迪克 drops major hint on which Lakers player will be cut ahead of Warriors season opener",
+      "summary": "The Lakers have to trade or waive a player before Opening Night. Coach J·J·雷迪克 discussed the roster shuffle as the Lak…",
+      "source_url": "https://sports.yahoo.com/articles/jj-redick-drops-major-hint-185642739.html",
+      "publish_time": "2026-10-17T18:56:42+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-d31ddb284550",
       "title": "业主汤姆·邓登（ Tom Dundon ）表示，让开拓者队留在波坦“是当务之急”",
       "summary": "开拓者队和波特兰市正在就莫达中心的装修和新租约进行谈判。",
@@ -5745,18 +5757,6 @@
       "summary": "以下是对NBA赛季的10个大胆预测，包括尼克斯在东部最大的比赛，西部的惊喜球队和杰出的球员。",
       "source_url": "https://sports.yahoo.com/articles/10-bold-predictions-2026-27-150809486.html",
       "publish_time": "2026-10-16T15:08:09+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ae8d498b40e9",
-      "title": "活塞vs猛龙预览：季前赛结局",
-      "summary": "随着季前赛的结束，底特律活塞队正朝着正确的方向前进。贾伦·杜伦（ Jalen Duren ）看到了季前赛记录，明尼苏达森林狼队感受到了他的存在。他穿着布娃娃，随时随地。多伦多猛龙队的功能与新成立的狼队有很大不同，但我们将看看底特律是否获得了…",
-      "source_url": "https://sports.yahoo.com/articles/pistons-vs-raptors-preview-preseason-150000364.html",
-      "publish_time": "2026-10-16T15:00:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
