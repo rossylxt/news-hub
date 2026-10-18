@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:45:46.484226+00:00",
+  "generated_at": "2026-10-18T13:53:46.954516+00:00",
   "news": [
     {
       "id": "ai_cn-6826351d0e95",
@@ -3844,6 +3844,18 @@
       ]
     },
     {
+      "id": "football_intl-a99d0669c677",
+      "title": "Real Madrid star 基利安·姆巴佩 backed to win the Ballon d’Or by former Sevilla star – “Best in the world”",
+      "summary": "基利安·姆巴佩 will only have an outside heading into the Ballon d’Or ceremony in London later this month, with Lamine Ya…",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-star-kylian-mbappe-112500333.html",
+      "publish_time": "2026-10-18T11:25:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-afb58c8f52bc",
       "title": "Wirtz取得了成功，但仍是利物浦的难题",
       "summary": "弗洛里安·维尔茨（ Florian Wirtz ）在利物浦重返英超联赛的胜利之路上发挥了重要作用，但他仍然是老板安东尼·伊拉奥拉（ Andoni Iraola ）的大难题",
@@ -4785,18 +4797,6 @@
       "summary": "本周，米兰甲级联赛看到前锋尼科洛·特雷索尔迪（ Nicolo Tresoldi ）在布鲁日俱乐部对阵国际米兰的比赛中给人留下了深刻的印象。玩家抓住了一个历史悠久的hattrick ，现在终于在Rossoneri的雷达上。La Gazzett…",
       "source_url": "https://sports.yahoo.com/articles/milan-keen-nicolo-tresoldi-cardinale-101000185.html",
       "publish_time": "2026-10-17T10:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-7f9569b05c0f",
-      "title": "塞雷娜为尤文图斯前锋沃尔特梅德辩护： “他适合斯帕莱蒂的比赛”",
-      "summary": "前尤文图斯、国际米兰前锋阿尔多·塞雷纳（ Aldo Serena ）为尼克·沃尔特梅德（ Nick Woltemade ）提供了合格的防守，称德国人尽管有局限性，但仍适合卢西亚诺·斯帕莱蒂（ Luciano Spalletti ）的风格。",
-      "source_url": "https://sports.yahoo.com/articles/serena-defends-juventus-forward-woltemade-100500350.html",
-      "publish_time": "2026-10-17T10:05:00+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
@@ -6868,86 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-ac8a8db6be9f",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "乌迪内斯",
-      "away_team": "莱切",
-      "match_time": "2026-10-18T10:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-7546025e6e56",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "奥萨苏纳",
-      "away_team": "桑坦德竞技",
-      "match_time": "2026-10-18T12:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-a05220eb3cbd",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "伯恩茅斯",
-      "away_team": "桑德兰",
-      "match_time": "2026-10-18T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-0935df69f166",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "利兹联",
-      "away_team": "曼联",
-      "match_time": "2026-10-18T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-2d8a417efc66",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "布莱顿",
-      "away_team": "水晶宫",
-      "match_time": "2026-10-18T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-492bf3e07884",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "佛罗伦萨",
-      "away_team": "科莫",
-      "match_time": "2026-10-18T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-9cadef3e32f3",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "昂热",
-      "away_team": "马赛",
-      "match_time": "2026-10-18T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-7155f4c0f1ab",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "勒沃库森",
-      "away_team": "弗赖堡",
-      "match_time": "2026-10-18T13:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-c7c6584083de",
       "sport": "football",
       "competition": "法甲",
@@ -7045,6 +6965,56 @@
       "away_team": "卡利亚里",
       "match_time": "2026-10-19T16:30:00Z",
       "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-57e675cfd6bb",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "帕尔马",
+      "away_team": "都灵",
+      "match_time": "2026-10-19T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-e28c39c568c0",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "赫塔费",
+      "away_team": "巴列卡诺",
+      "match_time": "2026-10-19T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-a37df801ca16",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "底特律活塞",
+      "away_team": "波士顿凯尔特人",
+      "match_time": "2026-10-20T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717855",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-878576764c90",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "纽约尼克斯",
+      "away_team": "费城76人",
+      "match_time": "2026-10-20T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717856",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-800ab2d81014",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "圣安东尼奥马刺",
+      "away_team": "俄克拉荷马城雷霆",
+      "match_time": "2026-10-20T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717857",
       "tags": []
     }
   ]
