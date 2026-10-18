@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-18T17:13:44.627032+00:00",
+  "generated_at": "2026-10-18T20:21:25.989452+00:00",
   "news": [
+    {
+      "id": "ai_cn-bbdc1740b0a7",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "summary": "让人人都能自由创造并体验可交互世界",
+      "source_url": "https://www.qbitai.com/2026/10/504136.html",
+      "publish_time": "2026-10-18T11:49:49+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-6826351d0e95",
       "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
@@ -55,6 +67,18 @@
       "summary": "通往全球市场的超级跳板",
       "source_url": "https://www.qbitai.com/2026/10/503893.html",
       "publish_time": "2026-10-17T09:05:08+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-6807ee786309",
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "summary": "买AIPC就选联想YOGA。",
+      "source_url": "https://www.qbitai.com/2026/10/504116.html",
+      "publish_time": "2026-10-16T13:48:10+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -938,27 +962,15 @@
       ]
     },
     {
-      "id": "ai_cn-5ce9b894c69d",
-      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
-      "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
-      "source_url": "https://www.qbitai.com/2026/10/502020.html",
-      "publish_time": "2026-10-08T10:23:53+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-2f6c16309da4",
+      "title": "迪士尼同意雇用Character.AI的大部分员工",
+      "summary": "该文件还表示，在迪士尼获得工作机会的“绝大多数” Character.AI员工都接受了他们。然而，这是一个跟踪马的出价，所以另一家公司可能会提出更高的报价。",
+      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "publish_time": "2026-10-18T16:30:00+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-92ed27634be9",
-      "title": "浪子回头！Manus重启北京办公室大举招聘",
-      "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
-      "source_url": "https://www.qbitai.com/2026/10/502009.html",
-      "publish_time": "2026-10-08T09:30:17+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
@@ -1903,18 +1915,6 @@
       "summary": "此前曾有报道称，人工智能实验室的年化收入约为700亿美元，但一份新报告称，这一数字远低于此。",
       "source_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
       "publish_time": "2026-10-08T18:19:42+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-ceca2e2c1a06",
-      "title": "谷歌将代理人工智能引入Gemini ，从企业开始",
-      "summary": "谷歌正在将Gemini变成一个人工智能代理，可以跨业务应用和系统规划、执行任务和工作。代理可以将工作委派给子代理，使用多个人工智能模型，甚至可以获得自己的工作场所身份，并附带一个电子邮件地址。",
-      "source_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "publish_time": "2026-10-08T18:18:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -6868,36 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-e08efdb0ab3f",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "尤文图斯",
-      "away_team": "拉齐奥",
-      "match_time": "2026-10-18T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-f786c8dd3d98",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "里昂",
-      "away_team": "尼斯",
-      "match_time": "2026-10-18T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-4352dd13257c",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "皇家马德里",
-      "away_team": "塞维利亚",
-      "match_time": "2026-10-18T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-acc35a9c9f1f",
       "sport": "football",
       "competition": "意甲",
@@ -7005,6 +6975,36 @@
       "away_team": "明尼苏达森林狼",
       "match_time": "2026-10-21T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21717858",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-f42911d44ca5",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "洛杉矶湖人",
+      "away_team": "金州勇士",
+      "match_time": "2026-10-21T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717859",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-4c08f3cf3686",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "奥兰多魔术",
+      "away_team": "亚特兰大老鹰",
+      "match_time": "2026-10-21T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717922",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-d6f8783e089b",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "华盛顿奇才",
+      "away_team": "密尔沃基雄鹿",
+      "match_time": "2026-10-21T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717923",
       "tags": []
     }
   ]
