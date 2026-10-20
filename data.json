@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:25:02.867721+00:00",
+  "generated_at": "2026-10-20T14:52:15.178750+00:00",
   "news": [
     {
       "id": "ai_cn-0a9c1ad53770",
@@ -6868,46 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-7808f0028f68",
-      "sport": "football",
-      "competition": "欧冠",
-      "home_team": "斯图加特",
-      "away_team": "马德里竞技",
-      "match_time": "2026-10-20T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-6c7598b94f99",
-      "sport": "football",
-      "competition": "欧冠",
-      "home_team": "利物浦",
-      "away_team": "比利亚雷亚尔",
-      "match_time": "2026-10-20T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-96c7763795a6",
-      "sport": "football",
-      "competition": "欧冠",
-      "home_team": "波尔图",
-      "away_team": "埃因霍温",
-      "match_time": "2026-10-20T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-e76c21975830",
-      "sport": "football",
-      "competition": "欧冠",
-      "home_team": "巴黎圣日耳曼",
-      "away_team": "巴塞罗那",
-      "match_time": "2026-10-20T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-nba-1211c4b80218",
       "sport": "basketball",
       "competition": "NBA常规赛",
@@ -7015,6 +6975,96 @@
       "away_team": "萨克拉门托国王",
       "match_time": "2026-10-21T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21717931",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3f2446231f49",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "莱万特",
+      "away_team": "毕尔巴鄂竞技",
+      "match_time": "2026-10-21T18:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-8d39ef3f71cf",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "费城76人",
+      "away_team": "克利夫兰骑士",
+      "match_time": "2026-10-22T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717860",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-51e07fbc3e3f",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "俄克拉荷马城雷霆",
+      "away_team": "丹佛掘金",
+      "match_time": "2026-10-22T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717861",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-488b2e17d0d5",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "波士顿凯尔特人",
+      "away_team": "纽约尼克斯",
+      "match_time": "2026-10-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717862",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-21016bda6d37",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "圣安东尼奥马刺",
+      "away_team": "休斯顿火箭",
+      "match_time": "2026-10-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717863",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-eaa122cdcf83",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "夏洛特黄蜂",
+      "away_team": "亚特兰大老鹰",
+      "match_time": "2026-10-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717936",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-2f636aaa29db",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "印第安纳步行者",
+      "away_team": "达拉斯独行侠",
+      "match_time": "2026-10-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717937",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-84f2a52f0c58",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "奥兰多魔术",
+      "away_team": "明尼苏达森林狼",
+      "match_time": "2026-10-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717938",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-244931cc0bb8",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "华盛顿奇才",
+      "away_team": "多伦多猛龙",
+      "match_time": "2026-10-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717939",
       "tags": []
     }
   ]
