@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-23T03:54:56.245703+00:00",
+  "generated_at": "2026-10-23T09:18:26.960265+00:00",
   "news": [
+    {
+      "id": "ai_cn-8410564441b3",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "source_url": "https://www.qbitai.com/2026/10/504901.html",
+      "publish_time": "2026-10-23T07:35:51+00:00",
+      "category": "ai_cn",
+      "is_important": true,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-b82c0d56584d",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "source_url": "https://www.qbitai.com/2026/10/504879.html",
+      "publish_time": "2026-10-22T09:07:05+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-edb55f4b1049",
       "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
@@ -931,30 +955,6 @@
       "summary": "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。",
       "source_url": "https://www.qbitai.com/2026/10/502683.html",
       "publish_time": "2026-10-12T08:14:58+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-ef1fb3b1e097",
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
-      "source_url": "https://www.qbitai.com/2026/10/502654.html",
-      "publish_time": "2026-10-12T05:48:36+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-c0dc5e971e49",
-      "title": "智谱新模型，490 tokens/s！",
-      "summary": "GLM「速度仙人」来了？",
-      "source_url": "https://www.qbitai.com/2026/10/502649.html",
-      "publish_time": "2026-10-12T02:37:04+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-fd5daafa00fe",
+      "title": "本月首次亮相的DF西野洋子（岩田U-18 ）在U-17W杯上向大学生展示了空战的实力“我能够给出自己的优势”",
+      "summary": "[10.22练习赛第1轮U-17日本国家队候选人0-0分布式经济大学J村] DF西野洋木（岩田U-18 ）在布景比赛中展示了空战的实力，在防守方面，他冷静而完全封闭地回应了分布式经济大学。为了成为U-17世界杯的一员，他说： “体质上有轻微…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?461631-461631-fl",
+      "publish_time": "2026-10-23T03:42:38+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-e265ec209d8e",
       "title": "小奈狄彦连续两轮拿下全包！ ！更接近法国，登上U17女足世界杯决赛T （ 10件）",
       "summary": "U-17日本女足国家队21日在U-17女足世界杯小组赛第二节以2比0击败法国队。",
@@ -3824,18 +3836,6 @@
       "title": "六名U-21日本国家队队员在训练场上出汗……冈部太陆金井藤（丰田）也是展示前FW （ 15件）鳞片的负责人",
       "summary": "U-21日本国家队于21日在丰田市举行了培训。从前一天的比赛开始， 14人在酒店进行了调整， 6人在训练场上出汗。●第20届亚运会特色",
       "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459384-459384-pn",
-      "publish_time": "2026-09-22T00:26:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-c06139a98329",
-      "title": "六名U-21日本国家队队员在训练场上出汗......古屋清介（东京国际大学/柏成贞）负责从右侧发动袭击（ 10张）",
-      "summary": "U-21日本国家队于21日在丰田市举行了培训。从前一天的比赛开始， 14人在酒店进行了调整， 6人在训练场上出汗。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459383-459383-pn",
       "publish_time": "2026-09-22T00:26:00+00:00",
       "category": "jp_football_euro",
       "is_important": false,
@@ -4804,6 +4804,30 @@
       ]
     },
     {
+      "id": "nba-f580df1b064a",
+      "title": "谢伊·吉尔杰斯-亚历山大's historic streak of 20-point games is over",
+      "summary": "谢伊·吉尔杰斯-亚历山大's historic streak of 141 games with at least 20 points was snapped in the OKC Thunder's game aga…",
+      "source_url": "https://sports.yahoo.com/articles/shai-gilgeous-alexanders-historic-streak-042119560.html",
+      "publish_time": "2026-10-23T04:21:19+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-82f368e5adb3",
+      "title": "勒布朗·詹姆斯 laughs off President Trump's criticism about national anthem, Sixers coach calls it 'outside noise'",
+      "summary": "This isn't the first time 勒布朗·詹姆斯 and Donald Trump have had a disagreement.",
+      "source_url": "https://sports.yahoo.com/nba/article/lebron-james-laughs-off-president-trumps-criticism-about-national-anthem-sixers-coach-calls-it-outside-noise-040724437.html",
+      "publish_time": "2026-10-23T04:07:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-5dd5d01d9586",
       "title": "据报道，尼克斯将虚假的冠军戒指优惠转化为员工的网络安全课程",
       "summary": "尼克斯的冠军戒指产生了一些尴尬的故事。",
@@ -4881,6 +4905,30 @@
       "summary": "勒布朗·詹姆斯不小心肘击了费城76人队的队友VJ Edgecombe ，让Edgecombe流了血。",
       "source_url": "https://sports.yahoo.com/articles/lebron-james-gives-76ers-teammate-013221959.html",
       "publish_time": "2026-10-23T01:32:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9e40a1a1eea2",
+      "title": "How 勒布朗·詹姆斯 acted this time after national anthem — and Trump’s evisceration",
+      "summary": "勒布朗·詹姆斯 was as still as a statue during the national anthem before Thursday's game between the 76ers and Cavaliers.",
+      "source_url": "https://sports.yahoo.com/articles/lebron-james-acted-time-national-004451607.html",
+      "publish_time": "2026-10-23T00:44:51+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-263617bab274",
+      "title": "卡尔-安东尼·唐斯’ continued foul trouble no laughing matter for Knicks",
+      "summary": "卡尔-安东尼·唐斯 provided a reminder of one of comedy’s greatest lessons.",
+      "source_url": "https://sports.yahoo.com/articles/karl-anthony-towns-continued-foul-001137459.html",
+      "publish_time": "2026-10-23T00:11:37+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5709,54 +5757,6 @@
       "summary": "新秀小米克尔·布朗（ Mikel Brown Jr. ）的NBA处子秀是赛季开局令人失望的少数几个篮网亮点之一。",
       "source_url": "https://sports.yahoo.com/articles/nets-mikel-brown-jr-shows-060101392.html",
       "publish_time": "2026-10-22T06:01:01+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5844937940d2",
-      "title": "在开幕之夜， 卢卡·东契奇、Walker Kessler搭配精美",
-      "summary": "沃克·凯斯勒（ Walker Kessler ）当晚有10个扣篮，其中一些扣篮在唐西奇（ Doncic ）的大厅外。",
-      "source_url": "https://sports.yahoo.com/articles/opening-night-luka-doncic-walker-060044069.html",
-      "publish_time": "2026-10-22T06:00:44+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-818d99a8554c",
-      "title": "亚克塞尔·伦德博格（ Yaxel Lendeborg ）谈到卢卡·东契奇（ Luka Dončić ） ： “我对他失去",
-      "summary": "Yaxel Lendeborg在与洛杉矶湖人队的首场NBA比赛中成为头条新闻。这一切都是出于正确还是错误的原因？这取决于你。伦德堡在职业篮球最高级别的第一场正式比赛中被赋予了一项艰巨的任务：在卢卡·东契奇（ Luka Dončić ）防守联…",
-      "source_url": "https://sports.yahoo.com/articles/yaxel-lendeborg-luka-don-ve-054813325.html",
-      "publish_time": "2026-10-22T05:48:13+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-75753fa91503",
-      "title": "泰·杰罗姆（ Ty Jerome ）获得职业生涯最高的45分，创下灰熊队开幕之夜战胜爵士队的纪录",
-      "summary": "对于职业后卫来说，这是一个令人惊叹的派对，他在253场职业NBA比赛中只打破过一次30分的高原。",
-      "source_url": "https://sports.yahoo.com/nba/article/ty-jerome-explodes-for-career-high-45-points-sets-grizzlies-opening-night-record-in-win-over-jazz-051852721.html",
-      "publish_time": "2026-10-22T05:18:52+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4b0fdd6e48ba",
-      "title": "大流士·加兰带领快船队战胜国王队",
-      "summary": "这名后卫在19投11中得到30分，在周三在Intuit Dome的5投5中得到16分热门开局后得到4次助攻。",
-      "source_url": "https://sports.yahoo.com/articles/darius-garland-leads-clippers-big-051651270.html",
-      "publish_time": "2026-10-22T05:16:51+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
