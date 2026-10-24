@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:00:47.398207+00:00",
+  "generated_at": "2026-10-24T03:49:42.021902+00:00",
   "news": [
     {
       "id": "ai_cn-8410564441b3",
@@ -2882,6 +2882,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-78a1065c1048",
+      "title": "第一枚金牌和国王的手……盲人足球日本在亚洲残奥会决赛中向中国投降， 12年来首次获得银牌",
+      "summary": "日本的盲人足球队参加了2026年在爱知和名古屋举行的亚洲残奥会，在23日的决赛中以0-1输给了中国，并以银牌结束了比赛。他没有进入比赛的第一枚金牌，但他赢得了自2014年仁川奥运会以来12年来的第二枚银牌。日本是一个六国小组联赛，在第一场比…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?461669-461669-fl",
+      "publish_time": "2026-10-24T01:48:43+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-7ac5cf6d6fc5",
       "title": "“参加” U17欧锦赛预选赛， U16日本国家队将带回国际舞台的标准，挑战“严肃”的欧洲，旨在赢得所有三场比赛，至少相当于“小组第二名或更高”",
       "summary": "U-16日本国家队于11月27日至11月2日在塞浦路斯参加三场“欧足联友谊赛” ，在千叶市接受训练，然后于23日出发探险。阵型练习后分成两个位置，在每个进球前进行分解和积累。然后，进行了大约8分钟x 2场红白比赛，完成了这项活动中唯一的国内…",
@@ -3832,15 +3844,75 @@
       ]
     },
     {
-      "id": "jp_football_euro-01068d17f744",
-      "title": "六名U-21日本国家队队员在训练场上出汗…森宗一郎（冈山）在主场为亚运会而战（ 12件）",
-      "summary": "U-21日本国家队于21日在丰田市举行了培训。从前一天的比赛开始， 14人在酒店进行了调整， 6人在训练场上出汗。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459385-459385-pn",
-      "publish_time": "2026-09-22T00:26:00+00:00",
-      "category": "jp_football_euro",
+      "id": "football_intl-b077cabf9b8b",
+      "title": "在Brasileirão体验周五的欢乐时光！ Mineirão回顾和最新表格 📊",
+      "summary": "2026 Brasileirão本周五（ 23日）已经投入使用。Cruzeiro对阵Remo在29,516名球迷面前在贝洛奥里藏特拉开了第32轮比赛的序幕。看看矿场发生了什么......",
+      "source_url": "https://sports.yahoo.com/articles/friday-feeling-brasileir-o-mineir-010000398.html",
+      "publish_time": "2026-10-24T01:00:00+00:00",
+      "category": "football_intl",
       "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4eca540d6529",
+      "title": "Wael Mohya为挑衅性的进球庆祝活动向斯图加特球迷道歉",
+      "summary": "门兴格拉德巴赫（ Borussia Mönchengladbach ） 17岁的攻击轰动瓦埃勒·莫希亚（ Wael Mohya ）已向斯图加特VfB的支持者道歉，因为在周五晚上戏剧性的3-2德甲胜利期间举行了挑衅性的庆祝活动......",
+      "source_url": "https://sports.yahoo.com/articles/wael-mohya-apologizes-stuttgart-fans-004100306.html",
+      "publish_time": "2026-10-24T00:41:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-1431381617e0",
+      "title": "门兴格拉德巴赫的亚历山大·布莱辛（ Alexander Blessin ）淡化了新俱乐部首次赢得德甲联赛的家乡意义",
+      "summary": "Borussia门兴格拉德巴赫主教练亚历山大·布莱辛（ Alexander Blessin ）在周五晚上享受了情绪化的回归，他的球队以3-2的比分戏剧性地复出，确保了他们本赛季的第一场德甲胜利。",
+      "source_url": "https://sports.yahoo.com/articles/borussia-m-nchengladbach-alexander-blessin-001200956.html",
+      "publish_time": "2026-10-24T00:12:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ed09dc2dfb3b",
+      "title": "塞巴斯蒂安·霍内斯（ Sebastian Hoeneß ）对斯图加特在最近的德甲联赛失利后的自满情绪表示担忧",
+      "summary": "斯图加特VFB主教练塞巴斯蒂安·霍内斯（ Sebastian Hoeneß ）表示，自满导致他的球队在周五晚上以2比3击败门兴格拉德巴赫（ Borussia Mönchengladbach ） ，令人失望。这位44岁的球员...",
+      "source_url": "https://sports.yahoo.com/articles/sebastian-hoene-expresses-concern-over-235400411.html",
+      "publish_time": "2026-10-23T23:54:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-282929519dbf",
+      "title": "弗拉门戈队在据称派出不合格球员的学生队中寻找积分",
+      "summary": "弗拉门戈在球场上被Estudiantes淘汰出局。但是在周五（ 23日） ，他们向Conmebol投诉，声称后卫Marcos Rojo没有资格在马拉卡纳比赛。Rubro-Negr...",
+      "source_url": "https://sports.yahoo.com/articles/flamengo-seek-points-over-estudiantes-235100431.html",
+      "publish_time": "2026-10-23T23:51:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-01783ac2b0aa",
+      "title": "门兴格拉德巴赫老板称赞德甲复出胜利的两位英雄",
+      "summary": "Borussia Mönchengladbach体育主管Rouven Schröder在周五晚上以3-2击败斯图加特VfB的戏剧性胜利后表达了相当大的宽慰。在连续六场德甲比赛之后……",
+      "source_url": "https://sports.yahoo.com/articles/borussia-m-nchengladbach-boss-praises-232300705.html",
+      "publish_time": "2026-10-23T23:23:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
       ]
     },
     {
@@ -4168,6 +4240,42 @@
       ]
     },
     {
+      "id": "football_intl-e6cbf630dcfd",
+      "title": "阿斯顿维拉的£ 4300万边锋困境：埃默里是否在保护俱乐部？",
+      "summary": "阿斯顿维拉在机翼上拥挤的选择让一个夏天的到来难以给人留下深刻印象， Unai Emery要求他的进攻球员提高纪律和一致性。",
+      "source_url": "https://sports.yahoo.com/articles/aston-villa-43m-winger-dilemma-195000005.html",
+      "publish_time": "2026-10-23T19:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d1b350a2e62a",
+      "title": "“我感觉很好” –亚历山大·伊萨克在利物浦对阵布莱顿之前谈到了他的健康状况",
+      "summary": "利物浦vs布莱顿：亚历山大·伊萨克·福尔姆在安菲尔德为周日英超联赛与布莱顿的会面带来了希望，但也带来了一个他们没有解决的问题。结果...",
+      "source_url": "https://sports.yahoo.com/articles/feel-good-alexander-isak-speaks-195000006.html",
+      "publish_time": "2026-10-23T19:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-36e3ca322e11",
+      "title": "由于欧洲巨头的兴趣，布莱顿将阻止1月份的退出",
+      "summary": "随着迭戈·戈麦斯（ Diego Gomez ）吸引马德里竞技（ Atletico Madrid ）和AC米兰InterestBrighton在1月转会窗口之前明确表达了他们对迭戈·戈麦斯（ Diego Gomez ）的立场， TeamTal…",
+      "source_url": "https://sports.yahoo.com/articles/brighton-set-block-january-exit-195000433.html",
+      "publish_time": "2026-10-23T19:50:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-9a28d9447058",
       "title": "Hermoso可能会收到来自西班牙的惊喜电话",
       "summary": "在西班牙，马里奥·埃莫索（ Mario Hermoso ）与贾洛罗西（ Giallorossi ）的精彩比赛不会被忽视。在他的祖国，关于罗马后卫国家队可能被征召的谣言再次浮出水面。西班牙人...",
@@ -4175,6 +4283,18 @@
       "publish_time": "2026-10-23T19:43:00+00:00",
       "category": "football_intl",
       "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-0579d5c0f82d",
+      "title": "全部确认：利物浦同意安菲尔德回归的时间表",
+      "summary": "据报道，利物浦已经确认了一位明星重返俱乐部的时间表。这是本周谈判的结果。利物浦在中后卫有问题。这在这一点上是不可否认的……",
+      "source_url": "https://sports.yahoo.com/articles/confirmed-liverpool-agree-timeline-anfield-194000052.html",
+      "publish_time": "2026-10-23T19:40:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
@@ -4684,120 +4804,24 @@
       ]
     },
     {
-      "id": "football_intl-f497a05b0d37",
-      "title": "Everton Snub £ 430万前锋： Moyes应该选择青春而不是体验吗？",
-      "summary": "埃弗顿在进入1月转会窗口时面临着一个不舒服的问题。大卫·莫耶斯需要另一位中锋，但俱乐部必须在不向……投入大量资金的情况下找到解决方案",
-      "source_url": "https://sports.yahoo.com/articles/everton-snub-4-3m-striker-203500809.html",
-      "publish_time": "2026-10-22T20:35:00+00:00",
-      "category": "football_intl",
+      "id": "nba-8721b22fcf0f",
+      "title": "保罗·班凯罗 injury update: Why Magic star exited game vs. Timberwolves",
+      "summary": "The Orlando Magic said 保罗·班凯罗 was doubtful to return due to a sore right ankle.",
+      "source_url": "https://sports.yahoo.com/articles/paolo-banchero-injury-why-magic-014028773.html",
+      "publish_time": "2026-10-24T01:40:28+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-5b04ae233a2e",
-      "title": "米兰在伯恩茅斯的红牌后， Maignan可以错过多少场比赛？",
-      "summary": "Mike Maignan在米兰与伯恩茅斯的比赛中上半场红牌后，至少在欧罗巴联赛中面临一场比赛。据米兰新闻24报道，这位守门员肯定会错过米兰的n...",
-      "source_url": "https://sports.yahoo.com/articles/many-matches-could-maignan-miss-203000391.html",
-      "publish_time": "2026-10-22T20:30:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-0c5044bc052c",
-      "title": "Spalletti “不理解”被禁止的进球，因为尤文图斯教练“期望更多”来自Woltemade和Kolo Muani",
-      "summary": "Luciano Spalletti说他“不明白”为什么Jhon Lucumí的已故冠军在尤文图斯与雷恩的2-2平局中被排除在外，同时坚称他对Nick Woltemade和Randal K有更多的期望......",
-      "source_url": "https://sports.yahoo.com/articles/spalletti-didn-t-understand-disallowed-202000682.html",
-      "publish_time": "2026-10-22T20:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b5e91904ef4f",
-      "title": "阿斯顿维拉老板今天在曼联的链接上做出了重大决定：他是一个万能手吗？",
-      "summary": "阿斯顿维拉的国内和欧洲成绩截然不同，本赛季Unai Emery的管理层受到严格审查，西班牙人面临着关于俱乐部方向的重要决定。",
-      "source_url": "https://sports.yahoo.com/articles/aston-villa-boss-makes-major-202000272.html",
-      "publish_time": "2026-10-22T20:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-cf6f96027d2f",
-      "title": "📸 米兰队长因UEL冲突中的暴力行为而出示红牌 🟥",
-      "summary": "AC米兰在欧罗巴联赛与伯恩茅斯的比赛中开局缓慢后，情况在中场休息前变得越来越糟。鲁本·阿莫林身旁的活力体育场让人目瞪口呆……",
-      "source_url": "https://sports.yahoo.com/articles/milan-captain-shown-red-card-201900937.html",
-      "publish_time": "2026-10-22T20:19:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b1ebaec630b9",
-      "title": "👨‍🏫Borja Jiménez接任加的斯CF经理",
-      "summary": "Cádiz Club de Fútbol已正式任命Borja Jiménez为一线队的新任主教练。这位出生于阿维拉的经理从卡塔尔的Al-Ahli加入加的斯，此前曾执教过多家俱乐部，包括...",
-      "source_url": "https://sports.yahoo.com/articles/borja-jim-nez-takes-over-201200438.html",
-      "publish_time": "2026-10-22T20:12:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4e969475a536",
-      "title": "切尔西迈向利物浦球星重磅炸弹交易的第一步",
-      "summary": "切尔西希望推进与一名利物浦球星的交易。他们在Xabi Alonso的要求下迈出了第一步。利物浦与切尔西的交易不多，但有一些过度……",
-      "source_url": "https://sports.yahoo.com/articles/chelsea-first-step-towards-bombshell-201000306.html",
-      "publish_time": "2026-10-22T20:10:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-7bcf7a50b5cf",
-      "title": "帕德博恩庆祝28岁前锋Steffen Tigges的复兴： “Tiggi 2.0”",
-      "summary": "SC帕德博恩主教练拉尔夫·凯特曼（ Ralf Kettemann ）证实，斯蒂芬·蒂格斯（ Steffen Tigges ）有望在周六德甲对阵汉堡的比赛中保持他在首发十一强的位置。这位28岁的罢工者……",
-      "source_url": "https://sports.yahoo.com/articles/paderborn-celebrate-revival-28-old-200700422.html",
-      "publish_time": "2026-10-22T20:07:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-3ffde3af5de0",
-      "title": "阿森纳是监控这位有天赋的中场球员的俱乐部之一：一个正在酝酿中的明星？",
-      "summary": "在最近的一份报告中，记者格雷姆·贝利（ Graeme Bailey ）表示，阿森纳是监督哥德堡中场奥利弗·曼森（ Oliver Mansson ）的俱乐部之一。据说枪手们正面临着激烈的竞争……",
-      "source_url": "https://sports.yahoo.com/articles/arsenal-among-clubs-monitoring-gifted-200500244.html",
-      "publish_time": "2026-10-22T20:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-bb01cf0e4c50",
-      "title": "阿森纳联系20岁德甲前锋代表",
-      "summary": "据报道，阿森纳在评估20岁的法兰克福前锋Eintracht时联系了Can Uzun的代表。照片由Fabio Deinert/Getty Images提供据报道，阿森纳已与T...",
-      "source_url": "https://sports.yahoo.com/articles/arsenal-contact-representatives-20-old-200500739.html",
-      "publish_time": "2026-10-22T20:05:00+00:00",
-      "category": "football_intl",
+      "id": "nba-be858b3bbaec",
+      "title": "德雷蒙德·格林 sounds alarm on Luka Dončić’s MVP chances",
+      "summary": "德雷蒙德·格林 made a blunt claim on why 卢卡·东契奇 won't win the NBA MVP.",
+      "source_url": "https://sports.yahoo.com/articles/draymond-green-sounds-alarm-luka-225749236.html",
+      "publish_time": "2026-10-23T22:57:49+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4821,6 +4845,30 @@
       "summary": "这里有一个新的周末开放线程，专为您而设。",
       "source_url": "https://sports.yahoo.com/articles/csr-weekend-warriors-215900215.html",
       "publish_time": "2026-10-23T21:59:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-534fdbc0af3e",
+      "title": "勒布朗·詹姆斯 questionable for Sixers’ first of a back-to-back vs Bucks",
+      "summary": "勒布朗·詹姆斯 is on the injury report for the first time while 乔尔·恩比德 is not listed.",
+      "source_url": "https://sports.yahoo.com/articles/lebron-james-questionable-sixers-first-212203839.html",
+      "publish_time": "2026-10-23T21:22:03+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-25f050d0b36f",
+      "title": "杰伦·布朗 seemingly calls out 杰森·塔图姆 over Celtics trade reaction",
+      "summary": "杰伦·布朗 isn’t buying ex-teammate 杰森·塔图姆’s reaction to his trade over the summer.",
+      "source_url": "https://sports.yahoo.com/articles/jaylen-brown-seemingly-calls-jayson-201735154.html",
+      "publish_time": "2026-10-23T20:17:35+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5709,54 +5757,6 @@
       "summary": "篮网队在赛季揭幕战中以110-103输给了黄蜂队，因为2025年的首轮选秀权Egor Dëmin和Nolan Traore在失利中挣扎。",
       "source_url": "https://sports.yahoo.com/articles/nets-prized-2025-draft-class-225505896.html",
       "publish_time": "2026-10-22T22:55:05+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-3c7b846009f6",
-      "title": "安东尼·戴维斯（ 安东尼·戴维斯 ）在主场揭幕战中赞扬奇才队，开玩笑说上赛季的第一场比赛感觉就像“穿得像个座位之夜”",
-      "summary": "戴维斯在华盛顿击败雄鹿队的比赛中得到34分，他说观众“很棒” ： “他们让我们克服了困境。”",
-      "source_url": "https://sports.yahoo.com/nba/article/anthony-davis-praises-wizards-crowd-in-home-opener-jokes-that-first-game-last-season-felt-like-dress-like-a-seat-night-224058826.html",
-      "publish_time": "2026-10-22T22:40:58+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ffc764037d30",
-      "title": "湖人队的爆炸性进攻让人看起来很容易，这是即将发生的事情的迹象",
-      "summary": "湖人队提供了一个可能是一支精英进攻球队的一瞥。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-explosive-offense-made-look-221328991.html",
-      "publish_time": "2026-10-22T22:13:28+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-53d0a80ec4c7",
-      "title": "Malika Andrews在接受病毒式湖人队采访后发表了俏皮的Luka Dončić帖子",
-      "summary": "ESPN的马利卡·安德鲁斯（ Malika Andrews ）在赛后接受采访时与洛杉矶湖人队球星卢卡·东奇奇（ Luka Dončić ）分享了一段俏皮的",
-      "source_url": "https://sports.yahoo.com/articles/malika-andrews-makes-playful-luka-220936697.html",
-      "publish_time": "2026-10-22T22:09:36+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-6518dba0f718",
-      "title": "Stephen A. Smith支持Yaxel Lendeborg “抱怨” 卢卡·东契奇的批评",
-      "summary": "史蒂芬· A ·史密斯（ Stephen A. Smith ）为金州勇士队的新秀亚克塞尔·伦德堡（ Yaxel Lendeborg ）辩护，此前他喊出了洛杉矶湖人队的明星卢卡",
-      "source_url": "https://sports.yahoo.com/articles/stephen-smith-backs-yaxel-lendeborg-220722979.html",
-      "publish_time": "2026-10-22T22:07:22+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -6868,86 +6868,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-nba-3653d361442c",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "夏洛特黄蜂",
-      "away_team": "迈阿密热火",
-      "match_time": "2026-10-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21717946",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-1acb0b2d392a",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "克利夫兰骑士",
-      "away_team": "布鲁克林篮网",
-      "match_time": "2026-10-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21717947",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-299ee2342cde",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "费城76人",
-      "away_team": "密尔沃基雄鹿",
-      "match_time": "2026-10-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21717948",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-d3986a0cb258",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "亚特兰大老鹰",
-      "away_team": "休斯顿火箭",
-      "match_time": "2026-10-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21717949",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-2dce52769288",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "芝加哥公牛",
-      "away_team": "华盛顿奇才",
-      "match_time": "2026-10-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21717950",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-aa3167f2329f",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "达拉斯独行侠",
-      "away_team": "圣安东尼奥马刺",
-      "match_time": "2026-10-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21717951",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-be40046d99f3",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "丹佛掘金",
-      "away_team": "新奥尔良鹈鹕",
-      "match_time": "2026-10-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21717953",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-b3e5ac693cbe",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "菲尼克斯太阳",
-      "away_team": "金州勇士",
-      "match_time": "2026-10-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21717954",
-      "tags": []
-    },
-    {
       "id": "mp-fb-a804bfcdfd09",
       "sport": "football",
       "competition": "英超",
@@ -7025,6 +6945,86 @@
       "away_team": "西班牙人",
       "match_time": "2026-10-24T14:15:00Z",
       "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-d9e83d3076e9",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "那不勒斯",
+      "away_team": "罗马",
+      "match_time": "2026-10-24T16:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-f60fd88c7b29",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "切尔西",
+      "away_team": "托特纳姆热刺",
+      "match_time": "2026-10-24T16:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-e213fda0e49f",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "瓦伦西亚",
+      "away_team": "比利亚雷亚尔",
+      "match_time": "2026-10-24T16:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-92bc50a06289",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "多特蒙德",
+      "away_team": "法兰克福",
+      "match_time": "2026-10-24T16:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-d8dd467d0648",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "拉齐奥",
+      "away_team": "帕尔马",
+      "match_time": "2026-10-24T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-966330cad26f",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "朗斯",
+      "away_team": "巴黎FC",
+      "match_time": "2026-10-24T18:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-fee7bfab303d",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "马德里竞技",
+      "away_team": "拉科鲁尼亚",
+      "match_time": "2026-10-24T19:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-d59e6c509a2b",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "犹他爵士",
+      "away_team": "洛杉矶湖人",
+      "match_time": "2026-10-25T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21717955",
       "tags": []
     }
   ]
