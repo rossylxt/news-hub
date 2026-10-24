@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:20:50.859880+00:00",
+  "generated_at": "2026-10-24T20:30:16.464652+00:00",
   "news": [
     {
       "id": "ai_cn-696e5963a7d8",
@@ -962,6 +962,54 @@
       ]
     },
     {
+      "id": "ai_intl-41208e707565",
+      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+      "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publish_time": "2026-10-24T19:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-07faf6f38097",
+      "title": "Block的新声音模型听起来很人性化",
+      "summary": "布洛克说，语音模型可以在MacBook M4 Max上本地运行",
+      "source_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "publish_time": "2026-10-24T16:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-b8554dad591a",
+      "title": "被迫选择，格罗克的人工智能模型选择了共和党人。OpenAI挑选民主党人。",
+      "summary": "一项新的研究发现， Grok的人工智能压倒性地推荐了共和党候选人，而OpenAI的GPT则倾向于民主党人，在近500场选举中，有90%以上的人工智能模式存在分歧。",
+      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "publish_time": "2026-10-24T15:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-b2f0cf19fa7c",
+      "title": "以下是可以存在于您的短信中的顶级AI代理",
+      "summary": "我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。",
+      "source_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publish_time": "2026-10-24T14:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-7384891d7abd",
       "title": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
       "summary": "OpenAI将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。",
@@ -1867,54 +1915,6 @@
       "summary": "加入TechCrunch Disrupt 2026的最后一天。加入1万多名技术领导者的行列，享受一天的交流和见解之旅。立即使用通行证可享75%的优惠。",
       "source_url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
       "publish_time": "2026-10-15T14:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-2d7de8707312",
-      "title": "亚马逊的Bee推出两款新的个人人工智能设备，起价为$ 75",
-      "summary": "亚马逊旗下的Bee自收购以来推出了首批新的人工智能设备，包括更新的可穿戴设备和连接到智能手机的信用卡大小的录音机。这些设备可以总结对话、创建待办事项列表，并与Alexa和亚马逊购物集成，价格从$ 74.99起。",
-      "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "publish_time": "2026-10-15T12:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-74a5b05214cc",
-      "title": "Figma宣布推出新功能，以定义客服代表在其平台上的工作方式",
-      "summary": "Figma还在公开测试版中发布其代码层功能。",
-      "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "publish_time": "2026-10-15T04:30:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-7624c31011dc",
-      "title": "Ricursive Intelligence押注于人工智能设计的芯片，以帮助解决计算危机",
-      "summary": "创始人详细介绍了他们的创业公司如何开发能够设计芯片、从每次迭代中学习并改进后续设计的人工智能，所有这些都是为了实现芯片设计过程的自动化和加速。",
-      "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "publish_time": "2026-10-15T01:01:32+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-1919b268be46",
-      "title": "Gudea利用人工智能帮助组织预防社交媒体危机爆发",
-      "summary": "每天，世界各地的社交媒体和网站都会展开对话。一个看似微不足道的后果--无论是人工智能产生的错误信息、仇恨言论还是破坏性的谣言--都可能很快引发更大的公众争议。Gudea是一家追踪故事和谣言如何在网上传播的公司，自称是“互联网的风暴追踪器”…",
-      "source_url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "publish_time": "2026-10-15T00:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -6910,36 +6910,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-d8dd467d0648",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "拉齐奥",
-      "away_team": "帕尔马",
-      "match_time": "2026-10-24T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-966330cad26f",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "朗斯",
-      "away_team": "巴黎FC",
-      "match_time": "2026-10-24T18:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-fee7bfab303d",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "马德里竞技",
-      "away_team": "拉科鲁尼亚",
-      "match_time": "2026-10-24T19:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-nba-d59e6c509a2b",
       "sport": "basketball",
       "competition": "NBA常规赛",
@@ -7086,6 +7056,26 @@
       "home_team": "霍芬海姆",
       "away_team": "勒沃库森",
       "match_time": "2026-10-25T14:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-654b5921e981",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "马赛",
+      "away_team": "勒阿弗尔",
+      "match_time": "2026-10-25T16:15:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-8161a38b6e3f",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "雷恩",
+      "away_team": "斯特拉斯堡",
+      "match_time": "2026-10-25T16:15:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
