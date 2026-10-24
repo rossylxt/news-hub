@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-24T03:49:42.021902+00:00",
+  "generated_at": "2026-10-24T08:47:52.843369+00:00",
   "news": [
+    {
+      "id": "ai_cn-696e5963a7d8",
+      "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+      "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+      "source_url": "https://www.qbitai.com/2026/10/505083.html",
+      "publish_time": "2026-10-23T09:21:41+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-a469a5ac137b",
+      "title": "企业AI需要两个世界模型",
+      "summary": "特赞想让企业Agent真正懂业务",
+      "source_url": "https://www.qbitai.com/2026/10/505032.html",
+      "publish_time": "2026-10-23T09:07:25+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-95e6e47be913",
+      "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+      "summary": "房间秒变草原，抬手就能下雪",
+      "source_url": "https://www.qbitai.com/2026/10/504931.html",
+      "publish_time": "2026-10-23T09:03:37+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-eb81669751aa",
+      "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/10/504930.html",
+      "publish_time": "2026-10-23T08:50:16+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-fc3becad3fec",
+      "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+      "summary": "让AI真正走进真实世界",
+      "source_url": "https://www.qbitai.com/2026/10/504915.html",
+      "publish_time": "2026-10-23T08:45:43+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-06dde1386e75",
+      "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+      "summary": "10月23日，iRTE2026实时智能大会在北京举行。",
+      "source_url": "https://www.qbitai.com/2026/10/504913.html",
+      "publish_time": "2026-10-23T08:45:30+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-c5496a8005bf",
+      "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+      "summary": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0",
+      "source_url": "https://www.qbitai.com/2026/10/504905.html",
+      "publish_time": "2026-10-23T08:40:57+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-8410564441b3",
       "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
@@ -878,87 +962,39 @@
       ]
     },
     {
-      "id": "ai_cn-f540be984372",
-      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-      "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
-      "source_url": "https://www.qbitai.com/2026/10/502907.html",
-      "publish_time": "2026-10-13T06:00:20+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-7384891d7abd",
+      "title": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
+      "summary": "OpenAI将在其一名工程师表示该解决方案不起作用的几周后，从互联网上切断前沿模型。",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "publish_time": "2026-10-23T23:05:49+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-68569cf6060a",
-      "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
-      "summary": "赢奖金、拿融资、送出海",
-      "source_url": "https://www.qbitai.com/2026/10/502784.html",
-      "publish_time": "2026-10-13T04:07:04+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-67b40086dc1e",
+      "title": "圣诞节最热门的玩具？英伟达首席执行官与可爱的Microduck机器人玩耍，售出2万台",
+      "summary": "机器人跺着小脚，发出微小的R2-D2声音，坐了下来，摔死了“小睡一会儿” ，然后在语音命令下翻腾起来。",
+      "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "publish_time": "2026-10-23T21:59:19+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-6d48bda1571f",
-      "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
-      "summary": "丢一句话进去，事儿就办完了",
-      "source_url": "https://www.qbitai.com/2026/10/502849.html",
-      "publish_time": "2026-10-13T04:04:22+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-97fa418027d6",
+      "title": "从Toast到Bessemer ：创始人将在2026年TechCrunch创始人峰会上发表讲话",
+      "summary": "这次为期一天的活动由TechCrunch与富达私人股票（ Fidelity Private Shares ）合作主办，不仅仅是筹款和人工智能，还探索寻找客户、建立团队、加强宣传、培养创始人领导力以及在传统创业中心内外扩展公司的现实。",
+      "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "publish_time": "2026-10-23T19:06:23+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-ddfd03145821",
-      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
-      "summary": "算力、模型、行业，三层生意一起做",
-      "source_url": "https://www.qbitai.com/2026/10/502767.html",
-      "publish_time": "2026-10-13T04:01:15+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-e0317748dfdb",
-      "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
-      "summary": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
-      "source_url": "https://www.qbitai.com/2026/10/502770.html",
-      "publish_time": "2026-10-13T02:01:56+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-ba3cda4985d4",
-      "title": "2026没过完，已有480亿美元投进了物理AI",
-      "summary": "日均10亿元流入",
-      "source_url": "https://www.qbitai.com/2026/10/502741.html",
-      "publish_time": "2026-10-12T08:27:43+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-cedc0d78b994",
-      "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
-      "summary": "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。",
-      "source_url": "https://www.qbitai.com/2026/10/502683.html",
-      "publish_time": "2026-10-12T08:14:58+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
@@ -1879,42 +1915,6 @@
       "summary": "每天，世界各地的社交媒体和网站都会展开对话。一个看似微不足道的后果--无论是人工智能产生的错误信息、仇恨言论还是破坏性的谣言--都可能很快引发更大的公众争议。Gudea是一家追踪故事和谣言如何在网上传播的公司，自称是“互联网的风暴追踪器”…",
       "source_url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "publish_time": "2026-10-15T00:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-b212bc9f8ea1",
-      "title": "Flock首席执行官表示，其麦克风检测到“只是枪声” —其网站上说不同",
-      "summary": "兰利的评论是在包括ACLU在内的隐私倡导者以及担心其技术被滥用的公众对Flock进行越来越严格的审查之际发表的。",
-      "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "publish_time": "2026-10-14T21:30:33+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-5a63753fd6b2",
-      "title": "随着人工智能生成的音乐涌入流媒体平台， YouTube Music推出了新标签",
-      "summary": "标签将显示在播放器页面上，包括完全由AI生成或部分生成的歌曲，例如涉及作曲和人声的歌曲。",
-      "source_url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "publish_time": "2026-10-14T18:23:46+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-ea05e081087d",
-      "title": "Apate派遣人工智能特工进行卧底欺诈，以便收集欺诈情报",
-      "summary": "大多数公司使用人工智能代理来更快地运送产品或加快工作流程。Apate.ai派他们卧底去骗人。",
-      "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "publish_time": "2026-10-14T18:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -3844,6 +3844,426 @@
       ]
     },
     {
+      "id": "football_intl-067b9fec750c",
+      "title": "“指挥”明星的经纪人被派往利物浦讨论他的下一步行动",
+      "summary": "在过去的几年里，利物浦已经与几位不同的球员建立了联系。这支安菲尔德球队现在已经花费了6亿多£购买新人才，而他们招募的很多球员...",
+      "source_url": "https://sports.yahoo.com/articles/commanding-stars-agents-sent-liverpool-084000602.html",
+      "publish_time": "2026-10-24T08:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-6cc4d8fde88f",
+      "title": "Lens预测XI诉巴黎足球俱乐部： Ismaelo Ganiou输了， Odsonne Édouard输了？",
+      "summary": "根据L ’Équipe的说法，虽然没有受伤，但Odsonne Édouard可能会被排除在RC Lens的阵容之外，在周日晚上面对巴黎足球俱乐部。这里有前水晶宫前锋的掩护。是Benfica loane……",
+      "source_url": "https://sports.yahoo.com/articles/lens-predicted-xi-v-paris-082900788.html",
+      "publish_time": "2026-10-24T08:29:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-cf198583efeb",
+      "title": "🎙️ Mou ，领先Clásico ： “马德里与穆里尼奥一起赢得奖杯”",
+      "summary": "穆里尼奥淡化了这样一个想法，即对阵巴塞罗那足球俱乐部的比赛将是在埃尔克拉西科之前的火灾试验。“事实并非如此。马德里与穆里尼奥一起赢得奖杯，”教练在压力下回答道。",
+      "source_url": "https://sports.yahoo.com/articles/mou-ahead-cl-sico-madrid-082400734.html",
+      "publish_time": "2026-10-24T08:24:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-5caeda7be692",
+      "title": "Gasperini可以在Malen身后部署Pisilli",
+      "summary": "吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）的罗马队正在准备对阵那不勒斯的客场比赛，有几个阵容问题，特别是关于合作伙伴唐耶尔·马伦（ 多尼尔·马伦 ）的进攻荷兰中心为...",
+      "source_url": "https://sports.yahoo.com/articles/gasperini-could-deploy-pisilli-behind-082100122.html",
+      "publish_time": "2026-10-24T08:21:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-769ad34f9611",
+      "title": "利物浦准备在最近的表演后签下£ 4700万",
+      "summary": "Ronald Araujo到利物浦： Summer Decision Edges Closer利物浦在对Ronald Araujo的评估中越来越受到鼓励，乌拉圭国际队正在早期影响......",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-ready-wrap-47m-signing-082000603.html",
+      "publish_time": "2026-10-24T08:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d74f27484e43",
+      "title": "天空体育：阿森纳对22岁的前锋“非常感兴趣”",
+      "summary": "阿森纳转会最新消息：尼科洛·特雷索尔迪（ Nicolo Tresoldi ）对前锋计划的兴趣与日俱增阿森纳的前锋计划正在变得更加清晰，天空体育（ Sky Sports ）报道俱乐部“认真地......",
+      "source_url": "https://sports.yahoo.com/articles/sky-sports-arsenal-seriously-interested-082000230.html",
+      "publish_time": "2026-10-24T08:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-eadb70bdf8bb",
+      "title": "Lulli将于周一签署新的罗马协议",
+      "summary": "吉安·皮耶罗·加斯佩里尼（ Gian Piero Gasperini ）的罗马队抵达马拉多纳体育场，旨在保持他们的状态，并在对阵那不勒斯的比赛中取得重要成绩。贾洛罗西（ Giallorossi ）教练现在是精选的球队之一……",
+      "source_url": "https://sports.yahoo.com/articles/lulli-pen-roma-deal-monday-081700608.html",
+      "publish_time": "2026-10-24T08:17:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f219959d226f",
+      "title": "意甲：那不勒斯对罗马–可能的阵容，在电视上观看的地方",
+      "summary": "多尼尔·马伦将在那不勒斯的一场客场比赛中率领罗马队进攻，但Paulo Dybala仍然受伤， Massimiliano Allegri将寻找Rasmus Hojlund。它将于欧洲中部时间18:00 [英国夏令时17:00]在…",
+      "source_url": "https://sports.yahoo.com/articles/serie-napoli-vs-roma-probable-081500316.html",
+      "publish_time": "2026-10-24T08:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-09a8023a7b9f",
+      "title": "皇家马德里组织者在关键创意统计方面领先欧洲，穆里尼奥释放了他的潜力",
+      "summary": "在何塞·穆里尼奥（ Jose Mourinho ）的领导下，皇家马德里中场球员阿尔达·居勒（ Arda Guler ）进行了职位转型，成为欧洲最富有成效的创意球员之一。土耳其国脚已经表现出色",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-playmaker-leads-europe-081500167.html",
+      "publish_time": "2026-10-24T08:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-3b0307ad68a6",
+      "title": "罗马将首次亮相第三套装备对阵那不勒斯",
+      "summary": "罗马正在用一套新装备为对阵那不勒斯的比赛做准备。对于今天下午6:00在迭戈阿曼多马拉多纳体育场的比赛， Giallorossi将穿着他们的官方三...",
+      "source_url": "https://sports.yahoo.com/articles/roma-debut-third-kit-vs-081100161.html",
+      "publish_time": "2026-10-24T08:11:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ac07de31f359",
+      "title": "曼城首发XI vs阿斯顿维拉：确认球队新闻和预测阵容",
+      "summary": "曼城队新闻vs阿斯顿维拉： 厄林·哈兰德准备回归曼城应该让厄林·哈兰德回到阿斯顿维拉之旅的起跑线，这就是头条新闻。Enzo Mares...",
+      "source_url": "https://sports.yahoo.com/articles/man-city-starting-xi-vs-080700741.html",
+      "publish_time": "2026-10-24T08:07:00+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f2429f6eaa94",
+      "title": "阿森纳将与巴塞罗那竞争，追求6000万欧元的德国前锋–报告",
+      "summary": "巴塞罗那在夏天的大部分时间里都试图签下一名新前锋，因为看到罗伯特·莱万多夫斯基和费兰·托雷斯都离开了。而俱乐部几乎完全专注于签下朱利安·阿尔瓦雷斯。",
+      "source_url": "https://sports.yahoo.com/articles/arsenal-set-rival-barcelona-pursuit-080000481.html",
+      "publish_time": "2026-10-24T08:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d21d5fa3199a",
+      "title": "皇家马德里将23岁的超级巨星视为潜在的未来金球奖得主–报告",
+      "summary": "距离Ballon d 'Or颁奖典礼仅几天之遥，该奖项将于周一在伦敦颁发。皇家马德里超级巨星基利安·姆巴佩是赢得Ballon d' Or的最爱之一，他...",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-see-23-old-075400319.html",
+      "publish_time": "2026-10-24T07:54:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-0640f466c229",
+      "title": "Latte Lath从街头游戏和Carrick到德国新起点的旅程",
+      "summary": "伊曼纽尔·拉特·拉特（ Emmanuel Latte Lath ）小时候从象牙海岸来到意大利，现在他在德国又有了新的开始。",
+      "source_url": "https://sports.yahoo.com/articles/latte-laths-journey-street-games-075142767.html",
+      "publish_time": "2026-10-24T07:51:42+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a7b443ade4ce",
+      "title": "恩德里克可能会在一月份离开皇家马德里，意甲巨人热衷",
+      "summary": "根据西班牙媒体Marca的说法， Endrick可能会在1月份的转会窗口离开皇家马德里， AC米兰和罗马热衷于签下他。这位20岁的球员一直在努力争取一线队的机会，因为...",
+      "source_url": "https://sports.yahoo.com/articles/endrick-could-leave-real-madrid-074500097.html",
+      "publish_time": "2026-10-24T07:45:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4fce7aa3da73",
+      "title": "左后卫设置在一月窗口打开后立即离开利物浦",
+      "summary": "安菲尔德球迷目前的重点是利物浦将在1月份签下谁，但可能首先要离开。Andoni Iraola的几位球员一直让人失望...",
+      "source_url": "https://sports.yahoo.com/articles/left-back-set-leave-liverpool-074000033.html",
+      "publish_time": "2026-10-24T07:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-72ea0b4a3280",
+      "title": "F1传奇人物Max Verstappen在El Clasico之前选择了巴塞罗那和皇家马德里",
+      "summary": "足球界将密切关注周日巴塞罗那和皇家马德里之间的相遇，这将是本赛季的第一个Clasico。前者如Gerard Pique ， Jordi Alba和Guti...",
+      "source_url": "https://sports.yahoo.com/articles/f1-legend-max-verstappen-chooses-074000133.html",
+      "publish_time": "2026-10-24T07:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-ae8e731011f3",
+      "title": "哈比·阿隆索（ Xabi Alonso ）承认，当他反思被解雇时，皇家马德里退出太早了： “我不会愤怒地回头看”",
+      "summary": "前皇家马德里主教练哈比·阿隆索（ Xabi Alonso ）承认，他在圣地亚哥伯纳乌（ Santiago Bernabeu ）的时间比他预期的要早。阿隆索成为拜耳勒沃库森（ Bayer Leverkusen ）的顶级主教练后，洛杉矶...",
+      "source_url": "https://sports.yahoo.com/articles/xabi-alonso-admits-real-madrid-072900829.html",
+      "publish_time": "2026-10-24T07:29:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4e8aa492a83d",
+      "title": "尤文边后卫，拉莫斯决定，阿莱格里拒绝洛博特卡？早间新闻 ☀️",
+      "summary": "在周五的揭幕战中都灵以3-2击败蒙扎之后，意甲的第八轮比赛在周六进行了四场比赛。通过OneFootball上的LaB频道观看每场意甲BKT比赛：订阅...",
+      "source_url": "https://sports.yahoo.com/articles/juve-full-back-ramos-decision-071900100.html",
+      "publish_time": "2026-10-24T07:19:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-8cfbfb55adeb",
+      "title": "巴塞罗那vs皇家马德里预览：加泰罗尼亚巨人队希望从巴黎圣日耳曼对阵洛斯布兰科斯的噩梦中恢复过来",
+      "summary": "巴塞罗那将于10月25日（周日）在埃尔克拉西科（ El Clasico ）举办皇家马德里联赛，以保护他们完美的西甲纪录。汉斯·弗里克（ Hansi Flick ）的球队赢得了所有九场联赛，但面对的是一支马德里队……",
+      "source_url": "https://sports.yahoo.com/articles/barcelona-vs-real-madrid-preview-070500348.html",
+      "publish_time": "2026-10-24T07:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-43ecb25b4c82",
+      "title": "Rodri和Raphinha在PSG亏损后如何在巴塞罗那更衣室大放异彩",
+      "summary": "巴塞罗那在周中遭遇了本赛季的首次失利，他们在冠军联赛中以4比2输给了巴黎圣日耳曼。对于本赛季每场比赛都占据主导地位的球队来说，...",
+      "source_url": "https://sports.yahoo.com/articles/rodri-raphinha-fired-barcelona-dressing-070000312.html",
+      "publish_time": "2026-10-24T07:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-c91630d8227a",
+      "title": "Aitor Mañas的第一个Alavés进球否认了马拉加本赛季的第一场胜利",
+      "summary": "替补球员Aitor Mañas在Mendizorroza对阵马拉加的第89分钟为Alavés一线队打进了他的第一个进球。1-1平局让马拉加仍在寻找第一场胜利，而阿拉维斯则...",
+      "source_url": "https://sports.yahoo.com/articles/aitor-ma-first-alav-goal-065800368.html",
+      "publish_time": "2026-10-24T06:58:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-9be463d9638e",
+      "title": "恩佐·马雷斯卡（ Enzo Maresca ）可以在曼城面对阿斯顿维拉（ Aston Villa ）时发动中场大师赛",
+      "summary": "曼城今天在维拉公园迎战阿斯顿维拉。恩佐·马雷斯卡（ Enzo Maresca ）的球队在2026-27赛季的飞行开始后，坐在英超联赛的顶端进入今天的比赛。城市有一个pe...",
+      "source_url": "https://sports.yahoo.com/articles/enzo-maresca-could-unleash-midfield-064400265.html",
+      "publish_time": "2026-10-24T06:44:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-4e2f2b077d0a",
+      "title": "巴塞罗那传奇人物将维尼修斯的缺席称为皇家马德里在埃尔克拉西科之前的重大损失– “他很重要”",
+      "summary": "随着El Clasico即将到来，大型足球名人已经开始为本赛季的第一场对决做出预测。虽然杰拉德·皮克（ Gerard Pique ）预计巴塞罗那将轻松获胜，但...",
+      "source_url": "https://sports.yahoo.com/articles/barcelona-legend-calls-vinicius-absence-064000379.html",
+      "publish_time": "2026-10-24T06:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-d68555585e3e",
+      "title": "Jordi Alba在El Clasico之前谈论Yamal ， 维尼修斯 ， Ballon d 'Or和得分预测– “我预测胜利”",
+      "summary": "El Clasico就在拐角处，另一位巴塞罗那伟人支持他的前俱乐部在诺坎普球场脱颖而出。Jordi Alba在接受Diario AS采访时对巴塞罗那充满信心...",
+      "source_url": "https://sports.yahoo.com/articles/jordi-alba-talks-yamal-vinicius-064000156.html",
+      "publish_time": "2026-10-24T06:40:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-78595bf3ed93",
+      "title": "利物浦已经有比迈克尔·奥利斯和拉明·亚马尔更好的明星了",
+      "summary": "一段时间以来， Rio Ngumoha一直是英格兰足球界最有前途的天才之一。甚至在他为利物浦一线队踢球之前，这名少年就给前辈带来了麻烦……",
+      "source_url": "https://sports.yahoo.com/articles/liverpool-already-star-better-michael-063500229.html",
+      "publish_time": "2026-10-24T06:35:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-28918f55c833",
+      "title": "皇家马德里老将在埃尔克拉西科之前在巴塞罗那进行挖掘： “我们尊重球员，不像另一方”",
+      "summary": "即将到来的Clasico将是一场特别的比赛，因为巴塞罗那和皇家马德里都有一些势头，但在不同程度上也缺乏同样的势头。加泰罗尼亚人整个赛季都处于不可阻挡的状态……",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-veteran-takes-dig-062000998.html",
+      "publish_time": "2026-10-24T06:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-938bafd8374c",
+      "title": "巴塞罗那后卫在El Clasico之前没有为科帕奖杯而烦恼– “没有想到这一点”",
+      "summary": "未来几天对巴塞罗那来说可能是特别的，因为他们不仅有机会再次击败皇家马德里，而且还在伦敦的金球奖颁奖典礼上占据主导地位。拉明·亚马尔是其中之一......",
+      "source_url": "https://sports.yahoo.com/articles/barcelona-defender-not-bothered-kopa-062000505.html",
+      "publish_time": "2026-10-24T06:20:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-884e666f3db6",
+      "title": "赫塔菲提供Jadon Sancho £ 40万合同，大幅削减曼联工资",
+      "summary": "据《每日电讯报》报道， Jadon Sancho收到了赫塔菲的正式合同要约，在赛季结束前，他的收入仅为40万£。这个数字比他...",
+      "source_url": "https://sports.yahoo.com/articles/getafe-offer-jadon-sancho-400k-060500532.html",
+      "publish_time": "2026-10-24T06:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-e8b75b0f3e0d",
+      "title": "尽管1月份与拜仁有联系，但Dani Olmo很高兴入住巴塞罗那",
+      "summary": "弗洛里安·普莱滕贝格（ Florian Plettenberg ）表示，尽管有报道称这位西班牙国脚将转会到拜仁慕尼黑，但丹尼·奥尔莫（ Dani Olmo ）无意在1月份离开巴塞罗那。这位中场球员对…",
+      "source_url": "https://sports.yahoo.com/articles/dani-olmo-happy-stay-barcelona-060500574.html",
+      "publish_time": "2026-10-24T06:05:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-25568072925c",
+      "title": "为什么托特纳姆热刺v阿森纳可以定义他们的赛季",
+      "summary": "随着托特纳姆热刺的口吃和阿森纳的挣扎，这些激烈的对手都需要在周六的摊牌中获胜，在BBC One直播。",
+      "source_url": "https://sports.yahoo.com/articles/why-tottenham-v-arsenal-could-060249211.html",
+      "publish_time": "2026-10-24T06:02:49+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-a014afbcb19c",
+      "title": "皇家马德里后卫不考虑离开俱乐部，尽管退出链接",
+      "summary": "特伦特·亚历山大·阿诺德（ Trent Alexander-Arnold ）在皇家马德里的咒语一直很困难，自从他从利物浦免费转会加入俱乐部以来。英国人的进步因伤病而陷入困境...",
+      "source_url": "https://sports.yahoo.com/articles/real-madrid-defender-not-thinking-060000812.html",
+      "publish_time": "2026-10-24T06:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-5938cd58925b",
+      "title": "巴塞罗那表扬莱昂内尔·梅西（ 利昂内尔·梅西 ）赢得重要奖项– “让巴塞罗那变得伟大”",
+      "summary": "琼·拉波塔（ Joan Laporta ）与莱昂内尔·梅西（ 利昂内尔·梅西 ）破裂的关系有据可查。在2021年毫不客气地退出后，这位阿根廷球星一直对巴萨主席怀有怨恨。拉波尔……",
+      "source_url": "https://sports.yahoo.com/articles/barcelona-praise-lionel-messi-key-060000302.html",
+      "publish_time": "2026-10-24T06:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-5b60f6d8e9bd",
+      "title": "曼城对阵阿斯顿维拉：城市队最新消息和预测城市在今天比赛前十一点开始",
+      "summary": "曼城今天在维拉公园迎战阿斯顿维拉，重返英超联赛。恩佐·马雷斯卡（ Enzo Maresca ）的球队在对阵伊普斯维奇镇（ Ipswich Town ）和AEK雅典（ AEK Athens",
+      "source_url": "https://sports.yahoo.com/articles/manchester-city-vs-aston-villa-055300658.html",
+      "publish_time": "2026-10-24T05:53:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-f725fd7f9571",
+      "title": "克莱门特希望诺里奇“屏蔽噪音”",
+      "summary": "诺里奇城老板菲利普·克莱门特（ Philippe Clement ）正试图阻止连续六场失利。",
+      "source_url": "https://sports.yahoo.com/articles/clement-wants-norwich-block-noise-044610188.html",
+      "publish_time": "2026-10-24T04:46:10+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-b077cabf9b8b",
       "title": "在Brasileirão体验周五的欢乐时光！ Mineirão回顾和最新表格 📊",
       "summary": "2026 Brasileirão本周五（ 23日）已经投入使用。Cruzeiro对阵Remo在29,516名球迷面前在贝洛奥里藏特拉开了第32轮比赛的序幕。看看矿场发生了什么......",
@@ -4384,420 +4804,96 @@
       ]
     },
     {
-      "id": "football_intl-067905fbc6c7",
-      "title": "阿森纳球星在埃弗顿冲突之前重返训练",
-      "summary": "阿森纳伤病更新：在面对埃弗顿之前， Piero Hincapie Boost Ahead of EvertonArsenal可能会有一个有用的提升， Piero Hincapie正在接受全面训练，并比FIR更快地推动回归......",
-      "source_url": "https://sports.yahoo.com/articles/arsenal-star-returns-training-ahead-185000558.html",
-      "publish_time": "2026-10-23T18:50:00+00:00",
-      "category": "football_intl",
+      "id": "nba-76c05862f5d7",
+      "title": "维克托·文班亚马 ，马刺队在0-2首发后还有很多事情要弄清楚",
+      "summary": "过度依赖他们的超级明星和新的首发球员让马刺队很难找到自己的节奏。",
+      "source_url": "https://sports.yahoo.com/nba/article/victor-wembanyama-spurs-have-plenty-to-figure-out-after-0-2-start-072937010.html",
+      "publish_time": "2026-10-24T07:29:37+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-0d155710765d",
-      "title": "阿森纳在巨大的利物浦冲突之前进行了致命的伤病打击",
-      "summary": "利物浦vs阿森纳： 布卡约·萨卡 Injury Latest Before Anfield Test利物浦于11月1日星期日在安菲尔德主办阿森纳，标题很明显。布卡约·萨卡看起来很想念它，那件事……",
-      "source_url": "https://sports.yahoo.com/articles/arsenal-dealt-crushing-injury-blow-185000756.html",
-      "publish_time": "2026-10-23T18:50:00+00:00",
-      "category": "football_intl",
+      "id": "nba-4db2ba5ed401",
+      "title": "沃克·凯斯勒很快成为湖人队的防守主力",
+      "summary": "沃克·凯斯勒在湖人队的另一场胜利中再次提出了一些令人震惊的统计数据。",
+      "source_url": "https://sports.yahoo.com/articles/walker-kessler-quickly-become-lakers-063421500.html",
+      "publish_time": "2026-10-24T06:34:21+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-60cb28868ec7",
-      "title": "Emanuele Lulli即将与罗马签订新合同，以及为什么该决定将带来回报",
-      "summary": "罗马的意甲球队在本赛季看到了天才伊曼纽尔·鲁利（ Emanuele Lulli ）的惊喜，并且已经找到了一次球网的背面。他们现在在续签合同方面取得了关键进展。",
-      "source_url": "https://sports.yahoo.com/articles/emanuele-lulli-nearing-roma-contract-184700259.html",
-      "publish_time": "2026-10-23T18:47:00+00:00",
-      "category": "football_intl",
+      "id": "nba-ff2db17e5441",
+      "title": "勇士队在第四节对阵灰熊队的比赛中以0-2击败对手",
+      "summary": "孟菲斯灰熊队以17-2的比分结束比赛，以击晕金州勇士队。",
+      "source_url": "https://sports.yahoo.com/articles/warriors-0-2-stunning-fourth-062847685.html",
+      "publish_time": "2026-10-24T06:28:47+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-c9038d7ae83e",
-      "title": "Calvert-Lewin将领先一线| 3-4-3利兹联队预测阵容对阵桑德兰",
-      "summary": "本周日，利兹联队将在光明体育场与桑德兰发生冲突，因为他们希望在英超联赛的道路上取得好成绩。白人队被曼彻斯特队以1比1战平...",
-      "source_url": "https://sports.yahoo.com/articles/calvert-lewin-lead-line-3-184500859.html",
-      "publish_time": "2026-10-23T18:45:00+00:00",
-      "category": "football_intl",
+      "id": "nba-89453a87667c",
+      "title": "马刺在奥斯汀输给火箭队，跌至0-2",
+      "summary": "对于马刺来说，这是一场更好的比赛，但失误让他们在奥斯汀付出了代价。",
+      "source_url": "https://sports.yahoo.com/articles/spurs-lose-heartbreaker-rockets-austin-062422116.html",
+      "publish_time": "2026-10-24T06:24:22+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-4ba94ba30aea",
-      "title": "噩梦😱还在继续！格拉德巴赫守门员把它放进自己的网里",
-      "summary": "现在足球比成为门兴格拉德巴赫球迷更痛苦的事情莫过于此。在德甲六次失利后，本赛季开始，周五晚上在VfB S的比赛开始了几分钟......",
-      "source_url": "https://sports.yahoo.com/articles/nightmare-continues-gladbach-keeper-puts-184300335.html",
-      "publish_time": "2026-10-23T18:43:00+00:00",
-      "category": "football_intl",
+      "id": "nba-97208d359a8d",
+      "title": "球员等级：湖人vs勇士",
+      "summary": "从球队以125-117战胜快船队中对每个湖人球员的表现进行评分。",
+      "source_url": "https://sports.yahoo.com/articles/player-grades-lakers-vs-warriors-054432704.html",
+      "publish_time": "2026-10-24T05:44:32+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-2bfb21b0c693",
-      "title": "巴塞罗那可能在Spotify诺坎普球场打破1640万欧元的El Clasico收入记录",
-      "summary": "根据SPORT的说法，巴塞罗那的目标是另一个El Clasico门票收入记录，因为周日在Spotify Camp Nou与皇家马德里会面的需求很少。Blau...",
-      "source_url": "https://sports.yahoo.com/articles/barcelona-could-smash-16-4-184200361.html",
-      "publish_time": "2026-10-23T18:42:00+00:00",
-      "category": "football_intl",
+      "id": "nba-bf0cb9d67328",
+      "title": "斯蒂芬·库里（ Steph Curry ）明天在凤凰城踢球： “可能不会”",
+      "summary": "坏消息堆积在一堆坏消息上。",
+      "source_url": "https://sports.yahoo.com/articles/steph-curry-playing-phoenix-tomorrow-053338682.html",
+      "publish_time": "2026-10-24T05:33:38+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-fcc6a1d5a71b",
-      "title": "米兰谴责在伯恩茅斯红牌后对Maignan的“不可接受的”种族主义虐待",
-      "summary": "米兰谴责了迈克·米格南（ Mike Maignan ）在周四在伯恩茅斯以3比0击败欧洲联赛后在社交媒体上遭受的种族主义虐待。据米兰新闻报道，俱乐部发布了一份...",
-      "source_url": "https://sports.yahoo.com/articles/milan-condemn-unacceptable-racist-abuse-184000675.html",
-      "publish_time": "2026-10-23T18:40:00+00:00",
-      "category": "football_intl",
+      "id": "nba-cf79bac80223",
+      "title": "Rockets' Amen Thompson blocks 维克托·文班亚马 at rim in final seconds as Spurs fall to 0-2",
+      "summary": "Amen Thompson's stunning block on 维克托·文班亚马 preserved the Houston Rockets' lead and sent the San Antonio Spurs t…",
+      "source_url": "https://sports.yahoo.com/articles/rockets-amen-thompson-blocks-victor-051638068.html",
+      "publish_time": "2026-10-24T05:16:38+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-ba77a73ae2e4",
-      "title": "非洲中场球员确认他已准备好加入利物浦",
-      "summary": "一位令人兴奋的中场球员已经确认他已经准备好加盟利物浦。红军迫切希望重返国内和欧洲足球的巅峰。曾经有一段时间，红军是球队……",
-      "source_url": "https://sports.yahoo.com/articles/african-midfielder-confirms-hes-ready-184000439.html",
-      "publish_time": "2026-10-23T18:40:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-91da456208c6",
-      "title": "Osula带领Jaissle的进攻| 4-2-3-1纽卡斯尔联队预测阵容对阵水晶宫",
-      "summary": "纽卡斯尔联队本周日将在塞尔赫斯特公园对阵水晶宫，因为他们希望在英超联赛中取得胜利。喜鹊遭遇了1-0的惨败……",
-      "source_url": "https://sports.yahoo.com/articles/osula-spearhead-jaissle-attack-4-182500200.html",
-      "publish_time": "2026-10-23T18:25:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-ac3fb14f258b",
-      "title": "Ligue 1第8周比赛开始前💡的三个有趣事实",
-      "summary": "本周末你不能错过的三场法甲比赛！ Ligue 1 +在OneFootball上可用📺本赛季， OneFootball再次与Ligue 1 +合作，因此您可以观看每场Ligue 1比赛......",
-      "source_url": "https://sports.yahoo.com/articles/three-interesting-facts-ahead-ligue-182100902.html",
-      "publish_time": "2026-10-23T18:21:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-09f183afc2ea",
-      "title": "记者：利物浦最受欢迎签约£ 1亿评级明星",
-      "summary": "利物浦转会新闻：随着中场问题的增长，亚历克斯·斯科特的真实兴趣利物浦对亚历克斯·斯科特的兴趣是真实的，但目前对任何关于交易的建议都有一种谨慎的感觉...",
-      "source_url": "https://sports.yahoo.com/articles/journalist-liverpool-favourites-sign-100m-182000552.html",
-      "publish_time": "2026-10-23T18:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-66eaab63aa7e",
-      "title": "索利赫尔租借哈利法克斯守门员约翰逊",
-      "summary": "苦苦挣扎的索利哈尔摩尔斯签下哈利法克斯城门将山姆·约翰逊，租借至1月3日。",
-      "source_url": "https://sports.yahoo.com/articles/solihull-sign-halifax-goalkeeper-johnson-181501119.html",
-      "publish_time": "2026-10-23T18:15:01+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-2747ba5a531f",
-      "title": "随着1月份搬到拜仁慕尼黑的可能性被排除在外， Dani Olmo在巴塞罗那很开心–报告",
-      "summary": "记者弗洛里安·普莱滕贝格（ Florian Plettenberg ）表示，丹尼·奥尔莫（ Dani Olmo ）无意离开巴塞罗那，接近这位中场球员的消息人士证实，尽管有报道称他对加泰罗尼亚俱乐部感到高兴...",
-      "source_url": "https://sports.yahoo.com/articles/dani-olmo-happy-barcelona-january-181300150.html",
-      "publish_time": "2026-10-23T18:13:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4b206cc6fd87",
-      "title": "利物浦没有帮助Andoni Iraola ； 6000万欧元的转会计划是个错误",
-      "summary": "利物浦并没有帮助Andoni Iraola完成他们的最新转会计划。€ 6000万的想法是一个错误。利物浦正在为即将到来的窗口建立他们的转会候选名单，当然还有工作......",
-      "source_url": "https://sports.yahoo.com/articles/liverpool-not-helping-andoni-iraola-181000218.html",
-      "publish_time": "2026-10-23T18:10:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1807c984439b",
-      "title": "凯尔特人目标1月份防守中场：夏季规划失败了吗？",
-      "summary": "凯尔特人的国内表现令人鼓舞，但他们的欧洲战役暴露了有关马丁·奥尼尔球队平衡的问题。苏格兰冠军失去了他们的第一个三...",
-      "source_url": "https://sports.yahoo.com/articles/celtic-target-january-defensive-midfielder-180500808.html",
-      "publish_time": "2026-10-23T18:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-b95b0c2535d7",
-      "title": "Spygate让我陷入困境- Spors",
-      "summary": "南安普顿集团技术总监约翰内斯·斯波斯（ Johannes Spors ）表示， Spygate丑闻使他在夏天处于“困难境地”。",
-      "source_url": "https://sports.yahoo.com/articles/spygate-put-difficult-position-spors-172328553.html",
-      "publish_time": "2026-10-23T18:00:03+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-8546f2f64c50",
-      "title": "🏅利昂内尔·梅西 wins the Princess of Asturias Award",
-      "summary": "利昂内尔·梅西 adds another milestone to his legendary career after being honored with the 2026 Princess of Asturias Award…",
-      "source_url": "https://sports.yahoo.com/articles/lionel-messi-wins-princess-asturias-175400549.html",
-      "publish_time": "2026-10-23T17:54:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-a1d435b1c8a9",
-      "title": "点球大🔥战后！解放者2026决赛设定",
-      "summary": "40岁的Muslera经常因为职业生涯中的许多错误而受到批评，他获得了自己的“Maracanazo”。他在周四晚上（ 22日）挽救了弗拉门戈队的三次点球。并派出了学生...",
-      "source_url": "https://sports.yahoo.com/articles/penalty-drama-libertadores-2026-final-024400607.html",
-      "publish_time": "2026-10-23T02:44:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e901105b8869",
-      "title": "比赛报告|摩纳哥在会议联盟中轻松超越弗莱堡，重返制胜之路",
-      "summary": "欧足联会议联赛，比赛日2 ， 22/10/26AS摩纳哥在周日以1-0击败洛里昂，这是他们本赛季的第一场比赛。他们很快又回到了胜利的道路上，抛开了虚弱的弗莱堡人……",
-      "source_url": "https://sports.yahoo.com/articles/match-report-monaco-ease-past-235600103.html",
-      "publish_time": "2026-10-22T23:56:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-98edd1bee511",
-      "title": "📋 弗拉门戈阵容确认进入解放者杯决赛",
-      "summary": "是时候了！弗拉门戈和Estudiantes将于周四晚上（ 22日）举行解放者杯半决赛的第二回合比赛。开球将于晚上9:30 （巴西利亚时间）在马拉卡纳举行。WHOEV...",
-      "source_url": "https://sports.yahoo.com/articles/flamengo-line-confirmed-copa-libertadores-230700622.html",
-      "publish_time": "2026-10-22T23:07:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-935889d4ee37",
-      "title": "迪格雷戈里奥： “伯恩茅斯的心态不会改变，即使对米兰也是如此”",
-      "summary": "米歇尔·迪格雷戈里奥（ Michele Di Gregorio ）为伯恩茅斯（ Bournemouth ）的“心态没有改变”感到自豪，即使是在欧洲联赛中对阵米兰，描述了英格兰的差异，并否认了博洛尼亚的谣言。意大利门将",
-      "source_url": "https://sports.yahoo.com/articles/di-gregorio-bournemouth-mentality-does-215500435.html",
-      "publish_time": "2026-10-22T21:55:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4c596ebd667d",
-      "title": "曼联首席热衷于豪-周五的八卦",
-      "summary": "曼联与Antonio Conte、Unai Emery、Eddie Howe和Julian Nagelsmann等人有联系，如果他们与经理迈克尔·卡里克分道扬镳的话。",
-      "source_url": "https://sports.yahoo.com/articles/man-utd-chief-keen-howe-203844664.html",
-      "publish_time": "2026-10-22T21:53:57+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-5212315e1c4f",
-      "title": "伯恩茅斯的梦幻之夜-赢得米兰英超联赛的强大标志",
-      "summary": "伯恩茅斯以3比0战胜AC米兰，进一步说明了英超联赛球队对欧洲对手的主导地位。",
-      "source_url": "https://sports.yahoo.com/articles/dream-night-bournemouth-win-over-213728888.html",
-      "publish_time": "2026-10-22T21:37:28+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-59865938fae7",
-      "title": "Sarri ： “亚特兰大比消极更积极，对阿贾克斯的意外失败”",
-      "summary": "毛里齐奥·萨里（ Maurizio Sarri ）从亚特兰大2-0输给阿贾克斯（ Ajax ）的比赛中看到了“积极多于消极”。“进入最后五分钟，我想的最后一件事就是失败。”啦……",
-      "source_url": "https://sports.yahoo.com/articles/sarri-atalanta-more-positive-negative-213500618.html",
-      "publish_time": "2026-10-22T21:35:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-fdc3471b9ef6",
-      "title": "阿莫林： “没有比赛” ，因为10人米兰在伯恩茅斯受到惩罚",
-      "summary": "鲁本·阿莫林（ Ruben Amorim ）坚持认为，米兰对阵伯恩茅斯的比赛“没有比赛” ，因为28分钟后降至10人，无法避免3-0的失利。“我们不能这样做。（法姆教练……",
-      "source_url": "https://sports.yahoo.com/articles/amorim-no-game-10-man-212000346.html",
-      "publish_time": "2026-10-22T21:20:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-7b65f51c9458",
-      "title": "流浪者对凯尔特人冠军赛发出明确警告：麦金尼斯能否利用他们的欧洲优势？",
-      "summary": "如果流浪者想在苏格兰超级联赛中缩小与凯尔特人的差距，他们在国内几乎没有再犯错误的空间。由于没有欧洲赛事需要管理，德里克·麦金尼斯（ Derek McInnes ）的球队有一个明确的优势……",
-      "source_url": "https://sports.yahoo.com/articles/rangers-given-clear-warning-over-212000317.html",
-      "publish_time": "2026-10-22T21:20:00+00:00",
-      "category": "football_intl",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-70b8de8874f3",
-      "title": "🔥塞尔塔在凯尔特公园度过难忘的复出之旅",
-      "summary": "塞尔塔·德维戈（ Celta de Vigo ）在苏格兰以2比1战胜凯尔特人，在克劳迪奥·希拉尔德斯（ Claudio Giráldez ）的欧洲战役中赢得了前三分。下半场复出房东提前领先……",
-      "source_url": "https://sports.yahoo.com/articles/celta-pull-off-memorable-comeback-211800489.html",
-      "publish_time": "2026-10-22T21:18:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-5aa722e43fb4",
-      "title": "西汉姆贷款的立场提出了问题：努诺应该卖掉26岁的孩子吗？",
-      "summary": "自从进入锦标赛以来，西汉姆联队已经重建了他们的防守结构， Nuno Espírito Santo专注于晋升挑战而不是个人声誉。锤子队......",
-      "source_url": "https://sports.yahoo.com/articles/west-ham-loan-stance-raises-210500187.html",
-      "publish_time": "2026-10-22T21:05:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-8e59d0bbba3b",
-      "title": "UECL | AJAX 2-0亚特兰大： DEA被两个后期进球取消",
-      "summary": "亚特兰大未能充分利用他们的机会，被Tolu Arodokare和天才Abdella Ouazane的两个晚期Ajax进球所取消。La Dea在连续三场失利后似乎找到了某种形式......",
-      "source_url": "https://sports.yahoo.com/articles/uecl-ajax-2-0-atalanta-210000735.html",
-      "publish_time": "2026-10-22T21:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-a57581588fda",
-      "title": "UEL |伯恩茅斯3-0米兰：酸樱桃适合天真罗索内里",
-      "summary": "米兰为Koni De Winter和Mike Maignan的两次天真的早期失误付出了代价，因为守门员看到了红色，伯恩茅斯转换了两次点球以保持完美的欧联纪录。",
-      "source_url": "https://sports.yahoo.com/articles/uel-bournemouth-3-0-milan-210000655.html",
-      "publish_time": "2026-10-22T21:00:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-5e7ba797625e",
-      "title": "利兹联合眼26岁前锋： Farke可以将他与Calvert-Lewin配对吗？",
-      "summary": "随着2026/27赛季的进行，利兹联队已经开始计划他们的下一个重大进攻投资，丹尼尔·法克面临着关于他的中锋选择的重要决定。怀特斯……",
-      "source_url": "https://sports.yahoo.com/articles/leeds-united-eye-26-old-205000107.html",
-      "publish_time": "2026-10-22T20:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-29545fc24600",
-      "title": "乔瓦尼向罗马发出警告： “那不勒斯也很强大，我们可以赢”",
-      "summary": "那不勒斯前锋乔瓦尼认为，周二的冠军联赛战胜Bodø/Glimt可以改变Massimiliano Allegri的一切，坚持他们可以在周六击败罗马。根据TuttoMe...",
-      "source_url": "https://sports.yahoo.com/articles/giovane-sends-roma-warning-napoli-205000274.html",
-      "publish_time": "2026-10-22T20:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-1e9fe3ef14f0",
-      "title": "“我会感到惊讶” –前明星预计曼城将降级",
-      "summary": "独家：帕特·内文（ Pat Nevin ）分享了他对曼城财务违规的看法曼城本赛季取得了历史性的开局，成为赢得所有开局的第三方……",
-      "source_url": "https://sports.yahoo.com/articles/d-surprised-former-star-expects-205000443.html",
-      "publish_time": "2026-10-22T20:50:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-a6bd527c1a6d",
-      "title": "🤯 周四的欧洲足球：奇怪的红牌和惊艳者；观看",
-      "summary": "本周四（ 22日）全是关于欧罗巴联赛和会议联赛的。两起事件在各自的比赛中夺走了联赛阶段行动的焦点。看看下面发生了什么。F...",
-      "source_url": "https://sports.yahoo.com/articles/thursday-europe-brings-unusual-red-204100359.html",
-      "publish_time": "2026-10-22T20:41:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-e1e293543d64",
-      "title": "利物浦重新进入“不可思议”后卫的比赛",
-      "summary": "利物浦的一线队还远未完成。上个学期，他们在英超联赛中排名第五，任命了Andoni Iraola ，希望将他们带回最佳状态。",
-      "source_url": "https://sports.yahoo.com/articles/liverpool-enter-race-incredible-defender-204000492.html",
-      "publish_time": "2026-10-22T20:40:00+00:00",
-      "category": "football_intl",
+      "id": "nba-cd9848ef44c3",
+      "title": "杰森·塔图姆 downplays dispute with 杰伦·布朗 after contentious Instagram comment: 'This ain't no f***ing Shaq and Kobe'",
+      "summary": "杰森·塔图姆 would like everyone to stop making a big deal about his relationship with 杰伦·布朗.",
+      "source_url": "https://sports.yahoo.com/nba/article/jayson-tatum-downplays-dispute-with-jaylen-brown-after-contentious-instagram-comment-this-aint-no-fing-shaq-and-kobe-044251623.html",
+      "publish_time": "2026-10-24T04:42:51+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4809,6 +4905,18 @@
       "summary": "The Orlando Magic said 保罗·班凯罗 was doubtful to return due to a sore right ankle.",
       "source_url": "https://sports.yahoo.com/articles/paolo-banchero-injury-why-magic-014028773.html",
       "publish_time": "2026-10-24T01:40:28+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4063c42eb76e",
+      "title": "Mavericks ran smear campaign to justify 卢卡·东契奇 trade with Lakers: report",
+      "summary": "The Mavericks shocked the league by trading franchise star 卢卡·东契奇 to the Lakers in February 2025. Dallas reportedly…",
+      "source_url": "https://sports.yahoo.com/articles/mavericks-ran-smear-campaign-justify-011150108.html",
+      "publish_time": "2026-10-24T01:11:50+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5656,112 +5764,32 @@
       ]
     },
     {
-      "id": "nba-263617bab274",
-      "title": "卡尔-安东尼·唐斯’ continued foul trouble no laughing matter for Knicks",
-      "summary": "卡尔-安东尼·唐斯 provided a reminder of one of comedy’s greatest lessons.",
-      "source_url": "https://sports.yahoo.com/articles/karl-anthony-towns-continued-foul-001137459.html",
-      "publish_time": "2026-10-23T00:11:37+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-257ea57523d6",
+      "title": "【锦标赛】羽黑在四场比赛中第10次参赛！在资格赛决赛中击败米泽中央4-2 ：山形",
+      "summary": "第105届全国高中足球锦标赛山形县资格赛决赛于24日举行，羽黑隆在延伸赛后以4比2战胜米泽中央隆，这将是四场比赛中第10次参加比赛。合并彩票将于11月16日举行。开幕式和开幕赛将于12月28日举行，决赛将于2027年1月11日在三菱日联体育…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461695-461695-fl",
+      "publish_time": "2026-10-24T07:47:00+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]羽黒が4大会ぶり10度目の出場へ! 予選決勝で米沢中央を4-2で下す:山形",
+      "_raw_summary": "第105回全国高校サッカー選手権の山形県予選決勝が24日に行われ、羽黒高が延長戦の末、米沢中央高に4-2で勝利した。4大会ぶり10回目の本大会出場となる。 組み合わせ抽選会は11月16日に実施。開会式・開幕戦は12月28日、決勝戦は2027年1月11日に、いずれもMUFGスタジアム(国立競技場)で開催される。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-daf3fc5ac41e",
-      "title": "詹姆斯·哈登与骑士队以嘘声回报费城",
-      "summary": "詹姆斯·哈登在2026-27赛季克利夫兰骑士队的第一场比赛中被费城76人队的球迷嘘了一声。",
-      "source_url": "https://sports.yahoo.com/articles/james-harden-booed-return-philadelphia-234324065.html",
-      "publish_time": "2026-10-22T23:43:24+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-8becc5412b95",
-      "title": "比赛风景：火箭巡航，赛季开幕战胜小牛队",
-      "summary": "TDS在赛后。",
-      "source_url": "https://sports.yahoo.com/articles/views-game-rockets-cruise-season-232934277.html",
-      "publish_time": "2026-10-22T23:29:34+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-cff50a536b24",
-      "title": "在对自由球员前锋道尔顿·克内希特（ Dalton Knecht ）感兴趣的球队",
-      "summary": "尼克斯队是对自由球员前锋道尔顿·克内希特感兴趣的球队之一。在2026-27 NBA赛季开始之前，洛杉矶湖人队放弃了前锋。",
-      "source_url": "https://sports.yahoo.com/articles/knicks-among-teams-interested-free-231500596.html",
-      "publish_time": "2026-10-22T23:15:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a5474e87d085",
-      "title": "卢卡时代的湖人队展示了与勇士队的开幕之夜",
-      "summary": "在我开始之前，我知道我必须放弃健康免责声明金州勇士队周三走进Crypto.com竞技场，没有他们的首发小前锋，他们的首发中锋，他们的首发射门后卫和他身后的后援。吉米·巴特勒（ 吉米·巴特勒 ）仍在恢复ACL ，克里斯塔普斯·波尔…",
-      "source_url": "https://sports.yahoo.com/articles/luka-era-lakers-showed-vs-231113223.html",
-      "publish_time": "2026-10-22T23:11:13+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c90ea2e85345",
-      "title": "在尼克斯令人难忘的NBA总决赛之后，纽约市的夫妇命名了新生儿子尼克森·法伊夫",
-      "summary": "伊冯·冈萨雷斯-布拉德福德和万斯·布拉德福德在今年夏天纽约历史性的NBA总决赛战胜圣安东尼奥马刺队后，于8月8日迎来了他们的第一个儿子“尼克森·法维·布拉德福德” ，这对夫妇本周告诉今天。",
-      "source_url": "https://sports.yahoo.com/articles/nyc-couple-names-newborn-son-230527982.html",
-      "publish_time": "2026-10-22T23:05:27+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-fc5f4b1eb320",
+      "title": "【锦标赛】樱明3年来首次夺冠！击败前英雄秋田翔4-3 ：秋田",
+      "summary": "第105届全国高中足球锦标赛秋田县资格赛决赛于24日举行，高秋樱决定第七次参加三场比赛，从前任冠军秋田庄高手中拿下4-3。本次比赛的抽签将于11月16日举行。开幕式和开幕赛将于12月28日举行，决赛将于2027年1月11日在三菱日联体育场（…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461683-461683-fl",
+      "publish_time": "2026-10-24T07:29:17+00:00",
+      "category": "jp_football_highschool",
       "is_important": true,
       "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-996fd56550e2",
-      "title": "76人队的骑士队开幕之夜比赛线程",
-      "summary": "骑士赛季在费城开始。",
-      "source_url": "https://sports.yahoo.com/articles/cavs-76ers-opening-night-game-230000689.html",
-      "publish_time": "2026-10-22T23:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-50100fb2fd8a",
-      "title": "过度反应：凤凰太阳队不是一个提升队",
-      "summary": "凤凰城太阳队的球迷被告知我们有一支上升的球队。这句话到底有多真实？",
-      "source_url": "https://sports.yahoo.com/articles/overreaction-phoenix-suns-not-ascending-230000726.html",
-      "publish_time": "2026-10-22T23:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c69725c0ff16",
-      "title": "篮网队备受推崇的2025年选秀班在丑陋的赛季开局失利方面几乎没有希望",
-      "summary": "篮网队在赛季揭幕战中以110-103输给了黄蜂队，因为2025年的首轮选秀权Egor Dëmin和Nolan Traore在失利中挣扎。",
-      "source_url": "https://sports.yahoo.com/articles/nets-prized-2025-draft-class-225505896.html",
-      "publish_time": "2026-10-22T22:55:05+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]明桜が3年ぶりに出場権を獲得! 前回王者の秋田商を4-3で退ける:秋田",
+      "_raw_summary": "第105回全国高校サッカー選手権の秋田県予選決勝が24日に行われ、明桜高が前回王者の秋田商高を4-3で下して3大会ぶり7回目の出場を決めた。 本大会の抽選会は11月16日に実施。開会式・開幕戦は12月28日、決勝戦は2027年1月11日にいずれもMUFGスタジアム(国立競技場)で行われる。●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "jp_football_highschool-d2767e29ca6d",
