@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:27:05.145316+00:00",
+  "generated_at": "2026-10-25T13:06:34.293637+00:00",
   "news": [
     {
       "id": "ai_cn-696e5963a7d8",
@@ -3844,6 +3844,18 @@
       ]
     },
     {
+      "id": "football_intl-5ebebfb95f87",
+      "title": "卡里姆·阿德耶米 jokes Barcelona’s orange kit is cursed after PSG defeat",
+      "summary": "Barcelona forward 卡里姆·阿德耶米 has joked that the club’s orange third kit could be cursed after the Blaugrana suffered…",
+      "source_url": "https://sports.yahoo.com/articles/karim-adeyemi-jokes-barcelona-orange-110000288.html",
+      "publish_time": "2026-10-25T11:00:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-0c601bff1e11",
       "title": "🥈 Bullet header places 安托万·格里兹曼 in MLS goalscoring pantheon",
       "summary": "安托万·格里兹曼's arrival in MLS has come up with the goods in expected fashion across much of the 2026 season, with t…",
@@ -4785,18 +4797,6 @@
       "summary": "曼城今天在维拉公园迎战阿斯顿维拉。恩佐·马雷斯卡（ Enzo Maresca ）的球队在2026-27赛季的飞行开始后，坐在英超联赛的顶端进入今天的比赛。城市有一个pe...",
       "source_url": "https://sports.yahoo.com/articles/enzo-maresca-could-unleash-midfield-064400265.html",
       "publish_time": "2026-10-24T06:44:00+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-4e2f2b077d0a",
-      "title": "巴塞罗那传奇人物将维尼修斯的缺席称为皇家马德里在埃尔克拉西科之前的重大损失– “他很重要”",
-      "summary": "随着El Clasico即将到来，大型足球名人已经开始为本赛季的第一场对决做出预测。虽然杰拉德·皮克（ Gerard Pique ）预计巴塞罗那将轻松获胜，但...",
-      "source_url": "https://sports.yahoo.com/articles/barcelona-legend-calls-vinicius-absence-064000379.html",
-      "publish_time": "2026-10-24T06:40:00+00:00",
       "category": "football_intl",
       "is_important": false,
       "tags": [
@@ -5762,6 +5762,20 @@
       "tags": [
         "Yahoo Sports"
       ]
+    },
+    {
+      "id": "jp_football_highschool-017b5ab7b415",
+      "title": "【锦标赛】东福冈赢得半决赛！ ！东海大学福冈与福地赢得了一场激烈的战斗，进入了最后四强：福冈",
+      "summary": "第105届全国高中足球锦标赛和福冈县预选赛于25日进入四分之一决赛的第二天，以连续三场胜利为目标的东福冈隆以4比0的完全胜利进入了四强。东海大学福冈隆在与福地隆进行了长时间的战斗后，以4比3获胜。11月1日的半决赛是九州国际大学隆对阵饭冢隆…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461789-461789-fl",
+      "publish_time": "2026-10-25T07:54:40+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]東福岡が快勝で準決勝へ!! 東海大福岡は福智との激闘を制して4強入り:福岡",
+      "_raw_summary": "第105回全国高校サッカー選手権・福岡県予選は25日に準々決勝2日目を迎えた。 3連覇を目指す東福岡高は博多高に4-0の完封勝利で4強入り。東海大福岡高は福智高との延長戦に及ぶ撃ち合いの末、4-3で勝利した。 11月1日の準決勝は九州国際大付高対飯塚高、東海大福岡高対東福岡高となった。[準々決勝](10月24、25日)九州国際大付高 2-0 福岡大若葉高希望が丘高 0-1 飯塚高東海大"
     },
     {
       "id": "jp_football_highschool-291bdec76d10",
@@ -6910,26 +6924,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-11334b08c033",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "国际米兰",
-      "away_team": "佛罗伦萨",
-      "match_time": "2026-10-25T11:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-0fbe1e9bfd12",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "毕尔巴鄂竞技",
-      "away_team": "赫塔费",
-      "match_time": "2026-10-25T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-fb417b0be049",
       "sport": "football",
       "competition": "英超",
@@ -7046,6 +7040,26 @@
       "home_team": "皇家社会",
       "away_team": "莱万特",
       "match_time": "2026-10-25T17:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-686ed3fdb076",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "乌迪内斯",
+      "away_team": "AC米兰",
+      "match_time": "2026-10-25T19:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-0a9dd1463a31",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "巴塞罗那",
+      "away_team": "皇家马德里",
+      "match_time": "2026-10-25T20:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
