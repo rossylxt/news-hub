@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:01:10.992526+00:00",
+  "generated_at": "2026-10-26T03:52:15.880302+00:00",
   "news": [
     {
       "id": "ai_cn-696e5963a7d8",
@@ -962,6 +962,18 @@
       ]
     },
     {
+      "id": "ai_intl-9e4fbbe06937",
+      "title": "Grok发布其人工智能生成的“奥德赛”的前七分钟",
+      "summary": "只要您不追求艺术性、灵感或人类兴趣，镜头看起来还可以。",
+      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "publish_time": "2026-10-25T21:31:16+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-71c43854f4ff",
       "title": "Apollo经济学家表示，人工智能为大多数公司带来“零财务回报”",
       "summary": "“尽管围绕人工智能进行了大量投资和广泛炒作，但该技术为科技以外的美国企业带来了零财务回报。”",
@@ -1903,18 +1915,6 @@
       "summary": "TechCrunch创始人峰会于10月16日结束，最多可节省200 $。创始人和投资者通行证的这些节省将在周五之后消失。11月4日，在波士顿的SoWa发电站，与1,000名创始人和投资者一起参加。提出您最棘手的问题，让您的日常业务发挥作用。",
       "source_url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
       "publish_time": "2026-10-15T18:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-534bc46e6ba2",
-      "title": "人工智能特工来到Rivian的车上",
-      "summary": "我们可能会在公司即将于12月举行的“人工智能和自治日”活动中了解更多有关其工作原理的信息。",
-      "source_url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "publish_time": "2026-10-15T15:02:36+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4808,11 +4808,215 @@
       ]
     },
     {
+      "id": "nba-699e9e3aa31b",
+      "title": "在赛季开始的三连败中，迈克·布朗恳请尼克斯“关注细节”",
+      "summary": "纽约尼克斯主教练迈克·布朗在周日晚上主场输给奥兰多魔术队后向媒体发表讲话。",
+      "source_url": "https://sports.yahoo.com/articles/amid-three-game-losing-streak-030810028.html",
+      "publish_time": "2026-10-26T03:08:10+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d487779d00bf",
+      "title": "沃克·凯斯勒在洛杉矶湖人队战胜爵士乐的比赛中让犹他州回归",
+      "summary": "湖人队中锋沃克·凯斯勒（ Walker Kessler ）重返盐湖城，在洛杉矶击败犹他爵士队（ Utah Jazz ）的比赛中得分两分。",
+      "source_url": "https://sports.yahoo.com/articles/walker-kessler-makes-utah-return-022755362.html",
+      "publish_time": "2026-10-26T02:27:55+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-82abf928cf78",
+      "title": "杰伦·威廉姆斯（ Jalen Williams ）受伤：雷霆之星因脚踝受伤而伸展，导致SGA流泪",
+      "summary": "希望杰伦·威廉姆斯没事。",
+      "source_url": "https://sports.yahoo.com/articles/jalen-williams-injury-thunder-star-021124599.html",
+      "publish_time": "2026-10-26T02:11:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-93cfce664049",
+      "title": "尼克斯队再次跌跌撞撞，因为卫冕冠军在输给奥兰多魔术队后以0-3开始",
+      "summary": "尼克斯队在输给魔术队后跌至0-3 ，标志着卫冕NBA冠军的历史性下滑。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-stumble-again-defending-champs-015514417.html",
+      "publish_time": "2026-10-26T01:55:14+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-906347aef5a0",
+      "title": "雷霆的贾伦·威廉姆斯在可怕的腿部受伤后伸出球场",
+      "summary": "威廉姆斯因伤缺席了上赛季的大部分比赛，本赛季开局很快。",
+      "source_url": "https://sports.yahoo.com/articles/thunders-jalen-williams-stretchered-off-015437049.html",
+      "publish_time": "2026-10-26T01:54:37+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4ae049587b79",
+      "title": "杰伦·威廉姆斯受伤更新：雷霆之星在腿部受伤后在担架上退出",
+      "summary": "俄克拉荷马城雷霆后卫贾伦·威廉姆斯（ Jalen Williams ）在对阵洛杉矶快船队的主场比赛第四节末段被拉出球场。",
+      "source_url": "https://sports.yahoo.com/articles/jalen-williams-injury-thunder-star-015052706.html",
+      "publish_time": "2026-10-26T01:50:52+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-63538e8d15c8",
+      "title": "尼克斯队连续第三场失利，开始新赛季，以111-102落后魔术队",
+      "summary": "奥兰多魔术队连续第三次输掉了2026-27赛季的开始，输掉了111-102。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-lose-third-straight-begin-014040274.html",
+      "publish_time": "2026-10-26T01:40:40+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-746962300b8b",
+      "title": "魔术后卫贾伦·萨格斯（ Jalen Suggs ）在腿部受伤后帮助下场，赢得了尼",
+      "summary": "周日晚上，杰伦·萨格斯（ Jalen Suggs ）试图在麦迪逊广场花园（ Madison Square Garden ）上篮时，膝盖屈曲。",
+      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/magic-guard-jalen-suggs-helped-off-floor-after-leg-injury-in-win-over-knicks-022811303.html",
+      "publish_time": "2026-10-26T01:39:51+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fca7f6ff0aec",
+      "title": "篮网在136-109输球被步行者队击败后仍在寻找第一场胜利",
+      "summary": "周日晚上，印第安纳步行者队以136-109击败布鲁克林篮网队， 泰瑞斯·哈利伯顿得到24分， 10次助攻和值得全明星赛的扣篮。",
+      "source_url": "https://sports.yahoo.com/articles/nets-still-looking-first-win-011332938.html",
+      "publish_time": "2026-10-26T01:13:32+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-696d2951c144",
+      "title": "卢卡·东契奇（ Luka Dončić ）得分52分，湖人队以3-0战胜爵士队",
+      "summary": "Dončić成为湖人历史上第三位在一场比赛中以10次助攻得分50分或以上的球员，加盟埃尔金·贝勒和杰里·韦斯特。",
+      "source_url": "https://sports.yahoo.com/nba/article/luka-doncic-scores-52-points-as-lakers-improve-to-3-0-with-win-over-jazz-005308433.html",
+      "publish_time": "2026-10-26T00:50:13+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9393cfa91195",
+      "title": "篮网跟不上步行者，输了136-109",
+      "summary": "篮网队现在无法逃脱本赛季深处三场比赛的失利列",
+      "source_url": "https://sports.yahoo.com/articles/nets-t-keep-pacers-lose-004641310.html",
+      "publish_time": "2026-10-26T00:46:41+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fc67e3c64a6d",
+      "title": "犹他爵士队落后洛杉矶湖人队",
+      "summary": "爵士队输给湖人队132-123",
+      "source_url": "https://sports.yahoo.com/articles/utah-jazz-fall-short-against-003245483.html",
+      "publish_time": "2026-10-26T00:32:45+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5d0a950661c9",
+      "title": "Wizards at Hornets预览：华盛顿向南前往夏洛特",
+      "summary": "巫师队本赛季将前往夏洛特与夏洛特黄蜂队进行首场比赛。",
+      "source_url": "https://sports.yahoo.com/articles/wizards-hornets-preview-washington-heads-001243415.html",
+      "publish_time": "2026-10-26T00:12:43+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8771f17f13aa",
+      "title": "卢卡·东契奇（ 卢卡·东契奇 ）得分52分，在湖人拉力击败爵士队时击中了几次后期离合器投篮",
+      "summary": "卢卡·东契奇（ 卢卡·东契奇 ）在第四节末打出了三个离合器三分球，并以52分结束，带领湖人队以132-123战胜犹他爵士队。",
+      "source_url": "https://sports.yahoo.com/articles/luka-doncic-scores-52-points-235312410.html",
+      "publish_time": "2026-10-25T23:53:12+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-56f95a0060fc",
+      "title": "湖人队在缓慢的开局中幸存下来，在Luka Dončić 52分的比赛后沉默爵士队",
+      "summary": "卢卡·东契奇（ Luka Dončić ）的得分爆炸让湖人队在第一节战胜了糟糕的胜利。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-survive-slow-start-silence-234047114.html",
+      "publish_time": "2026-10-25T23:40:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b4b6a6197e1c",
+      "title": "活塞vs. 76人讨论：比赛时间、电视、赔率等",
+      "summary": "贾伦·杜伦（ Jalen Duren ）和奥萨尔·汤普森（ Ausar Thompson ）今晚都",
+      "source_url": "https://sports.yahoo.com/articles/pistons-vs-sixers-discussion-game-233537678.html",
+      "publish_time": "2026-10-25T23:35:37+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-7b6344559e72",
       "title": "洛杉矶湖人队击败犹他爵士队， 卢卡·东契奇得到52分",
       "summary": "10月25日， Luka Dončić和洛杉矶湖人队在盐湖城迎战犹他爵士队。",
       "source_url": "https://sports.yahoo.com/articles/luka-doncics-big-shot-puts-231633474.html",
       "publish_time": "2026-10-25T23:16:33+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bb28fdb8bded",
+      "title": "太阳队的长凳向首发球员展示了它是如何完成的",
+      "summary": "Phoenix的首发阵容正在努力寻找自己的节奏，而第二个单元看起来已经很舒服了。",
+      "source_url": "https://sports.yahoo.com/articles/suns-bench-showing-starters-done-230000127.html",
+      "publish_time": "2026-10-25T23:00:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4832,11 +5036,59 @@
       ]
     },
     {
+      "id": "nba-813ecb5a68bd",
+      "title": "VJ Edgecombe现已上市vs.活塞",
+      "summary": "VJ Edgecombe是最新在受伤报告中出现的Sixer。",
+      "source_url": "https://sports.yahoo.com/articles/vj-edgecombe-now-listed-vs-225100504.html",
+      "publish_time": "2026-10-25T22:51:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-2f1ae020d9a4",
       "title": "76人队否认乔尔·恩比德（ 乔尔·恩比德 ）参加背靠背比赛，由于伤病管理与活塞队的比赛，选择让他休息",
       "summary": "周六晚上，乔尔·恩比德（ 乔尔·恩比德 ）在76人队战胜雄鹿队的比赛中输掉了三双。",
       "source_url": "https://sports.yahoo.com/nba/article/76ers-deny-joel-embiids-push-to-play-in-back-to-back-games-opt-to-rest-him-due-to-injury-management-vs-pistons-225440774.html",
       "publish_time": "2026-10-25T22:46:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a3c9395a5fd9",
+      "title": "76人队否认乔尔·恩比德（ 乔尔·恩比德 ）参加背靠背比赛，在输给活塞队期间让他休息",
+      "summary": "周六晚上，乔尔·恩比德（ 乔尔·恩比德 ）在76人队战胜雄鹿队的比赛中输掉了三双。",
+      "source_url": "https://sports.yahoo.com/nba/article/76ers-deny-joel-embiids-push-to-play-in-back-to-back-games-rest-him-during-loss-to-pistons-024337146.html",
+      "publish_time": "2026-10-25T22:46:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4312e38422ba",
+      "title": "伦纳德的第一次缺席让年轻的猛龙队进行了早期测试",
+      "summary": "这位超级巨星错过了今年的第一场比赛，洛杉矶公路旅行即将到来。",
+      "source_url": "https://sports.yahoo.com/articles/leonard-first-absence-gives-young-223242300.html",
+      "publish_time": "2026-10-25T22:32:42+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9f366723cb0d",
+      "title": "游戏讨论主题：尼克斯vs.魔术， 2026年10月25日",
+      "summary": "对阵没有Banchero的奥兰多，纽约有一个绝佳的机会来记录他们本赛季的第一场胜利。",
+      "source_url": "https://sports.yahoo.com/articles/game-discussion-thread-knicks-vs-223000024.html",
+      "publish_time": "2026-10-25T22:30:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4856,11 +5108,35 @@
       ]
     },
     {
+      "id": "nba-39a0477299ed",
+      "title": "人手不足的76人队跌至赛季首败后的观察结果",
+      "summary": "人手不足的76人队在周日晚上首次输掉了本赛季。",
+      "source_url": "https://sports.yahoo.com/articles/observations-shorthanded-sixers-fall-1st-221509768.html",
+      "publish_time": "2026-10-25T22:15:09+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-3f7711bdf32d",
       "title": "尼克斯伤病追踪器：何塞·阿尔瓦拉多（ Jose Alvarado ）因脚踝扭伤对抗魔术",
       "summary": "纽约尼克斯球员最新的伤病新闻和可能的回归日期...",
       "source_url": "https://sports.yahoo.com/articles/knicks-injury-tracker-jose-alvarado-214221225.html",
       "publish_time": "2026-10-25T21:42:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-085d7d73e174",
+      "title": "NBA权力排名：湖人看起来很危险，因为勒布朗的头衔希望升温",
+      "summary": "1.俄克拉荷马城雷霆（ Oklahoma City Thunder ）他们以战胜马刺和掘金（ Nuggets ）的声明开启了赛季。2025年的冠军们表现出他们在……之后再次登上山顶的严肃态度",
+      "source_url": "https://sports.yahoo.com/articles/nba-power-rankings-lakers-look-214108895.html",
+      "publish_time": "2026-10-25T21:41:08+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4933,6 +5209,18 @@
       "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
       "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-195347746.html",
       "publish_time": "2026-10-25T19:53:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f0bb55536dd5",
+      "title": "勇士队的新秀Yaxel Lendeborg直言不讳地检查了Steve Kerr的现实情况",
+      "summary": "虽然金州勇士队仍在寻找他们本赛季的第一场胜利，但新秀Yaxel Lendeborg给该组织留下了深刻的印象。战士们倒下后……",
+      "source_url": "https://sports.yahoo.com/articles/warriors-rookie-yaxel-lendeborg-gets-195118858.html",
+      "publish_time": "2026-10-25T19:51:18+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5473,294 +5761,6 @@
       "summary": "湖人想交易杰里科·西姆斯，但雄鹿的要价让他们望而却步。",
       "source_url": "https://sports.yahoo.com/articles/bucks-wanted-two-second-round-212420310.html",
       "publish_time": "2026-10-24T21:24:20+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b5eabffe40b4",
-      "title": "湖人队和Rui Hachimura对他们的重聚感到兴奋",
-      "summary": "在休赛期离开后， Rui Hachimura于周五返回Crypto.com竞技场。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-rui-hachimura-were-excited-205944782.html",
-      "publish_time": "2026-10-24T20:59:44+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a8a671165552",
-      "title": "MMBets ：马刺队在小牛队的主场揭幕战中来到小镇",
-      "summary": "无旗小牛有钱吗？",
-      "source_url": "https://sports.yahoo.com/articles/mmbets-spurs-come-town-mavericks-205755199.html",
-      "publish_time": "2026-10-24T20:57:55+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-12c7c558e55e",
-      "title": "金州末日循环？",
-      "summary": "历史表明，勇士队陷入了越来越黑暗和痛苦的车辙。",
-      "source_url": "https://sports.yahoo.com/articles/golden-state-doom-loop-200000450.html",
-      "publish_time": "2026-10-24T20:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-07cce96271c1",
-      "title": "波士顿凯尔特人队每日链接2026年10月24日",
-      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-195250539.html",
-      "publish_time": "2026-10-24T19:52:50+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-65d5b2264fc3",
-      "title": "勒布朗·詹姆斯将于周六参加76人队与雄鹿队的对决，这是首场背靠背比赛",
-      "summary": "詹姆斯被列为坐骨神经痛管理，解决了他在上赛季前14场比赛中缺席的问题。",
-      "source_url": "https://sports.yahoo.com/nba/article/lebron-james-to-sit-out-76ers-matchup-with-bucks-on-saturday-first-of-back-to-back-games-191536276.html",
-      "publish_time": "2026-10-24T19:15:36+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ba9a44ae1b3a",
-      "title": "勇士队新秀亚克塞尔·伦德堡（ Yaxel Lendeborg ）与卢卡·唐契奇（ Luka Dončić ）下颚加倍： “他不是迈克尔·乔丹”",
-      "summary": "伦德堡承认，他可能在赛后发表了过分的评论，但他并没有在场上的垃圾言论上让步。",
-      "source_url": "https://sports.yahoo.com/nba/article/warriors-rookie-yaxel-lendeborg-doubles-down-on-jawing-with-luka-doncic-hes-not-michael-jordan-190346171.html",
-      "publish_time": "2026-10-24T19:03:46+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-2e54c77f530f",
-      "title": "太阳队在Oso受伤后可以瞄准的4个自由球员中锋",
-      "summary": "由于马克·威廉姆斯（ Mark Williams ）缺阵，奥索·伊戈达罗（ Oso Ighodaro ）受伤，太阳队可能需要另一个可靠的身体",
-      "source_url": "https://sports.yahoo.com/articles/4-free-agent-centers-suns-190000791.html",
-      "publish_time": "2026-10-24T19:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-dba9bb9c9152",
-      "title": "据报道， Magic的保罗·班凯罗因脚踝高度扭伤而错过了时间，可能会缺席4-6周",
-      "summary": "Banchero提前离开了周五晚上输给明尼苏达森林狼队的比赛。",
-      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/magics-paolo-banchero-reportedly-to-miss-time-with-high-ankle-sprain-could-be-out-4-6-weeks-165247328.html",
-      "publish_time": "2026-10-24T16:52:47+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-9eb4bfebe562",
-      "title": "Magic的保罗·班凯罗因输给森林狼而遭受高脚踝扭伤，据报道可能会缺席4-6周",
-      "summary": "Banchero提前离开了周五晚上输给明尼苏达森林狼队的比赛。",
-      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/magics-paolo-banchero-suffers-high-ankle-sprain-in-loss-to-timberwolves-reportedly-could-be-out-4-6-weeks-173753794.html",
-      "publish_time": "2026-10-24T16:52:47+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-647bce24fa74",
-      "title": "勇士队新秀亚克塞尔·伦德堡（ Yaxel Lendeborg ）完成了几十年来首次在主场亮相的壮举",
-      "summary": "后来，这位前密歇根州球星穿着他从衣橱里挖出来的复古勇士队球衣。让我们假设它适合这个场合。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-rookie-yaxel-lendeborg-accomplishes-165113168.html",
-      "publish_time": "2026-10-24T16:51:13+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d831166388fa",
-      "title": "杰森·塔图姆（ 杰森·塔图姆 ）在交易后声称与杰伦·布朗（ 杰伦·布朗 ） “没有牛肉” ： “不是他妈的沙克（ Shaq ）和科比（ Kobe ）”",
-      "summary": "杰森·塔图姆解释了他与前队友杰伦·布朗的关系。",
-      "source_url": "https://sports.yahoo.com/articles/jayson-tatum-claims-no-beef-165113928.html",
-      "publish_time": "2026-10-24T16:51:13+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-f5cba5f05d3f",
-      "title": "湖人后卫因提高球队的防守能量而受到称赞",
-      "summary": "湖人队在赛季首次亮相时立即得到了一名后卫的推动。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-guard-showered-praise-raising-163933579.html",
-      "publish_time": "2026-10-24T16:39:33+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-aea10231d938",
-      "title": "沃克·凯斯勒正是湖人需要的人",
-      "summary": "看起来湖人队得到了他们的特许经营中心。他们需要一个低矮的堡垒。他们听了Luka Dončić的演讲，他说他想要Walker Kessler。Rob Pelinka把一切都赌了……",
-      "source_url": "https://sports.yahoo.com/articles/walker-kessler-exactly-lakers-needed-163057894.html",
-      "publish_time": "2026-10-24T16:30:57+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-14bc89f0bac4",
-      "title": "湖人公开谈论前锋： “我最喜欢的队友之一”",
-      "summary": "湖人很高兴Rui Hachimura回到Crypto.com竞技场。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-open-former-forward-one-162248597.html",
-      "publish_time": "2026-10-24T16:22:48+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-bbac0b7ea9aa",
-      "title": "Inside the Suns: Game 1 ，接下来的11场比赛， Drew Timme ， Oso的合同延期",
-      "summary": "您的每周Inside the Suns分析直接来自生活和呼吸团队的BSotS社区。",
-      "source_url": "https://sports.yahoo.com/articles/inside-suns-game-1-next-160000678.html",
-      "publish_time": "2026-10-24T16:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b177956df33c",
-      "title": "关键湖人vs快船外卖：凯斯勒的热门开局是洛杉矶巡航",
-      "summary": "湖人队于10月23日星期五在Crypto.com竞技场举行的跨城竞争赛季系列赛的第一场比赛中以125-117击败了快船队。",
-      "source_url": "https://sports.yahoo.com/articles/key-lakers-vs-clippers-takeaways-145725525.html",
-      "publish_time": "2026-10-24T14:57:25+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-20eefa9665aa",
-      "title": "尼克斯公告： “我仍在努力弄清楚这支球队”",
-      "summary": "迈克·布朗还在执教尼克斯队吗？怎么可能！ ？莱昂·罗斯应该换掉所有人，当场退出吗？纽约在这个季节会更好吗？没有合法答案的愚蠢问题！迈克·布朗（ Mike Brown ）尼克斯队开局缓慢，仍在寻找球队的身份： “我甚至没有看过[…]",
-      "source_url": "https://sports.yahoo.com/articles/knicks-bulletin-m-still-trying-140428696.html",
-      "publish_time": "2026-10-24T14:04:28+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-6badf35287a6",
-      "title": "猛龙队对抗巫师的比赛提高到2-0",
-      "summary": "多伦多在路上首次战胜华盛顿， Dybansta被淘汰",
-      "source_url": "https://sports.yahoo.com/articles/raptors-improve-2-0-against-140142696.html",
-      "publish_time": "2026-10-24T14:01:42+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a0411bd4e2d6",
-      "title": "密尔沃基雄鹿队vs费城76人队预览和比赛主题：大卫vs歌利亚？",
-      "summary": "在背靠背的第二个晚上，雄鹿队有机会发出大声喧哗。拿出你的吊索！",
-      "source_url": "https://sports.yahoo.com/articles/milwaukee-bucks-vs-philadelphia-76ers-140000714.html",
-      "publish_time": "2026-10-24T14:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ddbe8dd8dd27",
-      "title": "亮点：维克多·温巴尼亚马（ 维克托·文班亚马 ）与火箭队（ Rockets ）的比赛在照片",
-      "summary": "自1969年以来，前两支NBA总决赛球队首次在第0-2赛季开始。",
-      "source_url": "https://sports.yahoo.com/articles/highlights-victor-wembanyama-bounces-back-134048567.html",
-      "publish_time": "2026-10-24T13:40:48+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1db4ea6c2d45",
-      "title": "道尔顿·克内希特（ Dalton Knecht ）与纽约尼克斯队达成双向交易",
-      "summary": "道尔顿的新起点。",
-      "source_url": "https://sports.yahoo.com/articles/dalton-knecht-lands-york-knicks-133854422.html",
-      "publish_time": "2026-10-24T13:38:54+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-707d241da55e",
-      "title": "我们从马刺输给火箭队中学到了什么",
-      "summary": "该团队在开幕之夜后表现出了一些改进，但仍未能在关键时刻交付。",
-      "source_url": "https://sports.yahoo.com/articles/learned-spurs-loss-rockets-133000644.html",
-      "publish_time": "2026-10-24T13:30:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a656b59ee275",
-      "title": "76人-按数字划分的雄鹿：新面孔、油漆点和对半",
-      "summary": "密尔沃基的新核心已经提供了大部分得分，但其前两名对手已经在内部和犯规线上造成了伤害",
-      "source_url": "https://sports.yahoo.com/articles/sixers-bucks-numbers-faces-paint-132840484.html",
-      "publish_time": "2026-10-24T13:28:40+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d18f9fe36286",
-      "title": "76人队将詹姆斯排除在与雄鹿队的对决之外",
-      "summary": "勒布朗·詹姆斯将在周六晚上首次作为76人队出局。",
-      "source_url": "https://sports.yahoo.com/articles/sixers-rule-james-matchup-bucks-132729349.html",
-      "publish_time": "2026-10-24T13:27:29+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
