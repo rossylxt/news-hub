@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-28T08:04:22.841731+00:00",
+  "generated_at": "2026-10-28T16:34:08.156196+00:00",
   "news": [
+    {
+      "id": "ai_cn-70a75829f339",
+      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "summary": "让基建作为常驻buff",
+      "source_url": "https://www.qbitai.com/2026/10/506194.html",
+      "publish_time": "2026-10-28T11:09:10+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-8c9ce5f851f9",
+      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "summary": "让基建作为常驻buff",
+      "source_url": "https://www.qbitai.com/2026/10/506098.html",
+      "publish_time": "2026-10-28T10:32:39+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-518fac72eb90",
+      "title": "威卡：用数据集链接具身智能和工程机械",
+      "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
+      "source_url": "https://www.qbitai.com/2026/10/506063.html",
+      "publish_time": "2026-10-28T09:01:27+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-928fe6daa9e4",
+      "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+      "summary": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+      "source_url": "https://www.qbitai.com/2026/10/506055.html",
+      "publish_time": "2026-10-28T08:59:00+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-b7712a604c7f",
+      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+      "summary": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+      "source_url": "https://www.qbitai.com/2026/10/506042.html",
+      "publish_time": "2026-10-28T08:55:26+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-71447f10a5a2",
+      "title": "四川最牛便利连锁超市搞机器人售货，黄了",
+      "summary": "来到真实的货架前，机器人依然表现得笨拙与无措。",
+      "source_url": "https://www.qbitai.com/2026/10/505955.html",
+      "publish_time": "2026-10-28T08:00:43+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-622a5979732a",
+      "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
+      "summary": "Agent开始参与GPU底层算子优化",
+      "source_url": "https://www.qbitai.com/2026/10/505956.html",
+      "publish_time": "2026-10-28T08:00:39+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-e7666b2e68c0",
       "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
@@ -871,90 +955,6 @@
       "summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
       "source_url": "https://www.qbitai.com/2026/10/503865.html",
       "publish_time": "2026-10-16T08:12:01+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-e5dccff12997",
-      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
-      "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
-      "source_url": "https://www.qbitai.com/2026/10/503861.html",
-      "publish_time": "2026-10-16T08:07:33+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-62658e690406",
-      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-      "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
-      "source_url": "https://www.qbitai.com/2026/10/503843.html",
-      "publish_time": "2026-10-16T08:00:31+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-f7953b2a9f50",
-      "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
-      "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
-      "source_url": "https://www.qbitai.com/2026/10/503829.html",
-      "publish_time": "2026-10-16T07:16:11+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-dc4ea9673755",
-      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
-      "summary": "经验没有压缩算法",
-      "source_url": "https://www.qbitai.com/2026/10/503815.html",
-      "publish_time": "2026-10-16T07:01:31+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-ed0047ad3d1b",
-      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
-      "summary": "9.8万元起售，冲刺万台量产",
-      "source_url": "https://www.qbitai.com/2026/10/503782.html",
-      "publish_time": "2026-10-16T06:17:53+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-83b9eee5d9fe",
-      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
-      "summary": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
-      "source_url": "https://www.qbitai.com/2026/10/503779.html",
-      "publish_time": "2026-10-16T06:07:41+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-727b771af68c",
-      "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
-      "summary": "背后是一套通用物理运动平台",
-      "source_url": "https://www.qbitai.com/2026/10/503756.html",
-      "publish_time": "2026-10-16T05:47:01+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -3848,6 +3848,18 @@
       ]
     },
     {
+      "id": "football_intl-24c721d0ac10",
+      "title": "⚠️ Suspended, 内马尔 faces STJD hearing and almost a month out",
+      "summary": "On Wednesday (28), Brazil’s Superior Court of Sports Justice (STJD) heard 内马尔’s case over a violation of the Vini Jr.…",
+      "source_url": "https://sports.yahoo.com/articles/suspended-neymar-faces-stjd-hearing-152300022.html",
+      "publish_time": "2026-10-28T15:23:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-557747b5be2d",
       "title": "Rangers 'Shankland将于12月回归-八卦",
       "summary": "流浪者队队长定于12月回归，因为前凯尔特人后卫预测1月份将从帕克黑德退出。",
@@ -4796,12 +4808,36 @@
       ]
     },
     {
-      "id": "football_intl-bf3dc7bd3a56",
-      "title": "曼城球员可以阻挡客场球迷的“噪音” -马雷斯卡",
-      "summary": "曼城本赛季首次在喧闹的阿斯顿维拉遭遇英超联赛失利，不断提醒他们的财务费用。",
-      "source_url": "https://sports.yahoo.com/articles/man-city-players-block-noise-152732657.html",
-      "publish_time": "2026-10-27T15:27:32+00:00",
-      "category": "football_intl",
+      "id": "nba-991bcb586aa4",
+      "title": "杰森·塔图姆 For The Win!",
+      "summary": "A nice game-winner for the Boston Celtics by 杰森·塔图姆",
+      "source_url": "https://sports.yahoo.com/articles/jayson-tatum-win-122000483.html",
+      "publish_time": "2026-10-28T12:20:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-06d8b072c8ac",
+      "title": "卡尔-安东尼·唐斯 responds to Mike Brown’s Knicks halftime challenge in a huge way",
+      "summary": "Knicks coach Mike Brown called out 卡尔-安东尼·唐斯.",
+      "source_url": "https://sports.yahoo.com/articles/karl-anthony-towns-responds-mike-065539896.html",
+      "publish_time": "2026-10-28T06:55:39+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a66f454afaef",
+      "title": "卢卡·东契奇’s 41-point masterpiece not enough as Lakers fall to Trail Blazers",
+      "summary": "卢卡·东契奇 scored 41 points, but it wasn't enough as the Lakers fell 136-129 to the Trail Blazers to drop to 3-1 on the…",
+      "source_url": "https://sports.yahoo.com/articles/luka-doncic-41-point-masterpiece-062807707.html",
+      "publish_time": "2026-10-28T06:28:07+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4813,6 +4849,18 @@
       "summary": "Knicks center 卡尔-安东尼·唐斯 posted a game-leading 27 points and 20 rebounds against the Detroit Pistons Tuesday nig…",
       "source_url": "https://sports.yahoo.com/articles/knicks-mike-brown-credits-karl-050800674.html",
       "publish_time": "2026-10-28T05:08:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d5ec0a18f1be",
+      "title": "Clippers fan’s 勒布朗·詹姆斯 trash talk backfires in brutal fashion",
+      "summary": "A Clippers fan blasts 勒布朗·詹姆斯 during a game.Sometimes fans should consider thinking before they speak. Especially w…",
+      "source_url": "https://sports.yahoo.com/articles/clippers-fan-lebron-james-trash-040630316.html",
+      "publish_time": "2026-10-28T04:06:30+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5715,54 +5763,6 @@
       "publish_time": "2026-10-26T20:00:00+00:00",
       "category": "nba",
       "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-3a8c86dcca02",
-      "title": "在杰伦·威廉姆斯、卡森·华莱士受伤后，雷霆的NBA总冠军赔率下降",
-      "summary": "在雷霆队宣布贾伦·威廉姆斯和凯森·华莱士都需要手术之后，马刺队是赢得2027年NBA总冠军的新最爱。",
-      "source_url": "https://sports.yahoo.com/articles/thunders-nba-title-odds-drop-194658350.html",
-      "publish_time": "2026-10-26T19:46:58+00:00",
-      "category": "nba",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5346dee379fb",
-      "title": "MMBets ：达拉斯需要纪律来击败迈阿密热火队",
-      "summary": "当小牛队在Kaseya中心与热火队相遇时， Dusty May将有机会在路上取得胜利。",
-      "source_url": "https://sports.yahoo.com/articles/mmbets-dallas-discipline-beat-miami-192313163.html",
-      "publish_time": "2026-10-26T19:23:13+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-565d73b870c7",
-      "title": "波士顿凯尔特人队每日链接2026年10月26日",
-      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-192107747.html",
-      "publish_time": "2026-10-26T19:21:07+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-0680846e01b2",
-      "title": "尼克斯的蜜月期已经结束了吗？冠军缓慢起步的背后",
-      "summary": "尼克斯队只是NBA历史上第三位连续三场失利的卫冕冠军。前两支球队结局不太好。",
-      "source_url": "https://sports.yahoo.com/nba/article/knicks-honeymoon-phase-over-already-behind-the-champs-slow-start-190632336.html",
-      "publish_time": "2026-10-26T19:06:32+00:00",
-      "category": "nba",
-      "is_important": true,
       "tags": [
         "Yahoo Sports"
       ]
