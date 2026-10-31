@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:35:50.195858+00:00",
+  "generated_at": "2026-10-31T04:41:33.455367+00:00",
   "news": [
     {
       "id": "ai_cn-46e61385fdb5",
@@ -962,6 +962,78 @@
       ]
     },
     {
+      "id": "ai_intl-ec6501562529",
+      "title": "英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音",
+      "summary": "当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。",
+      "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "publish_time": "2026-10-31T01:20:05+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d319498a5eb3",
+      "title": "专注于隐私的人工智能助手Ollie正在关闭",
+      "summary": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手Ollie的创始人表示，它将在一周内关闭。",
+      "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "publish_time": "2026-10-30T22:56:13+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-c6d867f631df",
+      "title": "英特尔股市崩盘，从政府持股中损失120亿$",
+      "summary": "随着人工智能行业吞噬内存和其他组件导致个人电脑价格上涨，英特尔正受到个人电脑销售的影响。",
+      "source_url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "publish_time": "2026-10-30T21:54:34+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d12607a6e474",
+      "title": "英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级",
+      "summary": "Blackstone的预测只是一个预测，但自然，高垃圾评级将使Anthropic更难以筹集资金，以继续为其作为其业务基础的巨额支出提供资金。",
+      "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "publish_time": "2026-10-30T21:52:03+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-62efadaf1b1a",
+      "title": "科技书呆子的最后一刻万圣节服装",
+      "summary": "没有万圣节服装？只是一个看似可爱的AI代理图标， PHP漏洞或困倦的时间布莱恩·约翰逊。",
+      "source_url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "publish_time": "2026-10-30T21:26:59+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d2ae3dfb1d7f",
+      "title": "人工智能支出热潮中正在出现裂缝",
+      "summary": "大型科技公司正在向人工智能基础设施投入数十亿美元，但越来越多的债务、负现金流和越来越多的投资者怀疑正在引发人们对人工智能支出热潮的可持续性的质疑。",
+      "source_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "publish_time": "2026-10-30T21:17:40+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-c9dcfb62ccca",
       "title": "Zest的新人工智能代理通过短信查找餐厅和预订",
       "summary": "无法就餐点达成一致？ Zest的人工智能礼宾服务可以结合每个人的口味，对餐厅选项进行投票，然后进行预订。",
@@ -1843,78 +1915,6 @@
       "summary": "Blackstone的人工智能分析了为什么这家私募股权巨头不会对市场紧张感到恐慌。",
       "source_url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "publish_time": "2026-10-21T22:51:22+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-82f29ce2fd1a",
-      "title": "Meta希望通过新创建的股票类别为其广泛的人工智能构建付费",
-      "summary": "这家社交媒体巨头正在计划一项新的股票策略，以帮助其对人工智能模型和服务进行广泛的投资。",
-      "source_url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "publish_time": "2026-10-21T22:45:34+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-30e754caf978",
-      "title": "TechCrunch创始人峰会2026 ：您需要了解的一切",
-      "summary": "TechCrunch创始人峰会于11月4日在波士顿举行，为期一整天，所有阶段的创始人都会与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建立和扩展公司的战术见解。",
-      "source_url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "publish_time": "2026-10-21T21:16:20+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-ca1c5b18319b",
-      "title": "Meta表示， Muse拥有超过1000万用户，购物是热门活动",
-      "summary": "该公司在第三季度财报中表示， Meta Muse用户正在采用该应用程序进行购物和提高个人生产力。AI应用程序现在拥有超过1000万用户。",
-      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "publish_time": "2026-10-21T21:14:19+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-12af459ff8f6",
-      "title": "递归推出Flint ，这是一种笔记本电脑编码模型，据称主要由人工智能构建",
-      "summary": "Startup Recursive发布了Flint ，这是一种免费的笔记本电脑大小的编码模型，主要由其自己的人工智能研究系统构建，作为对自我改进的人工智能的早期测试。",
-      "source_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "publish_time": "2026-10-21T20:27:41+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-e6b6d4852fc9",
-      "title": "虽然亚马逊阻止人工智能代理，但沃尔玛推出了欢迎垫",
-      "summary": "由于亚马逊阻止人工智能代理在其网站上购物，沃尔玛采取了相反的方法，引入了新技术，允许人工智能代理代表客户进行购买，并控制支出和交易审批。",
-      "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "publish_time": "2026-10-21T19:30:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-c344635e541c",
-      "title": "PHP世界末日： OpenAI ，谷歌的Wiz发现古老的漏洞，恐慌互联网",
-      "summary": "这是人工智能发现和阻止的安全问题，但由于人工智能，这也是一个高风险。",
-      "source_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "publish_time": "2026-10-21T17:59:12+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4808,6 +4808,54 @@
       ]
     },
     {
+      "id": "nba-afeaa82a2b15",
+      "title": "Steph Curry cooks 卢卡·东契奇, who answers right back in Lakers-Warriors showdown",
+      "summary": "斯蒂芬·库里 and 卢卡·东契奇 are putting on a show in the latest Lakers-Warriors matchup.",
+      "source_url": "https://sports.yahoo.com/articles/steph-curry-cooks-luka-doncic-042123199.html",
+      "publish_time": "2026-10-31T04:21:23+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-74ee886e1ab2",
+      "title": "卢卡·东契奇 points tonight: Lakers star going off in rematch with Warriors",
+      "summary": "卢卡·东契奇 is putting on a show in San Francisco. Check out his stats from the Lakers' game against the Warriors.",
+      "source_url": "https://sports.yahoo.com/articles/luka-doncic-points-tonight-lakers-024641469.html",
+      "publish_time": "2026-10-31T02:46:41+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-579455e4b0fe",
+      "title": "马克·沃尔特, Josh Kushner agree on outstanding terms linked to $12.5-billion Lakers sale",
+      "summary": "Lakers owner 马克·沃尔特 and Josh Kushner reach an agreement on all of the previously undecided terms tied to the $12.5-…",
+      "source_url": "https://sports.yahoo.com/articles/mark-walter-josh-kushner-agree-015643484.html",
+      "publish_time": "2026-10-31T01:56:43+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-336243751edb",
+      "title": "Thunder injury woes grow; 切特·霍姆格伦 out 8-10 weeks for knee treatment",
+      "summary": "The Thunder, who have lost Jalen Williams and Cason Wallace to possible season-ending injuries, reveal 切特·霍姆格伦 wil…",
+      "source_url": "https://sports.yahoo.com/articles/thunder-injury-woes-grow-chet-015001831.html",
+      "publish_time": "2026-10-31T01:50:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-228c9b4b0230",
       "title": "今天小组赛的NBA杯现场比分、赛程、赢家和输家",
       "summary": "2026年阿联酋NBA杯将于10月30日星期五开始。跟进小组赛开幕之夜的分析和分数。",
@@ -5713,54 +5761,6 @@
       "summary": "虽然Poeltl的起职似乎很安全，但Trayce Jackson-Davis的英雄事迹可能为他赢得了更大的机会",
       "source_url": "https://sports.yahoo.com/articles/yak-starter-rajakovi-centre-rotation-184119290.html",
       "publish_time": "2026-10-29T18:41:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-6278ca5181a5",
-      "title": "波士顿凯尔特人队每日链接2026年10月29日",
-      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-182200122.html",
-      "publish_time": "2026-10-29T18:22:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4afbb2b6db8d",
-      "title": "卢卡·唐西奇（ 卢卡·东契奇 ）和奥斯汀·里夫斯（ Austin Reaves ）如何成为NBA最好的进攻",
-      "summary": "奥斯汀·里夫斯（ Austin Reaves ）第一次见到卢卡·东奇奇（ Luka Dončić ）时不知道该怎么想。在小牛队于2025年2月惊人地将Dončić交易到湖人队之后，这位斯洛文尼亚超级巨星主要...",
-      "source_url": "https://sports.yahoo.com/articles/luka-doncic-austin-reaves-became-181210688.html",
-      "publish_time": "2026-10-29T18:12:10+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ce7d7712128c",
-      "title": "76人将布朗列为与尼克斯会面的可疑人物",
-      "summary": "杰伦·布朗在76人对阵尼克斯的比赛中被列为可疑球员。",
-      "source_url": "https://sports.yahoo.com/articles/sixers-list-brown-questionable-meeting-180701297.html",
-      "publish_time": "2026-10-29T18:07:01+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a1aa8005eb0e",
-      "title": "幻想篮球排名（积分联赛） ： 2026-27 NBA赛季的早起者和落者",
-      "summary": "幻想篮球分析师丹·泰特斯（ Dan Titus ）研究了本赛季的一些早期赢家和输家。",
-      "source_url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-rankings-points-leagues-early-risers-and-fallers-of-the-2026-27-nba-season-180253060.html",
-      "publish_time": "2026-10-29T18:02:53+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -7110,76 +7110,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-nba-bb9e1b266703",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "犹他爵士",
-      "away_team": "波特兰开拓者",
-      "match_time": "2026-10-31T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718001",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-c96417333fbe",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "夏洛特黄蜂",
-      "away_team": "费城76人",
-      "match_time": "2026-10-31T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718002",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-edcc475393e2",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "新奥尔良鹈鹕",
-      "away_team": "亚特兰大老鹰",
-      "match_time": "2026-10-31T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718003",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-204256d247bb",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "孟菲斯灰熊",
-      "away_team": "萨克拉门托国王",
-      "match_time": "2026-10-31T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718004",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-96a84cbe375b",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "密尔沃基雄鹿",
-      "away_team": "克利夫兰骑士",
-      "match_time": "2026-10-31T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718005",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-da7f26832402",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "圣安东尼奥马刺",
-      "away_team": "明尼苏达森林狼",
-      "match_time": "2026-10-31T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718006",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-61102936990a",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "休斯顿火箭",
-      "away_team": "俄克拉荷马城雷霆",
-      "match_time": "2026-10-31T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718007",
-      "tags": []
-    },
-    {
       "id": "mp-fb-f24beb9be7d2",
       "sport": "football",
       "competition": "英超",
@@ -7276,6 +7206,56 @@
       "home_team": "布伦特福德",
       "away_team": "诺丁汉森林",
       "match_time": "2026-10-31T15:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-8d8451ef0f22",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "乌迪内斯",
+      "away_team": "罗马",
+      "match_time": "2026-10-31T17:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-45736bbb4ba0",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "托特纳姆热刺",
+      "away_team": "水晶宫",
+      "match_time": "2026-10-31T17:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3f3d25808806",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "皇家贝蒂斯",
+      "away_team": "马拉加",
+      "match_time": "2026-10-31T17:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-6e339a14a618",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "拜仁慕尼黑",
+      "away_team": "多特蒙德",
+      "match_time": "2026-10-31T17:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-ca4018a3c30c",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "AC米兰",
+      "away_team": "国际米兰",
+      "match_time": "2026-10-31T19:45:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
