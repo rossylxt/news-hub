@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:52:34.550837+00:00",
+  "generated_at": "2026-11-02T01:25:14.599865+00:00",
   "news": [
     {
       "id": "ai_cn-e5f6718c4c01",
@@ -962,6 +962,18 @@
       ]
     },
     {
+      "id": "ai_intl-cf5e1b5d84c4",
+      "title": "OpenAI可能会将其数据中心重新命名为“AI计算园区”",
+      "summary": "数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？",
+      "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "publish_time": "2026-11-01T21:55:23+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-b3a6357c7fdd",
       "title": "人工智能可以让科技CEO的生活更轻松。其他人呢？",
       "summary": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
@@ -1903,18 +1915,6 @@
       "summary": "微软将ConnectWise的入侵归咎于一名与中国结盟的黑客，该黑客依靠人工智能代理迅速入侵其数千名客户。",
       "source_url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
       "publish_time": "2026-10-22T16:47:17+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-73f5f9254af1",
-      "title": "优步让所有30,000名员工都加入ChatGPT Work",
-      "summary": "这家拼车巨头以前为ChatGPT Work部署了一个规模小得多的试点，但现在正在全公司范围内采用企业代理。",
-      "source_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "publish_time": "2026-10-22T16:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,20 @@
       ]
     },
     {
+      "id": "jp_football_euro-6cc0ffb79a7d",
+      "title": "阿森纳拔得头筹！ 5173天联盟对阵安菲尔德的第一场胜利……保卫了哈伯德并击败了利物浦",
+      "summary": "[11.1英超联赛第9节利物浦0-1阿森纳]英超联赛在一天内打了第9节。MF远藤所属的利物浦和阿森纳之间的比赛以1-0获胜。远藤走进板凳，没有参加。利物浦在上一季度击败了布莱顿，连续两场联赛获胜。即使在最近的卡拉宝杯中，切尔西也在PK比赛中…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462323-462323-fl",
+      "publish_time": "2026-11-01T18:31:07+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "アーセナルが首位浮上! リーグ戦では敵地アンフィールドで5173日ぶり勝利…ハバーツ弾を守り切り、リバプール撃破",
+      "_raw_summary": "[11.1 プレミアリーグ第9節 リバプール 0-1 アーセナル] プレミアリーグは1日に第9節を行った。MF遠藤航が所属するリバプールとアーセナルの対戦は、アーセナルが1-0で勝利して首位に浮上。遠藤はベンチ入りも出場はなかった。 リバプールは前節ブライトンに勝利し、リーグ戦2連勝。直近のカラバオ杯でもチェルシーをPK戦で下し、公式戦5連勝中と勢いに乗る。一方、アーセナルは開幕8試合で"
+    },
+    {
       "id": "jp_football_euro-eb11fccc22f4",
       "title": "田中浩在连续7轮的下半场也换了成员，利兹完全输给了伯恩茅斯……在5场联赛中没有获胜",
       "summary": "[10.31英超联赛第9节伯恩茅斯2-0利兹]英超联赛第9节于10月31日举行。MF田中所属的利兹在敌方领土上面对伯恩茅斯，以0-2落败。田中连续七场联赛首发，并在下半场轮流20分钟。利兹在五场比赛中首次瞄准，在过去的四场联赛中每场都输了三…",
@@ -3830,18 +3844,6 @@
       "title": "U-21日本国家队对泰国球迷为运动员加油（ 57张）",
       "summary": "23日， U-21日本国家队在亚运会A组第三节3-0战胜U-23泰国国家队。●第20届亚运会特色",
       "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459622-459622-pn",
-      "publish_time": "2026-09-24T09:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-d55f7485c487",
-      "title": "在2场比赛中连续21个进球，中岛洋太郎充当先发制人的子弹",
-      "summary": "23日， U-21日本国家队在亚运会A组第三节3-0战胜U-23泰国国家队。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459619-459619-pn",
       "publish_time": "2026-09-24T09:30:00+00:00",
       "category": "jp_football_euro",
       "is_important": false,
@@ -4810,6 +4812,18 @@
       ]
     },
     {
+      "id": "nba-0fcb3303d6bf",
+      "title": "杰伦·布朗 and Grayson Allen shove each other in heated 76ers-Hornets scuffle",
+      "summary": "Things got intense between veteran guards 杰伦·布朗 and Grayson Allen as a battle for a loose ball got scrappy during…",
+      "source_url": "https://sports.yahoo.com/articles/jaylen-brown-grayson-allen-shove-204350210.html",
+      "publish_time": "2026-11-01T20:43:50+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-f2eb2cd5d037",
       "title": "当何塞·阿尔瓦拉多（ Jose Alvarado ）回归时，泰勒·科莱克（ Tyler Kolek ）的强势开局给了尼克斯",
       "summary": "尽管泰勒·科莱克（ Tyler Kolek ）的无失误连胜纪录已经结束，但他仍然给人留下了深刻的印象，这让尼克斯队在拥挤的后场做出了艰难的选择。",
@@ -5758,18 +5772,6 @@
       ]
     },
     {
-      "id": "nba-8b73d0269ec6",
-      "title": "迈克·布朗（ Mike Brown ）用棒球类比来解释尼克斯（ Knicks ）的失利让他最恼火的原因",
-      "summary": "迈克·布朗（ Mike Brown ）转向棒球来解释这种草率的行为。",
-      "source_url": "https://sports.yahoo.com/articles/mike-brown-uses-baseball-analogy-072050953.html",
-      "publish_time": "2026-10-31T07:20:50+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
       "id": "jp_football_highschool-1920a4e922fc",
       "title": "【锦标赛预选赛】加茂美浓逃跑后晋级决赛！ ！ 3年来第一次，前4名的岐阜工人没有达到1分（ 16件）",
       "summary": "【10.31冠军岐阜县预选赛半决赛1-2岐阜小高美浓鸭高新日本气球草甸】31日，第105届全国高中足球锦标赛岐阜县预选赛半决赛举行，对阵岐阜小高美浓鸭以2-1获胜。●第105届全国高中足球锦标赛特刊",
@@ -5810,6 +5812,20 @@
       ],
       "_raw_title": "[選手権予選]米子北が圧巻ゴールラッシュで17連覇達成!! 17年ぶりの全国切符目指した境も奮闘(22枚)",
       "_raw_summary": "[10.31 選手権鳥取県予選決勝 米子北高 9-0 境高 Axisバードスタジアム] 第105回全国高校サッカー選手権鳥取県予選決勝が31日に行われ、境高と対戦した米子北高が9-0で勝ち、17年連続22回目の出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-b6d1152989d3",
+      "title": "【锦标赛】青森山田在痛苦中取得了连续30场胜利！ ！八户学院野边西在长跑结束时筋疲力尽：青森",
+      "summary": "第105届全国高中足球锦标赛和青森县预选赛决赛于1日举行，山田隆和西高八户学院野边路连续第10年在决赛阶段发生冲突。回到上半场没有得分的比赛在下半场继续晋级和防守，并以0-0进入延伸赛。然后，在延长的前五分钟，青森山田从左十字架的流中摇动了…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462266-462266-fl",
+      "publish_time": "2026-11-01T09:16:25+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権]青森山田、苦しみながらも県30連覇達成!! 八戸学院野辺地西は延長戦の末に力尽きる:青森",
+      "_raw_summary": "第105回全国高校サッカー選手権・青森県予選の決勝が1日に行われた。 30連覇に王手をかける青森山田高と八戸学院野辺地西高が10年連続で決勝の舞台で激突。前半をスコアレスで折り返した試合は、後半も一進一退の攻防が続き、0-0のまま延長戦に突入した。 すると、延長前半5分に青森山田が左クロスの流れからネットを揺らし、ついに均衡を破る。さらに7分には追加点を記録し、一気に突き放す。八戸学院"
     },
     {
       "id": "jp_football_highschool-a9d6284c23bc",
@@ -7196,156 +7212,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-nba-00914a5076aa",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "克利夫兰骑士",
-      "away_team": "俄克拉荷马城雷霆",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718012",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-dea24a2a447c",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "夏洛特黄蜂",
-      "away_team": "底特律活塞",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718013",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-a8b4e02a4db4",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "印第安纳步行者",
-      "away_team": "亚特兰大老鹰",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718014",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-01f53ce8b0ac",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "纽约尼克斯",
-      "away_team": "布鲁克林篮网",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718015",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-bdf5347a1bee",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "奥兰多魔术",
-      "away_team": "华盛顿奇才",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718016",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-947f3cd208cb",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "费城76人",
-      "away_team": "芝加哥公牛",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718017",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-a060c4820f2f",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "达拉斯独行侠",
-      "away_team": "萨克拉门托国王",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718018",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-17ca3c3cc754",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "孟菲斯灰熊",
-      "away_team": "新奥尔良鹈鹕",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718019",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-250632d58945",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "明尼苏达森林狼",
-      "away_team": "密尔沃基雄鹿",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718020",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-60cae5926452",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "休斯顿火箭",
-      "away_team": "波士顿凯尔特人",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718021",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-3a75e7f2664a",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "圣安东尼奥马刺",
-      "away_team": "犹他爵士",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718022",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-b884c481305e",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "丹佛掘金",
-      "away_team": "波特兰开拓者",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718023",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-3825c61bd570",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "金州勇士",
-      "away_team": "菲尼克斯太阳",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718024",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-697c39b8371d",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "洛杉矶快船",
-      "away_team": "多伦多猛龙",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718025",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-be6beaed8a4a",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "洛杉矶湖人",
-      "away_team": "迈阿密热火",
-      "match_time": "2026-11-02T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718026",
-      "tags": []
-    },
-    {
       "id": "mp-fb-c8bda80b904a",
       "sport": "football",
       "competition": "意甲",
@@ -7383,6 +7249,106 @@
       "away_team": "奥萨苏纳",
       "match_time": "2026-11-02T20:00:00Z",
       "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-a737052a8bc2",
+      "sport": "football",
+      "competition": "欧冠",
+      "home_team": "巴塞罗那",
+      "away_team": "阿斯顿维拉",
+      "match_time": "2026-11-03T20:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-dc5e7fe98f30",
+      "sport": "football",
+      "competition": "欧冠",
+      "home_team": "马德里竞技",
+      "away_team": "拜仁慕尼黑",
+      "match_time": "2026-11-03T20:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-89bbdf5dd7f1",
+      "sport": "football",
+      "competition": "欧冠",
+      "home_team": "比利亚雷亚尔",
+      "away_team": "巴黎圣日耳曼",
+      "match_time": "2026-11-03T20:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-26bc9fdda846",
+      "sport": "football",
+      "competition": "欧冠",
+      "home_team": "曼联",
+      "away_team": "罗马",
+      "match_time": "2026-11-03T20:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-015bdbc8b070",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "底特律活塞",
+      "away_team": "费城76人",
+      "match_time": "2026-11-04T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718027",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-cb7c6cacedd5",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "华盛顿奇才",
+      "away_team": "亚特兰大老鹰",
+      "match_time": "2026-11-04T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718028",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-88459ae5a2c2",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "波士顿凯尔特人",
+      "away_team": "密尔沃基雄鹿",
+      "match_time": "2026-11-04T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718029",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-0818b2c1c3c7",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "布鲁克林篮网",
+      "away_team": "夏洛特黄蜂",
+      "match_time": "2026-11-04T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718030",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-78b2d815604d",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "纽约尼克斯",
+      "away_team": "芝加哥公牛",
+      "match_time": "2026-11-04T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718031",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-8ecc21fa4514",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "孟菲斯灰熊",
+      "away_team": "印第安纳步行者",
+      "match_time": "2026-11-04T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718032",
       "tags": []
     }
   ]
