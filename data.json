@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-03T11:47:40.925586+00:00",
+  "generated_at": "2026-11-03T19:19:32.954817+00:00",
   "news": [
+    {
+      "id": "ai_cn-2de8737f745f",
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "summary": "AI接管调度运营，仓库越干越聪明",
+      "source_url": "https://www.qbitai.com/2026/11/507507.html",
+      "publish_time": "2026-11-03T13:57:11+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-2fc053b17f41",
+      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+      "summary": "两位CTO，关起门来吵架",
+      "source_url": "https://www.qbitai.com/2026/11/507473.html",
+      "publish_time": "2026-11-03T12:57:35+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-6bccbef9bc68",
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "summary": "AI的下一程是生产力系统之争",
+      "source_url": "https://www.qbitai.com/2026/11/507448.html",
+      "publish_time": "2026-11-03T11:13:49+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-bad962067606",
       "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
@@ -919,42 +955,6 @@
       "summary": "擎天柱将复制FSD训练思路",
       "source_url": "https://www.qbitai.com/2026/10/505271.html",
       "publish_time": "2026-10-26T06:32:23+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-43a6f3ff5657",
-      "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
-      "summary": "从训练、推理到端侧部署，讯飞坚持全栈自主可控",
-      "source_url": "https://www.qbitai.com/2026/10/505225.html",
-      "publish_time": "2026-10-26T06:31:50+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-696e5963a7d8",
-      "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
-      "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
-      "source_url": "https://www.qbitai.com/2026/10/505083.html",
-      "publish_time": "2026-10-23T09:21:41+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-a469a5ac137b",
-      "title": "企业AI需要两个世界模型",
-      "summary": "特赞想让企业Agent真正懂业务",
-      "source_url": "https://www.qbitai.com/2026/10/505032.html",
-      "publish_time": "2026-10-23T09:07:25+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -4812,6 +4812,30 @@
       ]
     },
     {
+      "id": "nba-1f08e5c8d4cf",
+      "title": "Do Miami Heat have a fatal flaw? Giannis, 巴姆·阿德巴约 issue warning",
+      "summary": "扬尼斯·阿德托昆博 says trust and effort are missing as the Heat's defense struggles in a lopsided loss to the Lakers…",
+      "source_url": "https://sports.yahoo.com/articles/heat-defense-under-scrutiny-lakers-124200454.html",
+      "publish_time": "2026-11-03T12:42:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-df90b1d3ead0",
+      "title": "As 德雷蒙德·格林 comes apart, motivated Warriors come together in win vs. Suns",
+      "summary": "As 德雷蒙德·格林 came apart against the Suns on Monday, an extra-motivated Golden State Warriors team came together wit…",
+      "source_url": "https://sports.yahoo.com/articles/draymond-green-comes-apart-motivated-074025168.html",
+      "publish_time": "2026-11-03T07:40:25+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-0c214301cf67",
       "title": "卢卡·东契奇's 42-point effort carries Lakers past 扬尼斯·阿德托昆博 and Heat",
       "summary": "卢卡·东契奇 continues his recent run of dominance, finishing with 42 points, 13 assists and seven rebounds in a 138-117…",
@@ -5741,30 +5765,6 @@
       "summary": "在对阵尼克斯不到24小时后， 76人队将在夏洛特迎战黄蜂队。",
       "source_url": "https://sports.yahoo.com/articles/sixers-try-keep-rolling-charlotte-145302948.html",
       "publish_time": "2026-10-31T14:53:02+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c5bcc011ec78",
-      "title": "德雷蒙德·格林（ 德雷蒙德·格林 ）的斯蒂芬·库里（ Steph Curry ）被排除在勇士队背靠背的前端",
-      "summary": "斯蒂芬·库里（ Steph Curry ）和德雷蒙德·格林（ 德雷蒙德·格林 ）都将错过2026-27 NBA赛季的第二场比赛，因为金州勇士队正在管理他们的伤",
-      "source_url": "https://sports.yahoo.com/articles/steph-curry-draymond-green-ruled-144308312.html",
-      "publish_time": "2026-10-31T14:43:08+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-6173ca03517a",
-      "title": "尼克斯公告： “乔希说他感到疲劳？”",
-      "summary": "76人队在周五击败了尼克斯队……这意味着他们在头对头比赛中以2比0战胜对手。仅此而已，仅此而已。请勿沿着宽阔的街道游行。以下是我们从芝士牛排竞技场听到的消息。迈克·布朗（ Mike Brown ）在NBA杯上输给76人队时： “我不认为这是…",
-      "source_url": "https://sports.yahoo.com/articles/knicks-bulletin-josh-said-feels-140000392.html",
-      "publish_time": "2026-10-31T14:00:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -7401,6 +7401,26 @@
       "away_team": "波特兰开拓者",
       "match_time": "2026-11-04T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21718037",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-986c4f77d5b2",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "圣安东尼奥马刺",
+      "away_team": "达拉斯独行侠",
+      "match_time": "2026-11-04T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718038",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-aed89e4ecc91",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "萨克拉门托国王",
+      "away_team": "洛杉矶湖人",
+      "match_time": "2026-11-04T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718039",
       "tags": []
     }
   ]
