@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:19:32.954817+00:00",
+  "generated_at": "2026-11-04T00:32:50.446101+00:00",
   "news": [
     {
       "id": "ai_cn-2de8737f745f",
@@ -3852,6 +3852,30 @@
       ]
     },
     {
+      "id": "football_intl-1fb332cad58b",
+      "title": "Champions League round-up: PSG thrash Villarreal as 哈里·凯恩 fails to equal 克里斯蒂亚诺·罗纳尔多 record",
+      "summary": "哈里·凯恩 was aiming for more history after winning the Ballon d’Or last week",
+      "source_url": "https://sports.yahoo.com/articles/champions-league-round-psg-thrash-230046208.html",
+      "publish_time": "2026-11-03T23:00:46+00:00",
+      "category": "football_intl",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "football_intl-5555f3078f33",
+      "title": "迈克尔·卡里克 reaction: What did Man United boss say after stunning comeback to beat Roma?",
+      "summary": "迈克尔·卡里克 may have been 45 minutes from losing his job with Manchester United down 2-0 to Roma at halftime, but th…",
+      "source_url": "https://sports.yahoo.com/articles/michael-carrick-reaction-did-man-220213671.html",
+      "publish_time": "2026-11-03T22:02:13+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-4076df9c34c7",
       "title": "🤣 前锋完蛋了！ Rodinei自己的目标逗乐了社交媒体；观看 🎥",
       "summary": "右后卫罗迪内在周一（ 2日）做出了值得中锋的举动。不幸的是，对他来说，他在桑托斯和布拉甘蒂诺之间的冲突中的“前锋时刻”有一个自己的目标。他打开了...",
@@ -4788,24 +4812,12 @@
       ]
     },
     {
-      "id": "football_intl-b42c38662ae6",
-      "title": "统计数据选择： QPR诉Burnley",
-      "summary": "BBC Sport重点介绍了QPR和伯恩利之间的冠军赛的一些关键统计数据和事实。",
-      "source_url": "https://sports.yahoo.com/articles/pick-stats-qpr-v-burnley-183726011.html",
-      "publish_time": "2026-11-02T18:37:26+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "football_intl-429958ac5f27",
-      "title": "特巴斯对皇家马德里发起另一次袭击： “他们的目标是削弱西甲”",
-      "summary": "西甲联赛主席哈维尔·特巴斯（ Javier Tebas ）今天早些时候在公开露面时发表讲话，对皇家马德里发起了新的攻击，指责他们不必要地拖延了内格雷拉的案件，并试图...",
-      "source_url": "https://sports.yahoo.com/articles/tebas-launches-another-attack-real-183400463.html",
-      "publish_time": "2026-11-02T18:34:00+00:00",
-      "category": "football_intl",
+      "id": "nba-cef72530c3d5",
+      "title": "卢卡·东契奇 reveals intentions for off-day after another 40-burger in Lakers win",
+      "summary": "卢卡·东契奇 is ballin' right now, and has his sights set on another sport.",
+      "source_url": "https://sports.yahoo.com/articles/luka-doncic-reveals-intentions-off-161411898.html",
+      "publish_time": "2026-11-03T16:14:11+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -5753,18 +5765,6 @@
       "summary": "佩顿·普里查德（ Payton Pritchard ）在周五战胜公牛队期间赢得了乔·马祖拉（ Joe Mazzulla ）的罕见拥抱。",
       "source_url": "https://sports.yahoo.com/articles/one-possession-secret-unlocking-hugs-145354281.html",
       "publish_time": "2026-10-31T14:53:54+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-bf97ad9c07c9",
-      "title": "76人队试图在夏洛特继续前进，两支球队都进行了短暂的休息",
-      "summary": "在对阵尼克斯不到24小时后， 76人队将在夏洛特迎战黄蜂队。",
-      "source_url": "https://sports.yahoo.com/articles/sixers-try-keep-rolling-charlotte-145302948.html",
-      "publish_time": "2026-10-31T14:53:02+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -7254,173 +7254,153 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-a737052a8bc2",
+      "id": "mp-fb-dfcc1d5f1940",
       "sport": "football",
       "competition": "欧冠",
-      "home_team": "巴塞罗那",
-      "away_team": "阿斯顿维拉",
-      "match_time": "2026-11-03T20:00:00Z",
+      "home_team": "莱比锡红牛",
+      "away_team": "曼城",
+      "match_time": "2026-11-04T20:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     },
     {
-      "id": "mp-fb-dc5e7fe98f30",
+      "id": "mp-fb-7dbb5eb4ec39",
       "sport": "football",
       "competition": "欧冠",
-      "home_team": "马德里竞技",
-      "away_team": "拜仁慕尼黑",
-      "match_time": "2026-11-03T20:00:00Z",
+      "home_team": "多特蒙德",
+      "away_team": "皇家贝蒂斯",
+      "match_time": "2026-11-04T20:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     },
     {
-      "id": "mp-fb-89bbdf5dd7f1",
+      "id": "mp-fb-1dc382dd4b8b",
       "sport": "football",
       "competition": "欧冠",
-      "home_team": "比利亚雷亚尔",
-      "away_team": "巴黎圣日耳曼",
-      "match_time": "2026-11-03T20:00:00Z",
+      "home_team": "波尔图",
+      "away_team": "那不勒斯",
+      "match_time": "2026-11-04T20:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     },
     {
-      "id": "mp-fb-26bc9fdda846",
+      "id": "mp-fb-f4173a4dadde",
       "sport": "football",
       "competition": "欧冠",
-      "home_team": "曼联",
-      "away_team": "罗马",
-      "match_time": "2026-11-03T20:00:00Z",
+      "home_team": "朗斯",
+      "away_team": "科莫",
+      "match_time": "2026-11-04T20:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     },
     {
-      "id": "mp-nba-015bdbc8b070",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "底特律活塞",
-      "away_team": "费城76人",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718027",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-cb7c6cacedd5",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "华盛顿奇才",
-      "away_team": "亚特兰大老鹰",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718028",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-88459ae5a2c2",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "波士顿凯尔特人",
-      "away_team": "密尔沃基雄鹿",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718029",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-0818b2c1c3c7",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "布鲁克林篮网",
-      "away_team": "夏洛特黄蜂",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718030",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-78b2d815604d",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "纽约尼克斯",
-      "away_team": "芝加哥公牛",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718031",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-8ecc21fa4514",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "孟菲斯灰熊",
-      "away_team": "印第安纳步行者",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718032",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-1af87730d5bf",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "新奥尔良鹈鹕",
-      "away_team": "犹他爵士",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718033",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-0af3b86fcf45",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "俄克拉荷马城雷霆",
-      "away_team": "克利夫兰骑士",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718034",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-39f65ab027dd",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "休斯顿火箭",
-      "away_team": "明尼苏达森林狼",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718035",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-b1c054f6f797",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "丹佛掘金",
-      "away_team": "多伦多猛龙",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718036",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-2304e239aa1f",
+      "id": "mp-nba-20a7a46a17ee",
       "sport": "basketball",
       "competition": "NBA常规赛",
       "home_team": "菲尼克斯太阳",
-      "away_team": "波特兰开拓者",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718037",
+      "away_team": "奥兰多魔术",
+      "match_time": "2026-11-05T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718041",
       "tags": []
     },
     {
-      "id": "mp-nba-986c4f77d5b2",
+      "id": "mp-nba-960cda56388b",
       "sport": "basketball",
       "competition": "NBA常规赛",
-      "home_team": "圣安东尼奥马刺",
-      "away_team": "达拉斯独行侠",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718038",
+      "home_team": "金州勇士",
+      "away_team": "迈阿密热火",
+      "match_time": "2026-11-05T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718042",
       "tags": []
     },
     {
-      "id": "mp-nba-aed89e4ecc91",
+      "id": "mp-nba-53b1894e20c4",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "亚特兰大老鹰",
+      "away_team": "华盛顿奇才",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718043",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-b6eda0c0835d",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "夏洛特黄蜂",
+      "away_team": "波士顿凯尔特人",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718044",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-b180d43299c8",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "克利夫兰骑士",
+      "away_team": "费城76人",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718045",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-2c6a660ab239",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "达拉斯独行侠",
+      "away_team": "犹他爵士",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718046",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-cd000f7a3154",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "孟菲斯灰熊",
+      "away_team": "俄克拉荷马城雷霆",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718047",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-2e74cb8dd189",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "密尔沃基雄鹿",
+      "away_team": "多伦多猛龙",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718048",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-b5b3acfe0571",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "新奥尔良鹈鹕",
+      "away_team": "明尼苏达森林狼",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718049",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-cdc1d07d11aa",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "洛杉矶湖人",
+      "away_team": "波特兰开拓者",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718050",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-1c0d8a230e35",
       "sport": "basketball",
       "competition": "NBA常规赛",
       "home_team": "萨克拉门托国王",
-      "away_team": "洛杉矶湖人",
-      "match_time": "2026-11-04T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718039",
+      "away_team": "圣安东尼奥马刺",
+      "match_time": "2026-11-06T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718051",
       "tags": []
     }
   ]
