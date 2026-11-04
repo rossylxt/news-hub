@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-04T08:48:30.781216+00:00",
+  "generated_at": "2026-11-04T17:54:56.706327+00:00",
   "news": [
+    {
+      "id": "ai_cn-f53c4292f22a",
+      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+      "summary": "连路人都有自己的想法",
+      "source_url": "https://www.qbitai.com/2026/11/507647.html",
+      "publish_time": "2026-11-04T16:13:23+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-bc2e260cd51c",
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "summary": "仅激活3B参数，十项基准全线提升！",
+      "source_url": "https://www.qbitai.com/2026/11/507586.html",
+      "publish_time": "2026-11-04T10:08:38+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-5c0b92b921a6",
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "summary": "一场别开生面的具身智能科技盛宴",
+      "source_url": "https://www.qbitai.com/2026/11/507574.html",
+      "publish_time": "2026-11-04T08:59:57+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-0127d9c06498",
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+      "source_url": "https://www.qbitai.com/2026/11/507567.html",
+      "publish_time": "2026-11-04T08:49:12+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-112ff0fd93fc",
       "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
@@ -914,51 +962,39 @@
       ]
     },
     {
-      "id": "ai_cn-ef21321bc3cd",
-      "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
-      "summary": "一张卡，512路长推理同时跑",
-      "source_url": "https://www.qbitai.com/2026/10/505407.html",
-      "publish_time": "2026-10-26T06:45:25+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-fcbae52d16c9",
+      "title": "我试过苹果的Siri回顾。它们令人惊讶地有用—并且有点令人不安",
+      "summary": "尽管我保留了隐私，但苹果的人工智能Siri Recaps在短短一天内就赢得了我的支持。但仍有改进的余地。",
+      "source_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "publish_time": "2026-11-04T16:51:35+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-d15beb69e25d",
-      "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
-      "summary": "AI同事自带工作记忆上岗",
-      "source_url": "https://www.qbitai.com/2026/10/505365.html",
-      "publish_time": "2026-10-26T06:42:48+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-33440c9f4820",
+      "title": "谷歌面临计划的强烈反对，该计划将关闭搜索限制人工智能的学校",
+      "summary": "左翼政客，如纽约市市长Zohran Mamdani和前联邦贸易委员会主席Lina Khan ，指责谷歌充当不受监管的垄断者。",
+      "source_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "publish_time": "2026-11-04T16:17:22+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-6f1b92975d57",
-      "title": "被OpenAIGemini共同选择的实时语音交互，凭什么是这家中国公司？",
-      "summary": "一场对话式AI的风向标大会",
-      "source_url": "https://www.qbitai.com/2026/10/505341.html",
-      "publish_time": "2026-10-26T06:38:15+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-b0dafb43d08c",
+      "title": "2026年TechCrunch创始人峰会：美国东部时间上午9点在波士顿开幕",
+      "summary": "今天是在波士顿SoWa发电站参加2026年TechCrunch创始人峰会的日子。立即注册，立即参加这个以创始人为中心的会议。",
+      "source_url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "publish_time": "2026-11-04T13:00:00+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-e65bbaa2c686",
-      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
-      "summary": "打造以多智能体协同为核心的角色Agent",
-      "source_url": "https://www.qbitai.com/2026/10/505309.html",
-      "publish_time": "2026-10-26T06:33:56+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
@@ -1879,42 +1915,6 @@
       "summary": "精灵4可以保持一致的场景长达两分钟，精灵3的限制增加一倍，并提供更好的物理和更人性化的角色。",
       "source_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "publish_time": "2026-10-27T16:30:57+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-afdc5264df2f",
-      "title": "Meta AI总监Rohit Patel离开，接手Microsoft Office和Google Workspace",
-      "summary": "TechCrunch独家了解到， Rohit Patel在从事人工智能评估和强化学习八年后即将离开Meta。他的创业公司Ndoc的目标是接管微软Office套件。",
-      "source_url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "publish_time": "2026-10-27T14:59:09+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-96e811b7a717",
-      "title": "日本互联网巨头GMO称黑客发布被盗客户数据",
-      "summary": "日本的GMO互联网正在核实涉嫌黑客在云服务泄露后发布的涉嫌客户数据。",
-      "source_url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "publish_time": "2026-10-27T13:32:57+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-2b97ba8c9771",
-      "title": "Opera引入了新的网络标准，允许用户在浏览器中本地部署AI",
-      "summary": "新标准WebAI旨在与各种AI模型配合使用。",
-      "source_url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "publish_time": "2026-10-27T13:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -5772,6 +5772,34 @@
       ]
     },
     {
+      "id": "jp_football_highschool-859b57326bfa",
+      "title": "被克星东山击败，输给县前8名的京都橘……翘首以盼的船长FW永井雄太郎， “还有三年级学生可以留给后辈的东西”",
+      "summary": "10月31日，东山隆和京都第105届全国高中足球锦标赛四分之一决赛京都立花隆在太冈冈体育场B举行。与往年不同的是，东山以3-2战胜四分之一决赛，晋级半决赛。（在11月3日的半决赛中，东山以2-0以立命馆宇治隆晋级决赛。）东山和福重吉和说：…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462497-462497-fl",
+      "publish_time": "2026-11-04T05:23:34+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "宿敵・東山に敗れて県ベスト8敗退の京都橘…懸命に前を向く主将FW永井瞭太郎「3年生が後輩へ残せるものが、まだあります」",
+      "_raw_summary": "10月31日に第105回全国高校サッカー選手権大会京都大会の準々決勝、東山高と京都橘高の試合が太陽が丘球技場Bで行われた。例年と違い準々決勝での対戦となった注目必死の試合は、東山が3-2で試合を制して準決勝進出を果たしている(11月3日の準決勝で、東山は立命館宇治高を2-0で下して決勝に進出)。 東山・福重良一監督が「一つの準々決勝として、プレミアリーグを戦ってきた自覚を出すだけ。それ"
+    },
+    {
+      "id": "jp_football_highschool-2f151710da28",
+      "title": "我三年来第一次在新经理的带领下进入半决赛，这位新经理从我的老师那里得到了接力棒！ ！在龙谷复仇的佐贺商人，在决赛中获得了总资格的耻辱",
+      "summary": "【11.3冠军佐贺县资格赛半决赛龙谷隆0-2佐贺正高黑白山FC】它展示了一个新的“佐贺正”。我已经有一年没有在半决赛中喝过眼泪了。在接到老师接力棒的新经理的带领下，复仇实现， 11月3日，第105届全国高中足球锦标赛暨佐贺县预选赛半决赛举行…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462488-462488-fl",
+      "publish_time": "2026-11-04T01:32:55+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "恩師からバトン受けた新監督のもとで3年ぶりの準決勝突破!! 龍谷にリベンジ達成の佐賀商、決勝で総体予選の雪辱へ",
+      "_raw_summary": "[11.3 選手権佐賀県予選 準決勝 龍谷高 0-2 佐賀商高 ブラックモンブランFC] 新たな“佐賀商”を示すーー。準決勝で涙を飲んでから1年。恩師からバトンを受けた新監督のもとでリベンジを果たした。 11月3日、第105回全国高校サッカー選手権・佐賀県予選の準決勝が行われ、佐賀商高は龍谷高と対戦。前半に挙げた2つのゴールを守り切り、前回王者の佐賀東高が待つ決勝に駒を進めた。 13度の"
+    },
+    {
       "id": "jp_football_highschool-ceaabd2892df",
       "title": "[锦标赛]东山在4年内首次在全国范围内晋级决赛……京都精华在PK比赛后击败京都协荣：京都",
       "summary": "第105届全国高中足球锦标赛暨京都府预选赛半决赛于3日举行，东山隆以四年来首次走遍全国为目标，从立命馆宇治隆手中取得2-0完全胜利，进入半决赛， 7日对阵在PK赛结束时夺得京都协荣隆冠军的京都精华隆。【半决赛】（ 11月3日）东山高中2-0…",
@@ -6864,34 +6892,6 @@
       "_raw_summary": "第105回全国高校サッカー選手権【山形】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "jp_football_highschool-d4ea5bc2496c",
-      "title": "【锦标赛】秋田县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[秋田] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459437-459437-fl",
-      "publish_time": "2026-09-22T13:31:24+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]秋田県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【秋田】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-f1eec3fc90a2",
-      "title": "【锦标赛】宫城县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【宫城】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459436-459436-fl",
-      "publish_time": "2026-09-22T13:30:54+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]宮城県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【宮城】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
       "id": "biz_cn-a55ff337ca05",
       "title": "苹果确认：这类iPhone 18 Pro Max有问题，只能换机",
       "summary": "市场消息，美版iPhone 18 Pro Max出现断网问题，苹果公司确认，只能通过换机解决。（中新经纬）",
@@ -7401,6 +7401,26 @@
       "away_team": "圣安东尼奥马刺",
       "match_time": "2026-11-06T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21718051",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-f86a2abbb667",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "汉堡",
+      "away_team": "门兴格拉德巴赫",
+      "match_time": "2026-11-06T19:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-dc1d7b05f819",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "威尼斯",
+      "away_team": "乌迪内斯",
+      "match_time": "2026-11-06T19:45:00Z",
+      "source_url": "https://www.football-data.org/",
       "tags": []
     }
   ]
