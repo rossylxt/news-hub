@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-05T05:45:41.010387+00:00",
+  "generated_at": "2026-11-05T14:19:13.252721+00:00",
   "news": [
+    {
+      "id": "ai_cn-2635e1f8d5b5",
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "source_url": "https://www.qbitai.com/2026/11/507787.html",
+      "publish_time": "2026-11-05T07:15:13+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-48b74be57108",
+      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+      "summary": "spaCy作者长文炮轰",
+      "source_url": "https://www.qbitai.com/2026/11/507782.html",
+      "publish_time": "2026-11-05T07:10:56+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-266d50d4718c",
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "summary": "像雇人一样雇机器人",
+      "source_url": "https://www.qbitai.com/2026/11/507767.html",
+      "publish_time": "2026-11-05T05:25:37+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-42b170ad5769",
       "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
@@ -919,42 +955,6 @@
       "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
       "source_url": "https://www.qbitai.com/2026/10/505551.html",
       "publish_time": "2026-10-26T16:06:31+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-4b79541cf9e8",
-      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
-      "source_url": "https://www.qbitai.com/2026/10/505539.html",
-      "publish_time": "2026-10-26T09:46:13+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-b2d24fba7e63",
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "summary": "模型开始利用GPU缓存聊天？",
-      "source_url": "https://www.qbitai.com/2026/10/505529.html",
-      "publish_time": "2026-10-26T09:37:57+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-6e7ed89b70c0",
-      "title": "A社联创演讲：AI奇点已来",
-      "summary": "所谓奇点，或许是AI跃过人类的那个点。",
-      "source_url": "https://www.qbitai.com/2026/10/505521.html",
-      "publish_time": "2026-10-26T09:35:14+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -3852,6 +3852,18 @@
       ]
     },
     {
+      "id": "football_intl-b112a6de26e0",
+      "title": "Juventus and Gonçalo Ramos react as 克里斯蒂亚诺·罗纳尔多 confirms international retirement",
+      "summary": "Juventus and Gonçalo Ramos were among those reacting on social media to 克里斯蒂亚诺·罗纳尔多’s international retirement, se…",
+      "source_url": "https://sports.yahoo.com/articles/juventus-gon-alo-ramos-react-125500324.html",
+      "publish_time": "2026-11-05T12:55:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-9db82febc13b",
       "title": "哈兰德和安德森获得8分|曼城球员以激战战胜莱比锡",
       "summary": "今晚早些时候，曼城在红牛竞技场与红牛莱比锡锁定了角，因为他们希望在欧洲冠军联赛中取得好成绩。恩佐·马雷斯卡的手下制造了……",
@@ -4800,12 +4812,252 @@
       ]
     },
     {
-      "id": "football_intl-c327bc01304f",
-      "title": "埃弗顿再次击败纽卡斯尔， 10人喜鹊在惨淡的展示后被自己的粉丝嘘了一声",
-      "summary": "纽卡斯尔0-1埃弗顿：喜鹊在四天内第二次击败埃弗顿",
-      "source_url": "https://sports.yahoo.com/articles/everton-beat-newcastle-again-10-222416914.html",
-      "publish_time": "2026-11-02T22:24:16+00:00",
-      "category": "football_intl",
+      "id": "nba-a5d6c45572ac",
+      "title": "这是我们见过的最好的湖人球星Luka Dončić吗？",
+      "summary": "洛杉矶湖人队的超级巨星卢卡·东奇奇（ Luka Dončić ）带领他的球队取得了联盟中最好的纪录之一，他正在建立一个夜间诊所。",
+      "source_url": "https://sports.yahoo.com/articles/best-version-lakers-star-luka-125448824.html",
+      "publish_time": "2026-11-05T12:54:48+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0325f75aa882",
+      "title": "开放线程： Tracy McGrady说Kevin Garnett比Tim Duncan更有影响力",
+      "summary": "大卫·韦斯特（ David West ）通过社交媒体参与对话",
+      "source_url": "https://sports.yahoo.com/articles/open-thread-tracy-mcgrady-says-120000639.html",
+      "publish_time": "2026-11-05T12:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0afe1c1e2dd6",
+      "title": "保罗·乔治仍然是精英，是时候谈论它了",
+      "summary": "对于需要他的波士顿球队来说，他的旧MVPG闪耀着光芒",
+      "source_url": "https://sports.yahoo.com/articles/paul-george-still-elite-time-120000184.html",
+      "publish_time": "2026-11-05T12:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b5bd8e4dce70",
+      "title": "巫师对老鹰队掉落量棒游戏",
+      "summary": "称之为学习体验。教育。学校。奇才队参加了昨晚对阵亚特兰大老鹰队的比赛，参加了NBA迄今为止最轻松的比赛。他们的对手每场比赛的平均得分差异为-9.83。老鹰队—一支中场球队错过了他们最好的球员—是一个进步。巫师们没有[…]",
+      "source_url": "https://sports.yahoo.com/articles/wizards-drop-measuring-stick-game-120000435.html",
+      "publish_time": "2026-11-05T12:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d42b500c5cf0",
+      "title": "另一个夜晚，凤凰城另一个不协调的烂摊子",
+      "summary": "太阳队继续在一个领域取得进展，而另一个领域则分崩离析，让球队寻找完整的表现。",
+      "source_url": "https://sports.yahoo.com/articles/another-night-another-uncoordinated-mess-120000985.html",
+      "publish_time": "2026-11-05T12:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b7b8e277844e",
+      "title": "凯尔特人队通过了他们的第一次杰森·塔图姆-less测试： “我们相信我们的深度”",
+      "summary": "波士顿克服了塔图姆的缺席，并在周三晚上以22分的领先优势击败了雄鹿队。",
+      "source_url": "https://sports.yahoo.com/articles/celtics-passed-first-jayson-tatum-110000117.html",
+      "publish_time": "2026-11-05T11:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-cb9461444aa4",
+      "title": "火箭将一颗投向森林狼， 117-107",
+      "summary": "上赛季的火箭队重新崛起。",
+      "source_url": "https://sports.yahoo.com/articles/rockets-drop-one-timberwolves-fall-104322154.html",
+      "publish_time": "2026-11-05T10:43:22+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1da21579066d",
+      "title": "职业生涯最佳的Wembanyama展示海豹队员马刺队获胜",
+      "summary": "随着圣安东尼奥马刺队以112-111击败达拉斯小牛队， 维克托·文班亚马以职业生涯最高的52分击败了获胜的罚球。",
+      "source_url": "https://sports.yahoo.com/articles/career-best-wembanyama-display-seals-084002288.html",
+      "publish_time": "2026-11-05T08:40:02+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5cb9053ba14b",
+      "title": "观看克莱·汤普森（ 克莱·汤普森 ）在加时赛中击败快船队（ Clippers ） ，晚上30分",
+      "summary": "汤普森自2024年以来的第一场30分比赛扭转了局面。",
+      "source_url": "https://sports.yahoo.com/articles/watch-klay-thompson-hit-overtime-081955189.html",
+      "publish_time": "2026-11-05T08:19:55+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b36a30a59ba2",
+      "title": "球员等级：湖人vs国王",
+      "summary": "从球队以116-103战胜国王队中对每个湖人球员的表现进行评分。",
+      "source_url": "https://sports.yahoo.com/articles/player-grades-lakers-vs-kings-081447489.html",
+      "publish_time": "2026-11-05T08:14:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9852b4db8a6d",
+      "title": "马刺队在温巴尼亚马的历史性之夜背后阻挡了小牛队",
+      "summary": "温巴尼亚马的历史性之夜让马刺队连续第六次获胜。",
+      "source_url": "https://sports.yahoo.com/articles/spurs-hold-off-mavs-behind-081238022.html",
+      "publish_time": "2026-11-05T08:12:38+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-73b563d7130f",
+      "title": "观看维克托·文班亚马的历史性之夜： 52分， 24个篮板， 8个街区",
+      "summary": "圣安东尼奥最终需要一场史诗般的温比比赛来击败达拉斯， 112-111",
+      "source_url": "https://sports.yahoo.com/articles/watch-victor-wembanyamas-historic-night-074447635.html",
+      "publish_time": "2026-11-05T07:44:47+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a881d102932b",
+      "title": "奥斯汀·里夫斯（ Austin Reaves ）开玩笑说，如果卢卡·唐奇奇（ 卢卡·东契奇 ）没有睡着，他本来可以",
+      "summary": "卢卡·东契奇（ 卢卡·东契奇 ）在过去的六场比赛中第五次得到40分，在湖人队的胜利中得到40分， 9个篮板， 7次助攻和1次抢断。",
+      "source_url": "https://sports.yahoo.com/articles/austin-reaves-jokes-luka-doncic-071410472.html",
+      "publish_time": "2026-11-05T07:14:10+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-3004da611aa6",
+      "title": "热火拉力赛最后一秒胜利后，快船队连续第七场失利",
+      "summary": "克莱·汤普森（ 克莱·汤普森 ）在加时赛中以第二名的成绩赢得了三分球，因为热火队越过快船队。",
+      "source_url": "https://sports.yahoo.com/articles/clippers-lose-seventh-row-heat-070014110.html",
+      "publish_time": "2026-11-05T07:00:14+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4eb98a327da7",
+      "title": "卢卡·唐奇奇（ 卢卡·东契奇 ）的炙手可热让他不断攀登记录簿",
+      "summary": "卢卡·东契奇（ Luka Dončić ）在周三以116-103击败国王队的比赛中得到40分， 9个篮板， 7次助攻和1次抢断。",
+      "source_url": "https://sports.yahoo.com/articles/luka-doncic-hot-streak-keeps-065913324.html",
+      "publish_time": "2026-11-05T06:59:13+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-73d59a13f394",
+      "title": "统计数据分析： 3个数字，因为小牛队在圣安东尼奥马刺队以112-111击败对手",
+      "summary": "小牛队无法克服维克多·温巴尼亚马和马刺队的历史性夜晚",
+      "source_url": "https://sports.yahoo.com/articles/stats-rundown-3-numbers-know-063200001.html",
+      "publish_time": "2026-11-05T06:32:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c8f620e0d1ea",
+      "title": "卢卡·东契奇（ 卢卡·东契奇 ）在湖人队战胜国王队的比赛中连续第三场40分",
+      "summary": "卢卡·东契奇（ Luka Dončić ）的热门开局并非如此，这已经成为本季开局的习惯。",
+      "source_url": "https://sports.yahoo.com/articles/luka-doncic-records-third-straight-060843934.html",
+      "publish_time": "2026-11-05T06:08:43+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0b7041c57b04",
+      "title": "湖人队在卢卡·东契奇（ 卢卡·东契奇 ） 40分后战胜国王队（ Kings ）的比赛",
+      "summary": "随着湖人队击败萨克拉门托国王队， 卢卡·东契奇连续第三场比赛至少得到40分。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-win-uneven-game-over-060708180.html",
+      "publish_time": "2026-11-05T06:07:08+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fa4562f21a63",
+      "title": "随着小牛队在圣安东尼奥马刺队的112-111赛季复出， 3个要点",
+      "summary": "小牛队几乎在对阵马刺队的比赛中取得了奇迹，但在比赛的最后控球时表现不佳。",
+      "source_url": "https://sports.yahoo.com/articles/3-takeaways-mavericks-comeback-comes-055131230.html",
+      "publish_time": "2026-11-05T05:51:31+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bcb9c3a1a935",
+      "title": "圣安东尼奥对阵达拉斯，最终得分：温巴尼亚马的52分刚好足以击败小牛队， 112-111",
+      "summary": "圣安东尼奥以19分领先，但由于温班山的职业生涯之夜，他仍然保持领先。",
+      "source_url": "https://sports.yahoo.com/articles/san-antonio-vs-dallas-final-054749454.html",
+      "publish_time": "2026-11-05T05:47:49+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-afeb6edd10b1",
+      "title": "Luka Dončić在湖人队战胜国王队期间与官方发生事故后，球迷坐在场边被移除",
+      "summary": "卢卡·东契奇（ Luka Dončić ）现在在湖人队最近六场比赛中的五场比赛中至少得到40分。",
+      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/luka-doncic-has-fan-sitting-courtside-removed-after-incident-with-official-during-lakers-win-over-kings-061133045.html",
+      "publish_time": "2026-11-05T05:41:39+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -4817,6 +5069,54 @@
       "summary": "NBA历史上没有球员发布过这些数字的比赛。",
       "source_url": "https://sports.yahoo.com/nba/article/victor-wembanyama-makes-nba-history-with-52-point-24-rebound-8-block-game-in-spurs-win-053159800.html",
       "publish_time": "2026-11-05T05:31:59+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-cf7652e65c3b",
+      "title": "Wolves 117 ， Rockets 107 ：休斯顿的蓝色海啸",
+      "summary": "森林狼队打出了自安东尼·爱德华兹受伤以来最好的一场比赛，结束了休斯顿的连胜。",
+      "source_url": "https://sports.yahoo.com/articles/wolves-117-rockets-107-blue-052954972.html",
+      "publish_time": "2026-11-05T05:29:54+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-559af1d323a7",
+      "title": "查尔斯·巴克利（ Charles Barkley ）对热烈的76人-活塞混战印象不深： “被吻得更厉害”",
+      "summary": "周三晚上，查尔斯·巴克利（ Charles Barkley ）在NBA的一场大型比赛中对布鲁哈哈（ bruhaha ）印象深刻。",
+      "source_url": "https://sports.yahoo.com/articles/charles-barkley-wasn-t-impressed-052123835.html",
+      "publish_time": "2026-11-05T05:21:23+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e7e07992435d",
+      "title": "泰勒·科莱克（ Tyler Kolek ）在尼克斯的井喷胜利中获得替补控球后卫点头",
+      "summary": "尼克斯队在后备控卫的啄食顺序是流畅的。",
+      "source_url": "https://sports.yahoo.com/articles/tyler-kolek-gets-backup-point-052030076.html",
+      "publish_time": "2026-11-05T05:20:30+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4119d6e0fa2d",
+      "title": "猛龙128-109输给掘金队的四大收获",
+      "summary": "多伦多无法在丹佛海拔保持令人印象深刻的开局。",
+      "source_url": "https://sports.yahoo.com/articles/four-takeaways-raptors-128-109-051240601.html",
+      "publish_time": "2026-11-05T05:12:40+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4836,11 +5136,71 @@
       ]
     },
     {
+      "id": "nba-2e1656d50f2a",
+      "title": "尼克斯队在主导胜利中享受历史性的84分上半场",
+      "summary": "尼克斯队以历史性的方式突破了早期比赛的低迷。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-enjoy-history-tying-84-050228117.html",
+      "publish_time": "2026-11-05T05:02:28+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-7fbbbed4d201",
+      "title": "游戏回顾： 132-119输给开拓者后，太阳落到1-5",
+      "summary": "德文·布克（ 德文·布克 ）得到33分，但太阳队无法在几乎所有关键类别中克服波特兰的优势。",
+      "source_url": "https://sports.yahoo.com/articles/game-recap-suns-fall-1-045030619.html",
+      "publish_time": "2026-11-05T04:50:30+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a703ca6ff5fd",
+      "title": "夸梅·布朗（ Kwame Brown ）在布朗尼·詹姆斯（ Bronny James ）身上卸下残酷的“失去了一份工作”",
+      "summary": "通过布朗尼·詹姆斯在NBA的三年职业生涯，他一直受到审查和批评。星期三也不例外。前洛杉矶湖人队大个子Kwame Brown说： “令人兴奋的是...",
+      "source_url": "https://sports.yahoo.com/articles/kwame-brown-unloads-bronny-james-044751898.html",
+      "publish_time": "2026-11-05T04:47:51+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-075a8984d709",
       "title": "道尔顿·克内希特（ Dalton Knecht ）在尼克斯首次亮相时“准备好了” ： “太棒了”",
       "summary": "周三对阵芝加哥公牛队的比赛是主教练迈克·布朗让道尔顿·克内希特首次亮相尼克斯队的绝佳机会。",
       "source_url": "https://sports.yahoo.com/articles/dalton-knecht-came-ready-knicks-044643994.html",
       "publish_time": "2026-11-05T04:46:43+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-171f93df3e8c",
+      "title": "Jazz Peli无法摆脱连败，他们连续第六次",
+      "summary": "在地狱最黑暗的内部圈子里，爵士队已经陷入了困境，爵士乐迷们想要的只是一个生命的迹象，这支球队还活着，还在踢球。由于时间表不确定，缺少Jusuf Nurkic和Jaren Jackson Jr. ， 1-7的开局将是不利的。他们曾与马刺队等顶…",
+      "source_url": "https://sports.yahoo.com/articles/jazz-peli-t-snap-losing-043136885.html",
+      "publish_time": "2026-11-05T04:31:36+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fdeb465cde01",
+      "title": "76人队贝尔林格：棕色30炸弹， Embiid ，勒布朗双双领先76人队超过活塞队",
+      "summary": "杰伦·布朗（ 杰伦·布朗 ）作为76人队的第一场30分比赛，而勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）和乔尔·恩比德（ 乔尔·恩比德 ）在周三战胜活塞队的比赛中都打出了双打。",
+      "source_url": "https://sports.yahoo.com/articles/sixers-bell-ringer-brown-30-042706553.html",
+      "publish_time": "2026-11-05T04:27:06+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4872,6 +5232,18 @@
       ]
     },
     {
+      "id": "nba-986e024b1d34",
+      "title": "尼克斯135 ，公牛105 ：世界冠军的场景看起来像它",
+      "summary": "布伦森在第一节得到22分，尼克斯队在上半场得到84分，公牛队从来不知道是什么击中了他们。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-135-bulls-105-scenes-041217341.html",
+      "publish_time": "2026-11-05T04:12:17+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-2fbdfa5d93d0",
       "title": "球员等级：雷霆骑士：多诺万·米切尔的第四节郊游不够",
       "summary": "骑士队在尽可能多的比赛中第二次落入雷霆队。",
@@ -4884,11 +5256,47 @@
       ]
     },
     {
+      "id": "nba-0e0847fa2287",
+      "title": "活塞队对76人队的决赛得分：底特律队在东部战役中落后",
+      "summary": "底特律活塞队（ 6-2 ）在东部联盟顶级球队之间的战斗中表现不佳。费城76人队（ 8-1 ）以112-106击败底特律。费城上升了多达18分，但底特律从未真正离开过。76人队的明星之星今晚露面了。在将杰伦·布朗保持在16分之后…",
+      "source_url": "https://sports.yahoo.com/articles/pistons-vs-76ers-final-score-035854121.html",
+      "publish_time": "2026-11-05T03:58:54+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-e8e08afc63bc",
       "title": "网队在下半场对阵黄蜂队的比赛中以114-104获胜",
       "summary": "小迈克尔·波特得到26分和10个篮板，朱利叶斯·兰德尔得到22分，因为布鲁克林篮网队在周三晚上以114-104击败夏洛特黄蜂队赢得了本赛季的第二场比赛。",
       "source_url": "https://sports.yahoo.com/articles/nets-control-second-half-against-034843452.html",
       "publish_time": "2026-11-05T03:48:43+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-6ce6211c89c1",
+      "title": "网队找到了完成这一次的方法，以获得对黄蜂队的回报",
+      "summary": "这一次，篮网队保持冷静，以114-104的舒适战胜夏洛特。",
+      "source_url": "https://sports.yahoo.com/articles/nets-way-finish-time-payback-034354844.html",
+      "publish_time": "2026-11-05T03:43:54+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-27c58de086eb",
+      "title": "快速回顾：凯尔特人109 ，雄鹿102",
+      "summary": "密尔沃基从早期的巨额赤字中恢复过来，使其成为一场比赛，但未能延迟执行。",
+      "source_url": "https://sports.yahoo.com/articles/rapid-recap-celtics-109-bucks-033949921.html",
+      "publish_time": "2026-11-05T03:39:49+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4925,6 +5333,18 @@
       "summary": "对球队周一第四节的表现感到恼火？读这篇文章，你会感觉好多了。",
       "source_url": "https://sports.yahoo.com/articles/team-effort-sees-nets-beat-033305067.html",
       "publish_time": "2026-11-05T03:33:05+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e8af4865d71a",
+      "title": "尼克斯，贾伦·布伦森在公牛大屠杀中爆炸，达到.500马克",
+      "summary": "贾伦·布伦森（ 贾伦·布伦森 ）看到红色并挖掘了公牛队。然后他的队友们在尸体上饱餐一顿。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-jalen-brunson-explode-decimation-033126439.html",
+      "publish_time": "2026-11-05T03:31:26+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -4973,6 +5393,18 @@
       "summary": "波士顿以22分的领先优势击败了现在的1-7密尔沃基雄鹿队。",
       "source_url": "https://sports.yahoo.com/articles/celtics-survive-stampede-bucks-win-030756676.html",
       "publish_time": "2026-11-05T03:07:56+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b051313b3706",
+      "title": "勇士队的史蒂夫·科尔（ Steve Kerr ）将斯蒂芬·库里（ Steph Curry ）与NBA GOAT在职业生",
+      "summary": "金州勇士队主教练史蒂夫·科尔（ Steve Kerr ）将斯蒂芬·库里（ Steph Curry ）与迈克尔·乔丹（ Michael Jordan ）进行了比较。从20世纪90年代成为有史以来最伟大的篮球队之一的一员",
+      "source_url": "https://sports.yahoo.com/articles/warriors-steve-kerr-compares-steph-030633543.html",
+      "publish_time": "2026-11-05T03:06:33+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5340,436 +5772,60 @@
       ]
     },
     {
-      "id": "nba-796f631a5685",
-      "title": "活塞vs 76人预览：东部顶级两支球队在国家电视台对决",
-      "summary": "活塞队和76人队在ESPN上对决，参加东部联盟前两支球队的比赛。",
-      "source_url": "https://sports.yahoo.com/articles/pistons-vs-76ers-preview-east-170000625.html",
-      "publish_time": "2026-11-04T17:00:00+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-03e065c68c31",
+      "title": "【锦标赛预选赛】佐贺商人实现了复仇！ ！击败了去年半决赛落败的龙谷， 14年来首次向全国迈进了一步（ 15件）",
+      "summary": "3日，佐贺祥子在第105届全国高中足球锦标赛佐贺县半决赛中以2比0击败龙谷隆。●第105届全国高中足球锦标赛特刊",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462578-462578-pn",
+      "publish_time": "2026-11-05T10:09:16+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]佐賀商がリベンジ達成!! 昨年の準決勝で敗れた龍谷を撃破、14年ぶり全国へあと1歩(15枚)",
+      "_raw_summary": "3日、第105回全国高校サッカー選手権佐賀県予選準決勝において佐賀商高は龍谷高と対戦し2-0で勝利した。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-e962fa5f383f",
-      "title": "报告：勇士扣留Kristaps Porzingis $ 2000万的工资",
-      "summary": "勇士队正在探索涉及Kristaps Porzingis的潜在交易， Kristaps Porzingis在处理健康问题时仍然远离球队。",
-      "source_url": "https://sports.yahoo.com/articles/report-warriors-withholding-payments-kristaps-164925198.html",
-      "publish_time": "2026-11-04T16:49:25+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-8ee577cf3ca4",
+      "title": "【锦标赛预选赛】佐贺东与清和一起晋级决赛！ ！下半场5次投篮，参加连续第4次锦标赛（ 16件）",
+      "summary": "3日，第105届全国高中足球锦标赛佐贺县半决赛举行，佐贺东高击败清和隆， 5-0获胜。●第105届全国高中足球锦标赛特刊",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462575-462575-pn",
+      "publish_time": "2026-11-05T09:50:00+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]佐賀東、清和を下して決勝進出!! 後半5発で4年連続選手権出場へ王手(16枚)",
+      "_raw_summary": "3日、第105回全国高校サッカー選手権佐賀県予選準決勝が行われ、佐賀東高は清和高と対戦し5-0で勝利した。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-aadfb67c1487",
-      "title": "齐亚雷·威廉姆斯（ Ziaire Williams ）不确定是什么原因导致脚酸痛，希望受伤在他身后",
-      "summary": "威廉姆斯在错过前三场比赛后于周一重返阵容",
-      "source_url": "https://sports.yahoo.com/articles/ziaire-williams-not-sure-caused-164500816.html",
-      "publish_time": "2026-11-04T16:45:00+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-1eb521713878",
+      "title": "【锦标赛预选赛】赢得PK比赛的京都精华将进入第一场决赛！ ！京都协荣将追赶比赛结束，但他将在半决赛中被击败（ 16件）",
+      "summary": "[11.3锦标赛京都府预选赛半决赛京都精华高1-1 （ PK3-2 ）京都共荣高竹菱体育场京都]第105届全国高中足球锦标赛京都府预选赛在3日举行了半决赛，在第二场比赛中，京都精华高1-1 （ PK3-2 ）战胜京都共荣高。●第105届全国…",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462571-462571-pn",
+      "publish_time": "2026-11-05T08:16:03+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]PK戦制した京都精華が初の決勝へ!! 京都共栄は終了間際に追い付く粘り見せるも準決勝敗退(16枚)",
+      "_raw_summary": "[11.3 選手権京都府予選準決勝 京都精華高 1-1(PK3-2) 京都共栄高 たけびしスタジアム京都] 第105回全国高校サッカー選手権京都府予選は3日準決勝を実施し、第2試合では京都共栄高と対戦した京都精華高が1-1(PK3-2)で勝利した。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-3920e7162c84",
-      "title": "勇士们切断了Kristaps Porzingis的工资，因为2000万美元的传奇变得更加丑陋",
-      "summary": "金州勇士队已经停止向Kristaps Porzingis支付2000万$的薪水。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-cut-off-kristaps-porzingis-164029608.html",
-      "publish_time": "2026-11-04T16:40:29+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-12d9054809f7",
+      "title": "【锦标赛预选赛】东山以两张全封门票赢得立命馆宇治！ ！ 4年来第一张全国门票（ 16 ）",
+      "summary": "[11.3锦标赛京都府资格赛半决赛东山隆2-0立命馆宇治高菱体育场京都]第105届全国高中足球锦标赛京都府资格赛在3日举行了半决赛，在第一场比赛中，东山隆以2-0击败了立命馆宇治隆。●第105届全国高中足球锦标赛特刊",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462570-462570-pn",
+      "publish_time": "2026-11-05T07:54:03+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-9682997d9887",
-      "title": "据报道，勇士队在考虑NBA的未来时，没有向克里斯塔普斯·波尔齐奥伊斯支付报酬",
-      "summary": "勇士队并没有考虑撤销合同，因为他们希望在2月11日交易截止日期之前将他转移。",
-      "source_url": "https://sports.yahoo.com/nba/article/warriors-reportedly-not-paying-kristaps-porzingis-as-he-contemplates-nba-future-162041664.html",
-      "publish_time": "2026-11-04T16:20:41+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-dae437577892",
-      "title": "勒布朗·詹姆斯（ 勒布朗·詹姆斯 ）的经纪人里奇·保罗（ Rich Paul ）解释了76人队提供的",
-      "summary": "勒布朗·詹姆斯的经纪人里奇·保罗对费城76人队和洛杉矶湖人队进行了令人大开眼界的比较。",
-      "source_url": "https://sports.yahoo.com/articles/lebron-james-agent-rich-paul-161303924.html",
-      "publish_time": "2026-11-04T16:13:03+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a31b4d9e6dfb",
-      "title": "库珀·弗拉格（ Cooper Flagg ）的崛起：小牛队的青少年明星如何引领球队向前发展",
-      "summary": "随着这位少年明星的持续发展，达拉斯的未来比它最近的过去要光明得多。",
-      "source_url": "https://sports.yahoo.com/nba/article/the-rise-of-cooper-flagg-how-the-mavericks-teenage-star-is-leading-the-franchise-forward-180326411.html",
-      "publish_time": "2026-11-04T16:05:22+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-63bdbb7dc5e9",
-      "title": "JJ雷迪克在防守与热火的比赛中挑战湖人，感觉球队的反应“很棒”",
-      "summary": "洛杉矶队在半场结束后将迈阿密队打入45分",
-      "source_url": "https://sports.yahoo.com/articles/jj-redick-challenged-lakers-defensively-160000842.html",
-      "publish_time": "2026-11-04T16:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7580cef65c35",
-      "title": "Cavs at Thunder ：如何观看、赔率和受伤报告",
-      "summary": "骑士队将努力实现赛季系列赛的平衡。",
-      "source_url": "https://sports.yahoo.com/articles/cavs-thunder-watch-odds-injury-160000992.html",
-      "publish_time": "2026-11-04T16:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ce8a2a0dd2fc",
-      "title": "76人队面对活塞队，有机会为本赛季的孤独失利报仇",
-      "summary": "76人队在周三晚上访问底特律活塞队时，有机会为他们本赛季的孤独失利进行报复。",
-      "source_url": "https://sports.yahoo.com/articles/sixers-face-pistons-chance-avenge-153633134.html",
-      "publish_time": "2026-11-04T15:36:33+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-bd07309fa2ce",
-      "title": "骑士与熟悉的面孔达成双向协议",
-      "summary": "Norchad Omier将重返克利夫兰。",
-      "source_url": "https://sports.yahoo.com/articles/cavaliers-reach-two-way-agreement-153209034.html",
-      "publish_time": "2026-11-04T15:32:09+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-da8cd64fb837",
-      "title": "篮网vs.黄蜂：布鲁克林最终能给主场观众带来欢呼吗？",
-      "summary": "篮网终于取得了胜利。现在，他们需要给家庭人群一个。",
-      "source_url": "https://sports.yahoo.com/articles/nets-vs-hornets-brooklyn-finally-151817179.html",
-      "publish_time": "2026-11-04T15:18:17+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7933c957b3f5",
-      "title": "奇才队在NBA的权力排名中处于中间位置",
-      "summary": "奇才队在ESPN排名中排名第16位。虽然平庸，但比去年好多了！",
-      "source_url": "https://sports.yahoo.com/articles/wizards-middle-nba-power-rankings-150638438.html",
-      "publish_time": "2026-11-04T15:06:38+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-68d761a85605",
-      "title": "为什么猛龙队可以否定约基奇，尽管五人有问号",
-      "summary": "猛龙队辛勤工作和努力的身份将面临终极考验。",
-      "source_url": "https://sports.yahoo.com/articles/why-raptors-could-negate-jokic-143500560.html",
-      "publish_time": "2026-11-04T14:35:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1742f2defbf2",
-      "title": "圆桌会议：交易凯里·欧文需要什么？",
-      "summary": "這是 不 可能 的 。",
-      "source_url": "https://sports.yahoo.com/articles/roundtable-trade-kyrie-irving-143000937.html",
-      "publish_time": "2026-11-04T14:30:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-bb6fca4e0387",
-      "title": "尼克斯公告： “我们正在挣扎，我有点兴奋”",
-      "summary": "纽约上周三击败1-6公牛后，今晚将迎来一周内的第二场比赛。芝加哥不是尼克斯队应该过于担心的球队，但是嘿，这是亚500球队之间的对决，所以谁知道那时会发生什么。以下是我们听到的一些[…]",
-      "source_url": "https://sports.yahoo.com/articles/knicks-bulletin-m-little-excited-140000359.html",
-      "publish_time": "2026-11-04T14:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-caae82991163",
-      "title": "游戏预览：圣安东尼奥马刺vs达拉斯小牛队",
-      "summary": "马刺队将在访问Copper Flagg、凯里·欧文和Mavericks时寻找他们连续第六次获胜的机会。",
-      "source_url": "https://sports.yahoo.com/articles/game-preview-san-antonio-spurs-140000244.html",
-      "publish_time": "2026-11-04T14:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-badcfe955367",
-      "title": "威尔·韦德的老虎队在赛季首秀中击败了私掠队",
-      "summary": "LSU在本赛季的第一场比赛中对LSUNO进行了很多承诺，但仍有很大的改进空间",
-      "source_url": "https://sports.yahoo.com/articles/wade-tigers-defeat-privateers-season-133233443.html",
-      "publish_time": "2026-11-04T13:32:33+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1689639c3349",
-      "title": "游戏预览＃ 9 ：火箭队中的狼队游戏线程",
-      "summary": "狼队在德克萨斯州试图将蓝色置于红色之上，对阵休斯顿火箭队。",
-      "source_url": "https://sports.yahoo.com/articles/game-preview-9-wolves-rockets-130000144.html",
-      "publish_time": "2026-11-04T13:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c4692c52b60d",
-      "title": "密尔沃基雄鹿队对阵波士顿凯尔特人队的预览和比赛线程：公路勇士？",
-      "summary": "雄鹿队试图在波士顿赢得他们今年的第一场公路胜利。",
-      "source_url": "https://sports.yahoo.com/articles/milwaukee-bucks-vs-boston-celtics-130000365.html",
-      "publish_time": "2026-11-04T13:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7405ea493013",
-      "title": "打开帖子：进入以赢得法院赠品中的经典",
-      "summary": "今年的套餐包括一件球衣、一个ABA球和两张观看马刺队比赛的门票",
-      "source_url": "https://sports.yahoo.com/articles/open-thread-enter-win-classic-120000674.html",
-      "publish_time": "2026-11-04T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7c743d55064a",
-      "title": "失去最可怕的部分是没有什么可获得的",
-      "summary": "凤凰城为了争夺冠军而牺牲了自己的未来，其后果越来越难以忽视。",
-      "source_url": "https://sports.yahoo.com/articles/most-terrifying-part-losing-having-120000587.html",
-      "publish_time": "2026-11-04T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-f8936992b010",
-      "title": "Mitchell Robinson洗了吗？ （以及其他邮袋答案）",
-      "summary": "粉丝们对这款邮袋的Mitchell Robinson和其他话题感到担忧",
-      "source_url": "https://sports.yahoo.com/articles/mitchell-robinson-washed-other-mailbag-120000049.html",
-      "publish_time": "2026-11-04T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-92125413ab83",
-      "title": "YouTube Gold ：美国篮球协会最伟大的球员",
-      "summary": "ABA是一个光荣的混乱。",
-      "source_url": "https://sports.yahoo.com/articles/youtube-gold-greatest-players-aba-113416484.html",
-      "publish_time": "2026-11-04T11:34:16+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ddcb6b247f17",
-      "title": "Patrick Dumont收购Miriam Adelson的Mavericks股份，现在拥有69%的团队股份",
-      "summary": "杜蒙特家族现在是达拉斯小牛队的多数股东",
-      "source_url": "https://sports.yahoo.com/articles/patrick-dumont-purchases-miriam-adelson-112400833.html",
-      "publish_time": "2026-11-04T11:24:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e2e67a6d326d",
-      "title": "NBA权力排名：火箭队和76人队射门到顶，尼克斯队下降",
-      "summary": "NBA周二暂停了投票，以鼓励美国选民前往投票站，但整个联盟已经发生了重大动荡。",
-      "source_url": "https://sports.yahoo.com/articles/nba-power-rankings-rockets-sixers-110604197.html",
-      "publish_time": "2026-11-04T11:06:04+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ef0fc902730c",
-      "title": "凯尔特人队在进攻边缘时表现出进步，但还有成长的空间",
-      "summary": "奥兰多瞥见了他们可能成为的样子。休斯顿提供了现实核查。",
-      "source_url": "https://sports.yahoo.com/articles/celtics-showing-progress-attacking-rim-110000746.html",
-      "publish_time": "2026-11-04T11:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a04ec3cafb3e",
-      "title": "卢卡·东契奇 goes backward in one statistical category, and Lakers are thrilled",
-      "summary": "卢卡·东契奇’s technical foul with 1:12 remaining in the second quarter against the Heat on Monday has been rescinded fol…",
-      "source_url": "https://sports.yahoo.com/articles/luka-doncic-goes-backward-one-021724577.html",
-      "publish_time": "2026-11-04T02:17:24+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7ffb0e09a094",
-      "title": "科怀·伦纳德 injury update: Raptors star finishes knee treatment but still out",
-      "summary": "科怀·伦纳德 has finished treatment for left knee swelling and begins the Raptors' return-to-pay process. Here's where…",
-      "source_url": "https://sports.yahoo.com/articles/kawhi-leonard-injury-raptors-star-005544418.html",
-      "publish_time": "2026-11-04T00:55:44+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-313e81e95c12",
-      "title": "Warriors’ 德雷蒙德·格林 called out by ex-NBA champion after ejection: ‘He has been a liability more than an asset’",
-      "summary": "德雷蒙德·格林 earned his first ejection of the 2026-27 season against the Suns on Monday night. The Warriors veteran wa…",
-      "source_url": "https://sports.yahoo.com/articles/warriors-draymond-green-called-ex-220118602.html",
-      "publish_time": "2026-11-03T22:01:18+00:00",
-      "category": "nba",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4f5a0e8b1f04",
-      "title": "Cops complain about 勒布朗·詹姆斯 during J.R. Smith assault arrest: ‘I’m still mad’",
-      "summary": "Cops complained to J.R. Smith about 勒布朗·詹姆斯 just seconds before they arrested the former New York Knicks star earli…",
-      "source_url": "https://sports.yahoo.com/articles/cops-complain-lebron-james-during-212417526.html",
-      "publish_time": "2026-11-03T21:24:17+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-cef72530c3d5",
-      "title": "卢卡·东契奇 reveals intentions for off-day after another 40-burger in Lakers win",
-      "summary": "卢卡·东契奇 is ballin' right now, and has his sights set on another sport.",
-      "source_url": "https://sports.yahoo.com/articles/luka-doncic-reveals-intentions-off-161411898.html",
-      "publish_time": "2026-11-03T16:14:11+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1f08e5c8d4cf",
-      "title": "Do Miami Heat have a fatal flaw? Giannis, 巴姆·阿德巴约 issue warning",
-      "summary": "扬尼斯·阿德托昆博 says trust and effort are missing as the Heat's defense struggles in a lopsided loss to the Lakers…",
-      "source_url": "https://sports.yahoo.com/articles/heat-defense-under-scrutiny-lakers-124200454.html",
-      "publish_time": "2026-11-03T12:42:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-df90b1d3ead0",
-      "title": "As 德雷蒙德·格林 comes apart, motivated Warriors come together in win vs. Suns",
-      "summary": "As 德雷蒙德·格林 came apart against the Suns on Monday, an extra-motivated Golden State Warriors team came together wit…",
-      "source_url": "https://sports.yahoo.com/articles/draymond-green-comes-apart-motivated-074025168.html",
-      "publish_time": "2026-11-03T07:40:25+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-0c214301cf67",
-      "title": "卢卡·东契奇's 42-point effort carries Lakers past 扬尼斯·阿德托昆博 and Heat",
-      "summary": "卢卡·东契奇 continues his recent run of dominance, finishing with 42 points, 13 assists and seven rebounds in a 138-117…",
-      "source_url": "https://sports.yahoo.com/articles/luka-doncics-42-point-effort-055225000.html",
-      "publish_time": "2026-11-03T05:52:25+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ee44a0642134",
-      "title": "勒布朗·詹姆斯’ viral mid-game wine sip takes new twist as 76ers fan shares his side",
-      "summary": "A Philadelphia 76ers fan got honest about 勒布朗·詹姆斯 stealing and sipping his wine in the middle of a game.",
-      "source_url": "https://sports.yahoo.com/articles/lebron-james-viral-mid-game-050752279.html",
-      "publish_time": "2026-11-03T05:07:52+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]東山が立命館宇治に2発完封勝利!! 4年ぶり全国切符に王手(16枚)",
+      "_raw_summary": "[11.3 選手権京都府予選準決勝 東山高 2-0 立命館宇治高 たけびしスタジアム京都] 第105回全国高校サッカー選手権京都府予選は3日準決勝を実施し、第1試合では東山高が2-0で立命館宇治高を下した。●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "jp_football_highschool-af7a0557200e",
@@ -6834,62 +6890,6 @@
       ],
       "_raw_title": "[選手権]東京都Aブロック予選主な日程",
       "_raw_summary": "第105回全国高校サッカー選手権【東京A】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-42a3510337e3",
-      "title": "【锦标赛】千叶县预选赛主赛日",
-      "summary": "第105届全国高中足球锦标赛[千叶] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459444-459444-fl",
-      "publish_time": "2026-09-22T13:35:50+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]千葉県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【千葉】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-19cbc7e2ac3b",
-      "title": "【锦标赛】群马县预选赛主赛日期",
-      "summary": "第105届全国高中足球锦标赛【群马】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459442-459442-fl",
-      "publish_time": "2026-09-22T13:34:48+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]群馬県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【群馬】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-f6d0b204e2f1",
-      "title": "【锦标赛】栃木县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【栃木】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459441-459441-fl",
-      "publish_time": "2026-09-22T13:34:15+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]栃木県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【栃木】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-cc2caf377969",
-      "title": "【锦标赛】茨城县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【茨城】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459440-459440-fl",
-      "publish_time": "2026-09-22T13:33:43+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]茨城県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【茨城】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "biz_cn-a55ff337ca05",
