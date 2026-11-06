@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:59:32.160536+00:00",
+  "generated_at": "2026-11-06T19:06:44.829272+00:00",
   "news": [
     {
       "id": "ai_cn-ed69b1ee6e35",
@@ -962,6 +962,102 @@
       ]
     },
     {
+      "id": "ai_intl-37d75a0fa379",
+      "title": "数百个公开暴露在网络中的Artex AI黑客工具",
+      "summary": "安全研究人员发现，数百台托管渗透测试工具Artex的服务器暴露在互联网上，允许任何人访问黑客工具。",
+      "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "publish_time": "2026-11-06T18:44:38+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-dcfedcc7440b",
+      "title": "Meta引入了Spaces ，这是一种与Muse代理进行协作的新方法",
+      "summary": "Meta的Muse代理继续获得新功能和集成。Spaces有望成为与人工智能助手互动的新方式。",
+      "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publish_time": "2026-11-06T18:44:20+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-39eb6389cd50",
+      "title": "Blue Wave期中考试如何重塑人工智能行业",
+      "summary": "民主党在本周美国中期选举中的历史性胜利也可能改变科技行业。周二，公众对41项与数据中心相关的投票措施进行了投票--除一项外，大多数人投票决定对数据中心的发展施加更多限制。即使数据中心不直接在选票上，它们也是[…]",
+      "source_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "publish_time": "2026-11-06T18:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-8f51c7b390aa",
+      "title": "期中考试结束后，人工智能行业是否会持续两年？",
+      "summary": "民主党在本周美国中期选举中的历史性胜利也可能改变科技行业。周二，公众对41项与数据中心相关的投票措施进行了投票--除一项外，大多数人投票决定对数据中心的发展施加更多限制。即使数据中心不直接在选票上，它们也是[…]",
+      "source_url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "publish_time": "2026-11-06T17:23:52+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-7b5a2965d87a",
+      "title": "RAMP数据显示，随着Anthropic接近首次公开募股，人工智能支出停滞不前",
+      "summary": "人工智能的使用量不断攀升，但支出却停滞不前。最大消费者的降价和更明智的成本控制可能会挑战投资者对人工智能高速增长的假设。",
+      "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "publish_time": "2026-11-06T15:54:47+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-bacb3f0e9b0a",
+      "title": "在阻止Muse之后，亚马逊现在允许用户通过短信Alexa帮助他们购物",
+      "summary": "亚马逊表示，该功能将在未来几周内向数百万用户推出。",
+      "source_url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "publish_time": "2026-11-06T14:10:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-9ae489964215",
+      "title": "Underdog在新演示中展示了32MB的语音模型",
+      "summary": "尽管尺寸很小，但Underdog的新模型可以生成语音和音乐。",
+      "source_url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "publish_time": "2026-11-06T13:02:16+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-6d72973eed55",
+      "title": "Physicl筹集了$ 1000万，使数字世界对机器人来说足够真实",
+      "summary": "Physicl正试图通过最初为在线销售商品而构建的管道来解决模拟与真实之间的差距。",
+      "source_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "publish_time": "2026-11-06T13:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-aa3547203e76",
       "title": "Palo Alto Networks正在洽谈以5亿美元收购人工智能代理安全初创公司Clutch",
       "summary": "据一位消息人士称，由Lightspeed和SignalFire支持的Clutch最后估值为8500万美元$。",
@@ -1819,102 +1915,6 @@
       "summary": "OpenAI支持的Thrive Holdings将以153亿美元的价格收购ADT ，并计划将AI引入家庭安全业务。",
       "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "publish_time": "2026-10-29T19:56:19+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-5d9d7808457b",
-      "title": "Meta悄悄推出名为Style Sketch的AI时尚应用程序",
-      "summary": "应用程序会连接到Instagram ，根据您已分享的照片构建虚拟衣柜，或通过拍摄照片、录制快速视频或上传相机胶卷中的图片，手动添加物品。",
-      "source_url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "publish_time": "2026-10-29T19:14:36+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-72117db35823",
-      "title": "Granola推出听写功能，与Wispr展开竞争",
-      "summary": "UNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。语音人工智能战争变得越来越有趣。",
-      "source_url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "publish_time": "2026-10-29T17:54:38+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-f4d2fa0b488e",
-      "title": "Mistral发布针对网络安全的万亿参数AI模型的权重",
-      "summary": "Mistral表示，其新模型可以让组织对其网络防御进行某种控制，而封闭模型无法做到这一点。",
-      "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "publish_time": "2026-10-29T17:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-804bc5d490b8",
-      "title": "美国调查了针对英伟达首席执行官的中国间谍阴谋",
-      "summary": "消息人士告诉《纽约时报》，一家被指控向中国非法出售英伟达芯片的新加坡人工智能云公司的高管也可能是中国间谍。",
-      "source_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "publish_time": "2026-10-29T16:42:32+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-b2c76de6c6e1",
-      "title": "Palantir前高管以a16z的1700万美元推出Dream ，用于构建建筑AI世界模型",
-      "summary": "DREAM以真实的物理和建筑标准为基础。正如法学硕士从文本中学习一样， Dream的世界模型是根据从美国各地的许可证档案中收集的超过1亿平方英尺的建筑数据进行培训的。",
-      "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "publish_time": "2026-10-29T16:21:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-cd84a165e5e6",
-      "title": "构建迷你应用程序的人工智能代理Wabi ，经过最新一轮融资，现在估值为12.5亿美元$",
-      "summary": "周四，人工智能应用程序Wabi现在将自己描述为“个人经纪人” ，并表示已以12.5亿美元的估值筹集了5500万美元。",
-      "source_url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "publish_time": "2026-10-29T14:35:26+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-6364a0999f9b",
-      "title": "Deepgram收购Pipecat制造商Daily ，以加强其语音人工智能基础设施",
-      "summary": "借助Pipecat ， Deepgram可能会更深入地了解实时语音和视频基础设施。",
-      "source_url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "publish_time": "2026-10-29T13:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-fd97083f42be",
-      "title": "亚马逊更新Alexa ，帮助您管理购物清单和订阅，并更新派送说明",
-      "summary": "此更新允许您使用Alexa创建列表、注册列表、查看列表中的内容以及添加或编辑项目。您还可以管理订阅。",
-      "source_url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-      "publish_time": "2026-10-29T13:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4812,6 +4812,18 @@
       ]
     },
     {
+      "id": "nba-5174d2b70992",
+      "title": "德雷蒙德·格林 reveals what Steve Kerr told 0-3 Warriors to fuel winning streak",
+      "summary": "After the red-hot Golden State Warriors won their sixth straight, 德雷蒙德·格林 revealed what Steve Kerr told the team…",
+      "source_url": "https://sports.yahoo.com/articles/draymond-green-reveals-steve-kerr-104524648.html",
+      "publish_time": "2026-11-06T10:45:24+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-a4526046a8fa",
       "title": "Doc Rivers shares criticisms of 扬尼斯·阿德托昆博's game − and how he can improve",
       "summary": "Doc Rivers expressed some frustrations with 扬尼斯·阿德托昆博's game and approach, but believes those things could c…",
@@ -5760,16 +5772,18 @@
       ]
     },
     {
-      "id": "nba-559af1d323a7",
-      "title": "查尔斯·巴克利（ Charles Barkley ）对热烈的76人-活塞混战印象不深： “被吻得更厉害”",
-      "summary": "周三晚上，查尔斯·巴克利（ Charles Barkley ）在NBA的一场大型比赛中对布鲁哈哈（ bruhaha ）印象深刻。",
-      "source_url": "https://sports.yahoo.com/articles/charles-barkley-wasn-t-impressed-052123835.html",
-      "publish_time": "2026-11-05T05:21:23+00:00",
-      "category": "nba",
-      "is_important": false,
+      "id": "jp_football_highschool-475664c86e14",
+      "title": "【锦标赛预选赛】长野日代在连续两届锦标赛中击败冠军上田西， 1-0 ：长野（ 12件）",
+      "summary": "10月29日，第105届全国高中足球锦标赛长野县预选赛四分之一决赛举行，长野秀学在1-0上田西学连续两次夺冠。长野日台在半决赛中被击败，并获得第三名。●第105届全国高中足球锦标赛特刊",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462640-462640-pn",
+      "publish_time": "2026-11-06T11:48:45+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]長野日大が2連覇中の王者・上田西を1-0で撃破:長野(12枚)",
+      "_raw_summary": "10月29日、第105回全国高校サッカー選手権長野県予選準々決勝が行われ、長野日大高が1-0で2連覇中の上田西高に勝利。長野日大は準決勝で敗れ、3位となった。●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "jp_football_highschool-42d906bcdd5a",
@@ -6876,20 +6890,6 @@
       ],
       "_raw_title": "[選手権]山梨県予選主な日程",
       "_raw_summary": "第105回全国高校サッカー選手権【山梨】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-3cd3201a10c9",
-      "title": "【锦标赛】神奈川县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【神奈川】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459447-459447-fl",
-      "publish_time": "2026-09-22T13:38:14+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]神奈川県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【神奈川】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "biz_cn-a55ff337ca05",
