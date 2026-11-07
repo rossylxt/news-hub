@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:35:12.950209+00:00",
+  "generated_at": "2026-11-07T23:34:25.995816+00:00",
   "news": [
     {
       "id": "ai_cn-593727901fa9",
@@ -4814,6 +4814,18 @@
       ]
     },
     {
+      "id": "nba-da7c61e4af44",
+      "title": "卢卡·东契奇 is soaring, Lakers are No. 1 in West. His brilliance is leaving mark",
+      "summary": "Lakers coach J·J·雷迪克 was stumped. He had recently likened Luka Dončić to a supernova. He said you have to pick your po…",
+      "source_url": "https://sports.yahoo.com/articles/luka-doncic-soaring-lakers-no-171502225.html",
+      "publish_time": "2026-11-07T17:15:02+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-ce278fdbd120",
       "title": "卢卡·东契奇's historic run jump starts early MVP conversation",
       "summary": "Lakers guard 卢卡·东契奇's teammates and opposing coaches are in awe of his blistering scoring so far this season, fueli…",
@@ -5755,18 +5767,6 @@
       "summary": "汤普森自2024年以来的第一场30分比赛扭转了局面。",
       "source_url": "https://sports.yahoo.com/articles/watch-klay-thompson-hit-overtime-081955189.html",
       "publish_time": "2026-11-05T08:19:55+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b36a30a59ba2",
-      "title": "球员等级：湖人vs国王",
-      "summary": "从球队以116-103战胜国王队中对每个湖人球员的表现进行评分。",
-      "source_url": "https://sports.yahoo.com/articles/player-grades-lakers-vs-kings-081447489.html",
-      "publish_time": "2026-11-05T08:14:47+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -7256,26 +7256,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-b0ee9b444e19",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "罗马",
-      "away_team": "萨索洛",
-      "match_time": "2026-11-07T19:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-94bd1aaf23de",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "瓦伦西亚",
-      "away_team": "皇家马德里",
-      "match_time": "2026-11-07T20:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-nba-34f2840ef93f",
       "sport": "basketball",
       "competition": "NBA常规赛",
@@ -7432,6 +7412,26 @@
       "home_team": "科隆",
       "away_team": "勒沃库森",
       "match_time": "2026-11-08T14:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-059ee2b7c9db",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "皇家社会",
+      "away_team": "巴列卡诺",
+      "match_time": "2026-11-08T15:15:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-700cd481eefa",
+      "sport": "football",
+      "competition": "法甲",
+      "home_team": "布雷斯特",
+      "away_team": "里昂",
+      "match_time": "2026-11-08T16:15:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
