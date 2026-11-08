@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:46:22.071351+00:00",
+  "generated_at": "2026-11-08T23:33:11.501449+00:00",
   "news": [
     {
       "id": "ai_cn-c7f6aab04c4f",
@@ -2882,6 +2882,20 @@
       ]
     },
     {
+      "id": "jp_football_euro-1e8d7b5edda6",
+      "title": "曼U在90 +6分钟内故意戏剧性的捆绑子弹！ ！总共8次小冲突，铃木彩在AT的下半场在一系列大扑救中被两颗子弹击中……",
+      "summary": "[11.8英超联赛第10节曼联4-4阿斯顿维拉]阿斯顿维拉8日在英超联赛第10节对阵曼联，在两分的领先优势下半场输掉两分，以4-4分享并赢得1分。G.K.铃木彩多次进行大扑救，挽救了球队，但最终未能完成角踢的高球，错过了。继上一节之后，海波",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462859-462859-fl",
+      "publish_time": "2026-11-08T18:59:18+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "マンUが90+6分に意地の劇的同点弾!!合計8発の乱打戦、鈴木彩艶はビッグセーブ連発も後半ATに2発被弾…",
+      "_raw_summary": "[11.8 プレミアリーグ第10節 マンチェスター・ユナイテッド 4-4 アストン・ビラ] アストン・ビラは8日、プレミアリーグ第10節でマンチェスター・ユナイテッドと対戦し、2点リードの後半アディショナルタイムに2点を失い、4-4と勝ち点1を分け合った。GK鈴木彩艶は何度もビッグセーブを披露し、チームを救ったが、最後はコーナーキックのハイボールをクリアし切れず失点。前節に続き、ハイボー"
+    },
+    {
       "id": "jp_football_euro-834c2d11b991",
       "title": "田中博史错失了出色防守的绝佳机会……利兹击败托特纳姆热刺， 6场比赛首次夺得联赛冠军",
       "summary": "[11.7英超联赛第10节利兹1-0托特纳姆热刺]英超联赛于7日进行了第10节的比赛。MF田中所属的利兹队以1比0战胜托特纳姆热刺队。田中继续首发，下半场打了32分钟。利兹在上一场伯恩茅斯比赛中被击败，过去五场比赛中没有白星。在首场比赛中获…",
@@ -3835,18 +3849,6 @@
       "summary": "日本队24日在麒麟挑战杯上以3比1击败乌拉圭队。",
       "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459684-459684-pn",
       "publish_time": "2026-09-25T03:52:46+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-a1b2199a4983",
-      "title": "喜欢在宫城举行的日本国家队比赛的支持者：第1卷（ 75张）",
-      "summary": "日本队24日在麒麟挑战杯上以3比1击败乌拉圭队。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459683-459683-pn",
-      "publish_time": "2026-09-25T03:52:09+00:00",
       "category": "jp_football_euro",
       "is_important": false,
       "tags": [
@@ -7256,36 +7258,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-c39f16c81bfd",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "佛罗伦萨",
-      "away_team": "尤文图斯",
-      "match_time": "2026-11-08T19:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-328acbdac4e8",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "朗斯",
-      "away_team": "马赛",
-      "match_time": "2026-11-08T19:45:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-0484ecfb61b2",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "马德里竞技",
-      "away_team": "巴塞罗那",
-      "match_time": "2026-11-08T20:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-nba-9e360b8bde65",
       "sport": "basketball",
       "competition": "NBA常规赛",
@@ -7453,6 +7425,36 @@
       "away_team": "波士顿凯尔特人",
       "match_time": "2026-11-11T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21718083",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-3a7c460d7c18",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "芝加哥公牛",
+      "away_team": "圣安东尼奥马刺",
+      "match_time": "2026-11-11T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718084",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-01bc3a855f5b",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "孟菲斯灰熊",
+      "away_team": "丹佛掘金",
+      "match_time": "2026-11-11T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718085",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-a467c9bef581",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "密尔沃基雄鹿",
+      "away_team": "洛杉矶湖人",
+      "match_time": "2026-11-11T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718086",
       "tags": []
     }
   ]
