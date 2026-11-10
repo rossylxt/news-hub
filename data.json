@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:03:31.636241+00:00",
+  "generated_at": "2026-11-10T07:08:42.555674+00:00",
   "news": [
     {
       "id": "ai_cn-ead0ef73927e",
@@ -962,6 +962,126 @@
       ]
     },
     {
+      "id": "ai_intl-55ff5cbc62ee",
+      "title": "据报道， Anthropic计划推进IPO计划",
+      "summary": "据《华尔街日报》报道，这家AI公司预计将在本周设定估值范围。",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "publish_time": "2026-11-10T01:27:12+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-a418baa2661a",
+      "title": "据报道， Jensen Huang聘请了一家公关公司，该公司一年前曾处理过备受瞩目的性丑闻",
+      "summary": "据《连线》报道，这家公关公司是在2025年10月《纽约时报》报道Alice Huang与Jensen Huang的业务往来后不久招募的。",
+      "source_url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "publish_time": "2026-11-09T23:28:37+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-67a80703c5c3",
+      "title": "一名卖空者在丑闻发生前六个月标记了英伟达首席执行官与一名疑似中国间谍的关系",
+      "summary": "在英伟达间谍丑闻爆发六个月前， Culper Research已经在质疑Jensen Huang与一位中国高管的异常亲密的关系。",
+      "source_url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "publish_time": "2026-11-09T22:46:09+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-e7ff3531a33d",
+      "title": "起诉英伟达的竞赛即将开始",
+      "summary": "英伟达(Nvidia)董事会对黄延森(Jensen Huang)与一名中国间谍嫌疑人的关系展开调查后，其股价下跌逾4% ，一位证券法专家表示，该公司早些时候坚持认为这一切都是“正常的” ，这可能会变成一个非常昂贵的问题。",
+      "source_url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "publish_time": "2026-11-09T22:23:42+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-cd02f18399f3",
+      "title": "在英伟达争议中， Jensen Huang退出ElevenLabs峰会",
+      "summary": "英伟达首席执行官早些时候也退出了人类活动。",
+      "source_url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "publish_time": "2026-11-09T20:09:06+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-9d2e28e73a2d",
+      "title": "由于RSI的担忧， Anthropic发布了新的Mythos和Fable模型",
+      "summary": "Anthropic表示，新模型“显示了编码、推理和视觉等领域的改进” ，以及与用户进行更清晰的沟通。",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "publish_time": "2026-11-09T19:24:51+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-c81f482fdf11",
+      "title": "黄延森与涉嫌中国间谍的婚外情使英伟达的中国野心受到严格审查",
+      "summary": "Jensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英伟达放松美国芯片出口限制并保持进入中国利润丰厚的人工智能市场的游说努力复杂化。",
+      "source_url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "publish_time": "2026-11-09T18:09:52+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-9b99d3e8fbba",
+      "title": "Meta发布Muse Ember ，一种新的轻量级代理执行模型",
+      "summary": "Ember以每百万个输入代币10美分的价格，比Haiku和Luna等前沿竞争对手便宜得多。",
+      "source_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "publish_time": "2026-11-09T18:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-f3c522ff77f3",
+      "title": "Anthropic加入AI的天然气狂潮，购买价值$ 3.4B的涡轮机",
+      "summary": "Anthropic购买了价值数十亿美元的天然气涡轮机，这笔交易可能会让买家后悔。",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "publish_time": "2026-11-09T16:56:54+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-9ed094811c69",
+      "title": "Medium的新TK应用程序将AI辅助直接带入写作过程",
+      "summary": "Medium的新写作应用程序采用了人工智能辅助写作，尽管人们对该技术在出版中的作用越来越有争议。",
+      "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "publish_time": "2026-11-09T16:12:28+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-0fe933f7440b",
       "title": "Automattic首次推出一个平台，用于在不断变化的互联网中部署氛围编码应用程序",
       "summary": "Automattic旨在通过Spacefast与Lovable等公司竞争",
@@ -1015,6 +1135,18 @@
       "summary": "据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官。",
       "source_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "publish_time": "2026-11-07T21:17:08+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-9f1e12639c71",
+      "title": "从前排到热门席位—期中考试对大型科技公司意味着什么",
+      "summary": "在与白宫相处了两年之后，大型科技公司突然试图与民主党人交朋友，而悬而未决的问题是，这种形象改造是否可以抵御各州、当地社区和市场即将采取的行动。",
+      "source_url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "publish_time": "2026-11-07T04:16:43+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -1783,138 +1915,6 @@
       "summary": "OpenAI的最新一轮融资似乎没有达到预期。",
       "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "publish_time": "2026-10-31T16:12:55+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-ec6501562529",
-      "title": "英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音",
-      "summary": "当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。",
-      "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "publish_time": "2026-10-31T01:20:05+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d319498a5eb3",
-      "title": "专注于隐私的人工智能助手Ollie正在关闭",
-      "summary": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手Ollie的创始人表示，它将在一周内关闭。",
-      "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "publish_time": "2026-10-30T22:56:13+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-c6d867f631df",
-      "title": "英特尔股市崩盘，从政府持股中损失120亿$",
-      "summary": "随着人工智能行业吞噬内存和其他组件导致个人电脑价格上涨，英特尔正受到个人电脑销售的影响。",
-      "source_url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "publish_time": "2026-10-30T21:54:34+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d12607a6e474",
-      "title": "英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级",
-      "summary": "Blackstone的预测只是一个预测，但自然，高垃圾评级将使Anthropic更难以筹集资金，以继续为其作为其业务基础的巨额支出提供资金。",
-      "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "publish_time": "2026-10-30T21:52:03+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-62efadaf1b1a",
-      "title": "科技书呆子的最后一刻万圣节服装",
-      "summary": "没有万圣节服装？只是一个看似可爱的AI代理图标， PHP漏洞或困倦的时间布莱恩·约翰逊。",
-      "source_url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "publish_time": "2026-10-30T21:26:59+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d2ae3dfb1d7f",
-      "title": "人工智能支出热潮中正在出现裂缝",
-      "summary": "大型科技公司正在向人工智能基础设施投入数十亿美元，但越来越多的债务、负现金流和越来越多的投资者怀疑正在引发人们对人工智能支出热潮的可持续性的质疑。",
-      "source_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "publish_time": "2026-10-30T21:17:40+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-c9dcfb62ccca",
-      "title": "Zest的新人工智能代理通过短信查找餐厅和预订",
-      "summary": "无法就餐点达成一致？ Zest的人工智能礼宾服务可以结合每个人的口味，对餐厅选项进行投票，然后进行预订。",
-      "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "publish_time": "2026-10-30T17:47:12+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d4c3a958104a",
-      "title": "谷歌的第一颗数据中心卫星在线并撰写诗歌",
-      "summary": "太空中的第一个TPU正在运行Google DeepMind Gemma 4模型，并撰写俗气的诗歌。",
-      "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "publish_time": "2026-10-30T17:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-9baf1e5f5ceb",
-      "title": "Theranos举报人泰勒·舒尔茨（ Tyler Shultz ）警告说，人工智能热潮是“欺骗人们的绝佳机会”",
-      "summary": "Theranos的警示故事在人工智能时代具有新的意义，当时从未盈利的公司正在以万亿美元的估值筹集资金。",
-      "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "publish_time": "2026-10-30T16:03:45+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-969515ead733",
-      "title": "跳过闲聊：与Braindate在TechCrunch创始人峰会上建立改变游戏规则的联系",
-      "summary": "在11月4日在波士顿SoWa发电站举行的2026年TechCrunch创始人峰会上，由Braindate提供支持的网络旨在使这些对话更容易找到，无论是在一对一会议还是小团体现场会议中。在活动开始前注册，您的通行证最多可节省$ 100 ，还可…",
-      "source_url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "publish_time": "2026-10-30T14:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-30b5f07a33cd",
-      "title": "DoorDash表示，它只收到了人工智能代理的“数百个”订单",
-      "summary": "DoorDash表示，它愿意与第三方代理商合作。",
-      "source_url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "publish_time": "2026-10-30T13:54:25+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -4816,6 +4816,30 @@
       ]
     },
     {
+      "id": "nba-65025c81c8a3",
+      "title": "Game Recap: 维克托·文班亚马 scores 40 as Spurs defeat Suns 122-96",
+      "summary": "德文·布克 scored 32 points, but no other Suns starter managed more than seven in a lopsided defeat.",
+      "source_url": "https://sports.yahoo.com/articles/game-recap-victor-wembanyama-scores-042515585.html",
+      "publish_time": "2026-11-10T04:25:15+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-fea504240b1c",
+      "title": "斯蒂芬·库里 tries on former teammate Jordan Poole's sunglasses",
+      "summary": "Golden State Warriors guard 斯蒂芬·库里 and New Orleans Pelicans guard Jordan Poole shared a moment during the pregame…",
+      "source_url": "https://sports.yahoo.com/articles/stephen-curry-tries-former-teammate-031637673.html",
+      "publish_time": "2026-11-10T03:16:37+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-194b030939a8",
       "title": "勒布朗·詹姆斯 says 'family is safe' after arrest of alleged stalker outside Brentwood home",
       "summary": "勒布朗·詹姆斯 says his family is safe after multiple media outlets reported that a man was arrested outside the former La…",
@@ -5745,30 +5769,6 @@
       "summary": "在错过NBA赛季的前8场比赛后，黄蜂队球星Kon Knueppel周三首次亮相常规赛。持续时间不到6分钟。",
       "source_url": "https://sports.yahoo.com/articles/kon-knueppel-injury-hornets-reveal-232632410.html",
       "publish_time": "2026-11-05T23:26:32+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b6c3ea85bede",
-      "title": "勇士队与热火队的伤病报告： Gui Santos仍然缺席",
-      "summary": "周四金州和迈阿密之间比赛的完整疾病报告。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-vs-heat-injury-report-230559358.html",
-      "publish_time": "2026-11-05T23:05:59+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-67ef4664c181",
-      "title": "如何观看勇士对战热火",
-      "summary": "金州篮球就在路上！快来加入我们的游戏帖子，在这里聊聊今晚的比赛。",
-      "source_url": "https://sports.yahoo.com/articles/watch-warriors-vs-heat-230000455.html",
-      "publish_time": "2026-11-05T23:00:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
