@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-11T05:16:30.962013+00:00",
+  "generated_at": "2026-11-11T13:49:51.978653+00:00",
   "news": [
+    {
+      "id": "ai_cn-424f466e5563",
+      "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "summary": "模型即将开源",
+      "source_url": "https://www.qbitai.com/2026/11/509224.html",
+      "publish_time": "2026-11-11T12:43:54+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-1d930064d338",
+      "title": "上海造、香港连，中国AI加速走向全球",
+      "summary": "WAIC把中国AI的年度日历排满了",
+      "source_url": "https://www.qbitai.com/2026/11/509214.html",
+      "publish_time": "2026-11-11T12:22:34+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-54f54039666c",
+      "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+      "summary": "复刻一个物理世界",
+      "source_url": "https://www.qbitai.com/2026/11/509203.html",
+      "publish_time": "2026-11-11T09:58:49+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-81ba3c5975f9",
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "summary": "价格、门槛全打穿",
+      "source_url": "https://www.qbitai.com/2026/11/509146.html",
+      "publish_time": "2026-11-11T06:41:26+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-e7c8a243a0a9",
+      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+      "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+      "source_url": "https://www.qbitai.com/2026/11/509088.html",
+      "publish_time": "2026-11-11T06:27:03+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-a375fa8c1c03",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "source_url": "https://www.qbitai.com/2026/11/509085.html",
+      "publish_time": "2026-11-11T06:18:09+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-8ab2d6391ce9",
       "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
@@ -883,78 +955,6 @@
       "summary": "商汤SenseNova 6.8 Flash",
       "source_url": "https://www.qbitai.com/2026/11/507277.html",
       "publish_time": "2026-11-02T13:36:41+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-565de663962f",
-      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-      "summary": "上海仪器仪表有限公司与上海创志学院联合发布《飞轮·万象生命》仪器算术链生态。",
-      "source_url": "https://www.qbitai.com/2026/11/507260.html",
-      "publish_time": "2026-11-02T07:47:38+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-40005a13e8ae",
-      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
-      "summary": "新版“机器人三定律”。",
-      "source_url": "https://www.qbitai.com/2026/11/507225.html",
-      "publish_time": "2026-11-02T07:27:54+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-9bc2b1d9e032",
-      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
-      "summary": "模型管线双驱动",
-      "source_url": "https://www.qbitai.com/2026/11/507150.html",
-      "publish_time": "2026-11-02T06:28:07+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-9df91e07c53d",
-      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
-      "summary": "能指挥Agent干活，还能控制智能家居",
-      "source_url": "https://www.qbitai.com/2026/11/507107.html",
-      "publish_time": "2026-11-02T06:08:04+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-409ff3d7d1ca",
-      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
-      "summary": "HuggingFace疑似泄露权重已被下5000次",
-      "source_url": "https://www.qbitai.com/2026/11/507082.html",
-      "publish_time": "2026-11-02T04:28:53+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-e5f6718c4c01",
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "summary": "西湖世界模型研究中心成立",
-      "source_url": "https://www.qbitai.com/2026/11/507076.html",
-      "publish_time": "2026-11-01T13:28:10+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -3856,6 +3856,18 @@
       ]
     },
     {
+      "id": "football_intl-1a24bfed89fa",
+      "title": "Manchester United legend tips Barcelona to sign 厄林·哈兰德 if Manchester City are relegated",
+      "summary": "厄林·哈兰德 could likely become a Barcelona player if Manchester City suffer relegation following the Premier League’…",
+      "source_url": "https://sports.yahoo.com/articles/manchester-united-legend-tips-barcelona-121500281.html",
+      "publish_time": "2026-11-11T12:15:00+00:00",
+      "category": "football_intl",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "football_intl-5ee56f4b9e1d",
       "title": "厄瓜多尔因受伤排除了Atlético-MG二人组",
       "summary": "米内罗竞技的厄瓜多尔三人组被召集参加这次国际比赛。但只有Preciado将可用于对阵哥斯达黎加和玻利维亚的友谊赛。周二晚上（ 10 ） ， Ecua...",
@@ -4804,13 +4816,49 @@
       ]
     },
     {
-      "id": "football_intl-e0941567329a",
-      "title": "足总杯第二轮平局全英足总，温伯恩面对布拉德福德和2021年冠军莱斯特平局非联赛多佛竞技",
-      "summary": "2026-27足总杯第二轮抽签已经完成",
-      "source_url": "https://sports.yahoo.com/articles/fa-cup-second-round-draw-191439827.html",
-      "publish_time": "2026-11-09T23:03:36+00:00",
-      "category": "football_intl",
-      "is_important": true,
+      "id": "nba-751ab85bef45",
+      "title": "保罗·乔治 steals the show in his return to Philadelphia",
+      "summary": "On a night that was supposed to be about the former Celtics teammates, it was 保罗·乔治’s 36 points that stole the sho…",
+      "source_url": "https://sports.yahoo.com/articles/paul-george-steals-show-return-110000846.html",
+      "publish_time": "2026-11-11T11:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e2c1990d8254",
+      "title": "Knicks’ 卡尔-安东尼·唐斯 closing in on Willis Reed’s double-double mark",
+      "summary": "卡尔-安东尼·唐斯 will match a legend’s franchise record with another double-double.",
+      "source_url": "https://sports.yahoo.com/articles/knicks-karl-anthony-towns-closing-070601516.html",
+      "publish_time": "2026-11-11T07:06:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4541cf15f60c",
+      "title": "杰伦·布朗 snubbed 杰森·塔图姆 before tipoff. His night against the Celtics only got worse",
+      "summary": "杰伦·布朗's emotional reunion with 杰森·塔图姆 couldn't have gone much worse. And his struggles against Boston may b…",
+      "source_url": "https://sports.yahoo.com/nba/article/jaylen-brown-snubbed-jayson-tatum-before-tipoff-his-night-against-the-celtics-only-got-worse-060014933.html",
+      "publish_time": "2026-11-11T06:00:14+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d72b8c63d7b9",
+      "title": "保罗·乔治 flips off fan for ‘being an a–hole’ in Philadelphia return after 杰伦·布朗 blockbuster",
+      "summary": "保罗·乔治 had a message for one 76ers fan.",
+      "source_url": "https://sports.yahoo.com/articles/paul-george-flips-off-fan-050753385.html",
+      "publish_time": "2026-11-11T05:07:53+00:00",
+      "category": "nba",
+      "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
@@ -5721,54 +5769,6 @@
       "summary": "嗯，那会很刺痛。在近47分钟的时间里，布鲁克林篮网队在周六晚上在佐治亚州对阵亚特兰大老鹰队的比赛中控制了比赛。在第一节取得17分的领先优势后—并不总是很漂亮—但篮网队直到最后两分钟才落后。但是，当[…]时，他们无法将其收起来。",
       "source_url": "https://sports.yahoo.com/articles/nets-let-another-one-slip-033453782.html",
       "publish_time": "2026-11-08T03:34:53+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-5666dc5dc90c",
-      "title": "回顾：巫师输给雷霆， 114-75",
-      "summary": "……那……是一个丑陋的。周六晚上，华盛顿奇才队在佩科姆中心以114-75输给了俄克拉荷马城雷霆队。巫师现在是4-6 ，而雷霆则提高到8-2。在此期间，华盛顿在第一季度以25-19的投篮命中率低于30 ％。那是警告信号， […]",
-      "source_url": "https://sports.yahoo.com/articles/recap-wizards-lose-thunder-114-032633442.html",
-      "publish_time": "2026-11-08T03:26:33+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-bbee591cc5a1",
-      "title": "骑士队以109-97输给尼克斯队，布伦森和汤斯合并60分",
-      "summary": "尼克斯队可能只有克利夫兰的电话号码。",
-      "source_url": "https://sports.yahoo.com/articles/cavs-lose-knicks-109-97-032443849.html",
-      "publish_time": "2026-11-08T03:24:43+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-50b453131982",
-      "title": "老鹰队克服了早期的17分赤字，以124-121击败篮网",
-      "summary": "坚韧不拔的胜利。",
-      "source_url": "https://sports.yahoo.com/articles/hawks-overcome-early-17-point-031743255.html",
-      "publish_time": "2026-11-08T03:17:43+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-fb37dd10ecba",
-      "title": "沙奎尔·奥尼尔（ Shaquille O’Neal ）在路易斯安那州立大学（ LSU ）对阵阿拉巴马州（ Alabama ）的比",
-      "summary": "安吉尔·里斯（ Angel Reese ）永远不会停止在自己的庆祝活动中被拖累。",
-      "source_url": "https://sports.yahoo.com/articles/shaquille-o-neal-hits-angel-030711438.html",
-      "publish_time": "2026-11-08T03:07:11+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
