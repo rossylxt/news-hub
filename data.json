@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-12T12:24:12.178347+00:00",
+  "generated_at": "2026-11-12T21:27:26.170817+00:00",
   "news": [
+    {
+      "id": "ai_cn-32a95a1e2248",
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "summary": "「CAD拆解」",
+      "source_url": "https://www.qbitai.com/2026/11/509440.html",
+      "publish_time": "2026-11-12T11:36:20+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-a2f11810a503",
       "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
@@ -950,15 +962,195 @@
       ]
     },
     {
-      "id": "ai_cn-46cf08fa63cc",
-      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
-      "summary": "TeleAI智慧看护助手",
-      "source_url": "https://www.qbitai.com/2026/11/507410.html",
-      "publish_time": "2026-11-03T06:29:11+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-80b196c700f2",
+      "title": "路透社报道称，黄仁勋有第三段婚外情",
+      "summary": "路透社未透露与黄仁勋有关联的新员工的姓名，但表示她是英伟达的员工。",
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "publish_time": "2026-11-12T20:26:47+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-ff1cec4cf32f",
+      "title": "谷歌最新的搜索升级承诺为您最复杂的问题提供更好的答案",
+      "summary": "得益于Gemini 4 Hydrogen，Google的AI模式在理解复杂查询、显示相关链接和提供更丰富的视觉响应方面表现得越来越出色。",
+      "source_url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "publish_time": "2026-11-12T19:27:45+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-0a010acdd07c",
+      "title": "Nectar推出AI代理，为品牌方自动化创作者发现和联系流程",
+      "summary": "Nectar 的新一代 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理推广和合作关系，并跟踪营销活动的效果。",
+      "source_url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "publish_time": "2026-11-12T19:11:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d56c2fc89bca",
+      "title": "Jensen Huang 的离职使人们对英伟达对开源的支持产生疑问",
+      "summary": "随着公司经历领导层变动，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及反对限制的倡导。",
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "publish_time": "2026-11-12T18:39:23+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-cf0abceb6aec",
+      "title": "Hugging Face首席执行官誓言在Jensen Huang离职后继续为开源人工智能而奋斗",
+      "summary": "在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。",
+      "source_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "publish_time": "2026-11-12T17:36:40+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-0deb78fa341d",
+      "title": "美国联合航空公司以网络安全风险为由，禁止人工智能代理预订航班",
+      "summary": "该航空公司表示，将不允许顾客使用人工智能代理预订航班和管理预订。",
+      "source_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "publish_time": "2026-11-12T17:17:58+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-55bf40a54c79",
+      "title": "软银的数十亿美元亏损可能限制了人工智能在天然气领域的雄心壮志",
+      "summary": "软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元。以下是这笔损失对电力市场的意义。",
+      "source_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "publish_time": "2026-11-12T17:00:52+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-6c6681e03d76",
+      "title": "Phota Labs使用人工智能将日常照片转变为专业水准的照片",
+      "summary": "Phota Labs的目的不是要为消费者提供又一款照片编辑工具，而是要利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地将日常时刻转化为更出色的照片。",
+      "source_url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "publish_time": "2026-11-12T17:00:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-d574a06fc6d0",
+      "title": "黄仁勋同意在国会作证",
+      "summary": "黄先生因被曝与一名涉嫌为中国从事间谍活动的女子有染而被免去首席执行官职务，在多名高级议员威胁要传唤他出庭后，他同意于周三作证。",
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "publish_time": "2026-11-12T16:36:37+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-4eeb3832c09f",
+      "title": "黄仁勋被逐出英伟达可能对人工智能行业造成损害的五种方式",
+      "summary": "英伟达被罢免的首席执行官黄仁勋的垮台，不仅仅是一桩司空见惯的亿万富豪性丑闻。他正利用自己的影响力，以一些非常具体的方式推动人工智能行业的发展。",
+      "source_url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "publish_time": "2026-11-12T16:32:33+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-5ffe73d3f248",
+      "title": "特朗普提名苹果公司董事长蒂姆·库克为黄仁勋的继任者",
+      "summary": "特朗普总统在Truth Social上发帖称，只有一个人可以接替黄仁勋担任英伟达的掌门人，那就是蒂姆·库克。",
+      "source_url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "publish_time": "2026-11-12T16:12:44+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-1466abfe66cd",
+      "title": "Jensen Huang即将离开Nvidia——谁是他的临时继任者Colette Kress？",
+      "summary": "英伟达首席财务官科莱特·克雷斯（Colette Kress）将接替深陷丑闻的长期首席执行官黄仁勋（Jensen Huang），担任临时替代者。",
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "publish_time": "2026-11-12T15:37:29+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-a8b4ef01f1e0",
+      "title": "Norwest通过40亿美元的新基金进一步深入人工智能领域",
+      "summary": "这是该投资公司迄今为止规模最大的基金。",
+      "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "publish_time": "2026-11-12T15:18:14+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-2843d5b0f258",
+      "title": "Fireworks AI遭受网络攻击，黑客得以访问Notion客户的聊天记录",
+      "summary": "这是Fireworks在短短几个月内发生的第二次数据泄露事件。",
+      "source_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "publish_time": "2026-11-12T15:02:28+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-e4e424eaad3a",
+      "title": "正在发酵的黄仁勋丑闻：时间线",
+      "summary": "Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。",
+      "source_url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publish_time": "2026-11-12T14:30:01+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-31f20ed94fca",
+      "title": "九家韩国初创企业角逐Disrupt 2027的Startup Battlefield 200大赛席位",
+      "summary": "这些初创企业活跃于深科技领域，包括医疗保健、金融科技、能源、半导体和人工智能。所有九家公司都希望进入美国市场。",
+      "source_url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "publish_time": "2026-11-12T13:26:25+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -1723,198 +1915,6 @@
       "summary": "由于所述代币的账单到期，代币最大化的狂热一直很短暂，公司决定代币配给可能是一种在财政上更明智的方法。",
       "source_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "publish_time": "2026-11-05T01:26:22+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-487fe86018a1",
-      "title": "中期选举之后，数据中心可能会发生更大的冲突",
-      "summary": "数据中心反对派在周二的中期选举中越过了党派界限。",
-      "source_url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "publish_time": "2026-11-05T01:02:14+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-2a45f43e41ba",
-      "title": "AI PAC花费数百万美元试图塑造国会—以下是他们的表现",
-      "summary": "人工智能行业PAC花费数百万美元影响了2026年中期选举，结果喜忧参半。政治团体已经在期待下一个选举周期。",
-      "source_url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "publish_time": "2026-11-04T22:45:09+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-3ba59fa6ce83",
-      "title": "首席执行官没有说公司神秘的人工智能优先设备将在下个月下架",
-      "summary": "虽然目前尚不清楚这家智能手机初创公司正在酝酿什么样的产品，但Nothing的首席执行官表示，该产品旨在利用人工智能来提高生产力。",
-      "source_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "publish_time": "2026-11-04T22:13:16+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d13217a5b492",
-      "title": "公司表示，几乎没有人使用人工智能代理来预约优步行程",
-      "summary": "在上个季度最繁忙的一周，优步表示只有四人使用人工智能代理预约了行程。",
-      "source_url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "publish_time": "2026-11-04T21:56:01+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-423e16ab4854",
-      "title": "OpenAI已经在努力塑造2028年的选举",
-      "summary": "OpenAI的Chris Lehane希望人工智能能够定义2028年的选举，提出一项新的社会契约，既能让美国人受益，同时也能促进人工智能巨头自身的商业利益。",
-      "source_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "publish_time": "2026-11-04T21:25:44+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-421e2b40f3bf",
-      "title": "Meta收购AI编码初创公司Conductor",
-      "summary": "这家初创公司允许软件工程师部署代理团队，同时处理项目的各个方面。",
-      "source_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "publish_time": "2026-11-04T21:10:56+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-fcbae52d16c9",
-      "title": "我试过苹果的Siri回顾。它们令人惊讶地有用—并且有点令人不安",
-      "summary": "尽管我保留了隐私，但苹果的人工智能Siri Recaps在短短一天内就赢得了我的支持。但仍有改进的余地。",
-      "source_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "publish_time": "2026-11-04T16:51:35+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-33440c9f4820",
-      "title": "谷歌面临计划的强烈反对，该计划将关闭搜索限制人工智能的学校",
-      "summary": "左翼政客，如纽约市市长Zohran Mamdani和前联邦贸易委员会主席Lina Khan ，指责谷歌充当不受监管的垄断者。",
-      "source_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "publish_time": "2026-11-04T16:17:22+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-b0dafb43d08c",
-      "title": "2026年TechCrunch创始人峰会：美国东部时间上午9点在波士顿开幕",
-      "summary": "今天是在波士顿SoWa发电站参加2026年TechCrunch创始人峰会的日子。立即注册，立即参加这个以创始人为中心的会议。",
-      "source_url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "publish_time": "2026-11-04T13:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-bf81805a5ae8",
-      "title": "Anthropic正在开发一个系统来证明人工智能模型的身份",
-      "summary": "这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称的模型。",
-      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "publish_time": "2026-11-03T22:41:03+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-4970a06a586c",
-      "title": "随着等待动力的增加，数据中心正在转向旧的喷气发动机",
-      "summary": "对接入电网和新涡轮机的长时间等待导致数据中心建设者转向一种不寻常、效率较低且不太环保的解决方案：一次性废弃的喷气发动机。",
-      "source_url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "publish_time": "2026-11-03T22:19:53+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-0835e4c1adb3",
-      "title": "Ted Schlein的Ballistic Ventures在人工智能驱动的网络安全热潮中寻求4.9亿美元的新资金",
-      "summary": "专注于网络安全的Ballistic Ventures正寻求为新的旗舰基金筹集3.6亿美元，并为单独的投资工具筹集1.3亿美元。",
-      "source_url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "publish_time": "2026-11-03T21:43:08+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-656673d20b5c",
-      "title": "躲在Palantir飞涨的街区是一个不祥的信号",
-      "summary": "Palantir的美国商业收入有史以来第一次超过了美国政府收入。",
-      "source_url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "publish_time": "2026-11-03T21:05:55+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-0018ea6e4618",
-      "title": "随着需求激增，人工智能推理初创公司Fal的估值翻番至160亿美元（ $ 160亿）",
-      "summary": "这家成立五年的初创公司筹集了13亿美元的融资，由Bessemer领投。",
-      "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "publish_time": "2026-11-03T19:34:43+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-b0c96602861b",
-      "title": "Netflix的全新“AI发现”选项卡可帮助您根据自己的心情查找可观看的内容",
-      "summary": "选项卡下的第一个实验性功能将允许用户根据他们目前的心情获得推荐。",
-      "source_url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "publish_time": "2026-11-03T18:42:16+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-741c3465b3a0",
-      "title": "Anthropic仍在努力解决计算经济问题",
-      "summary": "在Anthropic的计算利润率应该变得更好的时候，它们会变得更糟。",
-      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "publish_time": "2026-11-03T17:07:01+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,56 @@
       ]
     },
     {
+      "id": "jp_football_euro-1a1510df0e3a",
+      "title": "在打入英超首粒进球后入选国家队，在升班马球队中磨砺的锋线球员前田大然表示“机会的数量完全不在一个级别上”",
+      "summary": "日本国家队前锋前田大然（伊普斯维奇）在新加坡集训期间，于12日的训练结束后接受了媒体采访。谈及在主力前锋上田绮世缺席的情况下与巴西和巴拉圭的两场比赛，他表示：“如果前锋能进球，我认为球队就能找到状态，所以我会努力争取进球。” 对于日本队来说…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463069-463069-fl",
+      "publish_time": "2026-11-12T18:09:13+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1ff67796c9d8",
+      "title": "“没有什么个人因素” 田中碧克服了对阵巴西的泪水之战，对于宿命的重赛也表示“照常发挥就好”",
+      "summary": "即使有痛苦的回忆，我也一直在稳步向前迈进。日本国家队中场田中碧（利兹联）在12日的训练结束后接受了媒体的采访。在世界杯32强赛中泪洒赛场后的4个半月，他在即将于新加坡与宿敌巴西队交锋之际，冷静地表达了自己的决心。“我非常想赢，但就算赢了这场…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463067-463067-fl",
+      "publish_time": "2026-11-12T16:23:27+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-2e61d32d0f8a",
+      "title": "垫底的水晶宫解雇了主教练萨吉……他执教球队约5个月后离任",
+      "summary": "日本国家队中场球员镰田大地和后卫球员富安健洋所在的克里斯塔尔宫队于 12 日宣布主教练皮埃尔·萨热（47 岁）离任。 今年夏天，水晶宫聘请了萨日主教练，接替上赛季结束后离任的前主教练奥利弗·格拉斯纳。尽管双方签订了为期三年的合同，但在本赛季…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?463062-463062-fl",
+      "publish_time": "2026-11-12T13:42:36+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "最下位クリスタル・パレスがサージュ監督を解任…約5か月でチーム去る",
+      "_raw_summary": "日本代表MF鎌田大地とDF冨安健洋が所属するクリスタル・パレスは12日、ピエール・サージュ監督(47)の退任を発表した。 パレスは今夏、昨季限りで退任したオリバー・グラスナー前監督の後任としてサージュ監督を招へい。3年契約を結んだが、今季のプレミアリーグでは開幕10試合で2勝7敗1分の勝ち点7と苦戦が続いていた。 8日の第10節リバプール戦では1-3で敗れ、リーグ戦4連敗。2017年1"
+    },
+    {
+      "id": "jp_football_euro-fbfa8da82abf",
+      "title": "适逢重要节点，亚洲杯也延期了，镰田大地明确表示有意继续入选国家队：“希望能够凭借实力入选。”",
+      "summary": "至少想坚持到亚洲杯——。对于日本国家队中场球员镰田大地（水晶宫）来说，在北美及中美洲世界杯之后，他曾踌躇满志，亚洲杯推迟一年似乎是一个可能影响其职业生涯的重大消息，但他本人已经将目光投向了前方。 12日的训练结束后，镰田在接受媒体采访时表示…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463060-463060-fl",
+      "publish_time": "2026-11-12T13:01:54+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-426c806eea7d",
       "title": "在J3联赛东部赛区保持良好状态，加入U-17世界杯集训！！ 前锋斋藤翔在保级大战中也得到了横滨FC青年队的力挺，“希望能够激励大家”",
       "summary": "在J联赛东部赛区屡屡进球的前锋将征战U-17世界杯。U-17日本国家队前锋斋藤翔（横滨FC）在集训首日的训练结束后接受了采访，他斗志昂扬地表示：“我被选入国家队是因为我是前锋，所以我的目标是成为最佳射手。” 斋藤于今年6月与横滨FC签订了职…",
@@ -3162,6 +3212,20 @@
       ],
       "_raw_title": "ボーンマスが公式戦8連勝!!前田大然3試合ぶりスタメンのイプスウィッチは反撃及ばず…",
       "_raw_summary": "[11.8 プレミアリーグ第10節 イプスウィッチ 1-2 ボーンマス] プレミアリーグは8日、各地で第10節を開催した。MF前田大然が所属するイプスウィッチはボーンマスに1-2で敗れた。ボーンマスはこの勝利で公式戦8連勝。前田は3試合ぶりにスタメン復帰し、要所要所で自慢のスピードを活かし、チームに攻守で貢献するもチームは敗戦。自身も後半20分に途中交代した。 前半3分、右サイドで先発出"
+    },
+    {
+      "id": "jp_football_euro-8bbb36297d48",
+      "title": "皇家社会vs巴列卡诺首发阵容公布",
+      "summary": "[11.8 西甲第12轮]（阿诺埃塔球场）※24:15开球[皇家社会]首发门将 1 阿莱克斯·雷米罗后卫 2 琼·阿拉姆布鲁后卫 3 阿伊恩·穆尼奥斯后卫 5 伊戈尔·苏维尔迪亚后卫 6 琼·马丁中场 7 安德尔·巴雷内切亚中场 8 贝尼亚…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462840-462840-fl",
+      "publish_time": "2026-11-08T15:25:01+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "ソシエダvsラージョ スタメン発表",
+      "_raw_summary": "[11.8 ラ・リーガ第12節](アノエタ)※24:15開始[ソシエダ]先発GK 1 アレックス・レミロDF 2 ジョン・アランブルDF 3 アイエン・ムニョスDF 5 イゴール・スベルディアDF 6 ジョン・マルティンMF 7 アンデル・バレネチェアMF 8 ベニャト・トゥリエンテスMF 14 久保建英MF 18 カルロス・ソレールMF 24 ル"
     },
     {
       "id": "jp_football_euro-71fbac32eace",
@@ -3820,63 +3884,15 @@
       ]
     },
     {
-      "id": "jp_football_euro-c7d77fd2669a",
-      "title": "U-21日本国家队没有夺得亚运会冠军…韩国历史上首次连续第四次夺得冠军：第1卷（ 78张照片）",
-      "summary": "U-21日本国家队在3日亚运会决赛中以0-1输给了U-23韩国国家队。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460279-460279-pn",
-      "publish_time": "2026-10-04T05:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-6dd6c6243164",
-      "title": "银牌在胸前闪闪发光，泪水在眼中闪闪发光……石井久嗣“我想赢球回家”",
-      "summary": "[10.3亚运会总决赛日本0-1韩国丰田]我想赢得比赛，和朋友们一起开心。U-21日本国家队MF石井久嗣（湘南）在战后流下了眼泪。“我真的很想赢得这支球队，然后回家。我真的很同情每个人。”这场比赛排名第10 ，曾作为副队长参赛，最终获得一枚…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460263-460263-fl",
-      "publish_time": "2026-10-03T22:30:00+00:00",
-      "category": "jp_football_euro",
+      "id": "football_intl-0e79961d4232",
+      "title": "🔝 Brief goal drought over! 哈里·凯恩 scores in milestone match",
+      "summary": "He missed his penalty against Dortmund, but things went better today on his milestone appearance. 哈里·凯恩 scored on h…",
+      "source_url": "https://sports.yahoo.com/articles/mini-goal-drought-over-harry-211500300.html",
+      "publish_time": "2026-11-12T21:15:00+00:00",
+      "category": "football_intl",
       "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-0b5df05d0549",
-      "title": "U-21日本国家队在连续三场总决赛中以极高的“严肃性”输给韩国银牌……导演大岩“我想让这场比赛成为下一场比赛”",
-      "summary": "[10.3亚运会总决赛日本0-1韩国丰田]第三次诚实没有达到顶峰。U-21日本国家队连续三场比赛在对阵韩国的决赛中再次被击败， 16年来首次没有赢得金牌。日本有一些误判，比如上半场受伤，下半场输了16分钟。追逐的最后阶段继续接近韩国的目标，…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460251-460251-fl",
-      "publish_time": "2026-10-03T12:45:06+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-ed1a88de490f",
-      "title": "大岩日本连续三次获得银牌，再次向韩国投降……韩国取得了比赛历史上前四次的连续胜利",
-      "summary": "【10.3亚运会总决赛日本0-1韩国丰田】3日，大岩毅率领的U-21日本国家队在亚运会总决赛中对阵U-23韩国国家队，以0-1落败，连续三场比赛进入决赛对阵韩国，但连续三场比赛落败。韩国有史以来首次赢得比赛。在这场比赛中，每场比赛都敢于大幅…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460247-460247-fl",
-      "publish_time": "2026-10-03T12:22:21+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-97d51f96b0d1",
-      "title": "六万五千名观众！日本对厄瓜多尔在横滨的支持者：第3卷（ 64页）",
-      "summary": "日本国家队1日在麒麟杯对阵厄瓜多尔， 0-0以5-4赢得PK比赛。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460155-460155-pn",
-      "publish_time": "2026-10-02T04:25:49+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
       ]
     },
     {
@@ -4828,12 +4844,60 @@
       ]
     },
     {
-      "id": "football_intl-868b7ce1cc96",
-      "title": "这五位经理岌岌可危 🥶",
-      "summary": "这些经理的压力越来越大。在大多数联赛中至少进行了10轮比赛，模式已经出现，不幸的是，对于下面的经理来说，有些远非积极的。比如P...",
-      "source_url": "https://sports.yahoo.com/articles/five-managers-brink-211000608.html",
-      "publish_time": "2026-11-10T21:10:00+00:00",
-      "category": "football_intl",
+      "id": "nba-3c8c65081ed0",
+      "title": "勒布朗·詹姆斯 out, 乔尔·恩比德 participates in shootaround; Adem Bona seeing a specialist",
+      "summary": "乔尔·恩比德 and 勒布朗·詹姆斯 are listed as questionable for tonight’s game against Toronto, but taking the court this mo…",
+      "source_url": "https://sports.yahoo.com/articles/lebron-james-joel-embiid-participates-173835048.html",
+      "publish_time": "2026-11-12T17:38:35+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bdc09eced895",
+      "title": "Warriors reveal 斯蒂芬·库里 injury diagnosis after MRI on abdomen",
+      "summary": "The Golden State Warriors will be without two-time MVP 斯蒂芬·库里 for at least a few weeks with an abdominal injury.",
+      "source_url": "https://sports.yahoo.com/articles/warriors-reveal-stephen-curry-injury-173723795.html",
+      "publish_time": "2026-11-12T17:37:23+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8fd6dc608ead",
+      "title": "斯蒂芬·库里 suffers oblique abdominal tear, will be re-evaluated in two weeks",
+      "summary": "Eric Samulski discusses 斯蒂芬·库里's injury on Wednesday night and what it could mean for the Warriors.",
+      "source_url": "https://sports.yahoo.com/articles/stephen-curry-undergo-mri-abdominal-145323381.html",
+      "publish_time": "2026-11-12T17:34:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-96469090f210",
+      "title": "锡安·威廉森 tears into Pelicans after 'unacceptable' loss to Nets: 'Go look yourself in the mirror'",
+      "summary": "锡安·威廉森 isn't happy with the way his team has performed this season.",
+      "source_url": "https://sports.yahoo.com/nba/article/zion-williamson-tears-into-pelicans-after-unacceptable-loss-to-nets-go-look-yourself-in-the-mirror-135005487.html",
+      "publish_time": "2026-11-12T13:50:05+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-def44f7b5db3",
+      "title": "凯文·杜兰特 excited to see ‘problem' Yaxel Lendeborg grow in NBA with Warriors",
+      "summary": "After the Golden State Warriors' loss to the Houston Rockets, 凯文·杜兰特 had high praise for star rookie Yaxel Lendebo…",
+      "source_url": "https://sports.yahoo.com/articles/kevin-durant-excited-see-problem-120607741.html",
+      "publish_time": "2026-11-12T12:06:07+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -5740,64 +5804,774 @@
       ]
     },
     {
-      "id": "nba-7ee29931e544",
-      "title": "76人队在塔图姆-布朗争吵中用“为什么我们不能成为朋友”戏弄凯尔特人队",
-      "summary": "在周二对阵凯尔特人的摊牌之前， 76人队无法抗拒正在进行的杰森·塔图姆-杰伦·布朗（ 杰森·塔图姆-杰伦·布朗 ）戏剧中的一点乐趣。",
-      "source_url": "https://sports.yahoo.com/articles/sixers-tease-celtics-why-cant-201831755.html",
-      "publish_time": "2026-11-10T20:18:31+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-2d50a90ca2f6",
+      "title": "【锦标赛预选赛】第一学院在茨城县半决赛中通过点球大战获胜。11年来首次进入决赛，以0-1落败，获得亚军（32张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，第一学院高中以0-0（点球5-3）战胜明秀日立高中。第一学院在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463066-463066-pn",
+      "publish_time": "2026-11-12T14:27:27+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]第一学院が茨城準決勝でPK戦勝利。11年ぶりの決勝は0-1で敗れて準優勝(32枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、第一学院高が0-0(PKを5-3)で明秀日立高に勝利。第一学院は決勝で敗れ、準優勝に終わった。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-79bb0eca7697",
-      "title": "JJ雷迪克认为湖人队战胜了活塞队，老鹰队是下一个球员的“好榜样”",
-      "summary": "洛杉矶获得了各种角色球员的重要贡献，赢得了周日和周一的比赛",
-      "source_url": "https://sports.yahoo.com/articles/jj-redick-feels-lakers-wins-201253148.html",
-      "publish_time": "2026-11-10T20:12:53+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-59c50808f635",
+      "title": "[锦标赛预选赛] 茨城县第2名第一学院的右后卫桥本和左后卫樱井也入选了锦标赛优秀球员（6张照片）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，第一学院高中以0-0（点球5-3）战胜明秀日立高中。第一学院在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463065-463065-pn",
+      "publish_time": "2026-11-12T14:05:43+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]茨城2位・第一学院は右SB橋本、左SB桜井も大会優秀選手に(6枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、第一学院高が0-0(PKを5-3)で明秀日立高に勝利。第一学院は決勝で敗れ、準優勝に終わった。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-d374fb4473cd",
-      "title": "吉米·巴特勒（ 吉米·巴特勒 ）歇斯底里的“教练”处子秀在51分的胜利中引起了疯狂的反应： “他绊倒了”",
-      "summary": "在吉米·巴特勒（ 吉米·巴特勒 ）在勇士（ Warriors ）板凳上首次担任教练后，至少有一名队友希望他坚持日常工作。",
-      "source_url": "https://sports.yahoo.com/articles/jimmy-butler-hysterical-coaching-debut-192307800.html",
-      "publish_time": "2026-11-10T19:23:07+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-fec6b766b449",
+      "title": "[锦标赛预选赛]第一学院攻防核心、187cm中后卫森岛队长、二年级10号前锋田中：茨城（8张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，第一学院高中以0-0（点球5-3）战胜明秀日立高中。第一学院在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463064-463064-pn",
+      "publish_time": "2026-11-12T13:59:58+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]第一学院の攻守の要、187cmCB森島主将、2年生10番FW田中:茨城(8枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、第一学院高が0-0(PKを5-3)で明秀日立高に勝利。第一学院は決勝で敗れ、準優勝に終わった。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-bfae1df53c46",
-      "title": "波士顿凯尔特人队每日链接11/10/26",
-      "summary": "您需要的所有凯尔特人新闻都在一个方便的地方。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-191536760.html",
-      "publish_time": "2026-11-10T19:15:36+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-2febf1dd2851",
+      "title": "[锦标赛预选赛]茨城县半决赛，第一学院高二门将内屋的关键扑救带领球队在点球大战中获胜（7张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，第一学院高中以0-0（点球5-3）战胜明秀日立高中。第一学院在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463063-463063-pn",
+      "publish_time": "2026-11-12T13:51:05+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]茨城準決勝、第一学院の2年生GK内屋がPK戦勝利へ導くビッグセーブ(7枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、第一学院高が0-0(PKを5-3)で明秀日立高に勝利。第一学院は決勝で敗れ、準優勝に終わった。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-f5719f1769ce",
-      "title": "德雷蒙德·格林（ 德雷蒙德·格林 ）表示，潜在的乔丹·普尔-战士团聚是“非问题”",
-      "summary": "金州勇士队的老将德雷蒙德·格林（ 德雷蒙德·格林 ）澄清说，他对与新奥尔良鹈鹕后卫乔丹·普尔（ Jordan Poole ）的重聚没有异议。",
-      "source_url": "https://sports.yahoo.com/articles/draymond-green-states-potential-jordan-191417311.html",
-      "publish_time": "2026-11-10T19:14:17+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-d6d74650744e",
+      "title": "【锦标赛预选赛】明秀日立在点球大战中被淘汰，无缘半决赛。目标是夺得县一级联赛冠军并升入关东地区王子联赛（28张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，第一学院高中以0-0（点球5-3）战胜明秀日立高中。第一学院在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463061-463061-pn",
+      "publish_time": "2026-11-12T13:06:26+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]明秀日立はPK戦で準決勝敗退。県1部リーグ優勝とプリンスリーグ関東昇格を目指す(28枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、第一学院高が0-0(PKを5-3)で明秀日立高に勝利。第一学院は決勝で敗れ、準優勝に終わった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-8c9c28a308cd",
+      "title": "【锦标赛预选赛】明秀日立虽在半决赛中落败，但100分钟内未失一球。二年级中后卫关野和中后卫高桥在最后一道防线上展现存在感：茨城（8 张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，第一学院高中以0-0（点球5-3）战胜明秀日立高中。第一学院在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463058-463058-pn",
+      "publish_time": "2026-11-12T12:42:31+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]明秀日立は準決勝敗退も、100分間無失点。2年生CB関野とCB高橋が最終ラインで存在感:茨城(8枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、第一学院高が0-0(PKを5-3)で明秀日立高に勝利。第一学院は決勝で敗れ、準優勝に終わった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-c5b5d2e0b8a2",
+      "title": "[锦标赛预选赛]明秀日立的U-17日本高中选拔组合，队长中场六崎和10号中场中村在茨城县半决赛中落泪（10张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，第一学院高中以0-0（点球5-3）战胜明秀日立高中。第一学院在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463057-463057-pn",
+      "publish_time": "2026-11-12T12:35:16+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]明秀日立のU-17日本高校選抜コンビ、MF六崎主将&10番MF中村は茨城準決勝で涙(10枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、第一学院高が0-0(PKを5-3)で明秀日立高に勝利。第一学院は決勝で敗れ、準優勝に終わった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-2dfd165b271b",
+      "title": "“东北技术流军团”圣和学园凭借出色的韧性，在加时赛中击败东北生活文化大学高中，夺得宫城县冠军。誓言要进一步成长，以实现进入全国八强、晋级顶级联赛的目标",
+      "summary": "[11月1日 锦标赛宫城县预选赛决赛 圣和学园高中 1-0（加时赛）东北生活文化大学高中 尤阿斯塔体育场] 圣和学园凭借出色的表现和顽强的意志力征服宫城！ 第105届全国高中足球锦标赛宫城县预选赛决赛于1日在仙台市的尤阿泰克仙台体育场举行，…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462355-462355-fl",
+      "publish_time": "2026-11-12T12:01:39+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "粘り強さも光る「東北の技巧派軍団」聖和学園が東北生文大高を延長戦で破り、宮城制覇。目標の全国8強、プレミア昇格へさらなる成長を誓う",
+      "_raw_summary": "[11.1 選手権宮城県予選決勝 聖和学園高 1-0(延長)東北生活文化大高 ユアスタ] 聖和学園が上手さと粘り強さを発揮して宮城制覇! 第105回全国高校サッカー選手権宮城県予選決勝が1日、仙台市のユアテックスタジアム仙台で開催され、2年連続の選手権出場を狙う聖和学園高と初優勝を懸けた東北生活文化大高が激突。延長戦の末、聖和学園が1-0で勝ち、2年連続7回目の全国大会出場を決めた。 聖"
+    },
+    {
+      "id": "jp_football_highschool-c903cab85ca8",
+      "title": "【锦标赛预选赛】济美击败帝京五，夺得爱媛县大赛冠军！！ 在队长缺席的情况下，团结一心，拿到了通往全国大赛的门票（18张）",
+      "summary": "8日，在全国高中足球锦标赛爱媛县预选赛决赛中，济美高中与帝京五高中对阵，以2-1获胜。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463040-463040-pn",
+      "publish_time": "2026-11-12T08:35:11+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]済美が帝京五を破って愛媛県大会制覇!! 主将不在の中、一致団結で掴んだ全国への切符(18枚)",
+      "_raw_summary": "8日、全国高校サッカー選手権愛媛県予選決勝にて済美高は帝京五高と対戦し2-1で勝利した。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-bc2ebca273c1",
+      "title": "【锦标赛预选赛】广岛县高中足球史上谱写新篇章！！ 如水馆以3比0完胜广岛皆实，实现了夙愿，首次晋级全国大赛（24张）",
+      "summary": "[11月8日 锦标赛广岛县预选赛决赛 如水馆高中 3-0 广岛皆实高中 广岛埃迪恩和平之翼体育场] 第105届全国高中足球锦标赛广岛县预选赛决赛于8日举行，如水馆高中与广岛皆实高中展开对决。如水馆以3-0获胜，首次晋级全国大赛。●第105届…",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463032-463032-pn",
+      "publish_time": "2026-11-12T08:33:32+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]広島県の高校サッカー史に新たな歴史!! 如水館が広島皆実から3発完封勝利で悲願の全国初出場(24枚)",
+      "_raw_summary": "[11.8 選手権広島県予選決勝 如水館高 3-0 広島皆実高 エディオンピースウイング広島] 第105回全国高校サッカー選手権広島県予選決勝が8日に行われ、如水館高と広島皆実高が対戦。如水館が3-0で勝って選手権初出場を果たした。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-d6dcd243fc45",
+      "title": "【锦标赛预选赛】兴南高中在加时赛中获胜，实现了首次晋级全国大赛的夙愿！！ 宜野湾虽表现出顽强的斗志，但仍差一步（42张）",
+      "summary": "[11月7日 锦标赛冲绳县预选赛决赛 兴南高中 2-1（加时赛）宜野湾高中 冲绳县综合运动公园田径场] 第105届全国高中足球锦标赛冲绳县大赛的决赛于7日举行，与宜野湾高中对阵的兴南高中在加时赛结束时以2-1获胜，确定了首次晋级全国大赛。●…",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463042-463042-pn",
+      "publish_time": "2026-11-12T08:28:17+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]延長戦を制した興南、悲願の全国初出場!! 宜野湾は粘り見せるも一歩届かず(42枚)",
+      "_raw_summary": "[11.7 選手権沖縄県予選決勝 興南高 2-1(延長) 宜野湾高 沖縄県総合運動公園陸上競技場合] 第105回全国高校サッカー選手権沖縄県大会の決勝が7日に行われ、宜野湾高と対戦した興南高が延長戦の末に2-1の勝利を収め、全国初出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-1ccc122915d3",
+      "title": "【锦标赛预选赛】上届大赛全国亚军鹿岛学园在半决赛中以2-0获胜。决赛也获胜，称霸茨城（27张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，鹿岛学园高中以2-0的比分战胜常总学院高中。鹿岛学园在决赛中也取得了胜利，实现了两连冠。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463045-463045-pn",
+      "publish_time": "2026-11-12T08:05:10+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]前回大会全国2位の鹿島学園が準決勝を2-0勝利。決勝も制して茨城制覇(27枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、鹿島学園高が2-0で常総学院高に勝利。鹿島学園は決勝も勝利し、2連覇を決めている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-010b3742e5ce",
+      "title": "[锦标赛预选赛]鹿岛学园的内定加盟长崎的门将普姆拉皮零失球带领球队从茨城晋级全国赛（12张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，鹿岛学园高中以2-0的比分战胜常总学院高中。鹿岛学园在决赛中也取得了胜利，实现了两连冠。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463044-463044-pn",
+      "publish_time": "2026-11-12T07:28:15+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]鹿島学園の長崎内定GKプムラピーが茨城無失点で全国へ(12枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、鹿島学園高が2-0で常総学院高に勝利。鹿島学園は決勝も勝利し、2連覇を決めている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-9168f6c1382c",
+      "title": "[锦标赛预选赛]鹿岛学园的CB山田（零失球立功）和进攻核心MF大川也入选了锦标赛优秀球员：茨城（6张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，鹿岛学园高中以2-0的比分战胜常总学院高中。鹿岛学园在决赛中也取得了胜利，实现了两连冠。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463041-463041-pn",
+      "publish_time": "2026-11-12T07:05:38+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]鹿島学園は無失点V貢献のCB山田と攻撃の要・MF大川も大会優秀選手に:茨城(6枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、鹿島学園高が2-0で常総学院高に勝利。鹿島学園は決勝も勝利し、2連覇を決めている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-b3c89ef7ba69",
+      "title": "[锦标赛预选赛]鹿岛学园前锋瓦兹利用身高、冲击力和远距离掷界外球威胁对手：茨城（6张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，鹿岛学园高中以2-0的比分战胜常总学院高中。鹿岛学园在决赛中也取得了胜利，实现了两连冠。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463038-463038-pn",
+      "publish_time": "2026-11-12T07:03:06+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]鹿島学園FWワーズィーが高さと推進力、ロングスローで相手の脅威に:茨城(6枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、鹿島学園高が2-0で常総学院高に勝利。鹿島学園は決勝も勝利し、2連覇を決めている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-e0acd55181a7",
+      "title": "从湘南U-15做出重大决定前往北海道，暑假也……旭川实业高中前锋奥尼布奇·吉迪奥·福太郎含泪结束了这段旅程",
+      "summary": "在3年努力的集大成之战中，他深深地感受到了遗憾。旭川实业高中的前锋奥尼布奇·吉迪奥·福太郎（高三=湘南U-15）在第105届全国高中足球锦标赛北海道预选赛决赛中哑火。在加时赛以2-3落败后，他吐露心声：“真遗憾……真的，只能说很遗憾。” 距…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463039-463039-fl",
+      "publish_time": "2026-11-12T06:56:28+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "湘南U-15から一大決心の北海道行きで夏ブレイクも…旭川実FWオニブチジデオフォー太郎は涙の終戦",
+      "_raw_summary": "3年間の集大成で悔しさを噛みしめた。旭川実高のFWオニブチジデオフォー太郎(3年=湘南U-15)は、第105回全国高校サッカー選手権の北海道予選決勝で不発。延長戦の末に2-3で敗れた後、「悔しいですね……もう、ただ率直に悔しいです」と思いを口にした。 8年ぶりの選手権本大会出場まで、あと1勝だった。対するは夏のインターハイ予選準決勝で下した札幌大谷高。インターハイで3得点のオニブチと、"
+    },
+    {
+      "id": "jp_football_highschool-5336d0174652",
+      "title": "【锦标赛预选赛】鹿岛学园的中后卫泽崎在茨城县半决赛中攻入先制球！中场球员渡边在半决赛和决赛中连进多球，当选为大赛优秀球员（13 张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，鹿岛学园高中以2-0的比分战胜常总学院高中。鹿岛学园在决赛中也取得了胜利，实现了两连冠。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463037-463037-pn",
+      "publish_time": "2026-11-12T06:41:01+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]鹿島学園CB澤崎が茨城準決勝で先制弾!MF渡辺は準決勝、決勝で連発し、大会優秀選手に(13枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、鹿島学園高が2-0で常総学院高に勝利。鹿島学園は決勝も勝利し、2連覇を決めている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-f7e2e9cf383d",
+      "title": "[锦标赛预选赛]带领常总学院的前锋队长寺嶋，在防守方面做出贡献的10号中场横岛：茨城（6张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，鹿岛学园高中以2-0的比分战胜常总学院高中。鹿岛学园在决赛中也取得了胜利，实现了两连冠。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463034-463034-pn",
+      "publish_time": "2026-11-12T06:09:54+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]常総学院を引っ張ったFW寺嶋主将、守備で貢献の10番MF横島:茨城(6枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、鹿島学園高が2-0で常総学院高に勝利。鹿島学園は決勝も勝利し、2連覇を決めている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-ef26aa3b6d2e",
+      "title": "[甲子园资格赛]时隔17年力争晋级决赛的常总学院虽与冠军球队斗得难解难分，但仍在半决赛中落败：茨城（25张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，鹿岛学园高中以2-0的比分战胜常总学院高中。鹿岛学园在决赛中也取得了胜利，实现了两连冠。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463036-463036-pn",
+      "publish_time": "2026-11-12T06:05:50+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]17年ぶりの決勝進出を目指した常総学院は優勝校相手に健闘も、準決勝敗退:茨城(25枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、鹿島学園高が2-0で常総学院高に勝利。鹿島学園は決勝も勝利し、2連覇を決めている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-0f833f1d1f1b",
+      "title": "札幌大谷展现出“最弱一代”的成长，时隔两年重返正赛！ 虽然被旭川实追平……但千叶打入制胜球，松田1球2助攻大显身手",
+      "summary": "[11月8日 锦标赛北海道预选赛决赛 旭川实业高中 2-3（加时赛）札幌大谷高中 预赛] 第105届全国高中足球锦标赛北海道预选赛于8日进行了决赛。旭川实业高中与札幌大谷高中的对决中，札幌大谷高中先入2球，但旭川实业高中随后追平，双方以2-…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462871-462871-fl",
+      "publish_time": "2026-11-12T05:47:01+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "\"最弱世代”の成長示す札幌大谷が2年ぶり本大会へ! 旭川実に追いつかれるも…千葉が決勝弾、松田は1G2A大車輪",
+      "_raw_summary": "[11.8 選手権北海道予選決勝 旭川実高 2-3(延長) 札幌大谷高 プレド] 第105回全国高校サッカー選手権の北海道予選は8日に決勝を行った。旭川実高と札幌大谷高の対戦は、札幌大谷が2点先取するも旭川実が追いつき、2-2で延長戦へ。札幌大谷が延長後半5分にFW千葉稜也(3年)のゴールで死闘を制し、2大会ぶり5度目の本大会行きを決めた。 準々決勝から約2週間の準備期間を挟み、準決勝と"
+    },
+    {
+      "id": "jp_football_highschool-1daa6aa9425a",
+      "title": "[锦标赛预选赛]茨城四强常总学院的中后卫只野和前锋广井当选为赛事优秀球员（6张）",
+      "summary": "第105届全国高中足球锦标赛茨城县预选赛半决赛于10月31日举行，鹿岛学园高中以2-0的比分战胜常总学院高中。鹿岛学园在决赛中也取得了胜利，实现了两连冠。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463033-463033-pn",
+      "publish_time": "2026-11-12T05:37:14+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]茨城4強・常総学院のCB只野とFW廣井が大会優秀選手に(6枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権茨城県予選準決勝が10月31日に行われ、鹿島学園高が2-0で常総学院高に勝利。鹿島学園は決勝も勝利し、2連覇を決めている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-5809156aab68",
+      "title": "【锦标赛预选赛】三重县时隔5年再次向全国冠军发起冲击！！ 以2球完胜海星，闯过半决赛这道鬼门关（16张）",
+      "summary": "[11月8日 锦标赛三重县预选赛半决赛 海星高中 0-2 三重高中 四日市市中央田径场] 8日，在第105届全国高中足球锦标赛三重县预选赛半决赛中，海星高中与三重高中展开对决，三重高中在上半场和下半场各进一球，以2-0获胜。●第105届全国…",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463028-463028-pn",
+      "publish_time": "2026-11-12T04:56:44+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]三重が5年ぶりの全国に王手!! 海星に2発完封勝利で鬼門の準決勝突破(16枚)",
+      "_raw_summary": "[11.8 選手権三重県予選準決勝 海星高 0-2 三重高 四日市市中央陸上競技場] 8日、第105回全国高校サッカー選手権三重県予選準決勝で海星高と三重高が対戦し、前後半に1点ずつ決めた三重が2-0で勝利した。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-bf5ce74d1774",
+      "title": "[锦标赛预选赛]四日市中央工成功复仇！！ 战胜本赛季已输过3次的宇治山田商，晋级决赛（16张）",
+      "summary": "[11月8日 锦标赛三重县预选赛半决赛 四日市中央工业高中 3-1 宇治山田商业高中 四日市市中央田径场] 8日，在第105届全国高中足球锦标赛三重县预选赛的半决赛中，四日市中央工业高中与宇治山田商业高中交锋，四日市中央工业高中以3-1获胜…",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463029-463029-pn",
+      "publish_time": "2026-11-12T04:48:10+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]四日市中央工がリベンジ達成!! 今季3度敗れた宇治山田商との一戦制し決勝進出(16枚)",
+      "_raw_summary": "[11.8 選手権三重県予選準決勝 四日市中央工高 3-1 宇治山田商高 四日市市中央陸上競技場] 8日、第105回全国高校サッカー選手権三重県予選の準決勝で四日市中央工高と宇治山田商高が対戦し、四日市中央工高が3-1で勝利した。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-7f1342738ae9",
+      "title": "【锦标赛预选赛】大手前高松时隔3年第4次晋级全国赛！！ 上届冠军高松商在加时赛的最后时刻力竭（16张）",
+      "summary": "[11月7日 锦标赛香川县预选赛决赛大手前高松高中 2-1（加时赛）高松商业高中 香川县综合运动公园足球橄榄球场] 第105届全国高中足球锦标赛香川县预选赛决赛于7日举行，大手前高松高中与高松商业高中对阵，以2-1获胜，时隔3年第四次晋级锦…",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463023-463023-pn",
+      "publish_time": "2026-11-12T02:15:21+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]大手前高松が3年ぶり4回目の全国へ!! 前回王者・高松商は延長戦の末に力尽きる(16枚)",
+      "_raw_summary": "[11.7 選手権香川県予選 決勝 大手前高松高 2-1(延長) 高松商高 香川県総合運動公園サッカー・ラグビー場] 第105回全国高校サッカー選手権・香川県予選の決勝が7日に行われ、高松商高と対戦した大手前高松高が2-1の勝利を収め、3年ぶり4度目の選手権出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-72d20e76c11c",
+      "title": "[锦标赛预选赛]帝京安积时隔9年晋级半决赛，但在决赛中惜败，获得亚军：福岛（25张）",
+      "summary": "第105届全国高中足球锦标赛福岛县预选赛半决赛于10月25日举行，帝京安积高中以6-1大胜学法石川高中。帝京安积在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463006-463006-pn",
+      "publish_time": "2026-11-11T14:13:25+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]帝京安積は9年ぶりに準決勝突破も決勝で惜敗、準優勝:福島(25枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権福島県予選準決勝が10月25日に行われ、帝京安積高が6-1で学法石川高に快勝。帝京安積は決勝で敗れ、準優勝だった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-22d5860fb898",
+      "title": "【锦标赛预选赛】帝京安积的前锋群表现出色。中场谷川2球1助攻，前锋杉山1球1助攻（11张）",
+      "summary": "第105届全国高中足球锦标赛福岛县预选赛半决赛于10月25日举行，帝京安积高中以6-1大胜学法石川高中。帝京安积在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463005-463005-pn",
+      "publish_time": "2026-11-11T14:00:45+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]帝京安積はアタッカー陣が活躍。MF谷川が2G1A、FW杉山も1G1A(11枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権福島県予選準決勝が10月25日に行われ、帝京安積高が6-1で学法石川高に快勝。帝京安積は決勝で敗れ、準優勝だった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-82725bc89dcd",
+      "title": "[锦标赛预选赛]学法石川的中场队长中山和10号中场诸根当选大赛优秀球员：福岛（6张）",
+      "summary": "第105届全国高中足球锦标赛福岛县预选赛半决赛于10月25日举行，帝京安积高中以6-1大胜学法石川高中。帝京安积在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462999-462999-pn",
+      "publish_time": "2026-11-11T13:57:24+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]学法石川はMF中山主将と10番MF諸根が大会優秀選手に:福島(6枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権福島県予選準決勝が10月25日に行われ、帝京安積高が6-1で学法石川高に快勝。帝京安積は決勝で敗れ、準優勝だった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-b7cc361a862d",
+      "title": "[锦标赛预选赛]先制头球的后防领袖、帝京安积的后卫今野和中场指挥官上杉：福岛（9张）",
+      "summary": "第105届全国高中足球锦标赛福岛县预选赛半决赛于10月25日举行，帝京安积高中以6-1大胜学法石川高中。帝京安积在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463004-463004-pn",
+      "publish_time": "2026-11-11T13:52:10+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]先制ヘッドのDFリーダー、帝京安積CB今野&司令塔のMF上杉:福島(9枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権福島県予選準決勝が10月25日に行われ、帝京安積高が6-1で学法石川高に快勝。帝京安積は決勝で敗れ、準優勝だった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-f84a22166d35",
+      "title": "[锦标赛预选赛]帝京安积的精神支柱、前锋队长铃木在福岛半决赛中攻入2球（8张）",
+      "summary": "第105届全国高中足球锦标赛福岛县预选赛半决赛于10月25日举行，帝京安积高中以6-1大胜学法石川高中。帝京安积在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463003-463003-pn",
+      "publish_time": "2026-11-11T13:43:12+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]帝京安積の精神的支柱・FW鈴木主将が福島準決勝で2発(8枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権福島県予選準決勝が10月25日に行われ、帝京安積高が6-1で学法石川高に快勝。帝京安積は決勝で敗れ、準優勝だった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-28d415e2eda9",
+      "title": "[锦标赛预选赛]连续两年屈居亚军的学法石川不敌王子联赛球队，排名福岛赛区第3（29张）",
+      "summary": "第105届全国高中足球锦标赛福岛县预选赛半决赛于10月25日举行，帝京安积高中以6-1大胜学法石川高中。帝京安积在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463002-463002-pn",
+      "publish_time": "2026-11-11T13:19:02+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]2年連続準Vの学法石川はプリンスリーグ勢対決に屈し、福島3位に(29枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権福島県予選準決勝が10月25日に行われ、帝京安積高が6-1で学法石川高に快勝。帝京安積は決勝で敗れ、準優勝だった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-2c920850f7ae",
+      "title": "【锦标赛预选赛】学法石川队刚伤愈复出的王牌前锋前田奋力拼搏。替补上场的二年级中场球员齐藤顽强进球：福岛（7张）",
+      "summary": "第105届全国高中足球锦标赛福岛县预选赛半决赛于10月25日举行，帝京安积高中以6-1大胜学法石川高中。帝京安积在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463000-463000-pn",
+      "publish_time": "2026-11-11T13:01:10+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]学法石川は怪我明けのエースFW前田が奮闘。交代出場の2年生MF齊藤が意地のゴール:福島(7枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権福島県予選準決勝が10月25日に行われ、帝京安積高が6-1で学法石川高に快勝。帝京安積は決勝で敗れ、準優勝だった。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-d4f09e2fd1f4",
+      "title": "【锦标赛预选赛】队长中场中村龙刚在决赛中送出助攻！日大藤泽连续两年晋级全国大赛“全队团结一心，争夺日本第一”（8 张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛的决赛于8日举行，日本大学藤泽高等学校以1-0的比分击败桐光学园高等学校，确定将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462986-462986-pn",
+      "publish_time": "2026-11-11T11:24:53+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]主将MF中村龍剛が決勝アシスト!日大藤沢を2年連続全国へ「チーム一丸となって日本一を」(8枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選の決勝が8日に行われ、日大藤沢高が桐光学園高を1-0で下し、2年連続の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-a6706a0171dd",
+      "title": "[MOM5668]日本大学藤泽校区后卫富田周平（三年级）_“只有我一个人犯错了……”因违背约定而产生的进球，帮助球队晋级全国大赛决赛",
+      "summary": "[高中足球·全场最佳球员][11月8日 全国高中锦标赛神奈川县预选赛决赛 桐光学园 0-1 日本大学藤泽高中 三崎町综合运动场] 帮助日本大学藤泽高中连续两年第九次晋级全国大赛的是后卫富田周平（高三）的绝杀进球。上半场第 12 分钟，中场中…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462798-462798-fl",
+      "publish_time": "2026-11-11T11:12:30+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[MOM5668]日大藤沢DF富田周平(3年)_「自分だけ間違えちゃって…」約束事と違う動きから生まれた全国切符への決勝弾",
+      "_raw_summary": "[高校サッカー・マン・オブ・ザ・マッチ][11.8 全国高校選手権神奈川県予選決勝 桐光学園0-1日大藤沢 ニッパツ] 日大藤沢高を2年連続9回目の全国大会出場に導いたのは、DF富田周平(3年)の決勝ゴールだった。前半12分、MF中村龍剛(3年)が蹴った左CKに合わせて先制点を奪取。今大会初得点が、全国切符を懸けた大一番で生まれた。 しかし試合後、富田は得点場面について意外な裏話を明かし"
+    },
+    {
+      "id": "jp_football_highschool-556a07e984ec",
+      "title": "[锦标赛预选赛]日本大学藤泽队后卫富田周平打入制胜球：“只有我一个人犯了错……”（8张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛的决赛于8日举行，日本大学藤泽高等学校以1-0的比分击败桐光学园高等学校，确定将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462984-462984-pn",
+      "publish_time": "2026-11-11T11:10:36+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]日大藤沢DF富田周平がV弾「自分だけ間違えちゃって…」(8枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選の決勝が8日に行われ、日大藤沢高が桐光学園高を1-0で下し、2年連続の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-3f24aef1581d",
+      "title": "【锦标赛预选赛】日本大学藤泽高等学校在竞争激烈的神奈川县预选赛中蝉联冠军！连续两年晋级全国大赛（16张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛的决赛于8日举行，日本大学藤泽高等学校以1-0的比分击败桐光学园高等学校，确定将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462981-462981-pn",
+      "publish_time": "2026-11-11T10:55:08+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]日大藤沢高が激戦区神奈川県予選を連覇!2年連続の全国へ(16枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選の決勝が8日に行われ、日大藤沢高が桐光学園高を1-0で下し、2年連続の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-bc69af4bafbf",
+      "title": "[锦标赛预选赛]桐光学园在夏季预选赛中四连胜，在冬季预选赛中连续两年在决赛中输给日本大学藤泽（16张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛的决赛于8日举行，日本大学藤泽高等学校以1-0的比分击败桐光学园高等学校，确定将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462979-462979-pn",
+      "publish_time": "2026-11-11T10:44:24+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]夏予選4連覇の桐光学園、冬予選は2年連続で日大藤沢に決勝で敗戦(16枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選の決勝が8日に行われ、日大藤沢高が桐光学園高を1-0で下し、2年連続の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-534455803e1f",
+      "title": "[锦标赛预选赛]晋级东北王子联赛附加赛，升入东北新人联赛甲组，在锦标赛中首次跻身福岛四强。县立双叶未来学园正在崛起（28张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462955-462955-pn",
+      "publish_time": "2026-11-11T10:16:38+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]プリンス東北PO進出、東北ルーキー1部昇格、選手権で初の福島4強。県立のふたば未来学園が台頭中(28枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-072a47da5308",
+      "title": "[锦标赛预选赛]立正大学淞南高中以令人惊叹的8粒进球，时隔3年再次获得全国大赛参赛资格！！ 过去6次决赛都输给该校的开星高中未能“七次为胜”（26张）",
+      "summary": "[11月7日 锦标赛岛根县预选赛决赛 立正大学淞南高等学校 8-0 开星高等学校 岛根县立足球场] 第105届全国高中足球锦标赛岛根县预选赛决赛于7日举行，立正大学淞南高等学校与开星高等学校对阵，以8-0获胜，时隔3年第21次晋级决赛。●第…",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462965-462965-pn",
+      "publish_time": "2026-11-11T07:47:23+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]立正大淞南、圧巻8発で3年ぶり全国切符獲得!! 過去6度の決勝で同校に敗戦の開星は「7度目の正直」ならず(26枚)",
+      "_raw_summary": "[11.7 選手権島根県予選決勝 立正大淞南高 8-0 開星高 島根県立サッカー場] 第105回全国高校サッカー選手権島根県予選決勝が7日に行われ、開星高と対戦した立正大淞南高が8-0で勝ち、3年ぶり21回目の出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-9db2abae4a10",
+      "title": "[锦标赛预选赛] 超过上届大赛的全国第 3 名，向日本第一发起冲击。尚志继福岛半决赛后，又在决赛中获胜，实现六连冠（23张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462963-462963-pn",
+      "publish_time": "2026-11-11T06:01:10+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]前回大会の全国3位を超えて日本一へ。尚志が福島準決勝に続き、決勝も勝利して6連覇達成(23枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-15b4229d9a55",
+      "title": "[锦标赛预选赛]目标是在欧洲赛场上大放异彩。尚志的10号中场若林掌控比赛：福岛（6张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462961-462961-pn",
+      "publish_time": "2026-11-11T05:46:35+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]欧州での活躍が目標。尚志の10番MF若林がゲームメイク:福島(6枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-89e553ad2a8f",
+      "title": "【锦标赛预选赛】尚志高中已内定加盟磐城的中场球员星在福岛县半决赛中进球！U-17世界杯的目标是“夺冠”（9张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462958-462958-pn",
+      "publish_time": "2026-11-11T05:40:16+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]尚志のいわき内定MF星が福島準決勝でゴール!U-17W杯の目標は「優勝」(9枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-d1b383c999d7",
+      "title": "[锦标赛预选赛]尚志的中后卫中村快生队长和中场奥村也被评为锦标赛优秀球员：福岛（6张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462960-462960-pn",
+      "publish_time": "2026-11-11T05:39:24+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]尚志はCB中村快生主将とMF奥村も大会優秀選手に:福島(6枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-26c6270dbf2c",
+      "title": "[锦标赛预选赛]已内定加盟浦和的尚志左后卫寺田的目标是成为2024年锦标赛的“招牌人物”（8张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462959-462959-pn",
+      "publish_time": "2026-11-11T05:34:29+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]尚志の浦和内定左SB寺田が目指すは26年度選手権の「顔」と言われる存在(8枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-79efb8eec62d",
+      "title": "[锦标赛预选赛]尚志的王牌前锋京增、U-17高中选拔队中场大熊在福岛半决赛中进球（13张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462957-462957-pn",
+      "publish_time": "2026-11-11T05:19:15+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]尚志のエースFW京増、U-17高校選抜MF大熊が福島準決勝でゴール(13枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-1adba515884b",
+      "title": "卫冕冠军尚志在下半场打入3粒精彩进球。攻破首次晋级4强的双叶未来坚固的防线，离福岛6连冠仅一步之遥",
+      "summary": "[10月25日 福岛县锦标赛预选赛半决赛 尚志高中 3-0 双叶未来学园高中 仙台大学郡山足球场] 卫冕冠军尚志高中攻破新秀球队的严密防守，晋级决赛！ 第105届全国高中足球锦标赛福岛县预选赛半决赛在郡山市的仙台大学足球场郡山举行，志在六连…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461880-461880-fl",
+      "publish_time": "2026-11-11T04:29:45+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "王者・尚志が後半に鮮やかな3発。初4強・ふたば未来の堅守を攻略し、福島6連覇に王手",
+      "_raw_summary": "[10.25 選手権福島県予選準決勝 尚志高 3-0 ふたば未来学園高 仙台大学サッカーフィールド郡山] 王者・尚志が新鋭の堅守を攻略して決勝進出! 第105回全国高校サッカー選手権福島県予選準決勝が郡山市の仙台大学サッカーフィールド郡山で開催され、6連覇を狙う尚志高が4強初進出の公立校・ふたば未来学園高に3-0で勝利。尚志は11月1日の決勝で帝京安積高と戦う。 尚志は5年連続16回目の"
+    },
+    {
+      "id": "jp_football_highschool-03ca5f25ea6a",
+      "title": "[锦标赛预选赛]双叶未来学园的184cm后卫藤代在福岛半决赛中展现身高优势，右边翼卫松田在右路创造机会（6张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462954-462954-pn",
+      "publish_time": "2026-11-11T04:04:39+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]ふたば未来学園の184cmDF藤代が福島準決勝で高さ発揮、右WB松田は右サイドでチャンス創出(6枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-a5c8ada6c704",
+      "title": "【锦标赛预选赛】首次跻身四强。双叶未来学园的中场球员鱼住和前锋球员松仓入选大赛优秀球员：福岛（6张）",
+      "summary": "10月25日，第105届全国高中足球锦标赛福岛县预选赛半决赛举行，尚志高中以3-0的比分战胜了双叶未来学园高中。尚志高中在决赛中也取得了胜利，夺得冠军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462953-462953-pn",
+      "publish_time": "2026-11-11T03:56:41+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]初の4強。ふたば未来学園のMF魚住とFW松倉が大会優秀選手に:福島(6枚)",
+      "_raw_summary": "10月25日、第105回全国高校サッカー選手権福島県予選準決勝が行われ、尚志高が3-0でふたば未来学園高に勝利。尚志は決勝も勝ち、優勝を果たしている。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-9f3c557a1988",
+      "title": "流通经济大学柏校击败八千代，离县内20多年来未曾实现的千叶三连冠仅一步之遥！！ 对于该校来说，这是首次取得如此辉煌的成就，“能够做到这一点也具有一定的意义。”",
+      "summary": "[11月8日 锦标赛千叶县预选赛半决赛 八千代高中 1-3 流通经济大学柏高中 柏之叶] 第105届全国高中足球锦标赛千叶县预选赛于8日举行了半决赛。流通经济大学柏高校以3-1的比分击败了八千代高校，距离实现自2001年至2004年市立船桥…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462931-462931-fl",
+      "publish_time": "2026-11-10T12:53:04+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "流経大柏が八千代を破って県内で20年以上達成されていない千葉3連覇に王手!! 同校では初の快挙へ「そこを成し遂げることも一つ意味がある」",
+      "_raw_summary": "[11.8 選手権千葉県予選準決勝 八千代高 1-3 流経大柏高 柏の葉] 第105回全国高校サッカー選手権千葉県予選は8日に準決勝を開催した。流通経済大柏高は八千代高を3-1で破り、2001年から04年にかけて市立船橋高が4連覇(前回全国優勝による予選免除の00年と前年を含めると6連覇)を果たして以来となる千葉3連覇まであと1勝に迫った。 流経大柏は一昨年度が全国2位で昨年度が全国3位"
+    },
+    {
+      "id": "jp_football_highschool-6ab5f173132a",
+      "title": "“没有遗憾”即使是第三次输给日章学园……宫崎第一中场川越鼓虎展现出顽强的盘带和升入大学的决心",
+      "summary": "[11月7日 全国高中足球锦标赛宫崎县预选赛半决赛 日章学园 6-0 宫崎第一 米亚奇克藤见公园田径场] 一直到最后都在争取进球。在全国高中足球锦标赛宫崎县预选赛的半决赛中，宫崎第一高中以 0-6 负于已连续 4 年夺冠的日章学园高中。对于…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462924-462924-fl",
+      "publish_time": "2026-11-10T08:44:54+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "「後悔はない」日章学園に3度目の敗戦も…宮崎第一MF川越鼓虎が見せた意地のドリブルと大学への決意",
+      "_raw_summary": "[11.7 全国高校選手権宮崎県予選準決勝 日章学園6-0宮崎第一 ミヤチク藤見公園陸上競技場] 最後までゴールを目指した。全国高校サッカー選手権宮崎県予選準決勝で、宮崎第一高は大会4連覇中の日章学園高に0-6で敗戦。3年生にとって最後の選手権は準決勝で幕を閉じたが、MF川越鼓虎(3年)は試合終盤に持ち味のドリブルから決定機を作り出した。 後半34分だった。左サイドでボールを持った川越は"
+    },
+    {
+      "id": "jp_football_highschool-fcca2bc5ea56",
+      "title": "“即使上场的球员很多，也能发挥出色。”市立船桥展现出球队的厚度，在与日体大柏的半决赛中通过加时赛取胜！！ 继夏季之后，离称霸千叶又近了一步",
+      "summary": "[11月8日 锦标赛千叶县预选赛半决赛 市立船桥高中 2-1（加时赛） 日体大柏高中 柏之叶] 第105届全国高中足球锦标赛千叶县预选赛于8日举行了半决赛。市立船桥高中与日体大柏高中对阵，在加时赛以 2-1 获胜，距离时隔 3 年再次夺得全…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462918-462918-fl",
+      "publish_time": "2026-11-10T06:45:28+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "「色々な選手が出場しても活躍できる」市立船橋が層の厚さを発揮、日体大柏との延長に及ぶ準決勝を制す!! 夏に続く千葉制覇に王手",
+      "_raw_summary": "[11.8 選手権千葉県予選準決勝 市立船橋高 2-1(延長) 日体大柏高 柏の葉] 第105回全国高校サッカー選手権千葉県予選は8日に準決勝を開催した。市立船橋高は日体大柏高と対戦し、延長戦の末に2-1で勝利して3年ぶりの全国と夏冬千葉制覇に王手をかけた。 今年の全国高校総体出場校でプリンスリーグ関東1部の市立船橋は、準々決勝で習志野高を2-0で破って準決勝に進出。全国3位に輝いた20"
+    },
+    {
+      "id": "jp_football_highschool-f8327b423ade",
+      "title": "8 月底因病倒下的济美队队长、后卫弓崎心（高三）……以特殊的心情高举冠军奖杯……尽管放弃了继续比赛，但在预选赛中展现了作为队长的责任感",
+      "summary": "[11月8日 县大赛爱媛县预选赛决赛 帝京第五高中 1-2 济美高中 宁吉尼亚体育场] 济美高中后卫弓崎心（高三年级）从副队长中场泷冈翼（高三年级）手中接过队长袖标，时隔许久再次佩戴袖标，与队友一起高举象征夺冠的奖杯。为了驱散迄今为止的辛苦…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462911-462911-fl",
+      "publish_time": "2026-11-10T02:53:15+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "8月末に病に倒れた済美・主将DF弓崎心(3年)、特別な想いで掲げた優勝カップ…競技続行断念も予選中に示したリーダーとしての責任",
+      "_raw_summary": "[11.8 選手権愛媛県予選 決勝 帝京第五高 1-2 済美高 ニンジニアスタジアム] キャプテンマークを副将のMF瀧岡翼(3年)から渡され、久々に腕章を巻いた済美高DF弓崎心(3年)は優勝の証であるカップを仲間とともに掲げる。これまでの苦労や悔しさを吹き飛ばすように、ピッチが見渡せるメインスタンド上段で飛びっきりの笑顔が弾けた。 第105回の高校サッカー選手権愛媛県予選。8日に行われた"
+    },
+    {
+      "id": "jp_football_highschool-64ce8bc3c91a",
+      "title": "佐野日大距离时隔 4 年再次进军全国大赛仅剩 1 场胜利！！ 尽管真冈在 2-0 落后的情况下扳回 1 分，但佐野日大仍冷静地拉开比分，成功晋级半决赛",
+      "summary": "[11月7日 栃木县锦标赛预选赛半决赛 佐野日本大学高等学校 3-1 真冈高等学校 格里塔球场] 第105届全国高中足球锦标赛栃木县预选赛于7日举行了半决赛。佐野日大高以 3-1 击败真冈高，时隔 4 年再次晋级决赛。同样为了时隔4年再次进…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462901-462901-fl",
+      "publish_time": "2026-11-09T14:00:46+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "佐野日大が4年ぶりの全国まであと1勝!! 2-0から真岡に1点返されるも冷静に突き放して準決勝突破",
+      "_raw_summary": "[11.7 選手権栃木県予選準決勝 佐野日大高 3-1 真岡高 グリスタ] 第105回全国高校サッカー選手権栃木県予選は7日に準決勝を開催した。佐野日大高は真岡高を3-1で破り、4年ぶりの決勝進出。同じく4年ぶりの全国を目指して決勝で宇都宮工高と対戦する。 県1部所属チーム同士の準決勝。佐野日大は4回戦で矢板東高に3-1、準々決勝では宇都宮短大附高に2-1で勝利して県4強入りを果たした。"
+    },
+    {
+      "id": "jp_football_highschool-ff8ab63eb4ec",
+      "title": "[MOM5679]新田中学校MF冈田健（高三）_“我会为你进球”背负着病倒的队长心愿的进攻型后腰打入宝贵的扳平球",
+      "summary": "[高中足球赛最佳球员][11月8日 锦标赛爱媛县预选赛决赛 帝京第五高中 1-2 济美高中 宁吉尼亚体育场] 不能输。为了初中时代的队友兼队长，他在这场最重要的比赛中奋勇拼搏。 第 105 届高中足球锦标赛爱媛县预选赛。在 8 日举行的决赛…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462900-462900-fl",
+      "publish_time": "2026-11-09T13:19:51+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[MOM5679]済美MF岡田健(3年)_「お前のために俺がゴールを決める」病に倒れた主将の想いを背負う攻撃的ボランチが貴重な同点弾",
+      "_raw_summary": "[高校サッカー・マン・オブ・ザ・マッチ][11.8 選手権愛媛県予選 決勝 帝京第五高 1-2 済美高 ニンジニアスタジアム] 負けるわけにはいかなかった。中学時代のチームメイトであり、キャプテンのために大一番で奮い立った。 第105回の高校サッカー選手権愛媛県予選。8日に行われた決勝で済美高を救ったのが、MF岡田健(3年=FCゼブラ)だ。 一進一退の攻防が続く中で、済美は前半28分"
+    },
+    {
+      "id": "jp_football_highschool-64641f1668f6",
+      "title": "曾进入全国16强的英豪矢板中央未能实现县大赛四连冠，在预选赛中被淘汰……队长兼后卫石井琉伟谈及对手的表现：“比预想的要强。”",
+      "summary": "[11月7日 栃木县锦标赛预选赛半决赛 矢板中央高中 1-2（加时赛）宇都宫工科高中 格里高足球场] 矢板中央高中连续3次参加全国高中足球锦标赛，并在今年夏天的全国高中综合体育大赛中跻身全国16强。矢板中央高中今年冬天也瞄准了栃木县冠军，但…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462891-462891-fl",
+      "publish_time": "2026-11-09T12:41:11+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "インハイ全国16強・矢板中央は県4連覇ならず予選敗退…相手の戦いに主将DF石井琉偉「想定以上だった」",
+      "_raw_summary": "[11.7 選手権栃木県予選準決勝 矢板中央高 1-2(延長) 宇都宮工高 グリスタ] 3大会連続で全国高校サッカー選手権に出場し、今夏のインターハイでは全国16強。今年の冬も栃木制覇を狙った矢板中央高だったが、宇都宮工高に1-2の逆転負けを喫して県4強敗退となった。「まだ負けた実感がないというのが本音。負けると思っていなかったし、絶対に勝てるという自信があったからこそ複雑な気持ちです」"
+    },
+    {
+      "id": "jp_football_highschool-ac399321b6c1",
+      "title": "[MOM5677]饭冢门将小田诗文（高三）_一雪前耻，成功扳回3个失球！！ 在点球大战中3次完美扑救，击败东福冈并成为晋级全国大赛的功臣！！",
+      "summary": "[高中足球赛最佳球员][11月8日 福冈县锦标赛预选赛决赛 饭冢高中 3-3（点球大战 3-1）东福冈高中 百思电器体育场] 守门员扑出点球，给对手施加了压力。饭冢高中赢得了第 105 届全国高中足球锦标赛的福冈县预选赛。在半决赛对阵九州国…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462896-462896-fl",
+      "publish_time": "2026-11-09T12:16:09+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[MOM5677]飯塚GK小田詩文(3年)_3失点の雪辱果たす大仕事!! PK戦3本ドンピシャセーブで東福岡撃破&全国行きの立役者に!!",
+      "_raw_summary": "[高校サッカー・マン・オブ・ザ・マッチ][11.8 選手権福岡県予選決勝 飯塚高 3-3(PK3-1) 東福岡高 ベスト電器スタジアム] 相手にプレッシャーを与えるPKストップだった。第105回全国高校サッカー選手権の福岡県予選を制したのは、飯塚高。準決勝の九州国際大付高戦、決勝の東福岡高戦と連続でPK戦勝負にもつれたが、守護神が抜群の働きを見せた。 決勝のPK戦は、飯塚が先攻。味方"
     },
     {
       "id": "jp_football_highschool-d33f1411a69e",
@@ -5826,6 +6600,48 @@
       ],
       "_raw_title": "2連覇目指した高松商は下級生10人先発起用で準優勝も…期待値高まる中で指揮官が強調した3年生の“献身”と“感謝の気持ち”",
       "_raw_summary": "[11.7 選手権香川県予選 決勝 大手前高松高 2-1 高松商高 香川県総合運動公園サッカー・ラグビー場] 取れそうで取れなかった逆転ゴール。あと一歩のところで2年連続出場を逃した高松商高は、来年度につながる戦いを見せた。その一方で川原寅之亮監督が強調したのは、3年生への想いだった。 11月7日に行われた第105回全国高校サッカー選手権・香川県予選の決勝で、高松商は大手前高松高に1-2"
+    },
+    {
+      "id": "jp_football_highschool-527b8c5d85cd",
+      "title": "神村学园在与宿敌的100分钟比赛中“很强”、“很开心”，并在点球大战中吸取了经验教训。背负着“城西”对“最后一届大赛”的期盼，向全国大赛两连冠发起挑战",
+      "summary": "[11月8日 锦标赛鹿儿岛县预选赛决赛 神村学园高中 3-3（点球5-4）鹿儿岛城西高中 白波体育场] 神村学园在与宿敌的“最后一战”中胜出，赢得全国大赛的参赛资格！ 第105届全国高中足球锦标赛鹿儿岛县预选赛决赛于8日在鹿儿岛市的白波体育…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462868-462868-fl",
+      "publish_time": "2026-11-09T08:00:49+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "神村学園が「強かった」「楽しかった」宿敵との100分間、PK戦で学び。“最後の選手権”に懸けた「城西」の思いも背負って全国連覇に挑戦",
+      "_raw_summary": "[11.8 選手権鹿児島県予選決勝 神村学園高 3-3(PK5-4)鹿児島城西高 白波スタ] 神村学園が宿敵との“最後の”戦いを制し、全国切符を勝ち取る! 第105回全国高校サッカー選手権鹿児島県予選決勝が8日、鹿児島市の白波スタジアムで開催され、前年度日本一の神村学園高と鹿児島城西高が対戦。神村学園が3-3(PK5-4)で勝ち、2年連続13回目の選手権出場を決めた。 神村学園は昨年度の"
+    },
+    {
+      "id": "jp_football_highschool-522564ee68d7",
+      "title": "在青森山田打下教练基础的校友教练的带领下团结一心……背负着因病倒下的队长的夙愿，济美队在对阵帝京五中的比赛中上演逆转，时隔 15 年重返全国大赛！！",
+      "summary": "[11月8日 锦标赛爱媛县预选赛决赛 帝京五高 1-2 济美高 宁吉尼亚体育场] 经过动荡的一年，他们终于重新获得了阔别已久的冬季全国大赛参赛资格。 第 105 届全国高中足球锦标赛爱媛县预选赛决赛于 8 日举行，帝京五高与济美高展开对决。…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462875-462875-fl",
+      "publish_time": "2026-11-09T07:48:59+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "青森山田で指導者の基礎を築いたOB監督の下で一致団結…病に倒れた主将の想いも背負った済美、帝京五に逆転勝利で15年ぶりの全国へ!!",
+      "_raw_summary": "[11.8 選手権愛媛県予選決勝 帝京五高 1-2 済美高 ニンジニアスタジアム] 激動の1年を乗り越え、遠ざかっていた冬の全国舞台出場を手繰り寄せた。 第105回全国高校サッカー選手権愛媛県予選決勝が8日に行われ、帝京五高と済美高が対戦。先制を許した済美が2-1で逆転勝利を収め、FW藤本佳希(現愛媛)、DF久保飛翔(元岡山)らを擁した11年度以来の選手権出場を決めた。 今季は取り巻く環"
+    },
+    {
+      "id": "jp_football_highschool-12b20a756e06",
+      "title": "[MOM5672]柳浦高中前锋天野俊（高三）_寡言的前锋在加时赛即将结束时打入制胜球！！ 在决定入学时就憧憬的舞台上占得先机",
+      "summary": "[高中足球·全场最佳球员][11月7日 锦标赛大分县预选赛半决赛 大分高中 0-1（加时赛）柳浦高中 大分运动公园足球场] 这名依靠速度和盘带不断创造机会的前锋，最终通过连续的控球、传球和突破，打入了一粒价值千金的进球。 第 105 届全国…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462883-462883-fl",
+      "publish_time": "2026-11-09T07:15:21+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[MOM5672]柳ヶ浦FW天野俊(3年)_寡黙なストライカーが延長終了間際に決勝弾!! 入学決めた憧れの舞台に王手",
+      "_raw_summary": "[高校サッカー・マン・オブ・ザ・マッチ][11.7 選手権大分県予選準準決勝 大分高 0-1(延長) 柳ヶ浦高 大分スポーツ公園サッカー場] スピードとドリブルでチャンスを作り続けたストライカーが、最後はキープ、パス、飛び出しと連続性のあるプレーで値千金のゴールを生み出した。 第105回全国高校サッカー選手権、大分県予選の準決勝。柳ヶ浦高は、延長後半の終了間際に14番、FW天野俊(3"
     },
     {
       "id": "jp_football_highschool-eb27088c536a",
@@ -6106,818 +6922,6 @@
       ],
       "_raw_title": "宿敵・東山に敗れて県ベスト8敗退の京都橘…懸命に前を向く主将FW永井瞭太郎「3年生が後輩へ残せるものが、まだあります」",
       "_raw_summary": "10月31日に第105回全国高校サッカー選手権大会京都大会の準々決勝、東山高と京都橘高の試合が太陽が丘球技場Bで行われた。例年と違い準々決勝での対戦となった注目必死の試合は、東山が3-2で試合を制して準決勝進出を果たしている(11月3日の準決勝で、東山は立命館宇治高を2-0で下して決勝に進出)。 東山・福重良一監督が「一つの準々決勝として、プレミアリーグを戦ってきた自覚を出すだけ。それ"
-    },
-    {
-      "id": "jp_football_highschool-2f151710da28",
-      "title": "我三年来第一次在新经理的带领下进入半决赛，这位新经理从我的老师那里得到了接力棒！ ！在龙谷复仇的佐贺商人，在决赛中获得了总资格的耻辱",
-      "summary": "【11.3冠军佐贺县资格赛半决赛龙谷隆0-2佐贺正高黑白山FC】它展示了一个新的“佐贺正”。我已经有一年没有在半决赛中喝过眼泪了。在接到老师接力棒的新经理的带领下，复仇实现， 11月3日，第105届全国高中足球锦标赛暨佐贺县预选赛半决赛举行…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462488-462488-fl",
-      "publish_time": "2026-11-04T01:32:55+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "恩師からバトン受けた新監督のもとで3年ぶりの準決勝突破!! 龍谷にリベンジ達成の佐賀商、決勝で総体予選の雪辱へ",
-      "_raw_summary": "[11.3 選手権佐賀県予選 準決勝 龍谷高 0-2 佐賀商高 ブラックモンブランFC] 新たな“佐賀商”を示すーー。準決勝で涙を飲んでから1年。恩師からバトンを受けた新監督のもとでリベンジを果たした。 11月3日、第105回全国高校サッカー選手権・佐賀県予選の準決勝が行われ、佐賀商高は龍谷高と対戦。前半に挙げた2つのゴールを守り切り、前回王者の佐賀東高が待つ決勝に駒を進めた。 13度の"
-    },
-    {
-      "id": "jp_football_highschool-ceaabd2892df",
-      "title": "[锦标赛]东山在4年内首次在全国范围内晋级决赛……京都精华在PK比赛后击败京都协荣：京都",
-      "summary": "第105届全国高中足球锦标赛暨京都府预选赛半决赛于3日举行，东山隆以四年来首次走遍全国为目标，从立命馆宇治隆手中取得2-0完全胜利，进入半决赛， 7日对阵在PK赛结束时夺得京都协荣隆冠军的京都精华隆。【半决赛】（ 11月3日）东山高中2-0…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462420-462420-fl",
-      "publish_time": "2026-11-03T06:26:08+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]4年ぶり全国行き狙う東山が決勝進出…京都精華はPK戦の末に京都共栄を撃破:京都",
-      "_raw_summary": "第105回全国高校サッカー選手権・京都府予選の準決勝が3日に行われた。 4年ぶりの全国行きを狙う東山高は立命館宇治高から2-0の完封勝利を収め、準決勝を突破。7日の決勝で、京都共栄高をPK戦の末に下した京都精華高と対戦する。[準決勝](11月3日)東山高 2-0 立命館宇治高京都精華高 1-1(PK3-2) 京都共栄高[決勝](11月7日)東山高 vs 京都精華高●第105回全国高校サ"
-    },
-    {
-      "id": "jp_football_highschool-66756debcd3d",
-      "title": "【锦标赛预选赛】逃脱的宝耀学园还有一场胜利，直到夏季和冬季突破……金泽学院大辅没有连续三次获胜（ 16件）",
-      "summary": "【11.1锦标赛石川县预选赛半决赛金泽学院大辅学院高松体育公园田径场0-1】1日，第105届全国高中足球运动员石川府预选赛半决赛举行，金泽学院大辅学院1-0落败。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462410-462410-pn",
-      "publish_time": "2026-11-03T04:35:55+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]逃げ切った鵬学園、夏冬連破まであと1勝…金沢学院大附は3連覇ならず(16枚)",
-      "_raw_summary": "[11.1 選手権石川県予選準決勝 金沢学院大附高 0-1 鵬学園高 松任総合運動公園陸上競技場] 1日、第105回全国高校サッカー選手石川阜県予選の準決勝が行われ、金沢学院大附高と対戦した鵬学園高が1-0で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-e992953fc28c",
-      "title": "【锦标赛预选赛】三年来首次登顶两位全封闭获胜星岭王！ ！游乐馆将在半决赛中精疲力竭（ 16件）",
-      "summary": "【11.1锦标赛石川县预选赛2-0清凉高松体育公园体育场】31日，举行第105届全国高中足球锦标赛石川县预选赛半决赛，对阵有学馆高志的清凉高志以2-0获胜。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462409-462409-pn",
-      "publish_time": "2026-11-03T04:32:21+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]2発完封勝利の星稜が3年ぶり頂点に王手!! 遊学館は準決勝で力尽きる(16枚)",
-      "_raw_summary": "[11.1 選手権石川県予選準決勝 星稜高 2-0 遊学館高 松任総合運動公園陸上競技場] 31日、第105回全国高校サッカー選手権石川県予選の準決勝が行われ、遊学館高と対戦した星稜高が2-0で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-a62537ea9a22",
-      "title": "【锦标赛预选赛】冈山学严馆连续6场胜利！ ！作耀学园6年来首次未赢得全国门票（ 24张）",
-      "summary": "【11.1冠军冈山县预选赛决赛冈山学芸馆隆2-1作洋学园隆体育场】第105届全国高中足球锦标赛冈山县预选赛决赛于1日举行，对阵作洋学芸馆隆的冈山学芸馆隆2-1取胜，决定连续6年9次参赛。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462370-462370-pn",
-      "publish_time": "2026-11-02T11:11:59+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]逆転勝利の岡山学芸館が6連覇達成!! 作陽学園は先制も6年ぶり全国切符獲得ならず(24枚)",
-      "_raw_summary": "[11.1 選手権岡山県予選決勝 岡山学芸館高 2-1 作陽学園高 スタジアム] 第105回全国高校サッカー選手権岡山県予選決勝が1日に行われ、作陽学園高と対戦した岡山学芸館高が2-1で勝ち、6年連続9回目の出場を決めた。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-78de6052ea31",
-      "title": "当天的主题是“微笑：尽情享受吧”……生驹击败了连续五年获得县级冠军的奈良育英，首次晋级全国大赛决赛！！",
-      "summary": "【11月1日，全国高中足球锦标赛奈良县赛区半决赛：生驹高中1-0奈良育英高中，橿原市山本工房运动场】11月1日，第105届全国高中足球锦标赛奈良赛区半决赛在橿原市山本工房运动场举行。第二场比赛由奈良县立生驹高中对阵奈良育英高中。生驹高中从第…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462354-462354-fl",
-      "publish_time": "2026-11-02T03:56:21+00:00",
-      "category": "jp_football_highschool",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "この日のテーマはスマイル「とにかく楽しもう」…生駒が県5連覇中の奈良育英撃破、全国初出場を賭けた決勝に進出!!",
-      "_raw_summary": "[11.1 全国高校選手権奈良県予選準決勝 生駒高 1-0 奈良育英高 鞄工房山本アスレチックフィールド橿原] 11月1日、鞄工房山本アスレチックフィールド橿原で第105回全国高校サッカー選手権大会奈良大会準決勝が行われた。第2試合では、奈良県立生駒高と奈良育英高が対戦。生駒は3回戦から登場し、2試合を13得点1失点で、2年ぶりに準決勝まで勝ち上がってきた。同じく3回戦から登場した前回王"
-    },
-    {
-      "id": "jp_football_highschool-fe853fda1162",
-      "title": "【冠军】从上赛季0球到成为县级联赛最佳射手！！立命馆森山队的大崎秀马，在高二暑假改打前锋，他的全国冠军梦在半决赛中破灭。",
-      "summary": "【11.1 全国高中联赛滋贺县预选赛半决赛 水口高中 1-0 立命馆森山王子山高中】上赛季颗粒无收的球员如今荣膺县级联赛最佳射手。立命馆森山高中前锋大崎周马（三年级）在高圆宫杯U18足球联赛滋贺县第一赛区攻入13球。然而，他在全国高中联赛滋…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462352-462352-fl",
-      "publish_time": "2026-11-02T03:35:37+00:00",
-      "category": "jp_football_highschool",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]昨季0得点から県リーグ得点ランクトップに!!高2夏にFW転向の立命館守山・逢坂柊真、全国への夢は準決勝で散る",
-      "_raw_summary": "[11.1 全国高校選手権滋賀県予選準決勝 水口1-0立命館守山 皇子山] 昨季0得点だった選手が、今季は県リーグの得点ランキングトップに立った。立命館守山高のFW逢坂柊真(3年)は、高円宮杯U-18サッカーリーグ滋賀1部で13得点を記録。しかし、最後の全国高校選手権滋賀県予選ではゴールを奪えず、準決勝で敗退することになった。 水口高との準決勝では、前半19分に右サイドからのFKで強烈な"
-    },
-    {
-      "id": "jp_football_highschool-1920a4e922fc",
-      "title": "【锦标赛预选赛】加茂美浓逃跑后晋级决赛！ ！ 3年来第一次，前4名的岐阜工人没有达到1分（ 16件）",
-      "summary": "【10.31冠军岐阜县预选赛半决赛1-2岐阜小高美浓鸭高新日本气球草甸】31日，第105届全国高中足球锦标赛岐阜县预选赛半决赛举行，对阵岐阜小高美浓鸭以2-1获胜。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462305-462305-pn",
-      "publish_time": "2026-11-01T11:26:46+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]逃げ切った美濃加茂が決勝進出!! 3年ぶり4強入りの岐阜工は1点届かず(16枚)",
-      "_raw_summary": "[10.31 選手権岐阜県予選準決勝 岐阜工高 1-2 美濃加茂高 新日本ガス球技メドウ] 31日、第105回全国高校サッカー選手権岐阜県予選の準決勝が行われ、岐阜工高と対戦した美濃加茂高が2-1で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-c619191567c5",
-      "title": "【锦标赛预选赛】帝京大学可儿连续第8次夺得全州冠军！ ！中京在半决赛（ 16件）中被击败",
-      "summary": "【10.31冠军岐阜县预选赛半决赛帝京大学金高3-0中京高新日本气球草甸】31日，第105届全国高中足球锦标赛岐阜县预选赛半决赛举行，对阵中京高中的帝京大学金高3-0获胜。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462304-462304-pn",
-      "publish_time": "2026-11-01T11:20:56+00:00",
-      "category": "jp_football_highschool",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]帝京大可児が県8連覇に王手!! 中京は惜しくも準決勝で敗退(16枚)",
-      "_raw_summary": "[10.31 選手権岐阜県予選準決勝 帝京大可児高 3-0 中京高 新日本ガス球技メドウ] 31日、第105回全国高校サッカー選手権岐阜県予選の準決勝が行われ、中京高と対戦した帝京大可児高が3-0で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-1ed20a15f91b",
-      "title": "【锦标赛预选赛】米子北在精湛的进球热潮中连续取得17场胜利！ ！他也17年来首次挣扎着达成全国门票的目标（ 22张门票）",
-      "summary": "【10.31冠军鸟取县预选赛决赛米子北子9-0堺高轴鸟体育场】第105届全国高中足球锦标赛鸟取县预选赛决赛于31日举行，面对堺高中米子北子以9-0获胜，决定连续22年参赛。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462303-462303-pn",
-      "publish_time": "2026-11-01T10:36:09+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]米子北が圧巻ゴールラッシュで17連覇達成!! 17年ぶりの全国切符目指した境も奮闘(22枚)",
-      "_raw_summary": "[10.31 選手権鳥取県予選決勝 米子北高 9-0 境高 Axisバードスタジアム] 第105回全国高校サッカー選手権鳥取県予選決勝が31日に行われ、境高と対戦した米子北高が9-0で勝ち、17年連続22回目の出場を決めた。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-b6d1152989d3",
-      "title": "【锦标赛】青森山田在痛苦中取得了连续30场胜利！ ！八户学院野边西在长跑结束时筋疲力尽：青森",
-      "summary": "第105届全国高中足球锦标赛和青森县预选赛决赛于1日举行，山田隆和西高八户学院野边路连续第10年在决赛阶段发生冲突。回到上半场没有得分的比赛在下半场继续晋级和防守，并以0-0进入延伸赛。然后，在延长的前五分钟，青森山田从左十字架的流中摇动了…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462266-462266-fl",
-      "publish_time": "2026-11-01T09:16:25+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]青森山田、苦しみながらも県30連覇達成!! 八戸学院野辺地西は延長戦の末に力尽きる:青森",
-      "_raw_summary": "第105回全国高校サッカー選手権・青森県予選の決勝が1日に行われた。 30連覇に王手をかける青森山田高と八戸学院野辺地西高が10年連続で決勝の舞台で激突。前半をスコアレスで折り返した試合は、後半も一進一退の攻防が続き、0-0のまま延長戦に突入した。 すると、延長前半5分に青森山田が左クロスの流れからネットを揺らし、ついに均衡を破る。さらに7分には追加点を記録し、一気に突き放す。八戸学院"
-    },
-    {
-      "id": "jp_football_highschool-a9d6284c23bc",
-      "title": "【锦标赛】决赛卡为帝京5对赛美…今治东，新田输掉前4名：爱媛",
-      "summary": "第105届全国高中足球锦标赛和爱媛县资格赛半决赛于31日举行。上一届冠军新田高在1-1延期的前半段拿下最后一分并进入半决赛后，在8日的决赛中以2-1战胜今治东中学的帝京五子。【半决赛】（ 10月31日）今治东中学1-2帝京御工新田学1-2…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462183-462183-fl",
-      "publish_time": "2026-10-31T07:56:57+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]決勝カードは帝京五vs済美に決定…今治東、新田はベスト4敗退:愛媛",
-      "_raw_summary": "第105回全国高校サッカー選手権・愛媛県予選の準決勝が31日に行われた。 前回王者の新田高と対戦した済美高は1-1で迎えた延長前半に決勝点を奪い、2-1の勝利で準決勝を突破。8日の決勝で、今治東中等教育学校から2-1の勝利を収めた帝京五高と激突する。[準決勝](10月31日)今治東中等教育学校 1-2 帝京五高新田高 1-2 済美高[決勝](11月8日)帝京五高 vs 済美高●第105"
-    },
-    {
-      "id": "jp_football_highschool-b3045fbe156d",
-      "title": "【锦标赛】武久倒退击败正平！ ！在半决赛中击败浦和南的武藏越男：埼玉",
-      "summary": "第105届全国高中足球锦标赛和埼玉县预选赛四分之一决赛的第一天于31日举行。在8日的半决赛中，从浦和南高1-0取胜的武藏越后隆在下半场以3-2逆转取胜，同时允许他在上半场抢占先机。其余两场比赛将于11月1日举行。【四分之一决赛】（ 10月3…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462154-462154-fl",
-      "publish_time": "2026-10-31T06:43:31+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]武南が昌平を逆転で撃破!! 浦和南を下した武蔵越生と準決勝で対戦:埼玉",
-      "_raw_summary": "第105回全国高校サッカー選手権・埼玉県予選の準々決勝1日目が31日に行われた。 前回王者の昌平高と対戦した武南高は前半に先制を許しながらも、後半に3得点を奪って3-2の逆転勝利。8日の準決勝では、浦和南高から1-0の完封勝利を収めた武蔵越生高と対戦する。 なお、残り2試合は翌11月1日に開催される。[準々決勝](10月31日、11月1日)昌平高 2-3 武南高浦和南高 0-1 武蔵越"
-    },
-    {
-      "id": "jp_football_highschool-8eab4a3873a6",
-      "title": "【锦标赛】全国总冠军静冈学园进入前四名……在半决赛中对阵前冠军滨松海成馆：静冈",
-      "summary": "第105届全国高中足球锦标赛暨静冈县预选赛四分之一决赛于31日举行。今年夏天在全国范围内赢得整个高中冠军的静冈学园隆从岩田东隆以3比0击败四分之一决赛。在11月7日的半决赛中，他将面对从富士市隆以2比1获胜的前冠军滨松开成馆隆。半决赛的另一…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462153-462153-fl",
-      "publish_time": "2026-10-31T06:34:58+00:00",
-      "category": "jp_football_highschool",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]総体全国王者・静岡学園が4強進出…準決勝で前回王者・浜松開誠館と対戦へ:静岡",
-      "_raw_summary": "第105回全国高校サッカー選手権・静岡県予選の準々決勝が31日に行われた。 今夏の全国高校総体を制した静岡学園高は磐田東高を3-0で下し、準々決勝を突破。11月7日の準決勝で、富士市立高から2-1の勝利を収めた前回王者の浜松開誠館高と対戦する。 なお、準決勝のもう一つのカードは藤枝東高vs東海大静岡翔洋高に決定した。[準々決勝](10月31日)静岡学園高 3-0 磐田東高富士市立高 1"
-    },
-    {
-      "id": "jp_football_highschool-ab1101b3aa87",
-      "title": "【锦标赛预选赛】羽黑五号已经四年了！连根拔起佐藤总监上任的第一年：山形（ 34张照片）",
-      "summary": "第105届全国高中足球锦标赛山形县预选赛24日举行，羽黑隆赢得米泽中央隆4-2 （延长赛） ，决定4年来首次参加第10届全国锦标赛。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462078-462078-pn",
-      "publish_time": "2026-10-30T02:24:12+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]羽黒が4年ぶりV!就任1年目の佐藤監督を胴上げ:山形(34枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権山形県予選決勝が24日に行われ、羽黒高が4-2(延長)で米沢中央高に勝利。4年ぶり10回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-c11640779a4f",
-      "title": "【锦标赛预选赛】身高163cm的小首领西原羽黑少校在攻防中发挥着积极作用：山形（ 4件）",
-      "summary": "第105届全国高中足球锦标赛山形县预选赛24日举行，羽黑隆赢得米泽中央隆4-2 （延长赛） ，决定4年来首次参加第10届全国锦标赛。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462075-462075-pn",
-      "publish_time": "2026-10-30T02:03:06+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]163cmの小さなリーダー、羽黒MF西原主将が攻守で活躍:山形(4枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権山形県予選決勝が24日に行われ、羽黒高が4-2(延長)で米沢中央高に勝利。4年ぶり10回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-f3b51fdd0424",
-      "title": "【锦标赛预选赛】羽黑的顺州运球手， MF加藤的领带进球：山形（ 7件）",
-      "summary": "第105届全国高中足球锦标赛山形县预选赛24日举行，羽黑隆赢得米泽中央隆4-2 （延长赛） ，决定4年来首次参加第10届全国锦标赛。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462073-462073-pn",
-      "publish_time": "2026-10-30T01:50:18+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]羽黒の俊足ドリブラー、MF加藤が同点ゴール:山形(7枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権山形県予選決勝が24日に行われ、羽黒高が4-2(延長)で米沢中央高に勝利。4年ぶり10回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-cbc292968ba4",
-      "title": "【锦标赛预选赛】山形的隐藏特色库存。米泽中央二年级MF浅井进第六球（ 8粒）",
-      "summary": "第105届全国高中足球锦标赛山形县预选赛24日举行，羽黑隆赢得米泽中央隆4-2 （延长赛） ，决定4年来首次参加第10届全国锦标赛。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462068-462068-pn",
-      "publish_time": "2026-10-30T01:07:50+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]山形の隠れた注目株。米沢中央の2年生MF浅井が6得点目のゴール(8枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権山形県予選決勝が24日に行われ、羽黒高が4-2(延長)で米沢中央高に勝利。4年ぶり10回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-105df4158846",
-      "title": "【锦标赛预选赛】米泽中央第10场MF森林在山形总决赛中打出1G1A （ 6件）",
-      "summary": "第105届全国高中足球锦标赛山形县预选赛24日举行，羽黑隆赢得米泽中央隆4-2 （延长赛） ，决定4年来首次参加第10届全国锦标赛。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462067-462067-pn",
-      "publish_time": "2026-10-30T01:01:56+00:00",
-      "category": "jp_football_highschool",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]米沢中央の10番MF林が山形決勝で1G1Aの活躍(6枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権山形県予選決勝が24日に行われ、羽黒高が4-2(延長)で米沢中央高に勝利。4年ぶり10回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-1180c1c7646d",
-      "title": "由主办方自行决定是否输掉锦标赛资格赛。尽管如此，顺大学园三年级学生共同打造的“能够团结的团队”的价值并没有褪去。",
-      "summary": "24日，第105届全国高中足球锦标赛东京预赛B组四分之一决赛举行，东海大学高川台高弘与顺大学园高弘的第一场比赛在包括延期在内的100分钟内没有被确定为0-0 ，顺大学园在PK比赛结束时以12-11获胜，一直纠缠到14日。然而，关于东海大学高…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462020-462020-fl",
-      "publish_time": "2026-10-29T11:45:00+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "主催者の判断により選手権予選敗退に。それでも駿台学園の3年生たちがみんなで作ってきた「一致団結できるチーム」の価値は色褪せない",
-      "_raw_summary": "24日、第105回全国高校サッカー選手権東京都予選Bブロック準々決勝が行われ、東海大高輪台高と駿台学園高が対峙した一戦は、延長も含めた100分間では0-0と決着が付かず、14人目までもつれ込むPK戦の末に12-11で駿台学園が勝利を収めた。 だが、試合後に当初ノーゴールと判定されていた後攻・東海大高輪台のPK戦13人目のシュートの成否について、主催者である東京都サッカー協会と東京都高等"
-    },
-    {
-      "id": "jp_football_highschool-ddefdfafb0e0",
-      "title": "【锦标赛预选赛】久负盛名的秋田商人以3比0进入半决赛。在决赛中从0-3追上，但输掉，亚军（ 28件）",
-      "summary": "第105届全国高中足球锦标赛秋田县半决赛于10月17日举行，秋田正高以3比0战胜秋田南高。秋田翔输掉了决赛，获得了第二名。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462006-462006-pn",
-      "publish_time": "2026-10-28T17:41:06+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]名門・秋田商は準決勝を3-0突破。決勝で0-3から追いつくも惜敗、準優勝(28枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権秋田県予選準決勝が10月17日に行われ、秋田商高が3-0で秋田南高に勝利。秋田商は決勝で敗れ、準優勝に終わっている。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-f511a782aa57",
-      "title": "【锦标赛预选赛】带领秋田翔的山冈队长和承载传统“17” （ 6件）的MF原田二年级",
-      "summary": "第105届全国高中足球锦标赛秋田县半决赛于10月17日举行，秋田正高以3比0战胜秋田南高。秋田翔输掉了决赛，获得了第二名。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462005-462005-pn",
-      "publish_time": "2026-10-28T17:23:20+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]秋田商を引っ張るCB山岡主将、伝統の「17」を背負う2年生MF原田(6枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権秋田県予選準決勝が10月17日に行われ、秋田商高が3-0で秋田南高に勝利。秋田商は決勝で敗れ、準優勝に終わっている。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-a6f6a0f9f2a9",
-      "title": "【锦标赛预选赛】秋田翔第10场MF三浦出战！ 10发锋利的子弹和头部， 2个进球",
-      "summary": "第105届全国高中足球锦标赛秋田县半决赛于10月17日举行，秋田正高以3比0战胜秋田南高。秋田翔输掉了决赛，获得了第二名。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462003-462003-pn",
-      "publish_time": "2026-10-28T17:05:31+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]秋田商の10番MF三浦が躍動!鮮烈ボレー弾とヘッドで2ゴール(10枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権秋田県予選準決勝が10月17日に行われ、秋田商高が3-0で秋田南高に勝利。秋田商は決勝で敗れ、準優勝に終わっている。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-bb5d505fd2ef",
-      "title": "【锦标赛预选赛】从10个二年级学生开始的秋田南在上半场领先，但秋田在0-3名中排名第三（ 27件）",
-      "summary": "第105届全国高中足球锦标赛秋田县半决赛于10月17日举行，秋田正高以3比0战胜秋田南高。秋田翔输掉了决赛，获得了第二名。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462002-462002-pn",
-      "publish_time": "2026-10-28T16:48:57+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]1、2年生10人先発の秋田南、前半に主導権握るも0-3で秋田3位に(27枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権秋田県予選準決勝が10月17日に行われ、秋田商高が3-0で秋田南高に勝利。秋田商は決勝で敗れ、準優勝に終わっている。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-ffc133780e1b",
-      "title": "【锦标赛预选赛】威胁对手进球的秋田南MF安倍晋三队长，决赛中挣扎的180cm CB扇田（ 6件）",
-      "summary": "第105届全国高中足球锦标赛秋田县半决赛于10月17日举行，秋田正高以3比0战胜秋田南高。秋田翔输掉了决赛，获得了第二名。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462001-462001-pn",
-      "publish_time": "2026-10-28T16:27:18+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]相手ゴールを脅かした秋田南MF阿部主将、最終ラインで奮闘の180cmCB小木田(6枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権秋田県予選準決勝が10月17日に行われ、秋田商高が3-0で秋田南高に勝利。秋田商は決勝で敗れ、準優勝に終わっている。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-98b0e90cc9c4",
-      "title": "【锦标赛预选赛】秋田南唯一的三年级学生GK铃木，享受最后一场比赛，让场地沸腾（ 5件）",
-      "summary": "第105届全国高中足球锦标赛秋田县半决赛于10月17日举行，秋田正高以3比0战胜秋田南高。秋田翔输掉了决赛，获得了第二名。●第105届全国高中足球锦标赛特刊",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?462000-462000-pn",
-      "publish_time": "2026-10-28T16:16:30+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]秋田南唯一の3年生、GK鈴木がラストゲームも楽しんで、会場を沸かせる(5枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権秋田県予選準決勝が10月17日に行われ、秋田商高が3-0で秋田南高に勝利。秋田商は決勝で敗れ、準優勝に終わっている。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-beedd45b146f",
-      "title": "【锦标赛】想连续三次夺冠的高知晋级半决赛……高知中央、土佐、高知大洲进入前四：高知",
-      "summary": "第105届全国高中足球锦标赛和高知县资格赛四分之一决赛于24日举行，目标是连续三场胜利的高知隆从中村隆手中以12-0获胜，进入四分之一决赛。前四名分别是高知、高知中央隆、土佐隆和高知大洲隆。【四分之一决赛】（ 10月24日）高知中央高中3-…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461876-461876-fl",
-      "publish_time": "2026-10-26T09:21:53+00:00",
-      "category": "jp_football_highschool",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]3連覇狙う高知が準決勝進出…高知中央、土佐、高知小津が4強入り:高知",
-      "_raw_summary": "第105回全国高校サッカー選手権・高知県予選の準々決勝が24日に行われた。 3連覇を狙う高知高は中村高から12-0の大勝を収め、準々決勝を突破。ベスト4には高知の他、高知中央高、土佐高、高知小津高が進出している。[準々決勝](10月24日)高知中央高 3-0 高知商高中村高 0-12 高知高高知工高 0-2 土佐高高知小津高 3-2 明徳義塾高[準決勝](10月31日)高知中央高 vs"
-    },
-    {
-      "id": "jp_football_highschool-017b5ab7b415",
-      "title": "【锦标赛】东福冈赢得半决赛！ ！东海大学福冈与福地赢得了一场激烈的战斗，进入了最后四强：福冈",
-      "summary": "第105届全国高中足球锦标赛和福冈县预选赛于25日进入四分之一决赛的第二天，以连续三场胜利为目标的东福冈隆以4比0的完全胜利进入了四强。东海大学福冈隆在与福地隆进行了长时间的战斗后，以4比3获胜。11月1日的半决赛是九州国际大学隆对阵饭冢隆…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461789-461789-fl",
-      "publish_time": "2026-10-25T07:54:40+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]東福岡が快勝で準決勝へ!! 東海大福岡は福智との激闘を制して4強入り:福岡",
-      "_raw_summary": "第105回全国高校サッカー選手権・福岡県予選は25日に準々決勝2日目を迎えた。 3連覇を目指す東福岡高は博多高に4-0の完封勝利で4強入り。東海大福岡高は福智高との延長戦に及ぶ撃ち合いの末、4-3で勝利した。 11月1日の準決勝は九州国際大付高対飯塚高、東海大福岡高対東福岡高となった。[準々決勝](10月24、25日)九州国際大付高 2-0 福岡大若葉高希望が丘高 0-1 飯塚高東海大"
-    },
-    {
-      "id": "jp_football_highschool-291bdec76d10",
-      "title": "[選手権]出場校一覧",
-      "summary": "第105届全国高中足球锦标赛[参赛学校名单] [北海道]: [青森]: [岩手]: [宫城]: [秋田]:秋樱隆└3年7次[山形]:羽黑隆└4年10次[福岛]: [茨城]: [栃木]: [群马]: [埼玉]: [千叶]: [东京A]: [东…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461713-461713-fl",
-      "publish_time": "2026-10-24T10:43:15+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]出場校一覧",
-      "_raw_summary": "第105回全国高校サッカー選手権【出場校一覧】【北海道】:【青森】:【岩手】:【宮城】:【秋田】:明桜高└3年ぶり7回目【山形】:羽黒高└4年ぶり10回目【福島】:【茨城】:【栃木】:【群馬】:【埼玉】:【千葉】:【東京A】:【東京B】:【神奈川】:【山梨】:【長野】:【新潟】:【富山】:【石川】:【福井】:【静岡】:【愛知】:【岐阜】:【三重】:【滋賀】:【京都】:【大阪】:【兵庫】:"
-    },
-    {
-      "id": "jp_football_highschool-257ea57523d6",
-      "title": "【锦标赛】羽黑在四场比赛中第10次参赛！在资格赛决赛中击败米泽中央4-2 ：山形",
-      "summary": "第105届全国高中足球锦标赛山形县资格赛决赛于24日举行，羽黑隆在延伸赛后以4比2战胜米泽中央隆，这将是四场比赛中第10次参加比赛。合并彩票将于11月16日举行。开幕式和开幕赛将于12月28日举行，决赛将于2027年1月11日在三菱日联体育…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461695-461695-fl",
-      "publish_time": "2026-10-24T07:47:00+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]羽黒が4大会ぶり10度目の出場へ! 予選決勝で米沢中央を4-2で下す:山形",
-      "_raw_summary": "第105回全国高校サッカー選手権の山形県予選決勝が24日に行われ、羽黒高が延長戦の末、米沢中央高に4-2で勝利した。4大会ぶり10回目の本大会出場となる。 組み合わせ抽選会は11月16日に実施。開会式・開幕戦は12月28日、決勝戦は2027年1月11日に、いずれもMUFGスタジアム(国立競技場)で開催される。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-fc5f4b1eb320",
-      "title": "【锦标赛】樱明3年来首次夺冠！击败前英雄秋田翔4-3 ：秋田",
-      "summary": "第105届全国高中足球锦标赛秋田县资格赛决赛于24日举行，高秋樱决定第七次参加三场比赛，从前任冠军秋田庄高手中拿下4-3。本次比赛的抽签将于11月16日举行。开幕式和开幕赛将于12月28日举行，决赛将于2027年1月11日在三菱日联体育场（…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?461683-461683-fl",
-      "publish_time": "2026-10-24T07:29:17+00:00",
-      "category": "jp_football_highschool",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]明桜が3年ぶりに出場権を獲得! 前回王者の秋田商を4-3で退ける:秋田",
-      "_raw_summary": "第105回全国高校サッカー選手権の秋田県予選決勝が24日に行われ、明桜高が前回王者の秋田商高を4-3で下して3大会ぶり7回目の出場を決めた。 本大会の抽選会は11月16日に実施。開会式・開幕戦は12月28日、決勝戦は2027年1月11日にいずれもMUFGスタジアム(国立競技場)で行われる。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-d2767e29ca6d",
-      "title": "[選手権]九州地域各県予選日程",
-      "summary": "第105届全国高中足球锦标赛■资格赛主要日期和结果[福冈] [佐贺] [长崎] [熊本] [大分] [宫崎] [鹿儿岛] [冲绳]●第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459486-459486-fl",
-      "publish_time": "2026-09-22T14:21:04+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]九州地域各県予選日程",
-      "_raw_summary": "第105回全国高校サッカー選手権■予選主な日程、試合結果【福岡】【佐賀】【長崎】【熊本】【大分】【宮崎】【鹿児島】【沖縄】●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-5c117c6eb2ff",
-      "title": "【锦标赛】中国和四国地区每个都道府县的资格赛日期",
-      "summary": "第105届全国高中足球锦标赛■预选赛主要日期和比赛结果[鸟取] [岛根] [冈山] [广岛] [山口] [香川] [德岛] [爱媛] [高知]●第105届全国高中足球锦标赛特色",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459485-459485-fl",
-      "publish_time": "2026-09-22T14:19:28+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]中国・四国地域各県予選日程",
-      "_raw_summary": "第105回全国高校サッカー選手権■予選主な日程、試合結果【鳥取】【島根】【岡山】【広島】【山口】【香川】【徳島】【愛媛】【高知】●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-67e146aedbd3",
-      "title": "[選手権]関西地域各府県予選日程",
-      "summary": "第105届全国高中足球锦标赛■预选赛主要日期和比赛结果[滋贺] [京都] [大阪] [兵库] [奈良] [和歌山]●第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459484-459484-fl",
-      "publish_time": "2026-09-22T14:17:15+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]関西地域各府県予選日程",
-      "_raw_summary": "第105回全国高校サッカー選手権■予選主な日程、試合結果【滋賀】【京都】【大阪】【兵庫】【奈良】【和歌山】●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-f6d7ab298370",
-      "title": "[锦标赛]北信通和东海地区的县级资格赛日期",
-      "summary": "第105届全国高中足球锦标赛■资格赛主要日期和比赛结果[长野] [新潟] [富山] [石川] [福井] [静冈] [爱知] [岐阜] [三重]●第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459483-459483-fl",
-      "publish_time": "2026-09-22T14:15:35+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]北信越・東海地域各県予選日程",
-      "_raw_summary": "第105回全国高校サッカー選手権■予選主な日程、試合結果【長野】【新潟】【富山】【石川】【福井】【静岡】【愛知】【岐阜】【三重】●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-6bc0005c12e6",
-      "title": "[選手権]関東地域各都県予選日程",
-      "summary": "第105届全国高中足球锦标赛■预选赛主要日期和比赛结果[茨城] [栃木] [群马] [埼玉] [千叶] [东京A] [东京B] [神奈川] [山梨]●第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459482-459482-fl",
-      "publish_time": "2026-09-22T14:13:34+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]関東地域各都県予選日程",
-      "_raw_summary": "第105回全国高校サッカー選手権■予選主な日程、試合結果【茨城】【栃木】【群馬】【埼玉】【千葉】【東京A】【東京B】【神奈川】【山梨】●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-3daa9ce4583f",
-      "title": "[锦标赛]北海道/东北地区资格赛日期",
-      "summary": "第105届全国高中足球锦标赛■预选赛主要日期和比赛结果【北海道】【青森】【岩手】【宫城】【秋田】【山形】【福岛】●第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459481-459481-fl",
-      "publish_time": "2026-09-22T14:11:41+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]北海道・東北地域各県予選日程",
-      "_raw_summary": "第105回全国高校サッカー選手権■予選主な日程、試合結果【北海道】【青森】【岩手】【宮城】【秋田】【山形】【福島】●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-b9491bd14982",
-      "title": "【锦标赛】冲绳县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[冲绳] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459480-459480-fl",
-      "publish_time": "2026-09-22T14:06:36+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]沖縄県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【沖縄】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-a95130c5e61a",
-      "title": "【锦标赛】鹿儿岛县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【鹿儿岛】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459479-459479-fl",
-      "publish_time": "2026-09-22T14:06:00+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]鹿児島県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【鹿児島】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-5a23225dab27",
-      "title": "【锦标赛】宫崎县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[宫崎] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459478-459478-fl",
-      "publish_time": "2026-09-22T14:05:27+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]宮崎県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【宮崎】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-4a748e781551",
-      "title": "【锦标赛】大分县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[大分] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459477-459477-fl",
-      "publish_time": "2026-09-22T14:04:55+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]大分県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【大分】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-2dec55f4fc2f",
-      "title": "【锦标赛】熊本县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【熊本】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459476-459476-fl",
-      "publish_time": "2026-09-22T14:04:25+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]熊本県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【熊本】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-e42a39298f46",
-      "title": "【锦标赛】长崎县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[长崎] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459475-459475-fl",
-      "publish_time": "2026-09-22T14:03:54+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]長崎県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【長崎】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-b6c3907cf703",
-      "title": "【锦标赛】佐贺县预选赛主赛日",
-      "summary": "第105届全国高中足球锦标赛【佐贺】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459474-459474-fl",
-      "publish_time": "2026-09-22T14:03:23+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]佐賀県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【佐賀】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-39698c1cb343",
-      "title": "【锦标赛】福冈县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【福冈】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459473-459473-fl",
-      "publish_time": "2026-09-22T14:02:54+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]福岡県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【福岡】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-59419027ffeb",
-      "title": "【锦标赛】爱媛县预选赛主赛日期",
-      "summary": "第105届全国高中足球锦标赛【爱媛】【决赛】【半决赛】【四分之一决赛】●第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459471-459471-fl",
-      "publish_time": "2026-09-22T14:01:54+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]愛媛県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【愛媛】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-63039c4f853b",
-      "title": "【锦标赛】高知县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[高知] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459472-459472-fl",
-      "publish_time": "2026-09-22T14:01:32+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]高知県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【高知】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-02cd202bf37e",
-      "title": "【锦标赛】德岛县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【德岛】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459470-459470-fl",
-      "publish_time": "2026-09-22T13:59:51+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]徳島県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【徳島】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-14ec3592aa47",
-      "title": "【锦标赛】香川县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[香川] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459469-459469-fl",
-      "publish_time": "2026-09-22T13:59:15+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]香川県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【香川】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-f052bc317608",
-      "title": "【锦标赛】山口县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【山口】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459468-459468-fl",
-      "publish_time": "2026-09-22T13:58:44+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]山口県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【山口】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-bc23d3963542",
-      "title": "【锦标赛】广岛县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【广岛】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459467-459467-fl",
-      "publish_time": "2026-09-22T13:58:08+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]広島県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【広島】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-a56cf4746fdb",
-      "title": "【锦标赛】冈山县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[冈山] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459466-459466-fl",
-      "publish_time": "2026-09-22T13:57:37+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]岡山県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【岡山】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-167c1197e15c",
-      "title": "【锦标赛】岛根县预选赛主赛日期",
-      "summary": "第105届全国高中足球锦标赛【岛根】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459465-459465-fl",
-      "publish_time": "2026-09-22T13:57:10+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]島根県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【島根】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-8fa8774d2cbb",
-      "title": "【锦标赛】鸟取县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【鸟取】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459464-459464-fl",
-      "publish_time": "2026-09-22T13:56:42+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]鳥取県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【鳥取】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-3d1340defd49",
-      "title": "【锦标赛】和歌山县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【和歌山】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特价",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459463-459463-fl",
-      "publish_time": "2026-09-22T13:56:10+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]和歌山県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【和歌山】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-00aab7858a46",
-      "title": "【锦标赛】奈良县预选赛主赛日期",
-      "summary": "第105届全国高中足球锦标赛[奈良] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459462-459462-fl",
-      "publish_time": "2026-09-22T13:55:41+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]奈良県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【奈良】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-168b9febdd54",
-      "title": "【锦标赛】兵库县预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛【兵库】【决赛】【半决赛】【●四分之一决赛】第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459461-459461-fl",
-      "publish_time": "2026-09-22T13:55:13+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]兵庫県予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【兵庫】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-81f5196b518d",
-      "title": "【锦标赛】大阪府预选赛主要日期",
-      "summary": "第105届全国高中足球锦标赛[大阪] [决赛] [半决赛] [●四分之一决赛]第105届全国高中足球锦标赛特别",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?459460-459460-fl",
-      "publish_time": "2026-09-22T13:54:41+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権]大阪府予選主な日程",
-      "_raw_summary": "第105回全国高校サッカー選手権【大阪】[決勝][準決勝][準々決勝]●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "biz_cn-a55ff337ca05",
