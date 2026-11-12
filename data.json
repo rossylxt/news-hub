@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-11T21:11:37.684512+00:00",
+  "generated_at": "2026-11-12T02:50:31.303700+00:00",
   "news": [
+    {
+      "id": "ai_cn-c9c427542c15",
+      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+      "source_url": "https://www.qbitai.com/2026/11/509281.html",
+      "publish_time": "2026-11-12T01:45:04+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-424f466e5563",
       "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
@@ -950,15 +962,39 @@
       ]
     },
     {
-      "id": "ai_cn-59c1454d67d1",
-      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
-      "summary": "商汤SenseNova 6.8 Flash",
-      "source_url": "https://www.qbitai.com/2026/11/507277.html",
-      "publish_time": "2026-11-02T13:36:41+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-4d80da40d446",
+      "title": "正在发酵的黄仁勋丑闻：时间线",
+      "summary": "随着美国和中国竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。",
+      "source_url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publish_time": "2026-11-11T23:50:00+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-bf9a8df53a7f",
+      "title": "据报道，英伟达董事会正准备罢免首席执行官黄仁勋，英伟达股价应声下跌",
+      "summary": "最早在周三晚上，英伟达董事会就可能决定罢免其掌舵33年的创始人兼首席执行官。",
+      "source_url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "publish_time": "2026-11-11T23:28:45+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-514b502da5e2",
+      "title": "Jensen Huang被指控有另一段婚外情——与Nvidia高管",
+      "summary": "Jensen Huang 承认与一名被指控为中国情报人员的女性有染，因此饱受抨击，如今又被指控与一名 Nvidia 的下属有染。",
+      "source_url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "publish_time": "2026-11-11T23:17:05+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
       ]
     },
     {
@@ -1879,42 +1915,6 @@
       "summary": "选择完全限制人工智能的学校将不再能够访问Google搜索，因为人工智能功能现在已集成到搜索引擎中。",
       "source_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
       "publish_time": "2026-11-03T16:30:34+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-74ef1aa5540c",
-      "title": "Apple将约会应用程序和人工智能伴侣限制为18岁及以上的用户",
-      "summary": "苹果新的App Store规则将要求提供性或浪漫内容的约会应用程序和AI伴侣必须达到18岁以上的评级。",
-      "source_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "publish_time": "2026-11-03T15:38:27+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-6e35125c5685",
-      "title": "TechCrunch创始人峰会议程仅是11月4日抵达波士顿的一半原因",
-      "summary": "11月4日， TechCrunch创始人峰会2026将创始人和风险投资家带到波士顿的SoWa电站，以获得实用的见解和联系。请在价格上涨前登记。",
-      "source_url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-      "publish_time": "2026-11-03T14:30:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-1c0da3afe6ce",
-      "title": "明天： TechCrunch创始人峰会接管波士顿，当通行证率提高时",
-      "summary": "在明天美国东部时间上午9点价格上涨之前，获取您的TechCrunch创始人峰会通行证优惠。使用通行证最多可节省$ 100 ，并可免费获得一秒钟的优惠。",
-      "source_url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-      "publish_time": "2026-11-03T14:00:00+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,206 @@
       ]
     },
     {
+      "id": "jp_football_euro-426c806eea7d",
+      "title": "在J3联赛东部赛区保持良好状态，加入U-17世界杯集训！！ 前锋斋藤翔在保级大战中也得到了横滨FC青年队的力挺，“希望能够激励大家”",
+      "summary": "在J联赛东部赛区屡屡进球的前锋将征战U-17世界杯。U-17日本国家队前锋斋藤翔（横滨FC）在集训首日的训练结束后接受了采访，他斗志昂扬地表示：“我被选入国家队是因为我是前锋，所以我的目标是成为最佳射手。” 斋藤于今年6月与横滨FC签订了职…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463015-463015-fl",
+      "publish_time": "2026-11-11T21:35:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4071b0190e7b",
+      "title": "久保建英否认“世界杯复仇”，对手是焕然一新的巴西队，“即使看看他们的阵容，我们也必须与之势均力敌地战斗。”",
+      "summary": "14日的新加坡远征首战将是与在北美中北美世界杯32强赛中败北的巴西队再次交锋——。人们期待日本队能够雪耻，但在世界杯对阵巴西的比赛中因伤缺席的中场球员久保建英（皇家社会）冷静地看待两队的实力对比，表示“即使赢下这场比赛，也不能算是在世界杯上…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463014-463014-fl",
+      "publish_time": "2026-11-11T21:19:10+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-18dc4c73c876",
+      "title": "U17 亚洲杯最佳门将大下幸诚（鹿岛青年队）“为了能展现出自己已经成长了”的态度，即使是突然要与南美冠军交手，他也积极面对。",
+      "summary": "日本U-17国家队将在U-17世界杯的首场比赛中对阵南美冠军哥伦比亚队。不过，门将大下幸诚（鹿岛青年队）表示：“对我来说，首场比赛就能与强敌交手是一件非常好的事情。” 在4月举行的U-17南美锦标赛中，哥伦比亚队在半决赛中以3-0战胜巴西队…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463013-463013-fl",
+      "publish_time": "2026-11-11T21:17:14+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-60d1bac45a72",
+      "title": "中场球员北原槙（藤枝）此次也收到了“龙哥”的指示，将前往U-17世界杯“报仇雪恨”：“去年欠下的债要还。”",
+      "summary": "中场球员北原槙身披 10 号球衣，重返 U-17 世界杯。去年，他曾被追加征召，但由于受伤，在首场比赛前夕决定退出。他斗志昂扬地表示，对于自己这一代参加的赛事，“我欠去年的账”。 对于上届因伤遗憾退赛的情况，北原表示：“老实说，受伤的时候很…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463012-463012-fl",
+      "publish_time": "2026-11-11T21:02:42+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-5723a16f6cc4",
+      "title": "久保建英谈到自己在西甲上一轮比赛中的出色表现时表示：“我也不是傻瓜。”他通过分析和适应展现出了进步的迹象。",
+      "summary": "日本国家队中场球员久保建英在本赛季的皇家社会队中排名大幅下降，部分原因在于他在北美中北美洲世界杯首场比赛中左膝受伤而导致状态迟迟未恢复。然而，在加入国家队前夕进行的第13轮对阵巴列卡诺的比赛（1-0）中，他时隔4场正式比赛再次首发出场，并前…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463011-463011-fl",
+      "publish_time": "2026-11-11T20:39:38+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-f07c88d22afb",
+      "title": "世界杯对阵巴西的比赛“如果我在场上……”町田浩树吐露了无奈的心情，完全复苏的使命是“需要一名能够与对手人数相当地防守的后卫”",
+      "summary": "在德甲联赛首秀中遭遇重伤 1 年 3 个月后，后卫町田浩树（霍芬海姆）以更加成熟的风采重返日本国家队。虽然因重伤而失去了参加北美洲世界杯的目标，但他对国家队的渴望依然未变。在11日集训的第一天训练结束后，町田接受了媒体的采访，他表示：“在世…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463010-463010-fl",
+      "publish_time": "2026-11-11T19:16:23+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-3e5b09a72952",
+      "title": "南野拓实“作为一名球员”回归，带着喜悦和“斗志”加入国家队，“与第一次入选时的心情一样”",
+      "summary": "在因一次严重的意外受伤而失去了参加世界杯的荣誉约11个月后，中场球员南野拓实（摩纳哥）再次回归日本国家队。 时隔一年重返国家队，这次不是以在中北美世界杯上担任的导师角色，而是作为一支坚实的战斗力量。在11日归队首日的训练结束后，南野接受了媒…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463009-463009-fl",
+      "publish_time": "2026-11-11T17:24:15+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-b79ad00e953b",
+      "title": "高中毕业后即前往欧洲3年半……22岁前锋福田师王在经历“充满艰辛”的历练后首次入选国家队：“既然入选了，就要拿出成绩。”",
+      "summary": "这位有天赋的前锋在毕业于神村学园高中三年半后，没有经过J联赛的历练就直接前往欧洲踢球，如今终于登上了日本国家队的舞台。前锋福田师王（卡尔斯鲁厄）在11日，也就是他加入球队的第一天训练结束后，接受了媒体的采访。谈到国家队前锋的竞争，他说：“既…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463007-463007-fl",
+      "publish_time": "2026-11-11T16:21:08+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1e2751309203",
+      "title": "板仓滉因第一个孩子出生而满心欢喜：“太可爱了，简直无法自拔。”他还对首次入选国家队的“小老弟”给予了高度评价。",
+      "summary": "11日，日本国家队后卫板仓滉（门兴格拉德巴赫）接受了媒体的采访，满怀喜悦地谈论了第一个孩子出生的喜悦。“我得到了莫大的力量，孩子太可爱了。我想努力在孩子长大之前一直当一名职业球员。”在所属俱乐部持续面临困境之际，板仓表示：“足球方面的情况确…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462997-462997-fl",
+      "publish_time": "2026-11-11T16:11:59+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-8c6fd89e1041",
+      "title": "皇家社会vs巴列卡诺 比赛记录",
+      "summary": "【西甲第12轮】（阿诺埃塔球场）皇家社会 1-0（上半场0-0）巴列卡诺【皇家社会】奥里·奥斯卡松（第67分钟）【皇家社会】伊戈尔·苏维尔迪亚（第50分钟）、贝尼亚特·图里恩特斯（第61分钟）【巴列卡诺】乔治·齐塔伊什维利（第34分钟）、恩…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462852-462852-fl",
+      "publish_time": "2026-11-11T11:50:02+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "ソシエダvsラージョ 試合記録",
+      "_raw_summary": "【ラ・リーガ第12節】(アノエタ)ソシエダ 1-0(前半0-0)ラージョ[ソ]オーリ・オスカールソン(67分)[ソ]イゴール・スベルディア(50分)、ベニャト・トゥリエンテス(61分)[ラ]ヘオルヒー・ツィタイシュビリ(34分)、Gnangoro(88分)観衆:30,638人└4戦ぶり先発の久保建英、次々に好機演出も62分途中交代…調子上向きで森保Jシン"
+    },
+    {
+      "id": "jp_football_euro-55f7b38424c3",
+      "title": "水晶宫vs霍芬海姆比赛记录",
+      "summary": "【欧联杯小组赛第4轮】（塞尔赫斯特公园球场）水晶宫 1-1（上半场0-1）霍芬海姆【水】镰田大地（第90分钟+1分钟）【霍】亚历山大·普拉斯（第7分钟）【水】亚当·沃顿（第77分钟）【水】杰迪·坎博（第32分钟）、亚当·沃顿2（第58分钟、…",
+      "source_url": "https://web.gekisaka.jp/news/uel/detail/?462600-462600-fl",
+      "publish_time": "2026-11-11T10:22:41+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "クリスタル・パレスvsホッフェンハイム 試合記録",
+      "_raw_summary": "【ELリーグフェーズ第4節】(シェルハースト パーク)クリスタル・パレス 1-1(前半0-1)ホッフェンハイム[ク]鎌田大地(90分+1)[ホ]アレクサンダー・プラス(7分)[ク]アダム・ウォートン(77分)[ク]ジェイディー・カンボ(32分)、アダム・ウォートン2(58分、77分)、オネスト・アハノール(60分)、ジェレミ・ピノ(62分)、"
+    },
+    {
+      "id": "jp_football_euro-2cff4a922708",
+      "title": "备战U-17世界杯的日本队集结完毕！！ 小野教练展望通过全部 8 场比赛争夺世界冠军：“希望能够稳步提升。”",
+      "summary": "即将参加U-17世界杯的日本U-17国家队于11日在千叶市开始集训。除了当天在勒旺杯中首发出场的后卫元砂晏翔仁·乌登巴（鹿岛）之外，还有20名队员以及将陪同球队训练至本月23日的训练搭档后卫对马羽琉（川崎F U-18）和中场迫田凌和（大宫U…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462968-462968-fl",
+      "publish_time": "2026-11-11T08:33:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-f1f0ab701722",
+      "title": "自因“特殊伤病”离队约一个月后……里尔前锋上田绮世恢复跑步训练！！",
+      "summary": "里尔俱乐部宣布，日本国家队前锋上田绮世已恢复跑步训练。 上田在今年夏天从费耶诺德转会至里尔。在8月开幕的荷兰足球甲级联赛中，他连续3场比赛进球，随后加盟法国足球甲级联赛，并在对阵图卢兹的处子秀中打进了转会后的首粒进球。随后在欧洲冠军联赛（欧…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462949-462949-fl",
+      "publish_time": "2026-11-11T01:40:50+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "「特殊な怪我」での離脱から約1か月…リールFW上田綺世がランニングを再開!!",
+      "_raw_summary": "リールが日本代表FW上田綺世がランニングを再開したことを報告した。 今夏、フェイエノールトからリールに移籍した上田。8月に開幕したオランダ・エールディビジで3試合連続ゴールを記録してフランス・リーグアンに乗り込むと、デビュー戦となったトゥールーズ戦でいきなり移籍後初ゴールをマークする。さらに続くUEFAチャンピオンズリーグ(欧州CL)リーグフェーズ第1節ベティス戦でもネットを揺らし、公"
+    },
+    {
+      "id": "jp_football_euro-d00557acba51",
+      "title": "阿斯顿维拉对阵维京人首发阵容公布",
+      "summary": "[10月21日 欧洲冠军联赛小组赛第3轮]（维拉公园球场）※28:00开球[阿斯顿维拉]首发阵容：门将 1 铃木彩艳；后卫 3 维克托·林德洛夫、5 泰隆·明斯、14 帕乌·托雷斯、35 若昂·戈麦斯；中场 6 罗斯·巴克利、7 约翰·麦金…",
+      "source_url": "https://web.gekisaka.jp/news/ucl/detail/?461560-461560-fl",
+      "publish_time": "2026-11-11T01:20:02+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "アストン・ビラvsバイキング スタメン発表",
+      "_raw_summary": "[10.21 欧州CLリーグフェーズ第3節](ヴィラ・パーク)※28:00開始[アストン・ビラ]先発GK 1 鈴木彩艶DF 3 ビクトル・リンデロフDF 5 タイロン・ミングスDF 14 パウ・トーレスDF 35 ジョアン・ゴメスMF 6 ロス・バークリーMF 7 ジョン・マッギンMF 10 エミリアーノ・ブエンディアMF 19 イブラヒム・エ"
+    },
+    {
+      "id": "jp_football_euro-72f1dd63c5fb",
+      "title": "松木玖生进入“自信”的良性循环……日本国家队首秀进球→在南安普敦也进入批量得分状态，“标准提高了”",
+      "summary": "中场球员松木玖生（南安普敦）在日本国家队和所属俱乐部度过了理想的周期，再次回到日本国家队。继9月和10月系列赛首次入选后，他再次入选。在10日，也就是他归队的第一天训练结束后，他在接受采访时多次提到“自信”一词，流露出对每一天的充实感。 松…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462941-462941-fl",
+      "publish_time": "2026-11-10T21:10:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-0c54dbe1057f",
+      "title": "“不屈不挠”地从J2联赛的大学毕业生一路拼搏到英超联赛……30岁重返日本国家队的中场球员坂元达裕表示“但我并不满足”",
+      "summary": "自上次入选日本国家队以来已经过去了五年半的时间，这位30岁球员的职业生涯稳步上升，如今他再次回到了这个舞台。中场球员坂元达裕（考文垂）在10日，即他归队的第一天训练结束后接受了记者的采访，他表示：“我上次入选国家队还是在日本J联赛踢球的时候…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462939-462939-fl",
+      "publish_time": "2026-11-10T21:00:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-42ec6f2204ad",
       "title": "佐野开书，先发制人的子弹巴西世界杯是“过去的事”和“我只考虑输球”",
       "summary": "10日练习后，新加坡探险队的日本国家队MF佐野海舟（美因茨）在接受媒体采访时表示： “我认为国家队的比赛重量不会改变，不应该浪费在这个系列赛上，这将在亚洲杯推迟之际受到欢迎。我希望我们能在这两场比赛中做更多的事情来迎接我们的挑战，”他热情地…",
@@ -2892,6 +3092,34 @@
       "tags": [
         "ゲキサカ 日本代表"
       ]
+    },
+    {
+      "id": "jp_football_euro-5fa9b7e4a480",
+      "title": "伊东纯也等三名日本球员所在的亨克俱乐部解雇了主教练托鲁普，“认为球队需要新的刺激”。",
+      "summary": "10日，亨克宣布解雇主教练耶斯·托鲁普。 本赛季开幕前约一个月，根克的主教练尼基·海恩被伯恩利挖走，于是根克聘请了托鲁普担任主教练。但球队在踢完 11 轮比赛后仅排名第 7。 俱乐部在一份声明中表示：“这不是亨克所期望的水平。俱乐部管理层也…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462928-462928-fl",
+      "publish_time": "2026-11-10T09:53:32+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "伊東純也ら日本人トリオ所属のゲンク、トルップ監督を解任「新たな刺激が必要だと判断」",
+      "_raw_summary": "ゲンクは10日、イエス・トルップ監督の解任を発表した。 ゲンクは今季開幕のおよそ1か月前にニッキー・ハイエン監督をバーンリーに引き抜かれてしまい、トルップ監督を招聘した。だが11節を終えて7位に位置している。 クラブは「これはゲンクが期待するレベルではない。クラブ経営陣も、トップ争いに再び加わるために必要なここ数週間のチームのパフォーマンスの向上を実感できていない」と声明を発表。続けて"
+    },
+    {
+      "id": "jp_football_euro-2fd6de51c777",
+      "title": "久保建英时隔4场比赛再次首发，接连创造得分机会，但在第62分钟被换下……状态回升，将随森保一的日本队出征新加坡",
+      "summary": "[11月8日 西甲联赛第12轮 皇家社会 1-0 皇家巴利亚多利德] 西甲联赛第12轮于8日在各地举行，中场球员久保建英所在的皇家社会以1-0击败皇家巴利亚多利德。久保时隔4场正式比赛重返首发阵容，从上半场中段开始创造了多次机会，但在下半场…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462861-462861-fl",
+      "publish_time": "2026-11-08T19:32:28+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "4戦ぶり先発の久保建英、次々に好機演出も62分途中交代…調子上向きで森保Jシンガポール遠征へ",
+      "_raw_summary": "[11.8 ラ・リーガ第12節 ソシエダ 1-0 ラージョ] ラ・リーガは8日、第12節を各地で行い、MF久保建英所属のソシエダがラージョを1-0で下した。久保は公式戦4試合ぶりに先発復帰を果たし、前半途中から数々のチャンスを生み出していたが、後半17分に途中交代。不完全燃焼の勝利ながらも、調子上向きのまま日本代表のシンガポール遠征に合流することとなった。 序盤から主導権を握ったのはホー"
     },
     {
       "id": "jp_football_euro-1e8d7b5edda6",
@@ -2908,6 +3136,48 @@
       "_raw_summary": "[11.8 プレミアリーグ第10節 マンチェスター・ユナイテッド 4-4 アストン・ビラ] アストン・ビラは8日、プレミアリーグ第10節でマンチェスター・ユナイテッドと対戦し、2点リードの後半アディショナルタイムに2点を失い、4-4と勝ち点1を分け合った。GK鈴木彩艶は何度もビッグセーブを披露し、チームを救ったが、最後はコーナーキックのハイボールをクリアし切れず失点。前節に続き、ハイボー"
     },
     {
+      "id": "jp_football_euro-b7fdb519e7cf",
+      "title": "伯恩茅斯在正式比赛中取得 8 连胜！！前田大然时隔3场比赛再次首发，但伊普斯维奇未能发起反击……",
+      "summary": "[11月8日 英超联赛第10轮 伊普斯维奇 1-2 伯恩茅斯] 11月8日，英超联赛在各地举行了第10轮的比赛。中场球员前田大然所在的伊普斯维奇队以 1-2 负于伯恩茅斯队。这场胜利使伯恩茅斯在正式比赛中取得了8连胜。前田时隔3场比赛重返首…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462851-462851-fl",
+      "publish_time": "2026-11-08T16:05:25+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "ボーンマスが公式戦8連勝!!前田大然3試合ぶりスタメンのイプスウィッチは反撃及ばず…",
+      "_raw_summary": "[11.8 プレミアリーグ第10節 イプスウィッチ 1-2 ボーンマス] プレミアリーグは8日、各地で第10節を開催した。MF前田大然が所属するイプスウィッチはボーンマスに1-2で敗れた。ボーンマスはこの勝利で公式戦8連勝。前田は3試合ぶりにスタメン復帰し、要所要所で自慢のスピードを活かし、チームに攻守で貢献するもチームは敗戦。自身も後半20分に途中交代した。 前半3分、右サイドで先発出"
+    },
+    {
+      "id": "jp_football_euro-71fbac32eace",
+      "title": "水晶宫对阵利物浦首发阵容公布",
+      "summary": "[11月8日英超联赛第10轮]（塞尔赫斯特公园球场）※23:00开球[水晶宫]首发阵容：门将 1 迪恩·亨德森；后卫 5 阿克塞尔·迪萨西、8 杰弗森·莱尔马、26 克里斯·理查兹；中场 3 泰里克·米切尔、10 杰雷米·皮诺、18 镰田大…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462836-462836-fl",
+      "publish_time": "2026-11-08T12:56:01+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "クリスタル・パレスvsリバプール スタメン発表",
+      "_raw_summary": "[11.8 プレミアリーグ第10節](シェルハースト パーク)※23:00開始[クリスタル・パレス]先発GK 1 ディーン・ヘンダーソンDF 5 アクセル・ディサシDF 8 ジェフェルソン・レルマDF 26 クリス・リチャーズMF 3 タイリック・ミッチェルMF 10 ジェレミ・ピノMF 18 鎌田大地MF 20 アダム・ウォートンMF 23 クイ"
+    },
+    {
+      "id": "jp_football_euro-d14cbcf7e626",
+      "title": "10人法兰克福凭借门将助攻戏剧性地逼平对手……堂安律首发出场",
+      "summary": "[11月7日 德甲联赛第9轮 帕德博恩 2-2 法兰克福] 德甲联赛第9轮于7日举行，排名第8的法兰克福在客场以2-2战平排名第14的帕德博恩。中场堂安律首发出场，踢到下半场第 19 分钟。后卫小杉启太未进入替补名单。 上半场第 23 分钟…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462760-462760-fl",
+      "publish_time": "2026-11-07T23:56:20+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "10人フランクフルトがGKアシストから劇的ドロー…堂安律はスタメン出場",
+      "_raw_summary": "[11.7 ブンデスリーガ第9節 パダーボルン 2-2 フランクフルト] ブンデスリーガ第9節が7日に行われ、8位フランクフルトは敵地で14位パダーボルンと2-2で引き分けた。MF堂安律はスタメン出場し、後半19分までプレー。DF小杉啓太はベンチ外だった。 フランクフルトは前半23分、MFファレス・シャイビの左からの折り返しをFWヨナタン・ブルカルトが流し込み、先制に成功。その後、PKを"
+    },
+    {
       "id": "jp_football_euro-834c2d11b991",
       "title": "田中博史错失了出色防守的绝佳机会……利兹击败托特纳姆热刺， 6场比赛首次夺得联赛冠军",
       "summary": "[11.7英超联赛第10节利兹1-0托特纳姆热刺]英超联赛于7日进行了第10节的比赛。MF田中所属的利兹队以1比0战胜托特纳姆热刺队。田中继续首发，下半场打了32分钟。利兹在上一场伯恩茅斯比赛中被击败，过去五场比赛中没有白星。在首场比赛中获…",
@@ -2920,6 +3190,106 @@
       ],
       "_raw_title": "田中碧は好守備から絶好機も逸…リーズがトッテナム破り、リーグ戦6試合ぶりの勝利",
       "_raw_summary": "[11.7 プレミアリーグ第10節 リーズ 1-0 トッテナム] プレミアリーグは7日に第10節を行った。MF田中碧が所属するリーズはトッテナムに1-0で勝利。先発が続く田中は後半32分までプレーした。 リーズは前節ボーンマス戦で敗戦を喫し、直近5試合で白星なし。開幕9試合を終えて12位につける一方、9位トッテナムはリーグ戦3連勝中で、両チームの勝ち点差はわずか1となっている。 試合は序"
+    },
+    {
+      "id": "jp_football_euro-7aa1e863588d",
+      "title": "汉堡SV对门兴格拉德巴赫比赛记录",
+      "summary": "【德甲联赛第9轮】（人民公园体育场）汉堡3-1（上半场1-1）门兴格拉德巴赫[汉]米洛·穆海姆（第11分钟）、S. 南贾（第59分钟）、阿尔贝特·格伦贝克（第70分钟）【门】罗宾·哈克（第44分钟）【门】板仓滉（第49分钟）【汉】瓦尔梅德·…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462652-462652-fl",
+      "publish_time": "2026-11-07T01:23:47+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "ハンブルガーSVvsボルシアMG 試合記録",
+      "_raw_summary": "【ブンデスリーガ第9節】(フォルクスパルクシュタディオン)ハンブルガーSV 3-1(前半1-1)ボルシアMG[ハ]ミロ・ミュハイム(11分)、S. Nandja(59分)、アルベルト・グレンベーク(70分)[ボ]ロビン・ハック(44分)[ボ]板倉滉(49分)[ハ]ワルメド・オマリ(90分+3)[ボ]板倉滉2(38分、49分)、イェンス・カス"
+    },
+    {
+      "id": "jp_football_euro-e52d68a0d145",
+      "title": "主教练：“这是比赛的转折点。”板仓滉意外被罚下……垫底的门兴格拉德巴赫客场惨败",
+      "summary": "[11月6日 德甲联赛第9轮 汉堡3-1门兴格拉德巴赫] 德甲联赛第9轮于6日举行，排名第18位的门兴格拉德巴赫在客场以1-3不敌排名第15位的汉堡。这是联赛三轮以来的首场失利。排名仍处于垫底位置。 日本球员方面，后卫板仓滉、中场宇野禅斗和…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462660-462660-fl",
+      "publish_time": "2026-11-07T01:01:15+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "指揮官「試合のターニングポイントだった」板倉滉がまさかの退場…最下位ボルシアMGは敵地で完敗",
+      "_raw_summary": "[11.6 ブンデスリーガ第9節 ハンブルガーSV 3-1 ボルシアMG] ブンデスリーガ第9節が6日に行われ、18位ボルシアMGは敵地で15位ハンブルガーSVに1-3で敗れた。リーグ戦3試合ぶりの黒星。順位は最下位のままとなっている。 日本人ではDF板倉滉、MF宇野禅斗、FW町野修斗がスタメン出場。ボルシアMGは前半11分、ハンブルガーSVのDFミロ・ミュハイムに強烈なミドルシュートを"
+    },
+    {
+      "id": "jp_football_euro-6c7ac2d5aaa3",
+      "title": "大岩J首次召集19岁前锋高冈、浦和中场笹等3人……横滨FC的16岁三井寺眞从U-17世界杯落选名单中“跳级两级”",
+      "summary": "在以洛杉矶奥运会为目标的U-21日本国家队中，主教练大岩刚首次召集了3名球员，分别是中场笹修大（浦和）、前锋高冈伶飒（比利时马斯梅赫伦）和前锋三井寺眞（横滨水手）。至于16岁的三井寺，他越过了U-19日本国家队，从U-17年龄段直接跳了两级…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462633-462633-fl",
+      "publish_time": "2026-11-06T12:05:39+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-f65055822037",
+      "title": "盐贝、佐藤、斋藤从日本国家队降至U-21日本国家队……大岩教练：“如果能通过上场比赛来成为契机，那就再好不过了。”",
+      "summary": "曾入选北美中北美世界杯阵容的前锋盐贝健人（沃尔夫斯堡）在11月的集训中未入选A队，而是入选了即将出征海外的U-21日本队。同龄的前锋后藤启介（弗赖堡）仍被召入国家队。大岩刚主教练在记者会上表示：“我并没有特别比较这两名球员”，并解释说，他考…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462630-462630-fl",
+      "publish_time": "2026-11-06T11:09:14+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-2eb4ac41091e",
+      "title": "延期的亚洲杯和洛杉矶奥运会预选赛的赛程重叠……兼任日本国家队主教练的大岩刚表示“目前还没有确定任何事情”",
+      "summary": "从明年起担任日本国家队主教练的大岩刚谈到了亚洲杯延期对兼任体制的影响。 大岩教练计划从明年3月起兼任日本国家队和参加洛杉矶奥运会的U-22日本国家队教练，但原定由森保一教练执教的亚洲杯因中东局势而延期，因此需要重新审视活动计划。 大岩主教练…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462625-462625-fl",
+      "publish_time": "2026-11-06T07:05:39+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-fef58af89c52",
+      "title": "16岁的三井寺眞破格入选日本U-21国家队！ 大岩教练：“看到他的表现，我期待他在这个队伍中大放异彩。”",
+      "summary": "大岩刚主教练于6日出席了日本U-21国家队本月海外拉练名单的发布会，并解释了破格征召16岁的中场球员三井寺眞（横滨水手）的原因。在以2028年洛杉矶奥运会为目标的球队中，选拔了一名高一学生，他也是2032年布里斯班奥运会的适龄球员。他解释了…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462618-462618-fl",
+      "publish_time": "2026-11-06T05:29:45+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-16677396c139",
+      "title": "U-16日本队以4球大胜结束了与欧足联合作的海外拉练！！ 以 2 胜 1 平的战绩，相当于 U17 欧洲杯预选赛晋级区的第 2 名",
+      "summary": "U-16日本队在塞浦路斯拉练的“欧足联友谊赛”第三场比赛中以4-0的比分击败法罗群岛，以2胜1平的战绩结束了本次拉练。 日本队在上半场由前锋三原大虎（北九州U-18）进球先拔头筹，下半场前锋城秀人（FC东京U-18）再下一城，扩大了领先优势…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462620-462620-fl",
+      "publish_time": "2026-11-06T04:59:28+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-9a61c9ee4c25",
+      "title": "福田师王首次入选日本国家队！！ 森保一主教练也对这位22岁的球员给予了高度评价，称他“即使在德甲联赛也能游刃有余”，这位球员从神村学园毕业后直接前往德国踢球。",
+      "summary": "日本国家队主教练森保一于4日公布了本月新加坡远征的28人名单，首次召集了22岁的前锋福田师王（卡尔斯鲁厄）。福田毕业于神村学园高中，是同龄人中出色的前锋，他在2023年高中毕业后直接加盟了门兴格拉德巴赫，没有经过J联赛的历练。本赛季，他在德…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462513-462513-fl",
+      "publish_time": "2026-11-05T20:55:41+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
     },
     {
       "id": "jp_football_euro-4aace93d6a1b",
@@ -3508,351 +3878,15 @@
       ]
     },
     {
-      "id": "jp_football_euro-a63e3f08827b",
-      "title": "六万五千名观众！日本对厄瓜多尔在横滨的支持者：第1卷（ 64页）",
-      "summary": "日本国家队1日在麒麟杯对阵厄瓜多尔， 0-0以5-4赢得PK比赛。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460153-460153-pn",
-      "publish_time": "2026-10-02T04:25:18+00:00",
-      "category": "jp_football_euro",
+      "id": "football_intl-0e212e36545e",
+      "title": "厄林·哈兰德 Beats 哈里·凯恩 to FIFPRO Men's World 11 Spot - 利昂内尔·梅西, 基利安·姆巴佩 And Lamine Yamal Involved",
+      "summary": "厄林·哈兰德 has beaten 哈里·凯恩 to the 2025-26 FIFPRO Men's World 11 squad.More VideosIn Pep Guardiola’s final camp…",
+      "source_url": "https://sports.yahoo.com/articles/erling-haaland-beats-harry-kane-223000343.html",
+      "publish_time": "2026-11-11T22:30:00+00:00",
+      "category": "football_intl",
       "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-cc2a0144c552",
-      "title": "日本国家队在与厄瓜多尔的PK比赛中获胜，进入麒麟杯决赛！ ：第2卷（ 44件）",
-      "summary": "日本国家队1日在麒麟杯对阵厄瓜多尔， 0-0以5-4赢得PK比赛。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460159-460159-pn",
-      "publish_time": "2026-10-02T04:20:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-dc84320de2c6",
-      "title": "日本国家队在与厄瓜多尔的PK比赛中获胜，进入长颈鹿杯决赛！ ：第1卷（ 41件）",
-      "summary": "日本国家队1日在麒麟杯对阵厄瓜多尔， 0-0以5-4赢得PK比赛。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460158-460158-pn",
-      "publish_time": "2026-10-02T04:20:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-2ee080276796",
-      "title": "在中场保持平衡，展示精美的拦截……田中晃“有很大的地面力量” ，连续三次赢得南美的胜利",
-      "summary": "[10.1麒麟杯半决赛日本0-0 （ PK5-4 ）厄瓜多尔日产]在一轮高强度对决之后， MF田中比（利兹）支持日本国家队。这场对阵厄瓜多尔的比赛是北中美洲世界杯第32名，裁判不容易吹口哨，球之间进行了激烈的战斗。田中努力收紧中场，同时在这…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460134-460134-fl",
-      "publish_time": "2026-10-01T14:50:49+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-d1113362bd80",
-      "title": "在对厄瓜多尔进行了激烈的进攻和防守之后，森安说： “我今天以世界杯的标准与一个非常好的对手进行了比赛。”",
-      "summary": "[10.1长颈鹿杯半决赛日本0-0 （ PK5-4 ）厄瓜多尔日产]他赢得了PK比赛并晋级长颈鹿杯决赛。在比赛结束后的一次闪电采访中，日本国家队主教练森安回忆说： “我认为我们能够在许多支持者的支持下在主场横滨国际获胜。”激烈的攻击和防御从…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460122-460122-fl",
-      "publish_time": "2026-10-01T12:35:15+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-6c32d2c40a63",
-      "title": "香川真司和其他C大阪球员为U-21日本国家队加油（ 8件）",
-      "summary": "9月30日， U-21日本国家队在亚运会半决赛对阵U-23乌兹别克斯坦国家队，进入PK比赛1-1夺得PK9-8。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460106-460106-pn",
-      "publish_time": "2026-10-01T08:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-9f4936c7e5e3",
-      "title": "U-21日本vs乌兹别克斯坦支持者（ 33张照片）",
-      "summary": "9月30日， U-21日本国家队在亚运会半决赛对阵U-23乌兹别克斯坦国家队，进入PK比赛1-1夺得PK9-8。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460104-460104-pn",
-      "publish_time": "2026-10-01T08:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-203b84c0cf40",
-      "title": "戏剧性的领带石桥关“我以为我真的决定” （ 21张）",
-      "summary": "9月30日， U-21日本国家队在亚运会半决赛对阵U-23乌兹别克斯坦国家队，进入PK比赛1-1夺得PK9-8。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460103-460103-pn",
-      "publish_time": "2026-10-01T08:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-7b4596ebf170",
-      "title": "U-21日本国家队在PK战役结束时击败了乌兹别克斯坦！决赛对阵日本和韩国：第3卷（ 32件）",
-      "summary": "9月30日， U-21日本国家队在亚运会半决赛对阵U-23乌兹别克斯坦国家队，进入PK比赛1-1夺得PK9-8。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460101-460101-pn",
-      "publish_time": "2026-10-01T08:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-e2abc3af6562",
-      "title": "U-21日本国家队在PK战役结束时击败了乌兹别克斯坦！决赛对阵日本和韩国：第2卷（ 78件）",
-      "summary": "9月30日， U-21日本国家队在亚运会半决赛对阵U-23乌兹别克斯坦国家队，进入PK比赛1-1夺得PK9-8。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460100-460100-pn",
-      "publish_time": "2026-10-01T08:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-dec1da777e81",
-      "title": "U-21日本国家队在PK战役结束时击败了乌兹别克斯坦！决赛对阵日本和韩国：第1卷（ 54件）",
-      "summary": "9月30日， U-21日本国家队在亚运会半决赛PK9-8中1-1击败了U-23乌兹别克斯坦国家队。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460099-460099-pn",
-      "publish_time": "2026-10-01T08:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-59e532bc19a1",
-      "title": "新西兰赢得麒麟杯决赛对阵巴拿马！ ！日本对厄瓜多尔冠军",
-      "summary": "【10.1麒麟杯半决赛巴拿马1-1 （ PK5-3 ）新西兰日产】麒麟杯足球半决赛的首场比赛当天在日产体育场举行。巴拿马队和新西兰队面对面，新西兰队在1-1的比赛中以5-3获胜，晋级决赛。当天下午7点10分，针对日本国家队与厄瓜多尔国家队的…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460105-460105-fl",
-      "publish_time": "2026-10-01T08:21:19+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-1cb6655881cd",
-      "title": "“我不喜欢交替”我想要的剧本，即使我的脚痉挛了……石桥石（湘南）情绪激动地抓住了领带头子弹",
-      "summary": "[9.30亚运会半决赛日本1-1 （ PK9-8 ）乌兹别克斯坦洋马]即使双腿抽搐，我也想留在球场上。U-21日本国家队FW石桥关（湘南）在0-1后下半场43分钟打进了期待已久的平局进球。“我自己也不喜欢轮换。我真的感觉到了，我想走到最后。…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460082-460082-fl",
-      "publish_time": "2026-09-30T23:33:27+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-1646a58e8d15",
-      "title": "11名首发玩家总轮换的背景...大岩J积累的“参与时间”和“实际战斗经验”的准备“与所有23名玩家战斗”",
-      "summary": "[9.30亚运会半决赛日本1-1 (PK9-8)乌兹别克斯坦缅甸]半决赛总共更换了11名首发球员，从未达到预期的比赛。U-21日本国家队将在30日亚运会半决赛对阵乌兹别克斯坦。领先被允许直到下半场43分钟，我们以1-1比9-8赢得了PK比赛…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460080-460080-fl",
-      "publish_time": "2026-09-30T22:18:01+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-77670e0215d6",
-      "title": "一个接一个，受伤的CB队……望月、亨利、凯基、荒木隼人召集到森安J （ 8件）",
-      "summary": "9月30日，日本国家队在对阵厄瓜多尔的麒麟杯半决赛前一天在日产体育场练习。2027年亚●足联亚洲杯特辑",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460078-460078-pn",
-      "publish_time": "2026-09-30T21:06:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-7505adb459d3",
-      "title": "五年半以来在日产体育场举行的第一场日本国家队比赛……铃木悠人、早川友本、斋藤俊介、中村俊介教练（ 12件）",
-      "summary": "9月30日，日本国家队在对阵厄瓜多尔的麒麟杯半决赛前一天在日产体育场练习。2027年亚●足联亚洲杯特辑",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460077-460077-pn",
-      "publish_time": "2026-09-30T21:04:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-937d721e9fca",
-      "title": "日本5年半以来在日产体育场举行的第一场国家队比赛……谷村凯娜、潮外贤仁、前田大兰、久保贤秀（ 12张）",
-      "summary": "9月30日，日本国家队在对阵厄瓜多尔的麒麟杯半决赛前一天在日产体育场练习。2027年亚●足联亚洲杯特辑",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?460076-460076-pn",
-      "publish_time": "2026-09-30T21:02:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-07162a6fb790",
-      "title": "我想和20名球员一起赢得PK比赛，并连续三次参加日韩决赛！ ！ “老实说，这是第三次”或U-21日本国家队总监大岩“我想打出挫折感”",
-      "summary": "【9.30亚运会半决赛日本1-1 （ PK9-8 ）乌兹别克斯坦洋马】虽然有一个人离开了阵容，但即使他们进入了苏东德，他们也继续做出决定，这是一场被10人踢出的热战，但最终，第10届U-21乌兹别克斯坦国家队失败了， U-21日本国家队决心…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?460072-460072-fl",
-      "publish_time": "2026-09-30T13:38:51+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-b3796efe15a6",
-      "title": "五人A代表初次亮相，森康夫，逆势赢得委内瑞拉！上田清在中间打进2球：第2卷（ 65张牌）",
-      "summary": "28日，日本在麒麟挑战杯上以2比1击败委内瑞拉。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459985-459985-pn",
-      "publish_time": "2026-09-29T09:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-01a34d5d2867",
-      "title": "五人A代表初次亮相，森康夫，逆势赢得委内瑞拉！上田清在中间打进2球：第1卷（ 72粒）",
-      "summary": "28日，日本在麒麟挑战杯上以2比1击败委内瑞拉。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459983-459983-pn",
-      "publish_time": "2026-09-29T09:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-c246e1bfe934",
-      "title": "登上亚运会巅峰……大岩J工作人员支持球员（ 9件）",
-      "summary": "U-21日本国家队28日在大阪府堺市训练， 30日半决赛对阵乌兹别克斯坦。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459934-459934-pn",
-      "publish_time": "2026-09-29T00:17:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-dc5a736ccf65",
-      "title": "亚运会4场比赛干净表格……大岩日本CB团队建设牢固（ 22张）",
-      "summary": "U-21日本国家队28日在大阪府堺市训练， 30日半决赛对阵乌兹别克斯坦。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459932-459932-pn",
-      "publish_time": "2026-09-29T00:16:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-a17bebf7f610",
-      "title": "石井久嗣（湘南）在亚运会得分排名中排名泰国第一，在3个得分中与其他4名球员（ 6件）竞争",
-      "summary": "U-21日本国家队28日在大阪府堺市训练， 30日半决赛对阵乌兹别克斯坦。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459931-459931-pn",
-      "publish_time": "2026-09-29T00:16:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-6113432e1730",
-      "title": "日本U-17世界杯冠军，法国以三杆优势击败利摩日国际大会！ ！猪内（神户U-18 ）和五十岚（柏U-18 ）拿下2分",
-      "summary": "【9.27里摩日3节法国1-3日本】27日， U-17日本国家队在法国举行的里摩日国际锦标赛决赛中以3-1击败法国，赢得11月U-17世界杯前的最后一场海外探险，四支球队将参加比赛。日本在2节结束时以2-1战胜乌克兰，但在1-2战胜奥地利的…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459874-459874-fl",
-      "publish_time": "2026-09-28T03:51:29+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-4e88b1a2106a",
-      "title": "评判在本国举办亚运会的日本裁判：笠原裁判、三原副裁判、武部副裁判（ 20人）",
-      "summary": "亚运会男子足球赛于26日举办了四分之一决赛。当中国以3-0击败泰国时，日本裁判负责第一场比赛。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459842-459842-pn",
-      "publish_time": "2026-09-27T07:03:46+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-b4b93c436336",
-      "title": "U-21日本vs朝鲜支持者（ 60张）",
-      "summary": "26日， U-21日本队在亚运会四分之一决赛中1-0战胜U-23朝鲜队。●第20届亚运会特色",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459831-459831-pn",
-      "publish_time": "2026-09-27T03:15:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-2ec5b116d100",
-      "title": "东京奥运会重逢……田中弘和相马雪在乌拉圭比赛中出场，练习后全程奔跑（ 12件）",
-      "summary": "日本国家队25日在麒麟挑战杯乌拉圭比赛结束后的一个晚上在广岛市重启，共有13名球员，其中3名球员在乌拉圭短暂比赛， 10名球员没有机会比赛，一起练习。2027年亚●足联亚洲杯特辑",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?459752-459752-pn",
-      "publish_time": "2026-09-26T02:36:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-019358512999",
-      "title": "MF五十岚陵（柏U-18 ）也有绑点子弹...... U-17日本国家队发生出发，第二轮法国探险队在下半场被AT子弹击中，黑星",
-      "summary": "[9.25里摩日国际比赛第2节奥地利2-1日本] 25日， U-17日本代表在法国举行的里摩日国际比赛第2节中以1-2输给奥地利。在第一场比赛中，他在下半场加时赛中以得分获胜，而在本赛季中，他在下半场加时赛中以失分获胜。日本将是11月U-1…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459725-459725-fl",
-      "publish_time": "2026-09-25T20:27:56+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-207c42ac7f32",
-      "title": "输掉世界杯后转到→瓦伦西亚，和久保健秀一起回到日本…… 19岁的MF佐藤龙之助在高水平上度过日常生活“有些地方感到受到攻击的挑战”",
-      "summary": "虽然他没有参加北美和中美洲的世界杯，但他的职业生涯正在稳步前进， 19岁的MF佐藤龙之介（瓦伦西亚）在今年3月的一次英国探险后重返日本国家队，但由于发烧，他没有机会参加比赛。与此同时，他搬到了瓦伦西亚，在西甲首次亮相，甚至在这次代表性活动中…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?459718-459718-fl",
-      "publish_time": "2026-09-25T12:42:38+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
       ]
     },
     {
@@ -4804,18 +4838,6 @@
       ]
     },
     {
-      "id": "football_intl-2f56add2e8df",
-      "title": "经理通缉！盖茨黑德呼吁申请",
-      "summary": "盖茨黑德的新主人为泰恩赛德俱乐部的新一线队经理打了广告。",
-      "source_url": "https://sports.yahoo.com/articles/manager-wanted-gateshead-call-applications-134719629.html",
-      "publish_time": "2026-11-10T13:47:19+00:00",
-      "category": "football_intl",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
       "id": "nba-265b20d613ae",
       "title": "尽管在 NBA 开局势头强劲，但达柳斯·阿库夫对国王队 1-10 的惨淡战绩感到沮丧：“我不是一个失败者”",
       "summary": "国王队周二晚上以100比107不敌奥兰多魔术队，目前在NBA的战绩排名垫底。",
@@ -4857,6 +4879,18 @@
       "summary": "Eric Samulski 详细分析了马尔卡宁的伤情，以及这对犹他爵士队的前景有何影响。",
       "source_url": "https://sports.yahoo.com/articles/jazz-star-lauri-markkanen-set-195158888.html",
       "publish_time": "2026-11-11T19:51:58+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-140eaf250be9",
+      "title": "With all eyes on the Jays, 保罗·乔治 lands first blow in renewed Sixers-Celtics rivalry",
+      "summary": "It felt fitting that 保罗·乔治 was the one who had a big night Tuesday with all the attention elsewhere.",
+      "source_url": "https://sports.yahoo.com/articles/eyes-jays-paul-george-lands-192528381.html",
+      "publish_time": "2026-11-11T19:25:28+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5757,18 +5791,6 @@
       "summary": "除了雷霆之外，洛杉矶是衡量克利福德市场的其他三支球队之一",
       "source_url": "https://sports.yahoo.com/articles/lakers-registered-interest-nique-clifford-181643344.html",
       "publish_time": "2026-11-10T18:16:43+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ac0c0a3897e4",
-      "title": "史蒂夫·克尔（ Steve Kerr ）对勇士队最近的伤病发出警报： “这是一个很大的问题”",
-      "summary": "金州勇士队主教练史蒂夫·科尔（ Steve Kerr ）在2026年11月5日星期四旧金山对阵迈阿密热火队的比赛前对媒体发表讲话。金州勇士队已经...",
-      "source_url": "https://sports.yahoo.com/articles/steve-kerr-sounds-alarm-over-180630459.html",
-      "publish_time": "2026-11-10T18:06:30+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -7258,46 +7280,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-nba-b9851ce323ac",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "费城76人",
-      "away_team": "多伦多猛龙",
-      "match_time": "2026-11-12T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718091",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-ab13a581b57e",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "华盛顿奇才",
-      "away_team": "底特律活塞",
-      "match_time": "2026-11-12T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718092",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-32d6b302d9ff",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "明尼苏达森林狼",
-      "away_team": "达拉斯独行侠",
-      "match_time": "2026-11-12T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718093",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-33b12d3c12f3",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "菲尼克斯太阳",
-      "away_team": "夏洛特黄蜂",
-      "match_time": "2026-11-12T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718094",
-      "tags": []
-    },
-    {
       "id": "mp-nba-68d0ff94e868",
       "sport": "basketball",
       "competition": "NBA常规赛",
@@ -7455,6 +7437,46 @@
       "away_team": "洛杉矶湖人",
       "match_time": "2026-11-15T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21718110",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-8ed7e33bd799",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "洛杉矶快船",
+      "away_team": "夏洛特黄蜂",
+      "match_time": "2026-11-15T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718111",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-af1092c118ef",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "犹他爵士",
+      "away_team": "圣安东尼奥马刺",
+      "match_time": "2026-11-15T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718112",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-48e52a8b7077",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "波士顿凯尔特人",
+      "away_team": "达拉斯独行侠",
+      "match_time": "2026-11-15T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718113",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-2a164365c7ec",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "多伦多猛龙",
+      "away_team": "纽约尼克斯",
+      "match_time": "2026-11-15T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718114",
       "tags": []
     }
   ]
