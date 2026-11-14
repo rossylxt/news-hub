@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:30:21.022977+00:00",
+  "generated_at": "2026-11-14T22:11:00.960566+00:00",
   "news": [
     {
       "id": "ai_cn-be1a400aca4c",
@@ -962,6 +962,42 @@
       ]
     },
     {
+      "id": "ai_intl-7502b262d99d",
+      "title": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位",
+      "summary": "截至周六下午，该请愿书已获得超过11.5万个签名。",
+      "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publish_time": "2026-11-14T21:41:22+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-17dd6d164624",
+      "title": "人工智能的坟场：一个不断更新的项目和初创公司失败名单",
+      "summary": "从苹果公司一再推迟的Siri人工智能，到OpenAI混乱的“超级应用”发布，本文将盘点那些夭折或未达预期的AI项目。",
+      "source_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publish_time": "2026-11-14T17:30:00+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-4392222fa3b0",
+      "title": "亚洲各国政府对英伟达首席执行官黄仁勋离职一事作出回应",
+      "summary": "一些政府已采取行动，以确认芯片供应承诺，而另一些政府则正在监测对本地项目的影响，或处理正在进行的调查。",
+      "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "publish_time": "2026-11-14T16:34:15+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-8d23e88a0f9b",
       "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
       "summary": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资家正为更少的投资和更低的估值做好准备。",
@@ -1879,42 +1915,6 @@
       "summary": "Physicl正试图通过最初为在线销售商品而构建的管道来解决模拟与真实之间的差距。",
       "source_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
       "publish_time": "2026-11-06T13:00:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-aa3547203e76",
-      "title": "Palo Alto Networks正在洽谈以5亿美元收购人工智能代理安全初创公司Clutch",
-      "summary": "据一位消息人士称，由Lightspeed和SignalFire支持的Clutch最后估值为8500万美元$。",
-      "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "publish_time": "2026-11-06T06:28:32+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-560f077b27e2",
-      "title": "爱彼迎表示将于2027年上半年推出人工智能旅行社",
-      "summary": "爱彼迎表示，即将推出的人工智能专员将帮助旅行者在整个住宿期间规划行程、比较选项、管理预订并获得帮助。",
-      "source_url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "publish_time": "2026-11-05T22:40:55+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-759260a1403a",
-      "title": "Meta表示，美国用户现在可以与他们的Muse AI头像进行视频聊天",
-      "summary": "Meta的AI代理现在可以在推出旨在让Muse栩栩如生的类似Tamagotchi的可穿戴设备之前，将呼叫作为可定制的动画头像。",
-      "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "publish_time": "2026-11-05T19:48:28+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,54 @@
       ]
     },
     {
+      "id": "jp_football_euro-0ebd2c7d9f46",
+      "title": "日本U-17国家队备战世界杯训练（25张）",
+      "summary": "11日，备战卡塔尔U-17世界杯的日本U-17国家队在千叶市集结。除当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463193-463193-pn",
+      "publish_time": "2026-11-14T11:58:18+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-3168f73b5676",
+      "title": "U-17世界杯训练搭档川崎F U-18后卫对马羽琉和大宫U18中场迫田凌和（8张）",
+      "summary": "11日，备战卡塔尔U-17世界杯的日本U-17国家队在千叶市集结。除当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463191-463191-pn",
+      "publish_time": "2026-11-14T11:41:55+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-f0e2767940fa",
+      "title": "U-17日本队备战世界杯正式启动！！ 首日训练：中场和前锋（18张）",
+      "summary": "11日，备战卡塔尔U-17世界杯的日本U-17国家队在千叶市集结。除当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463190-463190-pn",
+      "publish_time": "2026-11-14T11:38:12+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4f711d67e617",
+      "title": "U-17日本队备战世界杯正式启动！！ 首日训练：守门员和后卫（18张）",
+      "summary": "11日，备战卡塔尔U-17世界杯的日本U-17国家队在千叶市集结。除当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463189-463189-pn",
+      "publish_time": "2026-11-14T11:32:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-e5ad1397ce65",
       "title": "以亚洲冠军的身份进军U-17世界杯！！ 身披10号球衣的藤枝中场北原槙（7张）",
       "summary": "备战卡塔尔U-17世界杯的日本U-17国家队于11日在千叶市集结。除了当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）之外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
@@ -3830,51 +3878,15 @@
       ]
     },
     {
-      "id": "jp_football_euro-a35495965697",
-      "title": "巴西国家队公布了26名球员名单，将再次迎战森保一的日本队！！ 7 名球员（包括维尼修斯）参加了世界杯对阵日本的比赛，5 名球员（包括曼城的埃德森）首次入选国家队。",
-      "summary": "巴西国家队主教练卡洛·安切洛蒂于当地时间29日公布了26名球员名单，他们将前往新加坡备战11月与日本国家队的比赛（14日）和与新加坡国家队的比赛（17日）。在北美洲世界杯32强赛中交手的前锋维尼修斯·儒尼奥尔（皇家马德里）和后卫加布里埃尔·…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462063-462063-fl",
-      "publish_time": "2026-10-29T18:42:58+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-bcd48fd661b0",
-      "title": "后卫上野煌士郎头球绝杀。日本U-16国家队在“欧足联友谊赛”首场比赛中击败塞浦路斯",
-      "summary": "正在塞浦路斯集训的日本U-16国家队于当地时间27日，在“欧足联友谊赛”的第一场比赛中对阵东道主塞浦路斯，以4-3的比分险胜。 日本队在上半场第 17 分钟凭借对手的乌龙球先拔头筹。紧接着，前锋土井空芽（鹿岛青年队）将自己射门后的漏球补进，…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462062-462062-fl",
-      "publish_time": "2026-10-29T15:37:36+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-8b591070689d",
-      "title": "替补球员回归的日本队，靠中场球员十文字（横滨FC青年队）的2粒进球和前锋中盐（柏雷素尔U-15）的进球击败了卢旺达队！！ U-15世界杯和足球节的10连战也只剩最后一场比赛了",
-      "summary": "[10月29日 U-15世界杯暨足球节C级排名赛第2场 日本 3-0 卢旺达] 10月29日，U-15日本队在阿塞拜疆举行的首届“U-15世界杯暨足球节”C级排名赛第2场中对阵U-15卢旺达队，以3-0的比分轻松取胜。由于身体状况不佳等原因…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462058-462058-fl",
-      "publish_time": "2026-10-29T14:10:57+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-47bd93c16f0a",
-      "title": "在塞浦路斯探险队之前的U-16日本国家队训练（ 12件）",
-      "summary": "就在塞浦路斯探险之前， U-16日本国家队于23日在千叶市进行了训练。U-16日本国家队在练习后搬到了塞浦路斯。在当地的欧足联友谊赛中对抗塞浦路斯、罗马尼亚和法罗群岛。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?462057-462057-pn",
-      "publish_time": "2026-10-29T13:01:16+00:00",
-      "category": "jp_football_euro",
+      "id": "football_intl-77473d7af8c0",
+      "title": "The shirt goes back, the story stays: 克里斯蒂亚诺·罗纳尔多 and Portugal’s impossible goodbye",
+      "summary": "On 5 November 2026, 克里斯蒂亚诺·罗纳尔多 announced that he was handing back Portugal’s No. 7 jersey for good.Not the trophi…",
+      "source_url": "https://sports.yahoo.com/articles/shirt-goes-back-story-stays-200000898.html",
+      "publish_time": "2026-11-14T20:00:00+00:00",
+      "category": "football_intl",
       "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
       ]
     },
     {
@@ -4826,12 +4838,48 @@
       ]
     },
     {
-      "id": "football_intl-925b358e01ac",
-      "title": "曼城最新消息透露他们何时将面临英超联赛的处罚",
-      "summary": "随着9亿英镑财务案件进入关键阶段，曼城面临英超联赛的处罚曼城的长期财务争议正迎来又一个决定性时刻，英超……",
-      "source_url": "https://sports.yahoo.com/articles/latest-man-city-reveals-face-165000196.html",
-      "publish_time": "2026-11-13T16:50:00+00:00",
-      "category": "football_intl",
+      "id": "nba-fc35f110b5ea",
+      "title": "国王队主教练道格·克里斯蒂（Doug Christie）坦率地谈论工作保障问题",
+      "summary": "萨克拉门托国王队主教练道格·克里斯蒂经历过很多败绩，但以下是他对在球队中处于风口浪尖的看法。",
+      "source_url": "https://sports.yahoo.com/articles/kings-head-coach-doug-christie-193630525.html",
+      "publish_time": "2026-11-14T19:36:30+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-38a72639ff1f",
+      "title": "骑士队对独行侠队：观看方式、赔率和伤病报告",
+      "summary": "凯里·欧文在夺冠十年后重返故乡。",
+      "source_url": "https://sports.yahoo.com/articles/cavs-vs-mavericks-watch-odds-181021474.html",
+      "publish_time": "2026-11-14T18:10:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9eb762e6d82e",
+      "title": "比赛前瞻：篮网队在孟菲斯结束客场之旅",
+      "summary": "篮网队将在联邦快递广场对阵重振旗鼓的灰熊队，结束他们的四场客场之旅。",
+      "source_url": "https://sports.yahoo.com/articles/game-preview-nets-close-road-173245816.html",
+      "publish_time": "2026-11-14T17:32:45+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9254343469a1",
+      "title": "德安杰洛·拉塞尔与拉梅洛·鲍尔：宠儿与弃儿",
+      "summary": "LaMelo Ball和D’Angelo Russell作为森林狼队的控球后卫搭档，被认为是球队的未来。",
+      "source_url": "https://sports.yahoo.com/articles/d-angelo-russell-lamelo-ball-173132297.html",
+      "publish_time": "2026-11-14T17:31:32+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -5750,52 +5798,18 @@
       ]
     },
     {
-      "id": "nba-a349db386729",
-      "title": "卢卡·东契奇 injury update: What we know after Lakers star rolls ankle late in win vs Bucks",
-      "summary": "卢卡·东契奇 was injured late in the Lakers' win over the Bucks. Here's what we know.",
-      "source_url": "https://sports.yahoo.com/articles/luka-doncic-injury-know-lakers-033737079.html",
-      "publish_time": "2026-11-12T03:37:37+00:00",
-      "category": "nba",
-      "is_important": false,
+      "id": "jp_football_highschool-9f30a1219f3d",
+      "title": "夏季全国冠军静冈学园凭借压倒性的控球率，艰难地攻入一球，夺得静冈县冠军。“还有进一步成长的潜力”的球队将向全国双冠发起冲击",
+      "summary": "[11月14日 静冈县锦标赛预选赛决赛 静冈学园高中 1-0 东海大学静冈翔洋高中 小笠山综合运动场体育场] 静冈学园时隔两年再次夺冠，向全国双冠迈进了一步！ 第 105 届全国高中足球锦标赛静冈县预选赛决赛于 14 日在袋井市的生态帕体育…",
+      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463184-463184-fl",
+      "publish_time": "2026-11-14T12:31:16+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
       "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1d835d7a3587",
-      "title": "Warriors star 斯蒂芬·库里 leaves loss to Rockets with abdominal injury",
-      "summary": "斯蒂芬·库里 walked off and went straight to the locker room just minutes into the game on Wednesday night in Houston.",
-      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/warriors-star-stephen-curry-leaves-loss-to-rockets-with-abdominal-injury-051040943.html",
-      "publish_time": "2026-11-12T03:16:52+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7b02433f40bc",
-      "title": "Knicks no match for Cavaliers thanks to 詹姆斯·哈登’s big night",
-      "summary": "詹姆斯·哈登 flipped the script on the Knicks.",
-      "source_url": "https://sports.yahoo.com/articles/knicks-no-match-cavaliers-thanks-030600762.html",
-      "publish_time": "2026-11-12T03:06:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-265b20d613ae",
-      "title": "尽管在 NBA 开局势头强劲，但达柳斯·阿库夫对国王队 1-10 的惨淡战绩感到沮丧：“我不是一个失败者”",
-      "summary": "国王队周二晚上以100比107不敌奥兰多魔术队，目前在NBA的战绩排名垫底。",
-      "source_url": "https://sports.yahoo.com/nba/article/darius-acuff-frustrated-with-kings-brutal-1-10-record-despite-his-hot-start-in-the-nba-im-not-a-loser-204823834.html",
-      "publish_time": "2026-11-11T20:48:23+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "夏の全国王者・静岡学園が圧倒的なボール支配から泥臭く1点をもぎ取り静岡制覇。「さらに伸びるポテンシャルがある」チームが全国2冠に挑戦",
+      "_raw_summary": "[11.14 選手権静岡県予選決勝 静岡学園高 1-0 東海大静岡翔洋高 エコパ] 静学が2年ぶりV、全国2冠へ一歩前進! 第105回全国高校サッカー選手権静岡県予選決勝が14日、袋井市のエコパスタジアムで開催され、インターハイ優勝校の静岡学園高と東海大静岡翔洋高が激突。静岡学園が1-0で勝ち、2年ぶり16回目の全国大会出場を決めた。 静岡学園は選手権全国優勝2回、準優勝1回の名門校で、"
     },
     {
       "id": "jp_football_highschool-291bdec76d10",
@@ -6902,20 +6916,6 @@
       ],
       "_raw_title": "8月末に病に倒れた済美・主将DF弓崎心(3年)、特別な想いで掲げた優勝カップ…競技続行断念も予選中に示したリーダーとしての責任",
       "_raw_summary": "[11.8 選手権愛媛県予選 決勝 帝京第五高 1-2 済美高 ニンジニアスタジアム] キャプテンマークを副将のMF瀧岡翼(3年)から渡され、久々に腕章を巻いた済美高DF弓崎心(3年)は優勝の証であるカップを仲間とともに掲げる。これまでの苦労や悔しさを吹き飛ばすように、ピッチが見渡せるメインスタンド上段で飛びっきりの笑顔が弾けた。 第105回の高校サッカー選手権愛媛県予選。8日に行われた"
-    },
-    {
-      "id": "jp_football_highschool-64ce8bc3c91a",
-      "title": "佐野日大距离时隔 4 年再次进军全国大赛仅剩 1 场胜利！！ 尽管真冈在 2-0 落后的情况下扳回 1 分，但佐野日大仍冷静地拉开比分，成功晋级半决赛",
-      "summary": "[11月7日 栃木县锦标赛预选赛半决赛 佐野日本大学高等学校 3-1 真冈高等学校 格里塔球场] 第105届全国高中足球锦标赛栃木县预选赛于7日举行了半决赛。佐野日大高以 3-1 击败真冈高，时隔 4 年再次晋级决赛。同样为了时隔4年再次进…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?462901-462901-fl",
-      "publish_time": "2026-11-09T14:00:46+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "佐野日大が4年ぶりの全国まであと1勝!! 2-0から真岡に1点返されるも冷静に突き放して準決勝突破",
-      "_raw_summary": "[11.7 選手権栃木県予選準決勝 佐野日大高 3-1 真岡高 グリスタ] 第105回全国高校サッカー選手権栃木県予選は7日に準決勝を開催した。佐野日大高は真岡高を3-1で破り、4年ぶりの決勝進出。同じく4年ぶりの全国を目指して決勝で宇都宮工高と対戦する。 県1部所属チーム同士の準決勝。佐野日大は4回戦で矢板東高に3-1、準々決勝では宇都宮短大附高に2-1で勝利して県4強入りを果たした。"
     },
     {
       "id": "biz_cn-a55ff337ca05",
