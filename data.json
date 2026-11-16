@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:56:48.530174+00:00",
+  "generated_at": "2026-11-16T05:29:45.670180+00:00",
   "news": [
     {
       "id": "ai_cn-be1a400aca4c",
@@ -2942,6 +2942,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-6fa337dd218c",
+      "title": "伊东纯也代表森保一的日本队出场次数最多，参与进球的次数也遥遥领先，在最后一战中他表示“也想为教练拿出好成绩”",
+      "summary": "日本国家队中场伊藤纯也（效力于比利时根特俱乐部）在 15 日的训练结束后接受了媒体采访，他积极地回顾了自己在下半场第 27 分钟替补出场的对阵巴西的比赛（3-2 获胜）：“以 2-1 的比分领先并且不失球是最好的结果，但被对手追平了，不过我…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463291-463291-fl",
+      "publish_time": "2026-11-15T13:37:24+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-af13da2b94c9",
       "title": "前来观看日本对巴西激烈对决的球迷（30张）",
       "summary": "6月14日，日本国家队在国际友谊赛中以3-2的比分战胜巴西国家队。",
@@ -3857,18 +3869,6 @@
       "publish_time": "2026-11-05T20:55:41+00:00",
       "category": "jp_football_euro",
       "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-4513f14b4ecf",
-      "title": "小“铿锵玫瑰”离第二次U-17世界杯冠军仅一步之遥，与朝鲜队的激烈对决“是一场非常艰难的比赛”",
-      "summary": "[11月4日 U-17女子世界杯半决赛 日本 1-1（点球4-1）朝鲜] 11月4日，U-17日本女子国家队（小“铿锵玫瑰”）在U-17女子世界杯半决赛中与朝鲜队交锋，双方在常规时间内战成1-1平，点球大战中日本队以4-1获胜。这是自201…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?462579-462579-fl",
-      "publish_time": "2026-11-05T09:04:56+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
       "tags": [
         "ゲキサカ 日本代表"
       ]
@@ -4834,11 +4834,227 @@
       ]
     },
     {
+      "id": "nba-4cf66d9ca3a3",
+      "title": "随着勒布朗在历史助攻榜上节节攀升，他的队友们需要做好接球的准备。",
+      "summary": "76人队正在适应勒布朗·詹姆斯那种在战术发生之前就能预见到的超凡能力。",
+      "source_url": "https://sports.yahoo.com/articles/lebron-soars-time-assist-list-025821233.html",
+      "publish_time": "2026-11-16T02:58:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-263ab1c608fd",
+      "title": "球员评分：湖人队对太阳队",
+      "summary": "对湖人队在以 131-123 战胜太阳队的比赛中每位球员的表现进行评分。",
+      "source_url": "https://sports.yahoo.com/articles/player-grades-lakers-vs-suns-025727636.html",
+      "publish_time": "2026-11-16T02:57:27+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-18214675e872",
+      "title": "尼克斯112，猛龙108（加时赛）：本赛季首场加时赛精彩瞬间",
+      "summary": "第四节落后 14 分，纽约队奋起直追，进入加时赛，布伦森的绝杀为卡尔的生日之战画上了圆满的句号。",
+      "source_url": "https://sports.yahoo.com/articles/knicks-112-raptors-108-ot-024401769.html",
+      "publish_time": "2026-11-16T02:44:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-03b804af524a",
+      "title": "猛龙队在加时赛中不敌卫冕冠军",
+      "summary": "斯科蒂·巴恩斯的回归不足以击败卫冕冠军",
+      "source_url": "https://sports.yahoo.com/articles/raptors-fall-defending-champs-overtime-023913277.html",
+      "publish_time": "2026-11-16T02:39:13+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5ffe7ab1089d",
+      "title": "赛后回顾：火箭队以 147-119 大胜奇才队",
+      "summary": "周日晚，华盛顿奇才队在第一资本体育馆以119-147不敌休斯敦火箭队，将连败纪录延长至七场。奇才队最多时落后多达37分，篮板球也少了19个。在周四对阵底特律活塞队的比赛中拿下30分后，亚历克斯·萨尔很快又得了8分， […]",
+      "source_url": "https://sports.yahoo.com/articles/recap-rockets-rout-wizards-147-023251500.html",
+      "publish_time": "2026-11-16T02:32:51+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-94bbc9b4d7c4",
+      "title": "马刺队击败爵士队，将连胜纪录延长至 12 场，迪伦·哈珀成为英雄",
+      "summary": "比赛并不像大多数人想象的那么轻松，但圣安东尼奥队凭借出色的收官表现，在犹他州取得了胜利。",
+      "source_url": "https://sports.yahoo.com/articles/dylan-harper-plays-hero-spurs-021234670.html",
+      "publish_time": "2026-11-16T02:12:34+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e068f6c4292f",
+      "title": "为什么湖人必须想办法在比赛后期为卢卡·东契奇提供支持",
+      "summary": "卢卡·东契奇本赛季继续在得分方面占据主导地位，但洛杉矶湖人队的防守必须在比赛后期有所改善。",
+      "source_url": "https://sports.yahoo.com/articles/why-lakers-must-figure-support-020748178.html",
+      "publish_time": "2026-11-16T02:07:48+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-76b0d2e74a6a",
+      "title": "数据速览：独行侠以 131-94 负于波士顿凯尔特人，值得关注的 3 个数字",
+      "summary": "达拉斯队再次惨败",
+      "source_url": "https://sports.yahoo.com/articles/stats-rundown-3-numbers-know-015435989.html",
+      "publish_time": "2026-11-16T01:54:35+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bf457218a0b9",
+      "title": "这不是一时低迷；犹他爵士队历来表现不佳",
+      "summary": "犹他爵士队今年表现非常糟糕。如果这个消息让您感到震惊，我深表歉意。",
+      "source_url": "https://sports.yahoo.com/articles/not-cold-streak-utah-jazz-015025143.html",
+      "publish_time": "2026-11-16T01:50:25+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4ec534ff0013",
+      "title": "犹他爵士队在与圣安东尼奥马刺队的比赛中遗憾落败",
+      "summary": "马刺队以 110-102 获胜，将爵士队的连败纪录延长至 12 场，而爵士队则浪费了 Mo Bamba 的职业生涯之夜。",
+      "source_url": "https://sports.yahoo.com/articles/utah-jazz-lose-heartbreaking-game-013117789.html",
+      "publish_time": "2026-11-16T01:31:17+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-25a480814c01",
+      "title": "独行队在对阵杰森·塔图姆和凯尔特队的历史性失利中，首节仅得 9 分",
+      "summary": "凯尔特人在第一节结束时领先 42-9，这是自引入进攻时间限制以来，一支球队在单节比赛中取得的第三大领先优势。",
+      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/mavericks-score-just-9-points-in-opening-quarter-during-historic-loss-to-jayson-tatum-celtics-012537634.html",
+      "publish_time": "2026-11-16T01:25:37+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-57e62acc6a25",
+      "title": "凯尔特人队以 131-94 大胜独行侠队，这要归功于第一节 42-9 的精彩表现",
+      "summary": "波士顿队已取得六连胜，目前主场战绩为6胜0负。",
+      "source_url": "https://sports.yahoo.com/articles/celtics-throttle-mavericks-131-94-011216047.html",
+      "publish_time": "2026-11-16T01:12:16+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-2fa36cd0870f",
+      "title": "独行队在对阵波士顿凯尔特人的比赛中以 94-131 惨败，赛后有 3 点令人沮丧的思考",
+      "summary": "尘埃落定。独行侠队在遭遇三连败后士气低落。",
+      "source_url": "https://sports.yahoo.com/articles/3-bleak-thoughts-mavericks-no-010923747.html",
+      "publish_time": "2026-11-16T01:09:23+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-7273b6a157d5",
+      "title": "比赛回顾：太阳队替补席上演强势反扑，但最终以 131-123 惜败",
+      "summary": "太阳队的首发球员挖了一个太深的坑，替补球员无法将他们拉出来。",
+      "source_url": "https://sports.yahoo.com/articles/game-recap-furious-comeback-suns-004939671.html",
+      "publish_time": "2026-11-16T00:49:39+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-70f6792bec12",
+      "title": "卢卡·东契奇砍下43分，带领湖人队战胜太阳队，取得八连胜，追平NBA最高纪录",
+      "summary": "在本赛季出战的 12 场比赛中，东契奇有 7 场得分达到 40 分或以上。",
+      "source_url": "https://sports.yahoo.com/nba/article/luka-doncic-scores-43-leading-lakers-over-suns-for-eighth-consecutive-win-tying-for-nbas-top-record-004316661.html",
+      "publish_time": "2026-11-16T00:41:45+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1dba90e2713f",
+      "title": "圣安东尼奥马刺队对阵犹他爵士队，最终比分：哈珀带领马刺队在最后阶段反超爵士队，以 110-102 获胜",
+      "summary": "Dylan Harper在关键时刻扛起了球队的得分重任，而圣安东尼奥队则通过足够的防守成功再次取胜。",
+      "source_url": "https://sports.yahoo.com/articles/san-antonio-vs-utah-final-004056092.html",
+      "publish_time": "2026-11-16T00:40:56+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0a91bc4162cf",
+      "title": "NBA新闻：杰伦·克拉克将休战2周",
+      "summary": "森林狼队又有一名轮换后卫受伤。",
+      "source_url": "https://sports.yahoo.com/articles/nba-news-jaylen-clark-2-002534979.html",
+      "publish_time": "2026-11-16T00:25:34+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-f2d71609418a",
       "title": "勒布朗·詹姆斯 climbs to third on NBA all-time assists list, passing Jason Kidd",
       "summary": "勒布朗·詹姆斯 climbs deeper into the NBA record book by passing Jason Kidd for third on the all-time assists list in the…",
       "source_url": "https://sports.yahoo.com/articles/lebron-james-climbs-third-nba-223800250.html",
       "publish_time": "2026-11-15T22:38:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c74896d8807f",
+      "title": "Sixers Bell Ringer: 杰伦·布朗 notches season-high against Pacers",
+      "summary": "杰伦·布朗, Tyrese Maxey, and 勒布朗·詹姆斯 lead the Sixers to high-scoring victory over Pacers.",
+      "source_url": "https://sports.yahoo.com/articles/sixers-bell-ringer-jaylen-brown-214031093.html",
+      "publish_time": "2026-11-15T21:40:31+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5571,222 +5787,6 @@
       "summary": "LaMelo Ball和D’Angelo Russell作为森林狼队的控球后卫搭档，被认为是球队的未来。",
       "source_url": "https://sports.yahoo.com/articles/d-angelo-russell-lamelo-ball-173132297.html",
       "publish_time": "2026-11-14T17:31:32+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-eb738f6c75f7",
-      "title": "火箭队第四节的三分球命中率一直很高",
-      "summary": "火箭队在去年的一个弱点上有所改进。",
-      "source_url": "https://sports.yahoo.com/articles/rockets-fourth-quarter-three-point-172008671.html",
-      "publish_time": "2026-11-14T17:20:08+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4127d0d06baa",
-      "title": "凤凰号可能正在逐步摸索，一次一个站点",
-      "summary": "太阳队仍然存在很多问题，但他们最近在防守端的进步值得称道。",
-      "source_url": "https://sports.yahoo.com/articles/phoenix-might-figuring-things-one-170000062.html",
-      "publish_time": "2026-11-14T17:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c6472f1f7dea",
-      "title": "随着尼克斯队的困境加剧，乔什·哈特承认自己“状态不佳”",
-      "summary": "乔什·哈特的困境并不只在于他的投篮。",
-      "source_url": "https://sports.yahoo.com/articles/josh-hart-admits-not-good-161518421.html",
-      "publish_time": "2026-11-14T16:15:18+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-505f42e746e8",
-      "title": "斯蒂芬·库里受伤后，德雷蒙德·格林为火箭队辩护，称其不应被贴上“肮脏”的标签",
-      "summary": "在斯蒂芬·库里在与休斯敦火箭队的比赛中受伤后，德雷蒙德·格林主动为火箭队辩护，为其“脏”的标签正名。",
-      "source_url": "https://sports.yahoo.com/articles/draymond-green-defends-rockets-dirty-160503314.html",
-      "publish_time": "2026-11-14T16:05:03+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e5cd3ec9ab66",
-      "title": "老鹰队在加时赛中不敌公牛队",
-      "summary": "老鹰队在NBA杯中遭遇令人失望的失利。",
-      "source_url": "https://sports.yahoo.com/articles/hawks-unable-outlast-bulls-overtime-150000653.html",
-      "publish_time": "2026-11-14T15:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-f44022b232b0",
-      "title": "雄鹿队反应调查结果：在扬尼斯交易问题上，球迷们持观望态度",
-      "summary": "这里几乎没有定论——雄鹿队的球迷对交易的看法摇摆不定。",
-      "source_url": "https://sports.yahoo.com/articles/bucks-reacts-survey-results-come-150000021.html",
-      "publish_time": "2026-11-14T15:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4f44922f21be",
-      "title": "尼克斯公告：“我小腿拉伤了”",
-      "summary": "周五，纽约队上演了一场虚假的逆袭。关于全国空域事态发展的假消息。以下是一些最新消息，包括一些关于乔什·哈特的有趣爆料。迈克·布朗谈到决定让卡尔-安东尼·唐斯而不是杰伦·布伦森来投最后一球时表示：“我们需要一记2分球。我们已经执行了类似……的…",
-      "source_url": "https://sports.yahoo.com/articles/knicks-bulletin-tweaked-calf-143000829.html",
-      "publish_time": "2026-11-14T14:30:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-fc5dafa7bf32",
-      "title": "2026 年 NBA 杯周五小组赛后的最新排名",
-      "summary": "周五的阿联酋航空NBA杯小组赛进行了九场比赛，有精彩的胜利、惜败和一边倒的胜利。以下是积分榜情况。",
-      "source_url": "https://sports.yahoo.com/articles/nba-cup-2026-updated-standings-141043819.html",
-      "publish_time": "2026-11-14T14:10:43+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-af8fdf2d32f8",
-      "title": "阿尔佩伦·申京砍下 43 分，带领火箭队以 125-118 击败爵士队",
-      "summary": "火箭队的中锋今晚表现出色。",
-      "source_url": "https://sports.yahoo.com/articles/alperen-sengun-43-points-leads-140755468.html",
-      "publish_time": "2026-11-14T14:07:55+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-fa59b0b9e9be",
-      "title": "德章泰·默里可供交易：猛龙是否该付出代价？",
-      "summary": "我们不要本末倒置，也不要把合同置于球员之前。",
-      "source_url": "https://sports.yahoo.com/articles/dejounte-murray-available-raptors-pay-130000970.html",
-      "publish_time": "2026-11-14T13:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-60dc503d5ce7",
-      "title": "雄鹿队对魔术队球员评分：大个子表现出色，球队忘了如何罚篮",
-      "summary": "密尔沃基队又一次搬起石头砸了自己的脚。偏偏是在杯赛之夜！",
-      "source_url": "https://sports.yahoo.com/articles/bucks-vs-magic-player-grades-130000928.html",
-      "publish_time": "2026-11-14T13:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-178089a8e203",
-      "title": "NBA讲究的就是契合度。保罗·乔治和凯尔特人队完美契合。",
-      "summary": "他看起来像一个多年来从未有过的自由和目标的人。",
-      "source_url": "https://sports.yahoo.com/articles/nba-fit-paul-george-celtics-120000445.html",
-      "publish_time": "2026-11-14T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-f356afa511bb",
-      "title": "开放话题：马刺队和凯尔特人队在酋长杯比赛中表现出色",
-      "summary": "仍有六支球队保持不败，但其中两支球队已建立起较大的积分差距",
-      "source_url": "https://sports.yahoo.com/articles/open-thread-spurs-celtics-stand-120000729.html",
-      "publish_time": "2026-11-14T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-db7b86ef5288",
-      "title": "太阳队幕后：Collin Gillespie、赛季初的球员交易、板凳深度",
-      "summary": "来自BSotS社区的每周太阳队幕后分析，他们对球队充满热情。",
-      "source_url": "https://sports.yahoo.com/articles/inside-suns-collin-gillespie-early-120000332.html",
-      "publish_time": "2026-11-14T12:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-61ccccc93be3",
-      "title": "圣安东尼奥队迅速击败勇士队",
-      "summary": "马刺队战胜勇士队的精彩集锦。",
-      "source_url": "https://sports.yahoo.com/articles/san-antonio-wastes-no-time-110000717.html",
-      "publish_time": "2026-11-14T11:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-2a86ca0c54c6",
-      "title": "卡索尔助马刺大胜勇士，豪取 11 连胜",
-      "summary": "卡斯尔得分创赛季新高，马刺队豪取11连胜。",
-      "source_url": "https://sports.yahoo.com/articles/castle-spurs-rout-warriors-11th-074855507.html",
-      "publish_time": "2026-11-14T07:48:55+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ba9a8b05e063",
-      "title": "勇士队对阵马刺队球员评分：LJ Cryer表现出色，Yaxel Lendeborg表现不佳",
-      "summary": "评估金州队在以 123-85 输给圣安东尼奥队的比赛中每位球员的表现。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-vs-spurs-player-grades-070454677.html",
-      "publish_time": "2026-11-14T07:04:54+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-77bb09482482",
-      "title": "76人队、布朗在输给凯尔特人队的比赛中度过了“令人沮丧”的一晚",
-      "summary": "杰伦·布朗称凯尔特人队大胜76人队是“令人感到谦卑”的。",
-      "source_url": "https://sports.yahoo.com/articles/sixers-brown-humbling-night-loss-101218318.html",
-      "publish_time": "2026-11-14T07:00:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -7276,86 +7276,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-nba-d801993f69b0",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "波士顿凯尔特人",
-      "away_team": "奥兰多魔术",
-      "match_time": "2026-11-16T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718118",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-95070e998856",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "克利夫兰骑士",
-      "away_team": "芝加哥公牛",
-      "match_time": "2026-11-16T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718119",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-0260a7e22b1a",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "华盛顿奇才",
-      "away_team": "孟菲斯灰熊",
-      "match_time": "2026-11-16T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718120",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-68917971d600",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "布鲁克林篮网",
-      "away_team": "费城76人",
-      "match_time": "2026-11-16T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718121",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-708f4ad56c17",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "迈阿密热火",
-      "away_team": "休斯顿火箭",
-      "match_time": "2026-11-16T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718122",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-b61ae9bb32b4",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "明尼苏达森林狼",
-      "away_team": "波特兰开拓者",
-      "match_time": "2026-11-16T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718123",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-836b2bee0f99",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "新奥尔良鹈鹕",
-      "away_team": "金州勇士",
-      "match_time": "2026-11-16T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718124",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-4c5a62aefecd",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "丹佛掘金",
-      "away_team": "菲尼克斯太阳",
-      "match_time": "2026-11-16T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718125",
-      "tags": []
-    },
-    {
       "id": "mp-nba-6b4dbfe94c64",
       "sport": "basketball",
       "competition": "NBA常规赛",
@@ -7473,6 +7393,86 @@
       "away_team": "底特律活塞",
       "match_time": "2026-11-18T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21718137",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-5fe7e43fad01",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "俄克拉荷马城雷霆",
+      "away_team": "亚特兰大老鹰",
+      "match_time": "2026-11-18T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718138",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-deb5a9146404",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "丹佛掘金",
+      "away_team": "波士顿凯尔特人",
+      "match_time": "2026-11-18T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718139",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-92480861d956",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "达拉斯独行侠",
+      "away_team": "金州勇士",
+      "match_time": "2026-11-18T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718140",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-91182626fd26",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "洛杉矶湖人",
+      "away_team": "犹他爵士",
+      "match_time": "2026-11-18T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718141",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-c781bb0d3e3a",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "萨克拉门托国王",
+      "away_team": "菲尼克斯太阳",
+      "match_time": "2026-11-18T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718142",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-1b6713e11c0e",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "孟菲斯灰熊",
+      "away_team": "金州勇士",
+      "match_time": "2026-11-19T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718143",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-573ae1ef7106",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "密尔沃基雄鹿",
+      "away_team": "波特兰开拓者",
+      "match_time": "2026-11-19T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718144",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-45fc51b94b05",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "明尼苏达森林狼",
+      "away_team": "纽约尼克斯",
+      "match_time": "2026-11-19T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718145",
       "tags": []
     }
   ]
