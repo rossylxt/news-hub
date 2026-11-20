@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:05:13.151681+00:00",
+  "generated_at": "2026-11-20T03:05:22.053546+00:00",
   "news": [
     {
       "id": "ai_cn-26fe97944430",
@@ -962,6 +962,30 @@
       ]
     },
     {
+      "id": "ai_intl-15417601d21a",
+      "title": "苹果可能正在开发自己的AI代理来运行您的Mac",
+      "summary": "iPhone 制造商似乎正在打造能够与 Meta Muse、Instinct、Claude 和 OpenAI Dots 等产品竞争的智能体。",
+      "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "publish_time": "2026-11-20T00:56:01+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ai_intl-cc5563ff1b11",
+      "title": "Anthropic的7位创始人通过创纪录的IPO套现近20亿美元",
+      "summary": "按照上调后的83美元/股IPO价格，Anthropic的七位创始人每人赚取了2.8亿美元，而公司则获得了近1050亿美元。",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "publish_time": "2026-11-20T00:43:50+00:00",
+      "category": "ai_intl",
+      "is_important": false,
+      "tags": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ai_intl-6b24f4e22080",
       "title": "Meta的新款Muse Charm设备售价可能为300美元",
       "summary": "Meta并未否认The Information的报道，只是表示将“很快分享更多信息”，介绍即将推出的AI可穿戴设备。",
@@ -1891,30 +1915,6 @@
       "summary": "英伟达首席财务官科莱特·克雷斯（Colette Kress）将接替深陷丑闻的长期首席执行官黄仁勋（Jensen Huang），担任临时替代者。",
       "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
       "publish_time": "2026-11-12T15:37:29+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-a8b4ef01f1e0",
-      "title": "Norwest通过40亿美元的新基金进一步深入人工智能领域",
-      "summary": "这是该投资公司迄今为止规模最大的基金。",
-      "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "publish_time": "2026-11-12T15:18:14+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-2843d5b0f258",
-      "title": "Fireworks AI遭受网络攻击，黑客得以访问Notion客户的聊天记录",
-      "summary": "这是Fireworks在短短几个月内发生的第二次数据泄露事件。",
-      "source_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-      "publish_time": "2026-11-12T15:02:28+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-e35d758ecfb5",
+      "title": "大岩日本队在A队主教练兼任前的最后一场比赛中，尽管两场比赛均未得分……但在点球大战中战胜埃及队（21张照片）",
+      "summary": "日本U-21国家队于17日在埃及开罗进行了一场国际友谊赛，与埃及U-21国家队以0-0战平。根据本场比赛的规则，比赛通过点球大战决出胜负，日本队以 4-2 获胜。",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463474-463474-pn",
+      "publish_time": "2026-11-20T00:53:05+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-4f9d21dcd459",
       "title": "森保一主教练对未来职业生涯的展望……有意向挑战欧洲主要联赛，“成为日本教练的突破口”，但尚未收到正式邀约",
       "summary": "卸任日本国家队主教练的森保一于18日晚从新加坡返回日本，并在羽田机场接受了媒体采访。关于未来的职业生涯，他表示无论是在日本还是国外，都希望继续从事教练工作，并透露了执教欧洲主要联赛的意愿。 森保主教练自2018年7月起执教日本国家队8年4个…",
@@ -3844,20 +3856,6 @@
       "_raw_summary": "[11.8 ラ・リーガ第12節 ソシエダ 1-0 ラージョ] ラ・リーガは8日、第12節を各地で行い、MF久保建英所属のソシエダがラージョを1-0で下した。久保は公式戦4試合ぶりに先発復帰を果たし、前半途中から数々のチャンスを生み出していたが、後半17分に途中交代。不完全燃焼の勝利ながらも、調子上向きのまま日本代表のシンガポール遠征に合流することとなった。 序盤から主導権を握ったのはホー"
     },
     {
-      "id": "jp_football_euro-1e8d7b5edda6",
-      "title": "曼U在90 +6分钟内故意戏剧性的捆绑子弹！ ！总共8次小冲突，铃木彩在AT的下半场在一系列大扑救中被两颗子弹击中……",
-      "summary": "[11.8英超联赛第10节曼联4-4阿斯顿维拉]阿斯顿维拉8日在英超联赛第10节对阵曼联，在两分的领先优势下半场输掉两分，以4-4分享并赢得1分。G.K.铃木彩多次进行大扑救，挽救了球队，但最终未能完成角踢的高球，错过了。继上一节之后，海波",
-      "source_url": "https://web.gekisaka.jp/news/world/detail/?462859-462859-fl",
-      "publish_time": "2026-11-08T18:59:18+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "マンUが90+6分に意地の劇的同点弾!!合計8発の乱打戦、鈴木彩艶はビッグセーブ連発も後半ATに2発被弾…",
-      "_raw_summary": "[11.8 プレミアリーグ第10節 マンチェスター・ユナイテッド 4-4 アストン・ビラ] アストン・ビラは8日、プレミアリーグ第10節でマンチェスター・ユナイテッドと対戦し、2点リードの後半アディショナルタイムに2点を失い、4-4と勝ち点1を分け合った。GK鈴木彩艶は何度もビッグセーブを披露し、チームを救ったが、最後はコーナーキックのハイボールをクリアし切れず失点。前節に続き、ハイボー"
-    },
-    {
       "id": "football_intl-787063343f8e",
       "title": "巴塞罗那马拉松赛2026年赛程一览",
       "summary": "随着国际比赛日的结束，巴塞罗那正在为一系列艰巨的赛事做准备。汉斯·弗利克的球队将面临西甲、欧冠和国王杯的密集赛程。",
@@ -4818,6 +4816,30 @@
       ]
     },
     {
+      "id": "nba-982278525bae",
+      "title": "卡尔-安东尼·唐斯 is letting his Knicks play speak loudest in face of uncertainty",
+      "summary": "In his own words, this should be an uncomfortable situation for 卡尔-安东尼·唐斯.",
+      "source_url": "https://sports.yahoo.com/articles/karl-anthony-towns-letting-knicks-011937587.html",
+      "publish_time": "2026-11-20T01:19:37+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a01ab80b0895",
+      "title": "勒布朗·詹姆斯 sues makers of 'Bron' app over unauthorized use of his nickname and AI-generated likeness",
+      "summary": "勒布朗·詹姆斯 is suing the makers of an app originially named \"Bron,\" alleging they used his nickname, likeness and star…",
+      "source_url": "https://sports.yahoo.com/articles/lebron-james-sues-makers-bron-222000646.html",
+      "publish_time": "2026-11-19T22:20:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-d8f721124ce9",
       "title": "杰森·塔图姆’s soft technical foul cost the Celtics the game, and it was completely avoidable",
       "summary": "Another soft technical foul for 杰森·塔图姆 cost the Celtics vs. the Nuggets.",
@@ -5747,30 +5769,6 @@
       "summary": "Labaron Philon 在他唯一一次参加 G 联赛的比赛中表现出色，周末在特拉华州的比赛中也有出色表现。",
       "source_url": "https://sports.yahoo.com/articles/delaware-blue-coats-check-labaron-175358851.html",
       "publish_time": "2026-11-16T17:53:58+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-ae817150b2be",
-      "title": "实时更新：76人队力争在对阵状态不佳的篮网队时保持势头",
-      "summary": "76人队踏上征程，力求延续连胜势头。",
-      "source_url": "https://sports.yahoo.com/articles/live-updates-sixers-look-keep-172317743.html",
-      "publish_time": "2026-11-16T17:23:17+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-eec6328d3b6c",
-      "title": "76人与篮网的内幕：费城队如何能在布鲁克林实现背靠背横扫",
-      "summary": "布鲁克林队围绕朱利叶斯·兰德尔和迈克尔·波特二世重组了阵容，但截至周一的战绩为3胜9负，而费城队则力争在两晚内取得两连胜。",
-      "source_url": "https://sports.yahoo.com/articles/inside-sixers-nets-philly-finish-124200994.html",
-      "publish_time": "2026-11-16T17:23:17+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -7260,96 +7258,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-nba-9ecbc23d1a4e",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "亚特兰大老鹰",
-      "away_team": "夏洛特黄蜂",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718147",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-0c99fc83beed",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "布鲁克林篮网",
-      "away_team": "奥兰多魔术",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718148",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-7b73d624e598",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "克利夫兰骑士",
-      "away_team": "印第安纳步行者",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718149",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-6048b7c1bbba",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "底特律活塞",
-      "away_team": "多伦多猛龙",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718150",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-0e7448b45dad",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "芝加哥公牛",
-      "away_team": "华盛顿奇才",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718151",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-3d5cfee29296",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "俄克拉荷马城雷霆",
-      "away_team": "新奥尔良鹈鹕",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718152",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-c8034f7d8667",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "犹他爵士",
-      "away_team": "菲尼克斯太阳",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718153",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-46e45143c437",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "丹佛掘金",
-      "away_team": "休斯顿火箭",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718154",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-cd7607492ed8",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "洛杉矶湖人",
-      "away_team": "萨克拉门托国王",
-      "match_time": "2026-11-20T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718155",
-      "tags": []
-    },
-    {
       "id": "mp-fb-d89823e9722b",
       "sport": "football",
       "competition": "德甲",
@@ -7446,6 +7354,76 @@
       "home_team": "阿拉维斯",
       "away_team": "拉科鲁尼亚",
       "match_time": "2026-11-21T13:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-0b69230137b0",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "科莫",
+      "away_team": "卡利亚里",
+      "match_time": "2026-11-21T14:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-0eb2fd9b5911",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "拉齐奥",
+      "away_team": "莱切",
+      "match_time": "2026-11-21T14:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-1e66e8ee5344",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "柏林联合",
+      "away_team": "莱比锡红牛",
+      "match_time": "2026-11-21T14:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-882d50d523dc",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "门兴格拉德巴赫",
+      "away_team": "多特蒙德",
+      "match_time": "2026-11-21T14:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-bebe4b5944f7",
+      "sport": "football",
+      "competition": "德甲",
+      "home_team": "法兰克福",
+      "away_team": "霍芬海姆",
+      "match_time": "2026-11-21T14:30:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-3ce3e841723b",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "切尔西",
+      "away_team": "利兹联",
+      "match_time": "2026-11-21T15:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-4474ade17ac5",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "阿斯顿维拉",
+      "away_team": "桑德兰",
+      "match_time": "2026-11-21T15:00:00Z",
       "source_url": "https://www.football-data.org/",
       "tags": []
     }
