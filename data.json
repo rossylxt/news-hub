@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-11-21T03:06:09.929119+00:00",
+  "generated_at": "2026-11-21T12:20:37.666455+00:00",
   "news": [
+    {
+      "id": "ai_cn-95e196cc1465",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "summary": "还实现可变形物体操控全球首通",
+      "source_url": "https://www.qbitai.com/2026/11/511779.html",
+      "publish_time": "2026-11-21T06:35:59+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-cf40233c05f8",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "summary": "专为本地部署而生",
+      "source_url": "https://www.qbitai.com/2026/11/511570.html",
+      "publish_time": "2026-11-21T06:32:31+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-ad676aa12ce3",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "summary": "还透露了不少训练背后的秘诀",
+      "source_url": "https://www.qbitai.com/2026/11/511757.html",
+      "publish_time": "2026-11-21T06:30:55+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-3e14d98a12dd",
+      "title": "米哈游发了个VLA论文",
+      "summary": "8B参数，50小时自主运行",
+      "source_url": "https://www.qbitai.com/2026/11/511740.html",
+      "publish_time": "2026-11-20T16:25:26+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-bda120361b80",
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/11/511727.html",
+      "publish_time": "2026-11-20T16:07:39+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-655f81ca1116",
+      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+      "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+      "source_url": "https://www.qbitai.com/2026/11/511722.html",
+      "publish_time": "2026-11-20T12:18:01+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-5f84b3f8f611",
+      "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+      "summary": "联合华为昇腾，五年冲刺十万卡",
+      "source_url": "https://www.qbitai.com/2026/11/511679.html",
+      "publish_time": "2026-11-20T08:59:15+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-52367669c8af",
       "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
@@ -871,90 +955,6 @@
       "summary": "加速东部城市型智算中心向E-AIDC演进",
       "source_url": "https://www.qbitai.com/2026/11/508985.html",
       "publish_time": "2026-11-10T07:33:19+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-d1fece33e063",
-      "title": "Token卷到触觉了！机器人终于有了通用手感",
-      "summary": "蚂蚁灵波开源LingBot-Touch",
-      "source_url": "https://www.qbitai.com/2026/11/508919.html",
-      "publish_time": "2026-11-10T07:26:53+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-5e00b51f6f70",
-      "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-      "summary": "作曲、拍片、3D建模一条龙全包圆",
-      "source_url": "https://www.qbitai.com/2026/11/508912.html",
-      "publish_time": "2026-11-10T07:03:43+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-008a9f99ccfc",
-      "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
-      "summary": "速度提了，API价格降了",
-      "source_url": "https://www.qbitai.com/2026/11/508828.html",
-      "publish_time": "2026-11-10T02:48:22+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-de55891e8e09",
-      "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
-      "summary": "办公AI结束单机模式",
-      "source_url": "https://www.qbitai.com/2026/11/508798.html",
-      "publish_time": "2026-11-10T01:27:09+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-24614d115b49",
-      "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
-      "summary": "投毒 → 耗尽预算 → 诱导误判",
-      "source_url": "https://www.qbitai.com/2026/11/508787.html",
-      "publish_time": "2026-11-09T22:11:49+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-ead0ef73927e",
-      "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
-      "summary": "量子位在寻找“能干”的答案",
-      "source_url": "https://www.qbitai.com/2026/11/508745.html",
-      "publish_time": "2026-11-09T10:23:18+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-357dcfa7d17f",
-      "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
-      "summary": "香港金融科技周 x StartmeupHK 2026十一月六日圆满结束。",
-      "source_url": "https://www.qbitai.com/2026/11/508753.html",
-      "publish_time": "2026-11-09T09:58:33+00:00",
       "category": "ai_cn",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,30 @@
       ]
     },
     {
+      "id": "jp_football_euro-077a20d6b124",
+      "title": "日本U-17世界杯首战首发阵容公布！！ 对阵南美冠军哥伦比亚队，北原、元砂等 5 名职业球员悉数登场",
+      "summary": "日本U-17国家队将于21日在卡塔尔举行的U-17世界杯L组第1轮比赛中对阵哥伦比亚。在东京时间晚上 9 点 30 分开球前，首发阵容已公布。 日本队在5月份的U17亚洲杯中夺冠，将以亚洲冠军的身份参加本届赛事。阵型为3-4-2-1，门将为…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463614-463614-fl",
+      "publish_time": "2026-11-21T11:16:54+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-f727fd9b708f",
+      "title": "日本对哥伦比亚 首发阵容公布",
+      "summary": "[11月21日 U-17世界杯第一轮]（多哈）※21:30开球主裁判：威利·德拉乔[日本]首发门将 1 大下幸诚后卫 3 元砂晏翔仁·乌登巴后卫 5 仓桥幸晖后卫 13 埃泽莫奎·奇梅泽·海中场 14 中岛璃久中场 7 和田武士中场 16…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463615-463615-fl",
+      "publish_time": "2026-11-21T11:10:19+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-d916b332a4b8",
       "title": "作为队长第二次参加U-17世界杯……即使在职业赛场上也能获得更多出场机会的后卫元砂晏翔仁·乌登巴（鹿岛）：“我想带着自信参加本届赛事。”",
       "summary": "去年，U-17世界杯以令人遗憾的方式落幕，今年他将以队长的身份出战。U-17日本队后卫元砂晏翔仁·乌登巴（鹿岛）在U-17世界杯首场对阵哥伦比亚的比赛前一天的训练结束后接受了采访，他表示：“我知道首场比赛非常重要”，并绷紧了神经。 2009…",
@@ -3024,6 +3048,20 @@
       "tags": [
         "ゲキサカ 日本代表"
       ]
+    },
+    {
+      "id": "jp_football_euro-9336cdbb0c8d",
+      "title": "圣特雷登对阵聚尔特瓦雷赫姆首发阵容公布",
+      "summary": "[11月8日 比利时联赛第11轮]（大和芥末体育场）※27:15开球[圣特雷登]首发门将 16 小久保玲央·布莱恩后卫 5 谷口彰悟后卫 23 J. 普佩后卫 26 比萨尔·穆斯柳后卫 60 罗伯特扬·范韦塞马尔中场 8 阿卜杜拉耶·西萨科…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?462853-462853-fl",
+      "publish_time": "2026-11-19T16:10:02+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "シントトロイデンvsズルテ・ワレヘム スタメン発表",
+      "_raw_summary": "[11.8 ベルギー・リーグ第11節](Daio Wasabi Stayen Stadium)※27:15開始[シントトロイデン]先発GK 16 小久保玲央ブライアンDF 5 谷口彰悟DF 23 J. PupeDF 26 ビサル・ムスリウDF 60 ロベルトヤン・バンウェセマールMF 8 アブドゥライェ・シッサコMF 10 イリアス・セバウィMF"
     },
     {
       "id": "jp_football_euro-4f9d21dcd459",
@@ -3801,42 +3839,6 @@
       "summary": "日本国家队中场球员久保建英在本赛季的皇家社会队中排名大幅下降，部分原因在于他在北美中北美洲世界杯首场比赛中左膝受伤而导致状态迟迟未恢复。然而，在加入国家队前夕进行的第13轮对阵巴列卡诺的比赛（1-0）中，他时隔4场正式比赛再次首发出场，并前…",
       "source_url": "https://web.gekisaka.jp/news/japan/detail/?463011-463011-fl",
       "publish_time": "2026-11-11T20:39:38+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-f07c88d22afb",
-      "title": "世界杯对阵巴西的比赛“如果我在场上……”町田浩树吐露了无奈的心情，完全复苏的使命是“需要一名能够与对手人数相当地防守的后卫”",
-      "summary": "在德甲联赛首秀中遭遇重伤 1 年 3 个月后，后卫町田浩树（霍芬海姆）以更加成熟的风采重返日本国家队。虽然因重伤而失去了参加北美洲世界杯的目标，但他对国家队的渴望依然未变。在11日集训的第一天训练结束后，町田接受了媒体的采访，他表示：“在世…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463010-463010-fl",
-      "publish_time": "2026-11-11T19:16:23+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-3e5b09a72952",
-      "title": "南野拓实“作为一名球员”回归，带着喜悦和“斗志”加入国家队，“与第一次入选时的心情一样”",
-      "summary": "在因一次严重的意外受伤而失去了参加世界杯的荣誉约11个月后，中场球员南野拓实（摩纳哥）再次回归日本国家队。 时隔一年重返国家队，这次不是以在中北美世界杯上担任的导师角色，而是作为一支坚实的战斗力量。在11日归队首日的训练结束后，南野接受了媒…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463009-463009-fl",
-      "publish_time": "2026-11-11T17:24:15+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-b79ad00e953b",
-      "title": "高中毕业后即前往欧洲3年半……22岁前锋福田师王在经历“充满艰辛”的历练后首次入选国家队：“既然入选了，就要拿出成绩。”",
-      "summary": "这位有天赋的前锋在毕业于神村学园高中三年半后，没有经过J联赛的历练就直接前往欧洲踢球，如今终于登上了日本国家队的舞台。前锋福田师王（卡尔斯鲁厄）在11日，也就是他加入球队的第一天训练结束后，接受了媒体的采访。谈到国家队前锋的竞争，他说：“既…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463007-463007-fl",
-      "publish_time": "2026-11-11T16:21:08+00:00",
       "category": "jp_football_euro",
       "is_important": false,
       "tags": [
@@ -4804,6 +4806,570 @@
       ]
     },
     {
+      "id": "nba-458cdfdb6938",
+      "title": "NBA球队评分：30支球队首月成绩单",
+      "summary": "NBA赛季第一个月结束后，是时候给每支球队打分了。6支球队获得了A级，10支球队获得了D级或F级。",
+      "source_url": "https://sports.yahoo.com/articles/nba-team-grades-report-card-110749452.html",
+      "publish_time": "2026-11-21T11:07:49+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-923c03746207",
+      "title": "哈登超越科比，达成50分场次纪录",
+      "summary": "随着克利夫兰骑士队在NBA杯中以128-119击败印第安纳步行者队，詹姆斯·哈登在NBA单场得分50分的历史榜单上跃居第三位。",
+      "source_url": "https://sports.yahoo.com/articles/harden-passes-bryant-50-point-091023933.html",
+      "publish_time": "2026-11-21T10:18:14+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d254fc674aad",
+      "title": "比赛预览：圣安东尼奥马刺队对阵新奥尔良鹈鹕队",
+      "summary": "马刺队欢迎西南赛区的一支兄弟球队来到弗罗斯特银行中心",
+      "source_url": "https://sports.yahoo.com/articles/game-preview-san-antonio-spurs-080500098.html",
+      "publish_time": "2026-11-21T08:05:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-75883e933601",
+      "title": "球员评分：湖人队对国王队",
+      "summary": "对湖人队在以 106-104 战胜国王队的比赛中每位球员的表现进行评分。",
+      "source_url": "https://sports.yahoo.com/articles/player-grades-lakers-vs-kings-072726713.html",
+      "publish_time": "2026-11-21T07:27:26+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-69a51c7c555d",
+      "title": "湖人队在战胜国王队的比赛中需要每个人的贡献",
+      "summary": "湖人队全队上下齐心协力，加上沃克·凯斯勒的三分球，最终战胜了国王队。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-needed-little-bit-everyone-071840934.html",
+      "publish_time": "2026-11-21T07:18:40+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-69cf087f1496",
+      "title": "火箭队在丹佛表现不佳，以 133-124 落败",
+      "summary": "又是一年没有猎鹰",
+      "source_url": "https://sports.yahoo.com/articles/rockets-sputter-denver-133-124-071019667.html",
+      "publish_time": "2026-11-21T07:10:19+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b0dd2d885564",
+      "title": "76人队又变得有看头了，所以Roob的76人队数据分析也回来了！",
+      "summary": "一些相当惊人的统计数据，东部领头羊76人队本赛季的战绩为13胜3负。",
+      "source_url": "https://sports.yahoo.com/articles/76ers-fun-again-return-roobs-121311032.html",
+      "publish_time": "2026-11-21T07:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-283240dd1a69",
+      "title": "比赛预览：尼克斯对开拓者，2026年11月21日",
+      "summary": "尼克斯队周六晚上将在麦迪逊广场花园迎战状态出人意料的波特兰队。",
+      "source_url": "https://sports.yahoo.com/articles/game-preview-knicks-vs-trail-070000497.html",
+      "publish_time": "2026-11-21T07:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b502ecca9e2e",
+      "title": "经过漫长的日子和“痛苦”的几周后，Barlow似乎即将迎来在76人队的赛季首秀",
+      "summary": "多米尼克·巴洛即将迎来他的2026-27赛季首秀。",
+      "source_url": "https://sports.yahoo.com/articles/barlow-looks-set-season-debut-171031696.html",
+      "publish_time": "2026-11-21T07:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e751207d25aa",
+      "title": "篮网队的莫里茨·瓦格纳在“最矛盾的比赛之一”中输给弟弟后感到失望",
+      "summary": "第一场比赛让他很受打击，他不得不看着弟弟在比赛还剩 2.8 秒时为他的球队拿下 35 分，包括一记绝杀球，而这场比赛是篮网队必须拿下的。",
+      "source_url": "https://sports.yahoo.com/articles/nets-moritz-wagner-disappointed-losing-062621152.html",
+      "publish_time": "2026-11-21T06:26:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9a27e02c7be4",
+      "title": "犹他爵士队对阵菲尼克斯太阳队：球员评分",
+      "summary": "一场非常艰苦的篮球比赛",
+      "source_url": "https://sports.yahoo.com/articles/utah-jazz-vs-phoenix-suns-062432938.html",
+      "publish_time": "2026-11-21T06:24:32+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e48292ebc06e",
+      "title": "比赛回顾：太阳队顶住爵士队末段反扑，以111-101赢得NBA杯胜利",
+      "summary": "在以1胜5负开局后，凤凰城队在最近9场比赛中赢得了7场，并继续保持势头。",
+      "source_url": "https://sports.yahoo.com/articles/game-recap-suns-survive-jazz-061458998.html",
+      "publish_time": "2026-11-21T06:14:58+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c146cfea75cc",
+      "title": "湖人队险胜弱旅国王队，重回正轨",
+      "summary": "湖人队再次在与联盟最弱球队之一的比赛中苦苦挣扎。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-squeak-lowly-kings-back-054352299.html",
+      "publish_time": "2026-11-21T05:43:52+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-03e4801d33ba",
+      "title": "昆汀·格莱姆斯在最后时刻投进三分球，帮助湖人队险胜国王队",
+      "summary": "在周五晚上的比赛中，湖人队上半场表现不佳，但在最后几秒钟，昆汀·格莱姆斯投中三分球，湖人队得以险胜。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-hold-off-kings-narrow-054045567.html",
+      "publish_time": "2026-11-21T05:40:45+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1a1c7bd2e5c2",
+      "title": "哈登砍下51分，带领骑士队战胜步行者队",
+      "summary": "詹姆斯·哈登的 51 分表现帮助骑士队赢得了 NBA 杯冠军。",
+      "source_url": "https://sports.yahoo.com/articles/harden-51-points-leads-cavs-053540840.html",
+      "publish_time": "2026-11-21T05:35:40+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5828357b16d6",
+      "title": "菲尼克斯太阳队对阵犹他爵士队：赛事回顾和最终比分",
+      "summary": "又一场表现不佳的比赛让犹他队再次尝到败绩。",
+      "source_url": "https://sports.yahoo.com/articles/phoenix-suns-vs-utah-jazz-053249018.html",
+      "publish_time": "2026-11-21T05:32:49+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b8ef1c8d4b9f",
+      "title": "湖人队在糟糕的比赛中艰难取胜，击败国王队",
+      "summary": "湖人队周五的表现并不令人信服，但足以让国王队下台。",
+      "source_url": "https://sports.yahoo.com/articles/lakers-survive-ugly-game-down-053009053.html",
+      "publish_time": "2026-11-21T05:30:09+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0e9e140d7c0c",
+      "title": "这次艰难的客场之旅足以让尼克斯队重振雄风",
+      "summary": "这有助于摆脱困境。",
+      "source_url": "https://sports.yahoo.com/articles/gritty-road-trip-enough-knicks-043209758.html",
+      "publish_time": "2026-11-21T04:32:09+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-41bba167617e",
+      "title": "布鲁克林篮网队在对阵魔术队的比赛中奋力拼搏，但以 113-111 的遗憾比分落败。",
+      "summary": "对于布鲁克林篮网队来说，遗憾的是，精神胜利在积分榜上并不算数。",
+      "source_url": "https://sports.yahoo.com/articles/brooklyn-nets-respond-fight-not-042421685.html",
+      "publish_time": "2026-11-21T04:24:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-155e840ed612",
+      "title": "奇才对公牛的最终比分：华盛顿以 98-94 获胜",
+      "summary": "周五晚，华盛顿奇才队以98-94击败芝加哥公牛队，取得两连胜，战绩提升至6胜11负。安东尼·戴维斯拿下36分和11个篮板，带领奇才队取得胜利。AJ·迪班扎也贡献了20分和10个篮板。芝加哥方面，诺曼·鲍威尔以16分领衔全队。华盛顿的 […]",
+      "source_url": "https://sports.yahoo.com/articles/wizards-bulls-final-score-washington-041938463.html",
+      "publish_time": "2026-11-21T04:19:38+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-03913ea59468",
+      "title": "詹姆斯·哈登单场轰下 51 分，在 50 分得分场次榜上超越科比·布莱恩特",
+      "summary": "詹姆斯·哈登周五重现巅峰状态，让NBA对手和球迷再次领略到他为何是联盟历史上最出色的得分手之一。",
+      "source_url": "https://sports.yahoo.com/articles/james-harden-erupts-51-pass-040745419.html",
+      "publish_time": "2026-11-21T04:07:45+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-64449ac042ab",
+      "title": "2026 年 NBA 杯：詹姆斯·哈登在骑士队战胜步行者队的比赛中拿下 51 分；兵力不足的猛龙队击败活塞队，结束 6 连败",
+      "summary": "哈登在对阵克利夫兰的比赛中首次得分50+，多伦多的斯科蒂·巴恩斯在关键时刻力压底特律的凯德·坎宁安。",
+      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/nba-cup-2026-james-harden-puts-up-51-in-cavs-win-over-pacers-shorthanded-raptors-fend-off-pistons-end-6-game-skid-040246744.html",
+      "publish_time": "2026-11-21T04:02:46+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-ba0eb68a384d",
+      "title": "湖人本赛季的表现超乎预期，但阵容并非夺冠之材：业内人士如是说",
+      "summary": "在2026-27赛季初期，湖人队已成为西部联盟的顶级球队之一。但并非所有人都相信洛杉矶的竞技水平能够持续下去。在……",
+      "source_url": "https://sports.yahoo.com/articles/lakers-exceeding-expectations-season-roster-035743117.html",
+      "publish_time": "2026-11-21T03:57:43+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-d11717e92e68",
+      "title": "篮网队大换血，但结果却是令人心碎的四连败",
+      "summary": "球队会议。阵容变动。不惜一切代价。布鲁克林队尝试了各种方法来扭转三连败的颓势。",
+      "source_url": "https://sports.yahoo.com/articles/nets-shake-everything-outcome-heartbreaking-034116642.html",
+      "publish_time": "2026-11-21T03:41:16+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-caf84bb290a8",
+      "title": "活塞对猛龙的最终比分：凯德与斯科蒂的对决以猛龙获胜告终",
+      "summary": "凯德·坎宁安不敌前高中队友",
+      "source_url": "https://sports.yahoo.com/articles/pistons-vs-raptors-final-score-032820679.html",
+      "publish_time": "2026-11-21T03:28:20+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-28d76fd8515a",
+      "title": "火箭队瞄准与掘金队的NBA杯对决",
+      "summary": "Alpie会踢球吗？他会的！",
+      "source_url": "https://sports.yahoo.com/articles/rockets-eye-nba-cup-match-023000463.html",
+      "publish_time": "2026-11-21T02:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e6d4b9a2955d",
+      "title": "老鹰队以 111-97 击败黄蜂队，保留了 NBA 杯的希望",
+      "summary": "在杯中保持活力。",
+      "source_url": "https://sports.yahoo.com/articles/hawks-keep-nba-cup-chances-022223402.html",
+      "publish_time": "2026-11-21T02:22:23+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-8c72e7ffcfc6",
+      "title": "凯尔特人对阵国王队时可能缺少两名首发球员",
+      "summary": "杰森·塔图姆和德里克·怀特出战萨克拉门托国王队的可能性均存疑。",
+      "source_url": "https://sports.yahoo.com/articles/celtics-could-without-two-starters-020541383.html",
+      "publish_time": "2026-11-21T02:05:41+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-40bc44a4131e",
+      "title": "莫里茨·瓦格纳（Moritz Wagner）首次有机会与他的兄弟弗朗茨（Franz）交手，这简直“尴尬”至极。",
+      "summary": "布鲁克林篮网队的莫里茨·瓦格纳（Moritz Wagner）在NBA效力了九年，活了二十多年，但他从未在正式比赛中与他的弟弟弗朗茨（Franz）交手过。",
+      "source_url": "https://sports.yahoo.com/articles/moritz-wagner-first-ever-chance-015201415.html",
+      "publish_time": "2026-11-21T01:52:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0706dc8f1caf",
+      "title": "在查尔斯·巴克利大力推荐后，贾伦·罗斯承认对《Inside the NBA》的工作感兴趣",
+      "summary": "查尔斯·巴克利已经有了人选，希望此人能接替他在《Inside the NBA》中的位置。",
+      "source_url": "https://sports.yahoo.com/articles/jalen-rose-admits-interest-inside-014631453.html",
+      "publish_time": "2026-11-21T01:46:31+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-b892531fd624",
+      "title": "赛事贴：菲尼克斯太阳队对阵犹他爵士队",
+      "summary": "凤凰城队能否取得三连胜？",
+      "source_url": "https://sports.yahoo.com/articles/game-thread-phoenix-suns-vs-013000032.html",
+      "publish_time": "2026-11-21T01:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-50a5c4b308c7",
+      "title": "比赛预览#17：森林狼对灰熊的讨论帖",
+      "summary": "这是一场“谁能晋级东部联盟”的对决！",
+      "source_url": "https://sports.yahoo.com/articles/game-preview-17-wolves-vs-010000150.html",
+      "publish_time": "2026-11-21T01:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-297a8dd21f1a",
+      "title": "尤素夫·努尔基奇伤情最新通报已发布",
+      "summary": "尤素夫·努尔基奇的伤情最新消息",
+      "source_url": "https://sports.yahoo.com/articles/jusuf-nurkic-injury-released-003605409.html",
+      "publish_time": "2026-11-21T00:36:05+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-7470c547d164",
+      "title": "骑士队对步行者队比赛帖",
+      "summary": "在最后一刻输给灰熊队后，克利夫兰队将力争扳回一城。",
+      "source_url": "https://sports.yahoo.com/articles/cavs-vs-pacers-game-thread-003000562.html",
+      "publish_time": "2026-11-21T00:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-1da4201f5eca",
+      "title": "独行队主场迎战洛杉矶快船队，又是一场有望取胜的比赛，对此有3点看法",
+      "summary": "拿下本该赢下的比赛正成为年轻独行侠的关键。",
+      "source_url": "https://sports.yahoo.com/articles/3-thoughts-mavericks-face-another-000400677.html",
+      "publish_time": "2026-11-21T00:04:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-7577d5493faf",
+      "title": "活塞对猛龙赛事讨论：比赛时间、电视转播、赔率等",
+      "summary": "底特律有望将多伦多的连败场次延长至七场",
+      "source_url": "https://sports.yahoo.com/articles/pistons-vs-raptors-discussion-game-000000408.html",
+      "publish_time": "2026-11-21T00:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-46c62a9b0074",
+      "title": "直播讨论：奥兰多魔术队对阵布鲁克林篮网队，美国东部时间晚上7:30",
+      "summary": "篮网队成功地将ABA之夜变成了一次痛苦的经历。朱利叶斯·欧文和冠军球队的成员在场，布鲁克林队却在对阵芝加哥队的比赛中以30分的劣势惨败。J博士表示，他“完全料到篮网队会在我们到场的情况下士气高涨”。他抱有更高的期望并不完全是错的。朱利叶斯……",
+      "source_url": "https://sports.yahoo.com/articles/live-discussion-orlando-magic-brooklyn-235000046.html",
+      "publish_time": "2026-11-20T23:50:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-cabb8b91cf1f",
+      "title": "奇才对公牛的讨论",
+      "summary": "华盛顿奇才队（5胜11负）周三以103-99击败多伦多猛龙队，终于结束了八连败。AJ·迪班扎砍下职业生涯最高的23分，基肖恩·乔治也贡献了20分，帮助球队拿下这场亟需的胜利。奇才队将于周五前往芝加哥，迎战公牛队（4胜10负），后者在过去5场…",
+      "source_url": "https://sports.yahoo.com/articles/wizards-bulls-discussion-233000673.html",
+      "publish_time": "2026-11-20T23:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a6c7a46e3fcb",
+      "title": "CSR 周末勇士",
+      "summary": "这是专为您准备的全新周末开放话题。",
+      "source_url": "https://sports.yahoo.com/articles/csr-weekend-warriors-230000334.html",
+      "publish_time": "2026-11-20T23:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f74a9f911e02",
+      "title": "黄蜂队对老鹰队：开赛时间、电视转播、流媒体直播、电台直播、比赛讨论串",
+      "summary": "有机会拿下第 10 场胜利。",
+      "source_url": "https://sports.yahoo.com/articles/hornets-hawks-start-time-tv-225640843.html",
+      "publish_time": "2026-11-20T22:56:40+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9745acbe0bf8",
+      "title": "勇士队的前景看起来不妙，但他们可以挺过去。",
+      "summary": "坏消息是，勇士队正处于自由落体状态，他们已连输五场比赛，其中最近四场比赛的输球分差均达到20分或以上。好消息是？他们还能挺住……",
+      "source_url": "https://sports.yahoo.com/articles/things-look-bleak-warriors-survive-223220770.html",
+      "publish_time": "2026-11-20T22:32:20+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4845f477d74e",
+      "title": "布兰登·英格拉姆预计将很快代表快船队迎来本赛季首秀",
+      "summary": "据报道，布兰登·英格拉姆将于11月23日星期一代表洛杉矶快船队对阵休斯敦火箭队，迎来本赛季的首秀。",
+      "source_url": "https://sports.yahoo.com/articles/brandon-ingram-expected-season-debut-223015446.html",
+      "publish_time": "2026-11-20T22:30:15+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-6875b260f36e",
+      "title": "多米尼克·巴洛可能出战，杰伦·布朗将缺席 76 人对雄鹿的比赛",
+      "summary": "多米尼克·巴洛似乎将于周六迎来本赛季首秀，但 76 人队在对阵雄鹿队时仍无法全员出战。",
+      "source_url": "https://sports.yahoo.com/articles/dominick-barlow-probable-jaylen-brown-222044017.html",
+      "publish_time": "2026-11-20T22:20:44+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e0b1cae3c108",
+      "title": "演职员表：《伴我同行》",
+      "summary": "勇士队在没有斯蒂芬·库里的情况下一路溃败，活塞队可能是强有力的竞争者，以及更多内容",
+      "source_url": "https://sports.yahoo.com/articles/credits-stand-220443811.html",
+      "publish_time": "2026-11-20T22:04:43+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f3c9df8b124b",
+      "title": "布兰登·英格拉姆预计将于周一快船对阵火箭的比赛中迎来本赛季首秀",
+      "summary": "自5月接受手术修复部分撕裂的跟腱以来，英格拉姆一直处于休战状态，该损伤是在为他切除脚跟骨刺时发现的。",
+      "source_url": "https://sports.yahoo.com/nba/article/brandon-ingram-expected-to-make-season-debut-for-clippers-on-monday-vs-rockets-220424174.html",
+      "publish_time": "2026-11-20T22:02:53+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f12bf4fdabb7",
+      "title": "波士顿凯尔特人队每日链接 11/20/26",
+      "summary": "您需要的所有凯尔特人队新闻尽在一处，方便快捷。",
+      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-212243560.html",
+      "publish_time": "2026-11-20T21:22:43+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-4dcaab622dc8",
+      "title": "布兰登·英格拉姆将于周一对阵火箭队，迎来本赛季快船队首秀",
+      "summary": "自5月接受脚跟手术发现跟腱部分撕裂以来，英格拉姆一直处于休战状态。",
+      "source_url": "https://sports.yahoo.com/articles/brandon-ingram-set-clippers-season-211201043.html",
+      "publish_time": "2026-11-20T21:12:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-c018095e49fe",
       "title": "Watch 维克托·文班亚马's dunk... or 'shrunk' — a jump shot down into the rim",
       "summary": "维克托·文班亚马 has 72 dunks this season, which is more than 20 NBA teams.",
@@ -5200,568 +5766,18 @@
       ]
     },
     {
-      "id": "nba-0678a90627fd",
-      "title": "湖人队的昆汀·格莱姆斯如何希望保持火热的手感，即使是替补上场",
-      "summary": "随着奥斯汀·里夫斯即将回归阵容，格莱姆斯和主教练JJ·雷迪克继续寻找让后卫保持进攻节奏的方法。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-quentin-grimes-wants-maintain-233728372.html",
-      "publish_time": "2026-11-19T23:37:28+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-a0cbd99f7d19",
+      "title": "【锦标赛预选赛】桐光学园在点球大战中赢得神奈川县半决赛。在决赛中失利，未能时隔 5 年再次进军全国大赛（33 张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，桐光学园高中以1-1（点球3-2）的比分战胜川崎市立橘高中。桐光学园在决赛中落败，获得亚军。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463550-463550-pn",
+      "publish_time": "2026-11-21T03:32:59+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-9f604518ba2f",
-      "title": "保罗·乔治在费城回归时扭转了局面，也扭转了人们的看法。",
-      "summary": "前76人球员PG-13独得36分，随后解释了让他重返赛场获得R级评分的底线交换。",
-      "source_url": "https://sports.yahoo.com/articles/paul-george-flips-script-bird-023500511.html",
-      "publish_time": "2026-11-19T23:28:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-f76c54293a4e",
-      "title": "孟菲斯灰熊队向勇士队展示新一代球员的风采",
-      "summary": "斯蒂芬·库里已经熬过了灰熊队的两个版本。今晚，勇士队将在没有他的情况下迎战第三个版本的灰熊队。",
-      "source_url": "https://sports.yahoo.com/articles/memphis-grizzlies-showing-warriors-generation-231429228.html",
-      "publish_time": "2026-11-19T23:14:29+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-106242bd2681",
-      "title": "Walker Kessler相信湖人队将从输给爵士队的比赛中强势反弹",
-      "summary": "凯斯勒已准备好从失利中吸取教训，并着眼于周五的比赛",
-      "source_url": "https://sports.yahoo.com/articles/walker-kessler-confident-lakers-bounce-225709452.html",
-      "publish_time": "2026-11-19T22:57:09+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-81a7b5475e7a",
-      "title": "湖人队明星坦诚谈论公众苛刻审视对NBA球员的压力",
-      "summary": "成为NBA球员有许多好处，但也伴随着一些困难。湖人队明星球员沃克·凯斯勒坦诚地谈到，他曾亲眼目睹球员如何失去对……的热爱。",
-      "source_url": "https://sports.yahoo.com/articles/lakers-star-gets-honest-public-225146277.html",
-      "publish_time": "2026-11-19T22:51:46+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a01ab80b0895",
-      "title": "勒布朗·詹姆斯 sues makers of 'Bron' app over unauthorized use of his nickname and AI-generated likeness",
-      "summary": "勒布朗·詹姆斯 is suing the makers of an app originially named \"Bron,\" alleging they used his nickname, likeness and star…",
-      "source_url": "https://sports.yahoo.com/articles/lebron-james-sues-makers-bron-222000646.html",
-      "publish_time": "2026-11-19T22:20:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-29d7127a1f56",
-      "title": "波士顿凯尔特人队每日链接 11/19/26",
-      "summary": "您需要的所有凯尔特人队新闻尽在一处，方便快捷。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-213738124.html",
-      "publish_time": "2026-11-19T21:37:38+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d4ea80e63ca0",
-      "title": "马刺队的迪伦·哈珀避免了重大伤病，但由于臀部拉伤，可能要休战 2-3 周。",
-      "summary": "本周Harper在球场上摔倒时，情况似乎本可以更糟。",
-      "source_url": "https://sports.yahoo.com/articles/spurs-dylan-harper-avoids-major-213732101.html",
-      "publish_time": "2026-11-19T21:37:32+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-8ff3551b9cf3",
-      "title": "Dylan Harper避免了严重的臀部受伤，马刺队松了一口气",
-      "summary": "据报道，圣安东尼奥马刺队后卫迪伦·哈珀（Dylan Harper）左髋关节旋转肌拉伤，预计将缺席一至三周。",
-      "source_url": "https://sports.yahoo.com/articles/dylan-harper-injury-spurs-guard-213551125.html",
-      "publish_time": "2026-11-19T21:35:51+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-2a249bbc4840",
-      "title": "猛龙队的RJ·巴雷特因右腿腘绳肌拉伤而缺阵，科林·穆雷-博伊尔斯进入脑震荡观察期",
-      "summary": "过去几周，Barrett 一直在处理腘绳肌问题，而 Murray-Broyles 则因病缺席了周二的比赛。",
-      "source_url": "https://sports.yahoo.com/nba/article/raptors-rj-barrett-out-with-strained-right-hamstring-collin-murray-boyles-placed-in-concussion-protocol-213115733.html",
-      "publish_time": "2026-11-19T21:31:15+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-bf877911d907",
-      "title": "如何观看勇士队对灰熊队的比赛",
-      "summary": "金州勇士队篮球赛即将开赛！快来加入我们的比赛话题，在这里聊聊今晚的对决。",
-      "source_url": "https://sports.yahoo.com/articles/watch-warriors-vs-grizzlies-210000553.html",
-      "publish_time": "2026-11-19T21:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-06bbcad63994",
-      "title": "这一举措将为太阳队带来回报。",
-      "summary": "现在是TImme时间了吗？",
-      "source_url": "https://sports.yahoo.com/articles/move-prove-pay-off-suns-210000526.html",
-      "publish_time": "2026-11-19T21:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4f6df5ddabcf",
-      "title": "迪伦·哈珀因左髋外旋肌拉伤可能休战2-3周",
-      "summary": "这比腹股沟拉伤要好得多。",
-      "source_url": "https://sports.yahoo.com/articles/dylan-harper-could-miss-2-203139960.html",
-      "publish_time": "2026-11-19T20:31:39+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-dc041d683067",
-      "title": "据报道，马刺队后卫Dylan Harper预计将因左髋关节盂唇拉伤而缺席长达3周的比赛。",
-      "summary": "哈珀是在周二圣安东尼奥队输给底特律活塞队时受伤的。",
-      "source_url": "https://sports.yahoo.com/nba/article/spurs-guard-dylan-harper-reportedly-expected-to-miss-up-to-3-weeks-with-left-rotator-hip-strain-201347589.html",
-      "publish_time": "2026-11-19T20:12:37+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-55100c88062c",
-      "title": "森林狼队明星球员安东尼·爱德华兹谈及接受膝盖手术的决定，表示没有明确的复出时间表：“只要我的膝盖告诉我它准备好了，我就准备好了。”",
-      "summary": "Edwards 于 10 月 27 日接受了右膝关节镜手术，预计将缺席数月。",
-      "source_url": "https://sports.yahoo.com/nba/article/timberwolves-star-anthony-edwards-speaks-on-decision-to-undergo-knee-surgery-has-no-clear-return-timeline-whenever-my-knee-tells-me-its-ready-then-ill-be-ready-200950484.html",
-      "publish_time": "2026-11-19T20:09:50+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b5157e6f7655",
-      "title": "勇士队在输给灰熊队的比赛中三分球命中率低迷，我们从中汲取了哪些教训",
-      "summary": "达尔顿·约翰逊（Dalton Johnson）总结了金州勇士队周四晚在联邦快递广场体育馆（FedExForum）输给孟菲斯灰熊队的比赛的三个要点。",
-      "source_url": "https://sports.yahoo.com/articles/learned-warriors-3-point-shooting-194916463.html",
-      "publish_time": "2026-11-19T19:49:16+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1b40b3762aba",
-      "title": "安东尼·爱德华兹：“我从来不想做手术”，目前没有复出时间表",
-      "summary": "Ant什么时候会回归？“我不知道。只要我的膝盖告诉我它准备好了，我就准备好了。”",
-      "source_url": "https://sports.yahoo.com/articles/anthony-edwards-never-wanted-surgery-194430652.html",
-      "publish_time": "2026-11-19T19:44:30+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-1d96d3fadf06",
-      "title": "卢卡·东契奇表示，疲劳不能成为湖人输给爵士的借口",
-      "summary": "东契奇对自己糟糕的表现承担了责任，并表示作为球队的领袖，他“必须做得更好”。",
-      "source_url": "https://sports.yahoo.com/articles/luka-don-says-fatigue-t-194238233.html",
-      "publish_time": "2026-11-19T19:42:38+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d8f721124ce9",
-      "title": "杰森·塔图姆’s soft technical foul cost the Celtics the game, and it was completely avoidable",
-      "summary": "Another soft technical foul for 杰森·塔图姆 cost the Celtics vs. the Nuggets.",
-      "source_url": "https://sports.yahoo.com/articles/jayson-tatum-soft-technical-foul-152955858.html",
-      "publish_time": "2026-11-19T15:29:55+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c34547f2d802",
-      "title": "Steve Kerr shuts down idea of 德雷蒙德·格林 coming off Warriors' bench",
-      "summary": "Golden State Warriors coach Steve Kerr explained why he does not consider taking 德雷蒙德·格林 out of the starting line…",
-      "source_url": "https://sports.yahoo.com/articles/steve-kerr-shuts-down-idea-121710505.html",
-      "publish_time": "2026-11-19T12:17:10+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-38d1b1acfb77",
-      "title": "凯里·欧文 showed love to his former fan, Warriors rookie Yaxel Lendeborg",
-      "summary": "After the Golden State Warriors lost to the Dallas Mavericks, guard 凯里·欧文 showed some love to his longtime suppor…",
-      "source_url": "https://sports.yahoo.com/articles/kyrie-irving-showed-love-former-094521762.html",
-      "publish_time": "2026-11-19T09:45:21+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-add7ea8b0f86",
-      "title": "Celtics star 杰森·塔图姆 called for technical after throwing ball toward official late in loss to Nuggets",
-      "summary": "杰森·塔图姆 threw a ball toward an official with just seconds left, which allowed the Nuggets to go up by four and seal…",
-      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/celtics-star-jayson-tatum-called-for-technical-after-throwing-ball-toward-official-late-in-loss-to-nuggets-053023894.html",
-      "publish_time": "2026-11-19T05:30:23+00:00",
-      "category": "nba",
-      "is_important": true,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-9ef465aa4d3e",
-      "title": "Yaxel Lendeborg shares shocking details in viral bench moment with 德雷蒙德·格林",
-      "summary": "Yaxel Lendeborg talks about a viral moment with 德雷蒙德·格林.Warriors rookie sensation Yaxel Lendeborg was seen visibl…",
-      "source_url": "https://sports.yahoo.com/articles/yaxel-lendeborg-shares-shocking-details-004757436.html",
-      "publish_time": "2026-11-19T00:47:57+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4d964216ab42",
-      "title": "How 勒布朗·詹姆斯' move from Lakers to 76ers unlocked both teams' superpowers",
-      "summary": "The Lakers are thriving without 勒布朗·詹姆斯, the 76ers are thriving with James and two former NBA general managers help…",
-      "source_url": "https://sports.yahoo.com/articles/lebron-james-move-lakers-76ers-215258698.html",
-      "publish_time": "2026-11-18T21:52:58+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-51e3ceeafff2",
-      "title": "Pistons overcome highlight-reel 维克托·文班亚马 to stun Spurs, snap San Antonio's 12-game win streak",
-      "summary": "维克托·文班亚马 made highlights, and the San Antonio Spurs took early control in Tuesday's showdown with the Detroit P…",
-      "source_url": "https://sports.yahoo.com/nba/breaking-news/article/pistons-overcome-highlight-reel-victor-wembanyama-to-stun-spurs-snap-san-antonios-12-game-win-streak-044107468.html",
-      "publish_time": "2026-11-18T03:35:23+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-9264abb3597e",
-      "title": "Knicks pull off Toronto sweep thanks to 贾伦·布伦森’s late 4-point play",
-      "summary": "贾伦·布伦森 snatched another victory in Canada with a pivotal sequence.",
-      "source_url": "https://sports.yahoo.com/articles/knicks-pull-off-toronto-sweep-032600575.html",
-      "publish_time": "2026-11-18T03:26:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-723919f11667",
-      "title": "Knicks’ 卡尔-安东尼·唐斯 acting like ‘second coach’ sign of fixed Mike Brown partnership",
-      "summary": "A once rocky partnership has evolved into a trusting and collaborative relationship between 卡尔-安东尼·唐斯 and Mike…",
-      "source_url": "https://sports.yahoo.com/articles/knicks-karl-anthony-towns-acting-015455340.html",
-      "publish_time": "2026-11-18T01:54:55+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-13b7e4d054dc",
-      "title": "杰伦·布朗 ruled OUT vs. Magic with hamstring strain",
-      "summary": "杰伦·布朗 will miss the Sixers’ Wednesday game against the Magic with a left hamstring strain.",
-      "source_url": "https://sports.yahoo.com/articles/jaylen-brown-ruled-vs-magic-222557635.html",
-      "publish_time": "2026-11-17T22:25:57+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a0808544ee6d",
-      "title": "乔尔·恩比德 has huge night, but Sixers still have plenty of work to do",
-      "summary": "While 乔尔·恩比德 had his best outing of the season, the Sixers nearly let the game slip away to a bad Nets team.",
-      "source_url": "https://sports.yahoo.com/articles/joel-embiid-huge-night-sixers-190528830.html",
-      "publish_time": "2026-11-17T19:05:28+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b6d2626f6313",
-      "title": "德雷蒙德·格林 defends Yaxel Lendeborg from 'unfair' expectations with 斯蒂芬·库里 out: 'Too much pressure on him'",
-      "summary": "德雷蒙德·格林 is making sure Yaxel Lendeborg doesn't get overwhelmed by the moment.",
-      "source_url": "https://sports.yahoo.com/nba/article/draymond-green-defends-yaxel-lendeborg-from-unfair-expectations-with-stephen-curry-out-too-much-pressure-on-him-135301498.html",
-      "publish_time": "2026-11-17T13:53:01+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-9976766ca747",
-      "title": "The Lakers are an NBA title contender because 卢卡·东契奇 is completely out of control",
-      "summary": "卢卡·东契奇 is willing the Lakers to contender status.",
-      "source_url": "https://sports.yahoo.com/articles/lakers-nba-title-contender-because-130000969.html",
-      "publish_time": "2026-11-17T13:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b550a2d68421",
-      "title": "杰伦·布朗 experiencing hamstring tightness",
-      "summary": "杰伦·布朗 left the Sixers’ win over Brooklyn in the closing minutes due to hamstring tightness.",
-      "source_url": "https://sports.yahoo.com/articles/jaylen-brown-experiencing-hamstring-tightness-124220616.html",
-      "publish_time": "2026-11-17T12:42:20+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d22102a1d24c",
-      "title": "德雷蒙德·格林 offers Yaxel Lendeborg reality check after Warriors' latest loss",
-      "summary": "德雷蒙德·格林 offered perspective about Golden State Warriors rookie Yaxel Lendeborg's role in Steph Curry's absence.",
-      "source_url": "https://sports.yahoo.com/articles/draymond-green-offers-yaxel-lendeborg-111558096.html",
-      "publish_time": "2026-11-17T11:15:58+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-6fba6830b91e",
-      "title": "Spurs winning streak driven by 维克托·文班亚马, but he is far from alone",
-      "summary": "The Spurs have an NBA-best 12-game winning streak and are tied for the best record in the league. 维克托·文班亚马 is a…",
-      "source_url": "https://sports.yahoo.com/articles/spurs-winning-streak-driven-victor-110739957.html",
-      "publish_time": "2026-11-17T11:07:39+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a3cf461d91d3",
-      "title": "比赛预览：圣安东尼奥马刺队对阵底特律活塞队",
-      "summary": "马刺队将迎战一支正处于重要连胜边缘的劲敌",
-      "source_url": "https://sports.yahoo.com/articles/game-preview-san-antonio-spurs-080000765.html",
-      "publish_time": "2026-11-17T08:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-3dd328eaf768",
-      "title": "比赛预览：尼克斯对猛龙，2026年11月17日",
-      "summary": "在周日于多伦多获胜后，尼克斯队将在两天后再次尝试取胜。",
-      "source_url": "https://sports.yahoo.com/articles/game-preview-knicks-raptors-november-070000374.html",
-      "publish_time": "2026-11-17T07:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7975f3ed29e9",
-      "title": "德雷蒙德·格林谈亚克塞尔·伦德伯格：“让他扮演斯蒂芬·库里的角色是不公平的”",
-      "summary": "新秀遇到了瓶颈。",
-      "source_url": "https://sports.yahoo.com/articles/draymond-green-yaxel-lendeborg-unfair-064134767.html",
-      "publish_time": "2026-11-17T06:41:34+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-95d272762ea0",
-      "title": "爵士队对阵容进行调整，以加强轮换",
-      "summary": "犹他爵士队的新阵容变动和签约",
-      "source_url": "https://sports.yahoo.com/articles/jazz-roster-moves-bolster-rotation-061417572.html",
-      "publish_time": "2026-11-17T06:14:17+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a68226c00751",
-      "title": "勇士队在新奥尔良的灾难之旅中溃败得比1815年的英国人还快",
-      "summary": "糟糕的第一节让勇士队注定在第二节早早遭遇连续第二场大比分失利。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-blown-faster-british-1815-060456634.html",
-      "publish_time": "2026-11-17T06:04:56+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7b0a58f6c117",
-      "title": "勇士队对鹈鹕队球员评分：Yaxel Lendeborg在一场艰难的比赛中表现出色",
-      "summary": "评估金州队在以 94-115 输给新奥尔良队的比赛中每位球员的表现。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-vs-pelicans-player-grades-054810973.html",
-      "publish_time": "2026-11-17T05:48:10+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-a2eacdebf0b2",
-      "title": "关于基翁特·乔治受伤情况的最新详情",
-      "summary": "犹他爵士队伤情报告的最新详情",
-      "source_url": "https://sports.yahoo.com/articles/details-keyonte-george-injury-054119073.html",
-      "publish_time": "2026-11-17T05:41:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c2c8303308ba",
-      "title": "火箭队在迈阿密苦苦挣扎，以 128-110 落败",
-      "summary": "他们像比目鱼一样扁平",
-      "source_url": "https://sports.yahoo.com/articles/rockets-flounder-miami-128-110-052652696.html",
-      "publish_time": "2026-11-17T05:26:52+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-99c1c664a9a7",
-      "title": "勇士队毫无“活力”，可怜的鹈鹕队连续第二场惨败给金州队，令人尴尬。",
-      "summary": "勇士队全队都感受到了斯蒂芬·库里的缺席。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-had-no-juice-pathetic-050727891.html",
-      "publish_time": "2026-11-17T05:07:27+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-4b9f80e5a691",
-      "title": "史蒂夫·科尔：“阵容组合将发生变化”",
-      "summary": "勇士队被鹈鹕队痛宰。",
-      "source_url": "https://sports.yahoo.com/articles/steve-kerr-lineup-combinations-going-045219020.html",
-      "publish_time": "2026-11-17T04:52:19+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7ea3c982a71c",
-      "title": "比赛回顾：太阳队七人得分上双，以 117-105 的比分均衡取胜掘金队",
-      "summary": "替补席在早些时候让凤凰队勉强维持局面，随后首发阵容在下半场加强投入，掌控了比赛。",
-      "source_url": "https://sports.yahoo.com/articles/game-recap-seven-suns-score-043626429.html",
-      "publish_time": "2026-11-17T04:36:26+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-32907dce6301",
-      "title": "76人队钟声响起：凭借恩比德和布朗的出色表现，76人队重回东部榜首",
-      "summary": "乔尔·恩比德的经典表现帮助 76 人队在布鲁克林客场取胜。",
-      "source_url": "https://sports.yahoo.com/articles/sixers-bell-ringer-sixers-back-042528065.html",
-      "publish_time": "2026-11-17T04:25:28+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d38bf69b150d",
-      "title": "篮网队的反扑未能成功，不敌缺少勒布朗·詹姆斯的76人队",
-      "summary": "如今，即使勒布朗·詹姆斯不在阵容中，在明星实力方面，也没有太多NBA球队能与76人队匹敌。",
-      "source_url": "https://sports.yahoo.com/articles/nets-comeback-bid-falls-short-034109654.html",
-      "publish_time": "2026-11-17T03:41:09+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]桐光学園がPK戦で神奈川準決勝勝利。決勝で敗れて5年ぶりの全国には届かず(33枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、桐光学園高が1-1(PK3-2)で川崎市立橘高に勝利。桐光学園は決勝で敗れ、準優勝に終わった。●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "jp_football_highschool-8d5bbac4c833",
@@ -6868,20 +6884,6 @@
       ],
       "_raw_title": "[選手権予選]1G1Aで県決勝進出に貢献…松本国際キャプテンMF馬上琉太(3年):長野(10枚)",
       "_raw_summary": "第105回全国高校サッカー選手権の長野県予選は3日に準決勝を行った。松本国際高と長野日大高の対戦は、1-1で延長戦の末、松本国際が2-1で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-294665d05dde",
-      "title": "[锦标赛预选赛]“技术流球队”圣和学园凭借顽强的意志力在加时赛中获胜！：宫城（26张）",
-      "summary": "11月1日，第105届全国高中足球锦标赛宫城县预选赛决赛举行，圣和学园高中在加时赛中以1-0的比分战胜东北生活文化大学高中。这是该校时隔4年再次夺冠，并确定将连续两年、第7次参加全国大赛。●第105届全国高中足球锦标赛专题",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463089-463089-pn",
-      "publish_time": "2026-11-13T06:07:48+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]粘り強さも光る「技巧派軍団」聖和学園が延長V!:宮城(26枚)",
-      "_raw_summary": "11月1日、第105回全国高校サッカー選手権宮城県予選決勝が行われ、聖和学園高が延長戦の末、東北生活文化大高に1-0で勝利。4年ぶりの優勝と2年連続7回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "biz_cn-a55ff337ca05",
