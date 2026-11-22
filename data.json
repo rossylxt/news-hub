@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-11-22T09:41:31.207696+00:00",
+  "generated_at": "2026-11-22T17:44:45.225384+00:00",
   "news": [
+    {
+      "id": "ai_cn-d02b7cbcded3",
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "summary": "用葡萄糖发电控制血糖。",
+      "source_url": "https://www.qbitai.com/2026/11/511904.html",
+      "publish_time": "2026-11-22T06:21:47+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-84f91d04025f",
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/11/511870.html",
+      "publish_time": "2026-11-22T06:03:54+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-8776fb9d6f2e",
+      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/11/511855.html",
+      "publish_time": "2026-11-21T14:14:09+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-3a892b39abf3",
+      "title": "中国计算，走出新的登峰之路",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/11/511849.html",
+      "publish_time": "2026-11-21T14:09:59+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-907cbc4a5404",
+      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/11/511841.html",
+      "publish_time": "2026-11-21T11:40:11+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-bb27ecff9b9b",
+      "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/11/511830.html",
+      "publish_time": "2026-11-21T11:34:18+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-443b55c15a76",
+      "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+      "summary": "（原文暂无摘要，点击查看详情）",
+      "source_url": "https://www.qbitai.com/2026/11/511791.html",
+      "publish_time": "2026-11-21T11:24:29+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-95e196cc1465",
       "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
@@ -878,87 +962,51 @@
       ]
     },
     {
-      "id": "ai_cn-8ab2d6391ce9",
-      "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-      "summary": "L4无人化作业走向规模交付",
-      "source_url": "https://www.qbitai.com/2026/11/509052.html",
-      "publish_time": "2026-11-11T03:43:31+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-f8ce89f0a31b",
+      "title": "Signal限制移动端截屏，以应对人工智能监控带来的“生存威胁”",
+      "summary": "Signal 正在限制用户在其 Android 和 iOS 应用中进行截屏的能力。",
+      "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "publish_time": "2026-11-21T21:37:10+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-824c078287a2",
-      "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
-      "summary": "（原文暂无摘要，点击查看详情）",
-      "source_url": "https://www.qbitai.com/2026/11/509032.html",
-      "publish_time": "2026-11-10T10:35:38+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-6572e082b901",
+      "title": "两个英伟达的故事",
+      "summary": "我们看到了有关英伟达的两种截然不同的景象——该公司的最新财报与科技高管们大声疾呼黄仁勋回归。",
+      "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "publish_time": "2026-11-21T21:07:42+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-3513a6ac93dc",
-      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-      "summary": "近亿元融资刚刚落袋",
-      "source_url": "https://www.qbitai.com/2026/11/509017.html",
-      "publish_time": "2026-11-10T08:33:25+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-f9419135fce5",
+      "title": "以下是可以在您的短信中使用的顶级 AI 代理",
+      "summary": "我们列出了一份最值得关注的 AI 代理清单，这些代理可以存在于您的短信中，包括通用助手以及专为家庭、旅行和工作设计的代理。",
+      "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publish_time": "2026-11-21T17:00:00+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-3a6e30bbe2d3",
-      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-      "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
-      "source_url": "https://www.qbitai.com/2026/11/508996.html",
-      "publish_time": "2026-11-10T07:57:45+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-6b65b8b30d40",
+      "title": "将自己面孔的AI版本出售给这家微短剧初创公司，是好莱坞的未来吗？",
+      "summary": "一位演员将自己的面部形象授权给了一家微短剧初创公司——这在中国已经成为一种流行趋势。专家们对如果这也成为好莱坞的趋势，将带来怎样的长期后果表示质疑。",
+      "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "publish_time": "2026-11-21T16:00:00+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-47db87f01963",
-      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-      "summary": "让每一次任务，都成为下一次进步的起点",
-      "source_url": "https://www.qbitai.com/2026/11/508998.html",
-      "publish_time": "2026-11-10T07:56:29+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-51a304eca619",
-      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-      "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
-      "source_url": "https://www.qbitai.com/2026/11/508991.html",
-      "publish_time": "2026-11-10T07:50:26+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-938354b00ecb",
-      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-      "summary": "加速东部城市型智算中心向E-AIDC演进",
-      "source_url": "https://www.qbitai.com/2026/11/508985.html",
-      "publish_time": "2026-11-10T07:33:19+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
@@ -1867,54 +1915,6 @@
       "summary": "Nectar 的新一代 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理推广和合作关系，并跟踪营销活动的效果。",
       "source_url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "publish_time": "2026-11-12T19:11:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-d56c2fc89bca",
-      "title": "Jensen Huang 的离职使人们对英伟达对开源的支持产生疑问",
-      "summary": "随着公司经历领导层变动，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及反对限制的倡导。",
-      "source_url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "publish_time": "2026-11-12T18:39:23+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-cf0abceb6aec",
-      "title": "Hugging Face首席执行官誓言在Jensen Huang离职后继续为开源人工智能而奋斗",
-      "summary": "在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。",
-      "source_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "publish_time": "2026-11-12T17:36:40+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-0deb78fa341d",
-      "title": "美国联合航空公司以网络安全风险为由，禁止人工智能代理预订航班",
-      "summary": "该航空公司表示，将不允许顾客使用人工智能代理预订航班和管理预订。",
-      "source_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "publish_time": "2026-11-12T17:17:58+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-55bf40a54c79",
-      "title": "软银的数十亿美元亏损可能限制了人工智能在天然气领域的雄心壮志",
-      "summary": "软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元。以下是这笔损失对电力市场的意义。",
-      "source_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "publish_time": "2026-11-12T17:00:52+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,146 @@
       ]
     },
     {
+      "id": "jp_football_euro-34c2921a824d",
+      "title": "皇家社会队的久保建英在国家队比赛结束后也以替补身份上场……球队输给了升班马拉辛，这位21岁的摩洛哥国脚“超越亚马尔”，打进了第11个进球。",
+      "summary": "[11月22日 西甲联赛第13轮 拉斯帕尔马斯 3-2 皇家索西埃达] 西甲联赛于22日在各地举行了第13轮的比赛，中场球员久保建英所在的皇家索西埃达以2-3不敌拉斯帕尔马斯。久保在球队落后 1 分的下半场第 23 分钟替补上场。 这是国际…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?463720-463720-fl",
+      "publish_time": "2026-11-22T17:11:29+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "ソシエダ久保建英は代表明けも途中出場…昇格組ラシンに敗戦、モロッコ代表21歳が”ヤマル超え”11点目",
+      "_raw_summary": "[11.22 ラ・リーガ第13節 ラシン 3-2 ソシエダ] ラ・リーガは22日、第13節を各地で行い、MF久保建英所属のソシエダがラシン・サンタンデールに2-3で敗れた。久保は1点ビハインドの後半23分から途中出場した。 国際Aマッチウィーク明けのラ・リーガ再開試合。日本代表で2試合に出場していた久保はベンチスタートとなった。 試合序盤はラシンが立て続けにゴールを奪った。前半6分、右サ"
+    },
+    {
+      "id": "jp_football_euro-fb0035fb077f",
+      "title": "U-17日本队除首场比赛的首发阵容外，以10人阵容重新出发！！ 即使开局失利，“我们正专注于下一场比赛，所以没关系。”",
+      "summary": "U-17日本队在U-17世界杯首场比赛的次日，即22日进行了训练。前一天对阵哥伦比亚的比赛中首发的 11 名球员在酒店进行恢复性训练，2 名陪练球员也结束了在卡塔尔的活动。当天有 10 人出现在训练场上。 日本队在对阵哥伦比亚的比赛中以 1…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463712-463712-fl",
+      "publish_time": "2026-11-22T14:19:08+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-7773196f7b73",
+      "title": "三苫熏、守田英正均因伤缺席……英超联赛中首次川崎前锋前队友对决延期",
+      "summary": "英超联赛第11轮将于22日进行，对阵双方为赫尔城和布莱顿。在东京时间晚上11点开球前，首发阵容公布，赫尔城的中场球员守田英正和布莱顿的中场球员三笘薰均未入选，因此日本球员之间的对决未能上演。 赫尔城的守田从本赛季开始首次征战英超联赛，但频频…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?463710-463710-fl",
+      "publish_time": "2026-11-22T13:10:30+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "三笘薫、守田英正は揃って負傷欠場…プレミアで初の元川崎F同僚対決お預け",
+      "_raw_summary": "プレミアリーグは22日、第11節でハル・シティとブライトンが対戦する。日本時間午後11時のキックオフを前にスターティングメンバーが発表され、ハル・シティのMF守田英正とブライトンのMF三笘薫が揃ってメンバー外となり、日本人対決は実現しなかった。 ハル・シティの守田は今季からプレミアリーグに初挑戦しているが、負傷離脱が頻発。第6節から第9節にかけては途中出場を続けていたものの、今月7日に"
+    },
+    {
+      "id": "jp_football_euro-ac00391a7a33",
+      "title": "在现场观看U-17世界杯首场比赛日本对哥伦比亚的球迷（13张）",
+      "summary": "11月21日，日本U-17国家队在U-17世界杯L组第1轮比赛中以1-2不敌哥伦比亚U-17国家队。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463700-463700-pn",
+      "publish_time": "2026-11-22T08:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-d7d8e7e17f97",
+      "title": "斋藤翔在U-17世界杯首场比赛中进球：“感谢槙”（55张）",
+      "summary": "11月21日，日本U-17国家队在U-17世界杯L组第1轮比赛中以1-2不敌哥伦比亚U-17国家队。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463699-463699-pn",
+      "publish_time": "2026-11-22T08:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-40d06981b937",
+      "title": "日本U-17世界杯开局失利……1-2不敌南美冠军哥伦比亚：第3期（18张）",
+      "summary": "11月21日，日本U-17国家队在U-17世界杯L组第1轮比赛中以1-2不敌哥伦比亚U-17国家队。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463698-463698-pn",
+      "publish_time": "2026-11-22T08:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-12f4f43fbebb",
+      "title": "日本U-17世界杯开局失利……1-2不敌南美冠军哥伦比亚：第2期（30张）",
+      "summary": "11月21日，日本U-17国家队在U-17世界杯L组第1轮比赛中以1-2不敌哥伦比亚U-17国家队。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463697-463697-pn",
+      "publish_time": "2026-11-22T08:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-87fe3b647ee2",
+      "title": "日本U-17世界杯开局失利……1-2不敌南美冠军哥伦比亚：第1期（80张）",
+      "summary": "11月21日，日本U-17国家队在U-17世界杯L组第1轮比赛中以1-2不敌哥伦比亚U-17国家队。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463695-463695-pn",
+      "publish_time": "2026-11-22T08:30:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-b99e3c7b665e",
+      "title": "日本vs哥伦比亚 比赛记录",
+      "summary": "【U-17世界杯第1轮】（多哈）日本 1-2（上半场1-1）哥伦比亚【日】斋藤翔（第38分钟）【哥】米格尔·阿加梅斯（第5分钟）、萨穆埃尔·马丁内斯（第90分钟+3）【日】元砂晏翔仁·乌登巴（第80分钟）【日】元砂晏翔仁·乌登巴2（第44分…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463631-463631-fl",
+      "publish_time": "2026-11-22T08:09:01+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-c116460d1e22",
+      "title": "上田绮世时隔 39 天重返赛场！ 从下半场开始上场……里尔主帅：“进攻变得更有深度了”",
+      "summary": "[11月21日 法甲联赛第11轮 里尔 0-1 里昂] 法甲联赛于11月21日进行了第11轮的比赛。前锋上田绮世所在的里尔队在主场迎战中场中村敬斗所在的里昂队，以 0-1 落败。因伤缺阵的上田在下半场开始时替补上场，时隔 39 天重返赛场。…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?463667-463667-fl",
+      "publish_time": "2026-11-22T02:01:41+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "上田綺世が39日ぶり実戦復帰! 後半開始から出場…リール指揮官「攻撃に厚みが生まれた」",
+      "_raw_summary": "[11.21 リーグアン第11節 リール 0-1 リヨン] フランス・リーグアンは21日に第11節を行った。FW上田綺世が所属するリールはホームでMF中村敬斗が所属するリヨンと対戦し、0-1で敗れた。負傷離脱していた上田は後半開始から途中出場し、39日ぶりの実戦復帰を果たした。 今夏にフェイエノールトからリールに加入した上田は、公式戦6試合で3ゴールを記録するなど好調なスタートを切ってい"
+    },
+    {
+      "id": "jp_football_euro-7b339825f409",
+      "title": "里尔vs里昂比赛记录",
+      "summary": "【法国甲级联赛第11轮】（皮埃尔·莫鲁瓦球场）里尔 0-1（上半场 0-1）里昂[里昂] 马兹·比斯特鲁普（第 40 分钟）[里昂] 科朗坦·托利索（第 90 分钟+3 分钟）└上田绮世时隔 39 天重返赛场！ 从下半场开始上场……里尔主帅…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?463657-463657-fl",
+      "publish_time": "2026-11-22T02:01:41+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "リールvsリヨン 試合記録",
+      "_raw_summary": "【フランス・リーグアン第11節】(スタッド ピエール=モロワ)リール 0-1(前半0-1)リヨン[ヨ]マッズ・ビストルップ(40分)[ヨ]コランタン・トリッソ(90分+3)└上田綺世が39日ぶり実戦復帰! 後半開始から出場…リール指揮官「攻撃に厚みが生まれた」[リール]先発GK 1 ベレク・エゼルDF 3 ナタン・エンゴイDF 4 アレク"
+    },
+    {
       "id": "jp_football_euro-ca4bf88a80fa",
       "title": "从国家队归来后表现出色，伊东纯也贡献了 2 次助攻！ 在亨克新任主教练的首场比赛中，他帮助球队时隔 3 场比赛再次取得胜利。",
       "summary": "[11月21日 比利时足球甲级联赛第12轮 亨克 3-0 拉鲁维埃尔] 比利时足球甲级联赛于11月21日进行了第12轮的比赛。日本国家队中场伊藤纯也所在的亨克队在主场迎战拉鲁维埃尔队，以 3-0 获胜。伊藤作为右路首发球员，仅在上半场就贡献…",
@@ -2908,6 +3048,30 @@
       ],
       "_raw_title": "フランクフルトがホッフェンハイムに完封勝利! 堂安律、小杉啓太、町田浩樹はフル出場",
       "_raw_summary": "[11.21 ブンデスリーガ第10節 フランクフルト 1-0 ホッフェンハイム] ブンデスリーガ第10節が21日に開催され、10位フランクフルトはホームで9位ホッフェンハイムに1-0で勝利した。MF堂安律とDF小杉啓太はともに先発フル出場。ホッフェンハイムのDF町田浩樹も90分間プレーした。 フランクフルトが先制したのは前半25分。カウンターから右サイドのDFアンスガー・クナウフが折り返"
+    },
+    {
+      "id": "jp_football_euro-bfed429c11fb",
+      "title": "日本队在U-17世界杯上对阵南美冠军，上演了一场“必须取胜的比赛”，但最终以失利开局……在尝试采取对策的防守和有针对性的进攻中，这是一场充满挑战的比赛。",
+      "summary": "[11月21日 U-17世界杯L组第1轮 日本 1-2 哥伦比亚 阿斯拜尔9] 面对南美冠军，日本队长时间占据上风，但未能攻入第2球，从而输掉了U-17世界杯的首场比赛。U-17日本队主教练小野信义在以1-2不敌哥伦比亚的比赛结束后表示，对…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463659-463659-fl",
+      "publish_time": "2026-11-21T22:21:23+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4995184b06dc",
+      "title": "克服重伤，征战U-17世界杯的中场球员中岛璃久（FC东京U-18）与北原槙配合，用神乎其技的射门扳平比分，“两脚射门都按照预想的轨迹飞行。”",
+      "summary": "[11月21日 U-17世界杯L组第1轮 日本 1-2 哥伦比亚 阿斯拜尔9] 从重伤中康复的左脚将用他自信的左脚制造了进球。中场中岛璃久（FC东京U-18）在上半场第38分钟，在落后1分的情况下，内切后用左脚传中。中场球员北原槙（藤枝）在…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463653-463653-fl",
+      "publish_time": "2026-11-21T18:45:20+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
     },
     {
       "id": "jp_football_euro-4be1deaf6d81",
@@ -2980,6 +3144,30 @@
       "_raw_summary": "[11.21 プレミアリーグ第11節 チェルシー 1-4 リーズ] プレミアリーグは21日に第11節を行った。日本代表MF田中碧が所属するリーズは敵地スタンフォード・ブリッジでチェルシーと対戦し、4-1で今季初の2連勝。先発出場の田中は後半41分までプレーした。 5位チェルシーは前節に下位サンダーランドに0-1で敗戦。一方、9位リーズは前節トッテナムを1-0で破り、6試合ぶりの白星を挙げ"
     },
     {
+      "id": "jp_football_euro-2fe34dc5d718",
+      "title": "在心理方面也做好准备的前锋斋藤翔（横滨FC）“我觉得自己比想象的要更强……”在对阵哥伦比亚的比赛中奋力拼搏，在U-17世界杯首场比赛中攻入1球",
+      "summary": "[11月21日 U-17世界杯L组第1轮 日本 1-2 哥伦比亚 阿斯拜尔9] 前锋多次控球并攻入一球，但未能转化为积分。U-17日本队的前锋斋藤翔（横滨FC）在U-17世界杯首场比赛以1-2落败后表示：“最后，我们自己的松懈在最后时刻显现…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463640-463640-fl",
+      "publish_time": "2026-11-21T16:55:28+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-0b810330de91",
+      "title": "日本队在U-17世界杯上开局失利……队长后卫元砂被罚下场，下半场补时阶段被点球绝杀，不敌南美冠军队",
+      "summary": "[11月21日 U-17世界杯L组第1轮 日本 1-2 哥伦比亚 阿斯拜尔9] 11月21日，U-17日本队在U-17世界杯L组第1轮的比赛中对阵南美冠军哥伦比亚队，以1-2落败。下半场双方战成平局时，队长后卫元砂晏翔仁·乌登巴（鹿岛）因吃…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463630-463630-fl",
+      "publish_time": "2026-11-21T16:44:16+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-130d72fb96eb",
       "title": "法兰克福对阵霍芬海姆首发阵容公布",
       "summary": "[11月21日 德甲第10轮]（商业银行体育场）※23:30开球[法兰克福]首发门将 1 诺亚·阿图博尔后卫 3 里利安·布拉西耶后卫 4 罗宾·科赫后卫 7 安斯加尔·克瑙夫后卫 26 小杉圭太中场 8 法雷斯·沙伊比中场 15 N. A…",
@@ -2992,6 +3180,20 @@
       ],
       "_raw_title": "フランクフルトvsホッフェンハイム スタメン発表",
       "_raw_summary": "[11.21 ブンデスリーガ第10節](コメルツバンク・アレーナ)※23:30開始[フランクフルト]先発GK 1 ノア・アトゥボルDF 3 リリアン・ブラシエDF 4 ロビン・コッホDF 7 アンスガー・クナウフDF 26 小杉啓太MF 8 ファレス・シャイビMF 15 N. AsékoMF 20 堂安律MF 25 R. OnyedikaFW 9 ヨナタン"
+    },
+    {
+      "id": "jp_football_euro-5443ec58f409",
+      "title": "阿斯顿维拉对阵桑德兰首发阵容公布",
+      "summary": "[11月21日 英超联赛第11轮]（维拉公园球场）※24:00开球[阿斯顿维拉]首发门将 1 铃木彩艳后卫 4 泰勒·哈伍德-贝利斯后卫 14 帕乌·托雷斯后卫 22 伊恩·马特森后卫 29 阿伦·万-比萨卡中场 8 布巴卡尔·卡马拉中场…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?463622-463622-fl",
+      "publish_time": "2026-11-21T15:02:01+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "アストン・ビラvsサンダーランド スタメン発表",
+      "_raw_summary": "[11.21 プレミアリーグ第11節](ヴィラ・パーク)※24:00開始[アストン・ビラ]先発GK 1 鈴木彩艶DF 4 テイラー・ハーウッド・ベリスDF 14 パウ・トーレスDF 22 イアン・マートセンDF 29 アーロン・ワン・ビサカMF 8 ブバカル・カマラMF 10 エミリアーノ・ブエンディアMF 27 レオン・ゴレツカMF 44 ヨハ"
     },
     {
       "id": "jp_football_euro-077a20d6b124",
@@ -3663,198 +3865,6 @@
       "publish_time": "2026-11-14T03:46:02+00:00",
       "category": "jp_football_euro",
       "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-b402aa9d9770",
-      "title": "一年前的噩梦在斋藤俊辅的脑海中闪过……对阵西班牙队时错失得分良机，“通过国家队”的觉悟：“在这里能得分的球员可以更上一层楼。”",
-      "summary": "[11月13日国际友谊赛 U-21日本 0-2 U-21西班牙 阿尔门德拉莱霍] 悔恨不已。我从未想过，自己会再次体会到与一年前“那种遗憾”相似的情感。 11月13日与西班牙U-21国家队进行的热身赛。尽管创造了许多得分机会，但由大岩刚教练…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463139-463139-fl",
-      "publish_time": "2026-11-14T01:32:04+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-8a9fb2a3f27d",
-      "title": "与西班牙队交锋的喜多壱也，面对摆在面前的挑战和严苛的自我评价：“以今天的表现，我既进不了国家队，也进不了一线队。”",
-      "summary": "[11月13日 国际友谊赛 U-21日本 0-2 U-21西班牙 阿尔门德拉莱霍] 11月13日，U-21日本队在埃斯特雷马杜拉UD的主场弗朗西斯科·德拉埃拉体育场与U-21西班牙队交锋，以0-2落败。作为后防线的一员打满全场的后卫喜多壱也…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463138-463138-fl",
-      "publish_time": "2026-11-14T01:31:07+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-10ca165ae82a",
-      "title": "连续入选国家队，每天都过得充实的本土球员后卫中野就斗表示“没什么可失去的”，并对与维尼修斯的对决充满期待",
-      "summary": "在9月和10月的系列赛中，日本国家队后卫中野就斗（广岛）在首次入选时就首发出场2次，此后又迈出了新的一步。通过连续两次入选，他已经迈过了成为国家队常客的第一道关卡。尽管如此，在13日，也就是巴西队比赛的前一天，中野在接受媒体采访时表示：“我…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463130-463130-fl",
-      "publish_time": "2026-11-13T21:00:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-fb6b94152e7e",
-      "title": "影山优佳认为“太厉害了”，她认为日本队哪位后卫是巴西之战的焦点球员？",
-      "summary": "在朝日电视台系列频道将于 14 日直播的日本队对阵巴西队的比赛之前，艺人影山优佳以“果然不愧是她”的独到视角，谈论了这场比赛的看点。 日本队在2025年10月的一场国际友谊赛中历史性地首次战胜巴西队，但在今年6月的中北美洲世界杯决赛圈首轮比…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463117-463117-fl",
-      "publish_time": "2026-11-13T21:00:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-a4262b6e43ef",
-      "title": "由大岩监督率领的日本U-21国家队以0比2不敌拥有众多明星候选球员的西班牙队……队长盐贝等人未能发挥出色",
-      "summary": "[11月13日 国际友谊赛 U-21日本 0-2 U-21西班牙 阿尔门德拉莱霍] 由大岩刚教练率领的U-21日本队于13日在西班牙阿尔门德拉莱霍举行的国际友谊赛中对阵U-21西班牙队，以0-2落败。在上半场第 22 分钟失球后，日本队此后…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463129-463129-fl",
-      "publish_time": "2026-11-13T19:55:30+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-b15493fd9303",
-      "title": "菅原由势将出战“连续两场”对阵巴西的比赛，铭记世界杯的教训：“从第0分钟到第90分钟都不能有疏忽，这一点很重要。”",
-      "summary": "与足球王国之间的复仇之战提前上演。对于日本国家队后卫菅原由势（卡利亚里）来说，这将是一个特殊的情况，即连续两场对阵巴西。菅原在北美洲世界杯结束后，未被召入9月和10月的系列赛。 在世界杯32强赛中，日本队在临近终场时失球，当时菅原司以右边翼…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463128-463128-fl",
-      "publish_time": "2026-11-13T19:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-af7fdad01846",
-      "title": "西班牙U-21国家队公布了对阵日本U-21国家队比赛的首发阵容！ 巴塞罗那中场贝尔纳尔、阿森纳后卫莫斯克拉、富勒姆前锋贡萨洛·加西亚等首发出场",
-      "summary": "西班牙U-21国家队于13日公布了与日本U-21国家队进行国际友谊赛的首发阵容。比赛将于日本时间14日凌晨3点开始。 西班牙队首发阵容包括巴塞罗那的中场球员马克·贝尔纳尔、效力于阿森纳的后卫克里斯蒂安·莫斯克拉以及来自葡萄牙体育的后卫伊万·…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463126-463126-fl",
-      "publish_time": "2026-11-13T19:12:38+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-9db57c9ca530",
-      "title": "大岩J公布首发阵容！ 盐贝是队长！ 喜多、佐藤龙之介等人入选首发阵容……与西班牙U-21国家队进行一场硬碰硬的较量",
-      "summary": "由大岩刚教练率领的日本U-21国家队将于13日在西班牙阿尔门德拉莱霍举行的国际友谊赛中与西班牙U-21国家队交锋。在比赛于日本时间 14 日凌晨 3 点开球前，首发阵容已公布。 预计阵型为4-3-3。守门员是皮萨诺·亚历克斯·幸冬·堀尾，四…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463127-463127-fl",
-      "publish_time": "2026-11-13T17:15:19+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-4cba8278c614",
-      "title": "门将铃木彩艳对巴西队队长前锋保持警惕，浦和门将西川创造的J1联赛新纪录也激励了他：“我想努力超越他。”",
-      "summary": "面对巴西强大的进攻阵容，日本国家队门将铃木彩艳（阿斯顿维拉）将迎来一场引人注目的对决。这将是与巴塞罗那前锋、巴西国家队队长拉菲尼亚的再次对决。 今年夏天的中北美洲世界杯32强赛中，彩艳表现出色，多次做出精彩扑救，包括挡住了维尼修斯·儒尼奥尔…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463122-463122-fl",
-      "publish_time": "2026-11-13T14:23:11+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-55bd809af5ab",
-      "title": "在森保一执教的日本队中迅速崛起的一年半……在与巴西的第三次交锋中，后卫铃木淳之介表示：“我想赢下比赛，为教练送行。”",
-      "summary": "森保日本队的最后两场比赛对于日本国家队后卫铃木淳之介（哥本哈根）来说也具有特殊的意义。在去年夏天首次入选国家队之前，他并不算引人注目。是森保主教练发现了这样的自己，并把他带到了国际舞台上。正因如此，他强烈希望以胜利来结束与这位主教练的最后一…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463121-463121-fl",
-      "publish_time": "2026-11-13T14:18:59+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-69c16dacad16",
-      "title": "被森保一任命为“最后一任队长”的中场球员堂安律：“我觉得比以前更多的人认为（日本）能赢巴西。”",
-      "summary": "被森保一主教练任命为“最后一任队长”的中场球员堂安律（法兰克福）在与巴西的次回合比赛前一天流露出十足的自信，以及作为一直支持森保一日本队的一员所具备的责任感。 当天，原定于12月30日举行的友谊赛被宣布取消，因此本次在新加坡的两场比赛将成为…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463120-463120-fl",
-      "publish_time": "2026-11-13T14:14:08+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-b77b67aa8448",
-      "title": "对国家队标准的“基础”有信心，等待上场机会的铃木唯人表示“在自己的球队里被要求得更多”",
-      "summary": "日本国家队中场球员铃木唯人（弗赖堡）在对阵巴西队（14日，新加坡）的前一天训练结束后接受了媒体采访，他表示：“我并不想做特别特别的事情。我一直都这么说，我只会拿出平时所做的事情，也有信心能够做到。”他以自然的方式表达了自己的决心。 铃木在上…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463123-463123-fl",
-      "publish_time": "2026-11-13T14:03:35+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-358612fdbbcc",
-      "title": "世界杯后进步显著的濑古步梦，在“首次出场”的巴西之战中确立地位：“我想坚持取得胜利。”",
-      "summary": "日本国家队后卫濑古步梦（勒阿弗尔）在13日的训练结束后接受了媒体采访。距离与巴西国家队的比赛仅剩一天，谈及自北美中北美世界杯32强赛以来与巴西的再次对阵，他表示：“上次输得很不甘心。虽然这次是友谊赛，但既然是国家队比赛，我还是希望全力以赴争…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463119-463119-fl",
-      "publish_time": "2026-11-13T13:00:53+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-34c22cc5957b",
-      "title": "在世界杯总计第 1000 场比赛中打入纪念性一球！带有“原因不明的白色污渍”的镰田大地所穿的球衣被收藏在国际足联博物馆",
-      "summary": "位于瑞士苏黎世的国际足联博物馆于13日宣布，将日本国家队中场球员镰田大地在2026年北美洲世界杯上所穿的球衣纳入馆藏。 被收藏的是镰田在6月20日小组赛第二轮对阵突尼斯的比赛中穿的球衣。这场比赛是自1930年世界杯开赛以来的第1000场比赛…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463118-463118-fl",
-      "publish_time": "2026-11-13T12:06:39+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-7d68cfb499d5",
-      "title": "狼队中场球员卢克首发出战的日本U-19国家队以零封对手的成绩取得胜利！！ 前锋新川志音先拔头筹，中场滨崎健斗以中距离射门再下一城",
-      "summary": "[11月12日 国际友谊赛 U-19日本 2-0 U-20美国] 日本U-19国家队于当地时间12日在美国拉练的首场比赛中对阵美国U-20国家队，以2-0获胜。 日本队是明年U-20世界杯的参赛队伍，队员包括门将村松秀司（洛杉矶FC）、后卫…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463074-463074-fl",
-      "publish_time": "2026-11-13T03:26:02+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-1a1510df0e3a",
-      "title": "在打入英超首粒进球后入选国家队，在升班马球队中磨砺的锋线球员前田大然表示“机会的数量完全不在一个级别上”",
-      "summary": "日本国家队前锋前田大然（伊普斯维奇）在新加坡集训期间，于12日的训练结束后接受了媒体采访。谈及在主力前锋上田绮世缺席的情况下与巴西和巴拉圭的两场比赛，他表示：“如果前锋能进球，我认为球队就能找到状态，所以我会努力争取进球。” 对于日本队来说…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463069-463069-fl",
-      "publish_time": "2026-11-12T18:09:13+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
       "tags": [
         "ゲキサカ 日本代表"
       ]
@@ -4820,11 +4830,119 @@
       ]
     },
     {
+      "id": "nba-a3f2905802f3",
+      "title": "奇才队有机会在NBA杯中晋级",
+      "summary": "上周五，华盛顿奇才队战胜了芝加哥公牛队。这不仅仅是又一场常规赛胜利。这也是他们在NBA杯小组赛中的第二场胜利，创造了球队历史纪录（我稍后会解释原因）。华盛顿在东部C组的战绩也提升至2胜1负。奇才队还有一场NBA比赛 […]",
+      "source_url": "https://sports.yahoo.com/articles/wizards-chance-advance-nba-cup-145901279.html",
+      "publish_time": "2026-11-22T14:59:01+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f83de31ddb64",
+      "title": "前瞻：犹他爵士队力争驯服凯里和独行侠队",
+      "summary": "在投篮手感糟糕的一晚之后，犹他爵士队的年轻核心将如何应对？",
+      "source_url": "https://sports.yahoo.com/articles/preview-utah-jazz-aim-tame-143607210.html",
+      "publish_time": "2026-11-22T14:36:07+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-c23df43cbe5e",
+      "title": "前全明星球员制造了NBA最大的“狗屁烂摊子”——而且情况只会越来越糟",
+      "summary": "NBA球队要求用首轮选秀权来换取德章泰·默里，但由于他的3280万美元合同问题，交易谈判陷入僵局，鹈鹕队也因此陷入困境。",
+      "source_url": "https://sports.yahoo.com/articles/former-star-created-nba-biggest-123000006.html",
+      "publish_time": "2026-11-22T12:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0ad7fa75dc84",
+      "title": "Mikal Bridges 在恰当的时机找到了自己的节奏",
+      "summary": "在锦标赛中，有时您只需要一点时间就能进入状态。",
+      "source_url": "https://sports.yahoo.com/articles/mikal-bridges-finding-groove-time-121750231.html",
+      "publish_time": "2026-11-22T12:17:50+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-21274e842512",
+      "title": "森林狼 104，灰熊 99：防守击垮灰熊",
+      "summary": "得益于鲁迪·戈贝尔的出色表现，明尼苏达队成功遏制了灰熊队在联盟中领先的进攻火力",
+      "source_url": "https://sports.yahoo.com/articles/wolves-104-grizzlies-99-defense-120000683.html",
+      "publish_time": "2026-11-22T12:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-9e2d9acfb6d7",
+      "title": "开放话题：马刺队推出“蓝图”以表彰哈里森·巴恩斯的领导力和奉献精神",
+      "summary": "从球场上的领导力到慈善社区的努力，Barnes留下了深刻的印象。",
+      "source_url": "https://sports.yahoo.com/articles/open-thread-spurs-air-blueprint-120000179.html",
+      "publish_time": "2026-11-22T12:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-18c87e3da60e",
+      "title": "詹姆斯看到了东部领头羊76人队有很多值得喜爱和改进的地方",
+      "summary": "76人队以14胜3负的战绩排名榜首，在击败雄鹿队后领跑东部联盟。",
+      "source_url": "https://sports.yahoo.com/articles/james-sees-lot-improve-east-080625995.html",
+      "publish_time": "2026-11-22T10:43:23+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-0850d5321188",
+      "title": "76人队在雄鹿队最后阶段的猛攻中幸存下来，取得14胜3负的战绩后的观察",
+      "summary": "周六下午，76人队顶住了雄鹿队在比赛后期的猛攻，本赛季战绩达到14胜3负。",
+      "source_url": "https://sports.yahoo.com/articles/observations-sixers-survive-bucks-surge-111708192.html",
+      "publish_time": "2026-11-22T10:43:23+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
       "id": "nba-ae80b144fa98",
       "title": "文班亚马砍下 50 分，带领马刺队大获全胜",
       "summary": "圣安东尼奥马刺队明星维克托·文班亚马砍下50分，帮助球队以114-91击败新奥尔良鹈鹕队。",
       "source_url": "https://sports.yahoo.com/articles/wembanyama-hits-50-points-dominant-065548589.html",
       "publish_time": "2026-11-22T09:15:54+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-327740c4ba88",
+      "title": "独行侠在犹他爵士队取得背靠背胜利后的3点思考",
+      "summary": "独行侠在对阵快船的比赛中挽回了一场惨败——现在他们有一段短暂的喘息时间，然后将迎战犹他爵士队。",
+      "source_url": "https://sports.yahoo.com/articles/3-thoughts-ahead-mavericks-back-081800870.html",
+      "publish_time": "2026-11-22T08:18:00+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5041,6 +5159,210 @@
       "summary": "湖人队主教练JJ·雷迪克数周来一直强调，他名单上的每名球员都将获得上场机会。82场常规赛的性质决定了……",
       "source_url": "https://sports.yahoo.com/articles/lakers-rookie-makes-most-biggest-005055905.html",
       "publish_time": "2026-11-22T00:50:55+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f9f023e4307a",
+      "title": "篮球时间到了：圣安东尼奥马刺队对阵新奥尔良鹈鹕队",
+      "summary": "马刺队将与鹈鹕队进行一场比赛，结束他们的主场赛事",
+      "source_url": "https://sports.yahoo.com/articles/time-basketball-san-antonio-spurs-003000724.html",
+      "publish_time": "2026-11-22T00:30:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5e90b9f07a8e",
+      "title": "独行侠对快船前瞻及伤病报告：达拉斯力求坐镇主场",
+      "summary": "又一个连续周末的第一天",
+      "source_url": "https://sports.yahoo.com/articles/mavericks-vs-clippers-preview-injury-000000314.html",
+      "publish_time": "2026-11-22T00:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-58d31639dc8f",
+      "title": "波士顿凯尔特人（11-4）客场对阵萨克拉门托国王（1-14）第 16 场比赛 11/21/26",
+      "summary": "凯尔特人队将客场挑战萨克拉门托国王队，力争重回正轨。",
+      "source_url": "https://sports.yahoo.com/articles/boston-celtics-11-4-sacramento-000000681.html",
+      "publish_time": "2026-11-22T00:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-5acafa02e8b3",
+      "title": "比赛讨论帖：尼克斯队对开拓者队，2026年11月21日",
+      "summary": "尼克斯队重返麦迪逊广场花园，与利拉德和状态出人意料的开拓者队交锋。",
+      "source_url": "https://sports.yahoo.com/articles/game-discussion-thread-knicks-vs-000000695.html",
+      "publish_time": "2026-11-22T00:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f31e1b9bc1b6",
+      "title": "凯尔特人队将以缺少 3 名主力球员的阵容迎战国王队",
+      "summary": "在凯尔特人队连续两晚的比赛中，首晚对阵国王队时，杰森·塔图姆、德里克·怀特和米切尔·罗宾逊都将缺席。",
+      "source_url": "https://sports.yahoo.com/articles/celtics-without-3-key-players-233409522.html",
+      "publish_time": "2026-11-21T23:34:09+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-063c5f92ce3a",
+      "title": "国王队希望基根·穆雷在对阵凯尔特人队比赛的最后时刻的英雄表现能让他重回正轨",
+      "summary": "在国王队周六获胜的罕见高光时刻之后，基根·穆雷似乎正朝着萨克拉门托所期望的球员方向发展。",
+      "source_url": "https://sports.yahoo.com/articles/kings-hope-keegan-murrays-game-233249708.html",
+      "publish_time": "2026-11-21T23:32:49+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-e3342f4d7287",
+      "title": "奇才对阵魔术预览：华盛顿队回到主场迎战魔术队",
+      "summary": "奇才队希望在对阵奥兰多魔术队的比赛中将连胜纪录延续至3场。",
+      "source_url": "https://sports.yahoo.com/articles/wizards-vs-magic-preview-washington-231515414.html",
+      "publish_time": "2026-11-21T23:15:15+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-07bf6f00931e",
+      "title": "太阳队应考虑的 3 种替代首发阵容",
+      "summary": "凤凰城队在九场比赛中赢得了七场，但其表现不佳的首发阵容为尝试新阵容提供了机会。",
+      "source_url": "https://sports.yahoo.com/articles/3-alternative-starting-lineups-suns-230000201.html",
+      "publish_time": "2026-11-21T23:00:00+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-3e1afacd3134",
+      "title": "灰熊队和扬尼斯领衔的热火队在Post的NBA实力排名中跃升",
+      "summary": "《加州邮报》每周将对NBA的30支球队进行实力排名。截至周六上午的战绩如下： 1. 圣安东尼奥马刺队（13胜3负）卫冕西部冠军的12连胜……",
+      "source_url": "https://sports.yahoo.com/articles/grizzlies-giannis-led-heat-leaps-224445416.html",
+      "publish_time": "2026-11-21T22:44:45+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-53f6f94ff88d",
+      "title": "Keegan Murray 的绝杀球终结了国王队的历史性主场连败，我们从中汲取了哪些经验教训",
+      "summary": "Chris Biderman带来周六萨克拉门托国王队在金州1号球馆战胜波士顿凯尔特人队的要点。",
+      "source_url": "https://sports.yahoo.com/articles/learned-keegan-murray-game-winner-220852291.html",
+      "publish_time": "2026-11-21T22:08:52+00:00",
+      "category": "nba",
+      "is_important": true,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f2abec33c082",
+      "title": "76人队钟声响起：76人队在战胜垫底的雄鹿队时险些翻车",
+      "summary": "76人队又一次在关键时刻拿下胜利，他们打得够乱，以至于比赛一直进行到终场哨响，但本赛季的战绩已来到14胜3负。",
+      "source_url": "https://sports.yahoo.com/articles/sixers-bell-ringer-sixers-barely-212744400.html",
+      "publish_time": "2026-11-21T21:27:44+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-523b7b5fa974",
+      "title": "快速回顾：76人队 132，雄鹿队 129",
+      "summary": "泰勒·希罗在令人心碎的失利中拿下 50 分。",
+      "source_url": "https://sports.yahoo.com/articles/rapid-recap-76ers-132-bucks-211958267.html",
+      "publish_time": "2026-11-21T21:19:58+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a76452d973f0",
+      "title": "泰勒·希罗砍下 50 分，裁判在 76 人以 132-129 战胜雄鹿的比赛中漏判了乔尔·恩比德在比赛后期的出界犯规。",
+      "summary": "希罗差点投中扳平比分的 3 分球，但他的投篮是在终场哨声响起之后。",
+      "source_url": "https://sports.yahoo.com/nba/article/tyler-herro-scores-50-officials-miss-late-out-of-bounds-call-on-joel-embiid-in-76ers-132-129-win-over-bucks-010932597.html",
+      "publish_time": "2026-11-21T21:04:53+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-f9f4dc575f2d",
+      "title": "波士顿凯尔特人队每日链接 11/21/26",
+      "summary": "您需要的所有凯尔特人队新闻尽在一处，方便快捷。",
+      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-205212992.html",
+      "publish_time": "2026-11-21T20:52:12+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a5c058056cc0",
+      "title": "在输给掘金队后，Ime Udoka称火箭队“心理脆弱”",
+      "summary": "在赛季以7胜1负开局后，火箭队取得了5胜4负的战绩，防守排名NBA第13位。",
+      "source_url": "https://sports.yahoo.com/articles/ime-udoka-calls-rockets-mentally-204421416.html",
+      "publish_time": "2026-11-21T20:44:21+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-a3500de4c424",
+      "title": "76人队幸运地取得了第14场胜利，因为希罗未能及时投进扳平比分的三分球",
+      "summary": "泰勒·希罗竭尽全力让雄鹿队保持悬念，但76人队周六对阵仅胜一场的雄鹿队时还是轻松取胜。",
+      "source_url": "https://sports.yahoo.com/articles/sixers-lucky-14th-win-herro-203526157.html",
+      "publish_time": "2026-11-21T20:35:26+00:00",
+      "category": "nba",
+      "is_important": false,
+      "tags": [
+        "Yahoo Sports"
+      ]
+    },
+    {
+      "id": "nba-bc25d75775c8",
+      "title": "布拉德·史蒂文斯谈米切尔·罗宾逊、凯尔特人的开局等话题",
+      "summary": "自本赛季开始以来，总经理布拉德·史蒂文斯（Brad Stevens）首次就与球队相关的多个话题发表了看法，内容涵盖了休赛期新援保罗·乔治（保罗·乔治）和米切尔·罗宾逊（Mitchell Robinson）的表现，以及他的总体看法…",
+      "source_url": "https://sports.yahoo.com/articles/brad-stevens-talks-mitchell-robinson-200830668.html",
+      "publish_time": "2026-11-21T20:08:30+00:00",
       "category": "nba",
       "is_important": false,
       "tags": [
@@ -5468,316 +5790,172 @@
       ]
     },
     {
-      "id": "nba-7577d5493faf",
-      "title": "活塞对猛龙赛事讨论：比赛时间、电视转播、赔率等",
-      "summary": "底特律有望将多伦多的连败场次延长至七场",
-      "source_url": "https://sports.yahoo.com/articles/pistons-vs-raptors-discussion-game-000000408.html",
-      "publish_time": "2026-11-21T00:00:00+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-f23f8c0efb9c",
+      "title": "[锦标赛预选赛]佐野日大二年级前锋加藤华在半决赛中攻入追加进球，在决赛中也攻入进球，为球队获得全国大赛参赛资格做出了贡献（7张）",
+      "summary": "7日，佐野日本大学高等学校在第105届全国高中足球锦标赛栃木县预选赛半决赛中以3-1的比分击败真冈高等学校。随后又在决赛中获胜，时隔 4 年再次晋级全国大赛。●第105届全国高中足球锦标赛专题报道",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463499-463499-pn",
+      "publish_time": "2026-11-22T10:26:25+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]佐野日大2年生FW加藤華が準決勝で追加点、決勝でもゴール奪って全国切符獲得に貢献(7枚)",
+      "_raw_summary": "佐野日大高は7日、第105回全国高校サッカー選手権栃木県予選準決勝で真岡高を3-1で破った。続く決勝も制して4年ぶりの全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-46c62a9b0074",
-      "title": "直播讨论：奥兰多魔术队对阵布鲁克林篮网队，美国东部时间晚上7:30",
-      "summary": "篮网队成功地将ABA之夜变成了一次痛苦的经历。朱利叶斯·欧文和冠军球队的成员在场，布鲁克林队却在对阵芝加哥队的比赛中以30分的劣势惨败。J博士表示，他“完全料到篮网队会在我们到场的情况下士气高涨”。他抱有更高的期望并不完全是错的。朱利叶斯……",
-      "source_url": "https://sports.yahoo.com/articles/live-discussion-orlando-magic-brooklyn-235000046.html",
-      "publish_time": "2026-11-20T23:50:00+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-f6927033a774",
+      "title": "【锦标赛预选赛】佐野日大中场斋藤俐空在半决赛中表现出色！！ 打入先制球，并从抢断中送出2次助攻（8张）",
+      "summary": "7日，佐野日本大学高等学校在第105届全国高中足球锦标赛栃木县预选赛半决赛中以3-1的比分击败真冈高等学校。随后又在决赛中获胜，时隔 4 年再次晋级全国大赛。●第105届全国高中足球锦标赛专题报道",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463503-463503-pn",
+      "publish_time": "2026-11-22T10:25:19+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]佐野日大MF齋藤俐空が準決勝で圧巻の活躍!! 先制弾にボール奪取からの2アシスト(8枚)",
+      "_raw_summary": "佐野日大高は7日、第105回全国高校サッカー選手権栃木県予選準決勝で真岡高を3-1で破った。続く決勝も制して4年ぶりの全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-cabb8b91cf1f",
-      "title": "奇才对公牛的讨论",
-      "summary": "华盛顿奇才队（5胜11负）周三以103-99击败多伦多猛龙队，终于结束了八连败。AJ·迪班扎砍下职业生涯最高的23分，基肖恩·乔治也贡献了20分，帮助球队拿下这场亟需的胜利。奇才队将于周五前往芝加哥，迎战公牛队（4胜10负），后者在过去5场…",
-      "source_url": "https://sports.yahoo.com/articles/wizards-bulls-discussion-233000673.html",
-      "publish_time": "2026-11-20T23:30:00+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-8e6ab2ff3109",
+      "title": "[锦标赛预选赛]身披10号球衣的佐野日大前锋篠崎优舞打入关键进球：“我一直渴望上场”（8张）",
+      "summary": "7日，佐野日本大学高等学校在第105届全国高中足球锦标赛栃木县预选赛半决赛中以3-1的比分击败真冈高等学校。随后又在决赛中获胜，时隔 4 年再次晋级全国大赛。●第105届全国高中足球锦标赛专题报道",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463473-463473-pn",
+      "publish_time": "2026-11-22T10:24:03+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]10番背負う佐野日大FW篠崎優舞が大きな追加点「出たくてうずうずしていた」(8枚)",
+      "_raw_summary": "佐野日大高は7日、第105回全国高校サッカー選手権栃木県予選準決勝で真岡高を3-1で破った。続く決勝も制して4年ぶりの全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-a6c7a46e3fcb",
-      "title": "CSR 周末勇士",
-      "summary": "这是专为您准备的全新周末开放话题。",
-      "source_url": "https://sports.yahoo.com/articles/csr-weekend-warriors-230000334.html",
-      "publish_time": "2026-11-20T23:00:00+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-116af6e7a700",
+      "title": "【锦标赛预选赛】佐野日大时隔4年再次晋级全国赛！！ 半决赛以3球大胜（31张）",
+      "summary": "7日，佐野日本大学高等学校在第105届全国高中足球锦标赛栃木县预选赛半决赛中以3-1的比分击败真冈高等学校。随后又在决赛中获胜，时隔 4 年再次晋级全国大赛。●第105届全国高中足球锦标赛专题报道",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463705-463705-pn",
+      "publish_time": "2026-11-22T10:04:06+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]佐野日大が4年ぶりの全国へ!! 準決勝は3発快勝(31枚)",
+      "_raw_summary": "佐野日大高は7日、第105回全国高校サッカー選手権栃木県予選準決勝で真岡高を3-1で破った。続く決勝も制して4年ぶりの全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-f74a9f911e02",
-      "title": "黄蜂队对老鹰队：开赛时间、电视转播、流媒体直播、电台直播、比赛讨论串",
-      "summary": "有机会拿下第 10 场胜利。",
-      "source_url": "https://sports.yahoo.com/articles/hornets-hawks-start-time-tv-225640843.html",
-      "publish_time": "2026-11-20T22:56:40+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-a4ad3a93aa38",
+      "title": "【锦标赛预选赛】日本大学藤泽高中以3-0赢得半决赛。又拿下决赛，实现神奈川县2连冠（20张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，日本大学藤泽高等学校以3-0的比分战胜庆应义塾高等学校。日大藤泽高中也赢得了决赛，将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463678-463678-pn",
+      "publish_time": "2026-11-22T03:58:10+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]日大藤沢が準決勝を3-0で勝利。決勝も制し、神奈川2連覇達成(20枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、日大藤沢高が3-0で慶應義塾高に勝利。日大藤沢は決勝も勝ち、2年連続の全国大会出場を決めている。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-9745acbe0bf8",
-      "title": "勇士队的前景看起来不妙，但他们可以挺过去。",
-      "summary": "坏消息是，勇士队正处于自由落体状态，他们已连输五场比赛，其中最近四场比赛的输球分差均达到20分或以上。好消息是？他们还能挺住……",
-      "source_url": "https://sports.yahoo.com/articles/things-look-bleak-warriors-survive-223220770.html",
-      "publish_time": "2026-11-20T22:32:20+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-f738de8e2877",
+      "title": "[锦标赛预选赛]石冈和桥本的中后卫组合稳定了日本大学藤泽队的攻防：神奈川（6张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，日本大学藤泽高等学校以3-0的比分战胜庆应义塾高等学校。日大藤泽高中也赢得了决赛，将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463674-463674-pn",
+      "publish_time": "2026-11-22T03:40:05+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]日大藤沢の攻守を安定させる石岡、橋本のCBコンビ:神奈川(6枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、日大藤沢高が3-0で慶應義塾高に勝利。日大藤沢は決勝も勝ち、2年連続の全国大会出場を決めている。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-4845f477d74e",
-      "title": "布兰登·英格拉姆预计将很快代表快船队迎来本赛季首秀",
-      "summary": "据报道，布兰登·英格拉姆将于11月23日星期一代表洛杉矶快船队对阵休斯敦火箭队，迎来本赛季的首秀。",
-      "source_url": "https://sports.yahoo.com/articles/brandon-ingram-expected-season-debut-223015446.html",
-      "publish_time": "2026-11-20T22:30:15+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-9528cf842bb3",
+      "title": "【锦标赛预选赛】日本大学藤泽队的中场中村队长在“特别的球场”等々力球场攻入首粒进球！：神奈川（13张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，日本大学藤泽高等学校以3-0的比分战胜庆应义塾高等学校。日大藤泽高中也赢得了决赛，将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463673-463673-pn",
+      "publish_time": "2026-11-22T03:33:04+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]日大藤沢MF中村主将が“特別な場所”等々力で初ゴール!:神奈川(13枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、日大藤沢高が3-0で慶應義塾高に勝利。日大藤沢は決勝も勝ち、2年連続の全国大会出場を決めている。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-6875b260f36e",
-      "title": "多米尼克·巴洛可能出战，杰伦·布朗将缺席 76 人对雄鹿的比赛",
-      "summary": "多米尼克·巴洛似乎将于周六迎来本赛季首秀，但 76 人队在对阵雄鹿队时仍无法全员出战。",
-      "source_url": "https://sports.yahoo.com/articles/dominick-barlow-probable-jaylen-brown-222044017.html",
-      "publish_time": "2026-11-20T22:20:44+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-ae3c77d8f48c",
+      "title": "【锦标赛预选赛】日本大学藤泽高中二年级的中场球员浅野踢出漂亮的凌空抽射。10号中场山冈在神奈川半决赛中表现抢眼（12张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，日本大学藤泽高等学校以3-0的比分战胜庆应义塾高等学校。日大藤泽高中也赢得了决赛，将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463672-463672-pn",
+      "publish_time": "2026-11-22T03:20:14+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]日大藤沢の2年生MF浅野が鮮やかボレー弾。10番MF山岡は神奈川準決勝で存在感(12枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、日大藤沢高が3-0で慶應義塾高に勝利。日大藤沢は決勝も勝ち、2年連続の全国大会出場を決めている。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-e0b1cae3c108",
-      "title": "演职员表：《伴我同行》",
-      "summary": "勇士队在没有斯蒂芬·库里的情况下一路溃败，活塞队可能是强有力的竞争者，以及更多内容",
-      "source_url": "https://sports.yahoo.com/articles/credits-stand-220443811.html",
-      "publish_time": "2026-11-20T22:04:43+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-7cc3b8b67ef9",
+      "title": "[锦标赛预选赛]神奈川半决赛，日本大学藤泽高中前锋村上攻入先制进球（9张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，日本大学藤泽高等学校以3-0的比分战胜庆应义塾高等学校。日大藤泽高中也赢得了决赛，将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463671-463671-pn",
+      "publish_time": "2026-11-22T03:03:17+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]神奈川準決勝、日大藤沢FW村上が先制ゴール(9枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、日大藤沢高が3-0で慶應義塾高に勝利。日大藤沢は決勝も勝ち、2年連続の全国大会出場を決めている。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-f3c9df8b124b",
-      "title": "布兰登·英格拉姆预计将于周一快船对阵火箭的比赛中迎来本赛季首秀",
-      "summary": "自5月接受手术修复部分撕裂的跟腱以来，英格拉姆一直处于休战状态，该损伤是在为他切除脚跟骨刺时发现的。",
-      "source_url": "https://sports.yahoo.com/nba/article/brandon-ingram-expected-to-make-season-debut-for-clippers-on-monday-vs-rockets-220424174.html",
-      "publish_time": "2026-11-20T22:02:53+00:00",
-      "category": "nba",
-      "is_important": false,
+      "id": "jp_football_highschool-138d0cb91952",
+      "title": "【锦标赛预选赛】庆应义塾以 0-3 落败，但仍是 52 年来神奈川县的四强之一。在关东大赛预选赛中也首次夺冠，改写了历史（26 张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，日本大学藤泽高等学校以3-0的比分战胜庆应义塾高等学校。日大藤泽高中也赢得了决赛，将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463668-463668-pn",
+      "publish_time": "2026-11-22T02:08:12+00:00",
+      "category": "jp_football_highschool",
+      "is_important": true,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]慶應義塾は0-3で敗退も52年ぶりの神奈川4強。関東大会予選でも初優勝と歴史を塗り替える(26枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、日大藤沢高が3-0で慶應義塾高に勝利。日大藤沢は決勝も勝ち、2年連続の全国大会出場を決めている。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-f12bf4fdabb7",
-      "title": "波士顿凯尔特人队每日链接 11/20/26",
-      "summary": "您需要的所有凯尔特人队新闻尽在一处，方便快捷。",
-      "source_url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-212243560.html",
-      "publish_time": "2026-11-20T21:22:43+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-245f7956c200",
+      "title": "[锦标赛预选赛]在初中时期就拥有日本最高水平比赛经验的庆应义塾中场伊达，以精准的脚法为武器的191厘米中后卫白仓：神奈川（6张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，日本大学藤泽高等学校以3-0的比分战胜庆应义塾高等学校。日大藤泽高中也赢得了决赛，将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463666-463666-pn",
+      "publish_time": "2026-11-22T01:46:48+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]中学時代に日本一経験の慶應義塾MF伊達、正確なキックが武器の191cmCB白倉:神奈川(6枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、日大藤沢高が3-0で慶應義塾高に勝利。日大藤沢は決勝も勝ち、2年連続の全国大会出場を決めている。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-4dcaab622dc8",
-      "title": "布兰登·英格拉姆将于周一对阵火箭队，迎来本赛季快船队首秀",
-      "summary": "自5月接受脚跟手术发现跟腱部分撕裂以来，英格拉姆一直处于休战状态。",
-      "source_url": "https://sports.yahoo.com/articles/brandon-ingram-set-clippers-season-211201043.html",
-      "publish_time": "2026-11-20T21:12:01+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-e1fed83d6d6a",
+      "title": "【锦标赛预选赛】本届赛事已攻入5球。带领庆应义塾挺进神奈川四强的快脚前锋队长河岛（4张）",
+      "summary": "第105届全国高中足球锦标赛神奈川县预选赛半决赛于11月3日举行，日本大学藤泽高等学校以3-0的比分战胜庆应义塾高等学校。日大藤泽高中也赢得了决赛，将连续两年参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463665-463665-pn",
+      "publish_time": "2026-11-22T01:39:10+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-c018095e49fe",
-      "title": "Watch 维克托·文班亚马's dunk... or 'shrunk' — a jump shot down into the rim",
-      "summary": "维克托·文班亚马 has 72 dunks this season, which is more than 20 NBA teams.",
-      "source_url": "https://sports.yahoo.com/articles/watch-victor-wembanyamas-dunk-shrunk-171100426.html",
-      "publish_time": "2026-11-20T17:11:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-3521bcb2e9cd",
-      "title": "YouTube金牌：卡梅伦·布泽斯迄今为止的精彩时刻",
-      "summary": "正如我们之前所指出的那样，卡梅伦·布泽尔在NBA中给人留下了深刻的印象。到目前为止，他所在的孟菲斯灰熊队以12胜4负的战绩排名西部第四。除了布泽尔本人之外，几乎没有人预料到会是这样。孟菲斯本应处于重建阶段，但由于……而变得复杂。",
-      "source_url": "https://sports.yahoo.com/articles/youtube-gold-cameron-boozers-highlight-113300465.html",
-      "publish_time": "2026-11-20T11:33:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-b8d19e2a4460",
-      "title": "前森林狼队球员卡尔-安东尼·唐斯与尼克斯队一起征战季后赛“令人欣喜”：前教练如是说",
-      "summary": "克里斯·芬奇听说了卡尔-安东尼·唐斯在森林狼队效力期间不断遭受的批评。",
-      "source_url": "https://sports.yahoo.com/articles/fun-see-former-timberwolf-karl-072542772.html",
-      "publish_time": "2026-11-20T07:25:42+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-bd7dfd0be816",
-      "title": "76人队在少打人情况下强势取胜后的观察",
-      "summary": "周三晚上，76人队在落后17分的情况下上演大逆转，以少打多的阵容战胜了魔术队。",
-      "source_url": "https://sports.yahoo.com/articles/observations-sixers-come-back-strong-170700167.html",
-      "publish_time": "2026-11-20T07:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d38377e40c84",
-      "title": "勒布朗·詹姆斯是如何在最后时刻撕裂步行者防线的",
-      "summary": "詹姆斯可能不再是曾经的得分精英，但他仍然能够组织高效率的进攻。",
-      "source_url": "https://sports.yahoo.com/articles/lebron-james-dissected-pacers-defense-165845196.html",
-      "publish_time": "2026-11-20T07:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-3da39922a58f",
-      "title": "“每次都奏效”：76人队如何在投篮练习中找到关键时刻的得分方式",
-      "summary": "尼克·纳斯在开球前几小时布置了一套新的战术。76人队在比赛后期又用回了这个战术，为勒布朗·詹姆斯和安弗尼·西蒙斯创造了空位投篮机会。",
-      "source_url": "https://sports.yahoo.com/articles/worked-every-time-sixers-found-135320234.html",
-      "publish_time": "2026-11-20T07:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-864b8276f38a",
-      "title": "76人队宣布布朗因腿筋受伤将缺席与魔术队的比赛",
-      "summary": "杰伦·布朗将缺席周三晚 76 人队对阵魔术队的比赛。",
-      "source_url": "https://sports.yahoo.com/articles/sixers-rule-brown-hamstring-injury-165845297.html",
-      "publish_time": "2026-11-20T07:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-64de86e2ca06",
-      "title": "76人队击败雄鹿队，以3-0领先，恩比德拿下三双后的观察",
-      "summary": "周六晚上，76人队在Xfinity Mobile体育馆击败雄鹿队，将战绩提升至3-0。",
-      "source_url": "https://sports.yahoo.com/articles/observations-sixers-beat-bucks-move-220632710.html",
-      "publish_time": "2026-11-20T07:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-e6ed156814fd",
-      "title": "勒布朗日志第5期：手捧爆米花，万人齐声高唱，还有“篮球AI”",
-      "summary": "詹姆斯在NBA生涯助攻榜上排名第三，对ESPN的一篇报道提出质疑，并在布鲁克林的休赛之夜忙碌不已。",
-      "source_url": "https://sports.yahoo.com/articles/lebron-log-no-5-popcorn-114047603.html",
-      "publish_time": "2026-11-20T07:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-442f8b499b7f",
-      "title": "新秀佼佼者卡梅伦·布泽尔和亚克塞尔·伦德伯格在灰熊对勇士的比赛中上演对决",
-      "summary": "卡梅伦·博泽尔和孟菲斯灰熊队大胜亚克塞尔·伦德伯格和金州勇士队。",
-      "source_url": "https://sports.yahoo.com/articles/standout-rookies-cameron-boozer-yaxel-065206681.html",
-      "publish_time": "2026-11-20T06:52:06+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-79618fa25842",
-      "title": "马刺队在主场凭借强势的第四节击败快船队",
-      "summary": "马刺队克服了本赛季失误最多的局面，击败快船队，重回胜利轨道。",
-      "source_url": "https://sports.yahoo.com/articles/spurs-strong-fourth-quarter-put-062902625.html",
-      "publish_time": "2026-11-20T06:29:02+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-54ae23668ea6",
-      "title": "快船对阵马刺的要点：维克托·文班亚马再添精彩表现",
-      "summary": "维克托·文班亚马和圣安东尼奥马刺队仍然是西部联盟的标杆，本赛季将继续受到所有球队的全力冲击。",
-      "source_url": "https://sports.yahoo.com/articles/clippers-vs-spurs-takeaways-victor-054401134.html",
-      "publish_time": "2026-11-20T05:44:01+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-7f553b6ed3ac",
-      "title": "勇士队对阵灰熊队球员评分：查尔斯·巴塞得到两双",
-      "summary": "评估金州队在以 98-126 输给孟菲斯队的比赛中每位球员的表现。",
-      "source_url": "https://sports.yahoo.com/articles/warriors-vs-grizzlies-player-grades-052525633.html",
-      "publish_time": "2026-11-20T05:25:25+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
-    },
-    {
-      "id": "nba-d7bf0f176683",
-      "title": "休斯顿火箭队对丹佛掘金队比赛前瞻",
-      "summary": "今晚是休斯敦在NBA杯征程中的第三场比赛。如果输掉这场比赛，休斯敦将无缘晋级下一轮（我认为从技术上来说并非如此，但实际上确实如此）。如果获胜，休斯顿将处于晋级的有利位置，但仍需要一些帮助。基本上，您不应该关注NBA […]",
-      "source_url": "https://sports.yahoo.com/articles/houston-rockets-vs-denver-nuggets-050000837.html",
-      "publish_time": "2026-11-20T05:00:00+00:00",
-      "category": "nba",
-      "is_important": false,
-      "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]今大会5発。慶應義塾を神奈川4強へ導いた快足FW河島主将(4枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権神奈川県予選準決勝が11月3日に行われ、日大藤沢高が3-0で慶應義塾高に勝利。日大藤沢は決勝も勝ち、2年連続の全国大会出場を決めている。●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "jp_football_highschool-a0cbd99f7d19",
@@ -6732,174 +6910,6 @@
       "_raw_summary": "第105回全国高校サッカー選手権・静岡県予選の決勝が14日に行われ、夏の全国高校総体王者・静岡学園高が2年ぶり16回目の冬の全国切符を獲得した。 静岡学園は東海大静岡翔洋高との決勝をスコアレスで折り返したが、後半にCKから生まれた混戦で先制点を奪取。そのまま1-0で逃げ切った。[決勝](11月14日)静岡学園高 1-0 東海大静岡翔洋高●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "jp_football_highschool-3bae832155b8",
-      "title": "继夏季之后，丰川再次首次登上全国舞台！！ 在与东海学园的决赛中完封获胜：爱知",
-      "summary": "第 105 届全国高中足球锦标赛爱知县预选赛决赛于 14 日举行，继今年夏季的全国高中综合体育大赛之后，丰川高中又在冬季首次晋级全国大赛。 丰川高中在决赛中对阵上届冠军东海学园高中。下半场第13分钟，前锋铃木暖人（高二）的进球帮助球队先拔头…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463168-463168-fl",
-      "publish_time": "2026-11-14T06:18:35+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "豊川が夏に続く全国初出場!! 東海学園との決勝で完封勝利:愛知",
-      "_raw_summary": "第105回全国高校サッカー選手権・愛知県予選の決勝が14日に行われ、豊川高が今夏のインターハイに続いて冬も全国大会初出場を果たした。 豊川は前回王者の東海学園高と決勝で対戦。後半13分にFW鈴木暖人(2年)のゴールで先制すると、FW近藤蒼空(1年)がダメ押しゴールを奪って2-0で勝利した。[決勝](11月14日)東海学園高 0-2 豊川高●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-578cf7dd4e0c",
-      "title": "在鸣门上演夏日复仇！去年有数名队员经历过全国大赛开幕的德岛市立高中将连续5届晋级全国大赛：德岛",
-      "summary": "[11月14日 锦标赛德岛县预选赛决赛 德岛市立 2-0 鸣门 波卡利] 第105届全国高中足球锦标赛德岛县预选赛于14日在波卡利斯维特体育场举行决赛，德岛市立高中以2-0的比分击败鸣门高中，确定了连续五年晋级全国大赛。 这场比赛是志在五连…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463166-463166-fl",
-      "publish_time": "2026-11-14T06:16:13+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "鳴門に夏のリベンジ!昨年国立開幕経験したメンバーが複数残る徳島市立が5大会連続の全国へ:徳島",
-      "_raw_summary": "[11.14 選手権徳島県予選決勝 徳島市立2-0鳴門 ポカリ] 第105回全国高校サッカー選手権徳島県予選は14日、ポカリスエットスタジアムで決勝を行い、徳島市立高が鳴門高を2-0で下し、5年連続の全国大会出場を決めた。 5連覇を目指す徳島市立と、王座奪還を狙う鳴門の対戦となった。徳島市立は昨年度の全国選手権で開幕戦の舞台となった国立競技場に立ち、早稲田実高に4-1で勝利。2回戦で聖和"
-    },
-    {
-      "id": "jp_football_highschool-404960447249",
-      "title": "佐野日大时隔4年第10次晋级全国大赛！！ 43年来首次晋级决赛的宇都宫工大获完胜：栃木",
-      "summary": "第105届全国高中足球锦标赛栃木县决赛于14日举行，佐野日大高时隔4年第10次夺冠。宇都宫工高时隔43年再次晋级决赛，但未能实现53年来首次参加全国大赛的愿望。 在与宇都宫工高中的决赛中，佐野日大高中的前锋五十右辽介（高三）率先破门，前锋加…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463163-463163-fl",
-      "publish_time": "2026-11-14T05:37:47+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "佐野日大が4年ぶり10回目の全国へ!! 43年ぶり決勝進出の宇都宮工に完封勝利:栃木",
-      "_raw_summary": "第105回全国高校サッカー選手権・栃木県の決勝が14日に行われ、佐野日大高が4年ぶり10回目となる優勝を果たした。宇都宮工は43年ぶりに決勝進出を果たしたものの、53年ぶりの全国大会出場とはならなかった。 佐野日大は宇都宮工との決勝でFW五十右遼介(3年)が先制点を奪うと、FW加藤華(2年)が追加点を奪って2-0で前半を終了した。後半はスコアが動かなかったものの前半のリードを保って4年"
-    },
-    {
-      "id": "jp_football_highschool-bed2549d0a88",
-      "title": "三重从0-2落后实现逆转！！ 击败四日市中央工业，时隔5年再次获得全国大赛参赛资格：三重",
-      "summary": "第 105 届全国高中足球锦标赛三重县预选赛决赛于 14 日举行，三重高中时隔 5 年第三次晋级全国大赛。 三重高中在与四日市中央工业高中的决赛中一度落后2球，形势十分严峻。尽管如此，他们在上半场扳回一球，下半场又攻入两球，以3-2的比分上…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463162-463162-fl",
-      "publish_time": "2026-11-14T04:47:30+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "三重が0-2から逆転!! 四日市中央工を破って5年ぶりの全国切符獲得:三重",
-      "_raw_summary": "第105回全国高校サッカー選手権・三重県予選の決勝が14日に行われ、三重高が5年ぶり3回目の全国大会出場を決めた。 三重は四日市中央工高との決勝で2点リードを許す苦しい展開になった。それでも前半のうちに1点を返すと、後半に2ゴールを奪って3-2の逆転勝利を収めた。[決勝](11月14日)四日市中央工高 2-3 三重高●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-6eff5a4229b2",
-      "title": "[锦标赛预选赛]王牌球员大放异彩。大分鹤崎击败中津东，离三连冠仅一步之遥！：大分（16张）",
-      "summary": "第105届全国高中足球锦标赛大分县预选赛的半决赛于11月7日举行，力争三连冠的大分鹤崎高中以2-0的比分击败了中津东高中。●第105届全国高中足球锦标赛专题",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463125-463125-pn",
-      "publish_time": "2026-11-13T16:22:15+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]エース躍動。大分鶴崎が中津東を下し、3連覇に王手!:大分(16枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権大分県予選の準決勝が11月7日に行われ、3連覇を目指す大分鶴崎高が2-0で中津東高を下した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-d934bb80a95c",
-      "title": "【锦标赛预选赛】柳浦在加时赛中击败大分！向时隔3年的胜利迈进：大分（18张）",
-      "summary": "第105届全国高中足球锦标赛大分县预选赛半决赛于11月7日举行，柳浦高中在加时赛中以1-0战胜大分高中。从而晋级决赛。●第105届全国高中足球锦标赛专题",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463124-463124-pn",
-      "publish_time": "2026-11-13T15:22:31+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]柳ヶ浦が延長戦で大分撃破!3年ぶりVへ前進:大分(18枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権大分県予選準決勝が11月7日に行われ、柳ヶ浦高が延長戦の末、1-0で大分高に勝利。決勝進出を決めた。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-fd40e440792c",
-      "title": "[锦标赛预选赛]点球大战暂时扳平……在前锋线上带领球队进攻的长野日本大学前锋高本宗青（高三）：长野（19张）",
-      "summary": "第105届全国高中足球锦标赛长野县预选赛于3日进行了半决赛。松本国际高中与长野日大高中的对决以1-1的比分进入加时赛，最终松本国际高中以2-1获胜。●第105届全国高中足球锦标赛专题",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463104-463104-pn",
-      "publish_time": "2026-11-13T08:39:07+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]PKで一時同点弾…最前線で攻撃をけん引した長野日大FW高本宗青(3年):長野(19枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権の長野県予選は3日に準決勝を行った。松本国際高と長野日大高の対戦は、1-1で延長戦の末、松本国際が2-1で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-421a2a835bee",
-      "title": "[锦标赛预选赛]长野日本大学从一度扳平比分到进入加时赛……在激烈的角逐后止步于县四强：长野（36张）",
-      "summary": "第105届全国高中足球锦标赛长野县预选赛于3日进行了半决赛。松本国际高中与长野日大高中的对决以1-1的比分进入加时赛，最终松本国际高中以2-1获胜。●第105届全国高中足球锦标赛专题",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463105-463105-pn",
-      "publish_time": "2026-11-13T08:38:19+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]長野日大は一時同点から延長戦も…接戦の末に県4強で敗退:長野(36枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権の長野県予選は3日に準決勝を行った。松本国際高と長野日大高の対戦は、1-1で延長戦の末、松本国際が2-1で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-06c99879afba",
-      "title": "[锦标赛预选赛]松本国际晋级县决赛，在加时赛后险胜：长野（34张）",
-      "summary": "第105届全国高中足球锦标赛长野县预选赛于3日进行了半决赛。松本国际高中与长野日本大学高中的对决以 1-1 进入加时赛，最终松本国际高中以 2-1 获胜。",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463094-463094-pn",
-      "publish_time": "2026-11-13T08:06:40+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]松本国際が県決勝へ、延長戦の末に接戦を制す:長野(34枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権の長野県予選は3日に準決勝を行った。松本国際高と長野日大高の対戦は、1-1で延長戦の末、松本国際が2-1で勝利した。"
-    },
-    {
-      "id": "jp_football_highschool-332c06d66b2c",
-      "title": "[锦标赛预选赛]替补上场打入加时赛制胜球，松本国际高中前锋山本圣真（高三）：长野（11张）",
-      "summary": "第105届全国高中足球锦标赛长野县预选赛于3日进行了半决赛。松本国际高中与长野日大高中的对决以1-1的比分进入加时赛，最终松本国际高中以2-1获胜。●第105届全国高中足球锦标赛专题",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463098-463098-pn",
-      "publish_time": "2026-11-13T07:31:00+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]途中出場から延長の決勝ゴール、松本国際FW山本聖真(3年):長野(11枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権の長野県予選は3日に準決勝を行った。松本国際高と長野日大高の対戦は、1-1で延長戦の末、松本国際が2-1で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-1ead43b9d1cb",
-      "title": "[選手権予選]松本国际DF稻桥咲生（高三），强悍的CB从加时赛到前锋线：长野（9张）",
-      "summary": "第105届全国高中足球锦标赛长野县预选赛于3日进行了半决赛。松本国际高中与长野日大高中的对决以1-1的比分进入加时赛，最终松本国际高中以2-1获胜。●第105届全国高中足球锦标赛专题",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463097-463097-pn",
-      "publish_time": "2026-11-13T07:31:00+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]松本国際DF稲橋咲生(3年)、屈強CBは延長戦から最前線へ:長野(9枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権の長野県予選は3日に準決勝を行った。松本国際高と長野日大高の対戦は、1-1で延長戦の末、松本国際が2-1で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-764b5f9c8bd3",
-      "title": "[锦标赛预选赛]以1粒进球和1次助攻为球队晋级县决赛做出贡献……松本国际队长中场马上琉太（高三）：长野（10张）",
-      "summary": "第105届全国高中足球锦标赛长野县预选赛于3日进行了半决赛。松本国际高中与长野日大高中的对决以1-1的比分进入加时赛，最终松本国际高中以2-1获胜。●第105届全国高中足球锦标赛专题",
-      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463095-463095-pn",
-      "publish_time": "2026-11-13T07:31:00+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "[選手権予選]1G1Aで県決勝進出に貢献…松本国際キャプテンMF馬上琉太(3年):長野(10枚)",
-      "_raw_summary": "第105回全国高校サッカー選手権の長野県予選は3日に準決勝を行った。松本国際高と長野日大高の対戦は、1-1で延長戦の末、松本国際が2-1で勝利した。●第105回全国高校サッカー選手権特集"
-    },
-    {
       "id": "biz_cn-a55ff337ca05",
       "title": "苹果确认：这类iPhone 18 Pro Max有问题，只能换机",
       "summary": "市场消息，美版iPhone 18 Pro Max出现断网问题，苹果公司确认，只能通过换机解决。（中新经纬）",
@@ -7262,116 +7272,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-fb-c0cffaf51523",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "尤文图斯",
-      "away_team": "威尼斯",
-      "match_time": "2026-11-22T11:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-866ce3bd1f24",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "巴塞罗那",
-      "away_team": "比利亚雷亚尔",
-      "match_time": "2026-11-22T13:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-bde2a2a30571",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "赫尔城",
-      "away_team": "布莱顿",
-      "match_time": "2026-11-22T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-b0485a34dbab",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "博洛尼亚",
-      "away_team": "乌迪内斯",
-      "match_time": "2026-11-22T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-89c7e7258c56",
-      "sport": "football",
-      "competition": "意甲",
-      "home_team": "萨索洛",
-      "away_team": "热那亚",
-      "match_time": "2026-11-22T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-7178600e1e78",
-      "sport": "football",
-      "competition": "法甲",
-      "home_team": "巴黎FC",
-      "away_team": "昂热",
-      "match_time": "2026-11-22T14:00:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-ccdd5eef76b0",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "奥格斯堡",
-      "away_team": "美因茨05",
-      "match_time": "2026-11-22T14:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-816690ede6bc",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "桑坦德竞技",
-      "away_team": "皇家社会",
-      "match_time": "2026-11-22T15:15:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-98a3dfc42a03",
-      "sport": "football",
-      "competition": "英超",
-      "home_team": "利物浦",
-      "away_team": "曼联",
-      "match_time": "2026-11-22T16:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-8df8fac39c3e",
-      "sport": "football",
-      "competition": "德甲",
-      "home_team": "云达不来梅",
-      "away_team": "汉堡",
-      "match_time": "2026-11-22T16:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
-      "id": "mp-fb-97932973051b",
-      "sport": "football",
-      "competition": "西甲",
-      "home_team": "奥萨苏纳",
-      "away_team": "马拉加",
-      "match_time": "2026-11-22T17:30:00Z",
-      "source_url": "https://www.football-data.org/",
-      "tags": []
-    },
-    {
       "id": "mp-fb-f4a35b8c1f5a",
       "sport": "football",
       "competition": "意甲",
@@ -7429,6 +7329,126 @@
       "away_team": "密尔沃基雄鹿",
       "match_time": "2026-11-23T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21718174",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-5679136709bb",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "明尼苏达森林狼",
+      "away_team": "布鲁克林篮网",
+      "match_time": "2026-11-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718175",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-83e1d4c45235",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "芝加哥公牛",
+      "away_team": "克利夫兰骑士",
+      "match_time": "2026-11-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718176",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-688d63574319",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "新奥尔良鹈鹕",
+      "away_team": "菲尼克斯太阳",
+      "match_time": "2026-11-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718177",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-deb3a652cf8d",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "休斯顿火箭",
+      "away_team": "洛杉矶快船",
+      "match_time": "2026-11-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718178",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-e5986ab1b535",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "洛杉矶湖人",
+      "away_team": "犹他爵士",
+      "match_time": "2026-11-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718179",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-2c1a0cca7787",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "萨克拉门托国王",
+      "away_team": "圣安东尼奥马刺",
+      "match_time": "2026-11-23T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718180",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-606629147e2a",
+      "sport": "football",
+      "competition": "意甲",
+      "home_team": "蒙扎",
+      "away_team": "佛罗伦萨",
+      "match_time": "2026-11-23T19:45:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-d7b0a82390fb",
+      "sport": "football",
+      "competition": "英超",
+      "home_team": "布伦特福德",
+      "away_team": "埃弗顿",
+      "match_time": "2026-11-23T20:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-fb-e6119eb27162",
+      "sport": "football",
+      "competition": "西甲",
+      "home_team": "莱万特",
+      "away_team": "埃尔切",
+      "match_time": "2026-11-23T20:00:00Z",
+      "source_url": "https://www.football-data.org/",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-d7f21c51c02a",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "奥兰多魔术",
+      "away_team": "底特律活塞",
+      "match_time": "2026-11-24T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718181",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-45138da4afaf",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "华盛顿奇才",
+      "away_team": "波士顿凯尔特人",
+      "match_time": "2026-11-24T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718182",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-f749226466fe",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "丹佛掘金",
+      "away_team": "达拉斯独行侠",
+      "match_time": "2026-11-24T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718183",
       "tags": []
     }
   ]
