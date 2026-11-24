@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-23T20:02:21.837586+00:00",
+  "generated_at": "2026-11-24T04:45:48.248378+00:00",
   "news": [
+    {
+      "id": "ai_cn-653ce6100dbb",
+      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+      "summary": "12.9 北京，来MEET2027现场",
+      "source_url": "https://www.qbitai.com/2026/11/512329.html",
+      "publish_time": "2026-11-24T03:33:48+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-e14822a08d8a",
+      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+      "summary": "中国AI数据平台加速崛起",
+      "source_url": "https://www.qbitai.com/2026/11/512330.html",
+      "publish_time": "2026-11-24T03:30:46+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-87d21e1bb737",
+      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+      "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+      "source_url": "https://www.qbitai.com/2026/11/512305.html",
+      "publish_time": "2026-11-24T03:21:12+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-2db63213f4ed",
+      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+      "summary": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
+      "source_url": "https://www.qbitai.com/2026/11/512297.html",
+      "publish_time": "2026-11-24T02:36:08+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-ec7532e0ec3b",
+      "title": "具身行业，终于等来了自己的通用智能时刻",
+      "summary": "行业苦等多年的预训练通用智能，终于有了答案",
+      "source_url": "https://www.qbitai.com/2026/11/512264.html",
+      "publish_time": "2026-11-24T01:51:56+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
+    {
+      "id": "ai_cn-a19cd7cd7311",
+      "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
+      "summary": "离职员工：我可能走早了",
+      "source_url": "https://www.qbitai.com/2026/11/512252.html",
+      "publish_time": "2026-11-24T01:32:37+00:00",
+      "category": "ai_cn",
+      "is_important": false,
+      "tags": [
+        "量子位"
+      ]
+    },
     {
       "id": "ai_cn-3628f3dc7759",
       "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
@@ -890,75 +962,63 @@
       ]
     },
     {
-      "id": "ai_cn-32a95a1e2248",
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "summary": "「CAD拆解」",
-      "source_url": "https://www.qbitai.com/2026/11/509440.html",
-      "publish_time": "2026-11-12T11:36:20+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-fc410e023e94",
+      "title": "Anthropic推出Claude Ship，让AI代理审查、修复和批准代码变更",
+      "summary": "随着人工智能生成的代码不断累积，Anthropic 的新开发者工具旨在通过让代理处理日常审批来消除另一个瓶颈。",
+      "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "publish_time": "2026-11-23T22:05:50+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-a2f11810a503",
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
-      "source_url": "https://www.qbitai.com/2026/11/509404.html",
-      "publish_time": "2026-11-12T10:45:33+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-a42ef673b6ac",
+      "title": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合",
+      "summary": "您认为自己知道市场走向吗？一家名为Supertake的初创公司让您无需亲自挑选股票，即可将资金投入到您的想法中。",
+      "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "publish_time": "2026-11-23T22:02:05+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-e61911924786",
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "summary": "全世界都在踩刹车，达里奥一个人踩油门",
-      "source_url": "https://www.qbitai.com/2026/11/509381.html",
-      "publish_time": "2026-11-12T10:11:29+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-b23fe2325ee9",
+      "title": "在丑闻发生之际，Jensen Huang重返Nvidia，埃隆·马斯克等人对此感到高兴",
+      "summary": "“错误已经纠正了。”埃隆·马斯克插话道。",
+      "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "publish_time": "2026-11-23T21:47:41+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-108df9e45155",
-      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-      "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
-      "source_url": "https://www.qbitai.com/2026/11/509355.html",
-      "publish_time": "2026-11-12T10:08:24+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-b22bb97b417e",
+      "title": "身处黄仁勋丑闻漩涡的Megaspeed公司似乎即将被列入美国黑名单",
+      "summary": "除非美国公司获得联邦政府的特别许可，否则Megaspeed（此前由黄静（Alice Huang）领导）将被禁止与美国公司开展业务。",
+      "source_url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "publish_time": "2026-11-23T21:25:42+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
-      "id": "ai_cn-d5f0a58e0c35",
-      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-      "summary": "企业 AI 的难题，不只是模型够不够强",
-      "source_url": "https://www.qbitai.com/2026/11/509349.html",
-      "publish_time": "2026-11-12T09:34:06+00:00",
-      "category": "ai_cn",
+      "id": "ai_intl-1f8997ce74a9",
+      "title": "黄仁勋重返公司总部，Nvidia员工像迎接英雄一样迎接他",
+      "summary": "“我会在第二次担任首席执行官时做得更好。”黄仁勋对员工说。",
+      "source_url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "publish_time": "2026-11-23T20:38:53+00:00",
+      "category": "ai_intl",
       "is_important": false,
       "tags": [
-        "量子位"
-      ]
-    },
-    {
-      "id": "ai_cn-7d8d44a3dfae",
-      "title": "马斯克已准备好聘请黄仁勋",
-      "summary": "老黄出轨认错、再曝婚外恋",
-      "source_url": "https://www.qbitai.com/2026/11/509334.html",
-      "publish_time": "2026-11-12T08:16:11+00:00",
-      "category": "ai_cn",
-      "is_important": false,
-      "tags": [
-        "量子位"
+        "TechCrunch"
       ]
     },
     {
@@ -1855,66 +1915,6 @@
       "summary": "截至周六下午，该请愿书已获得超过11.5万个签名。",
       "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
       "publish_time": "2026-11-14T21:41:22+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-17dd6d164624",
-      "title": "人工智能的坟场：一个不断更新的项目和初创公司失败名单",
-      "summary": "从苹果公司一再推迟的Siri人工智能，到OpenAI混乱的“超级应用”发布，本文将盘点那些夭折或未达预期的AI项目。",
-      "source_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publish_time": "2026-11-14T17:30:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-4392222fa3b0",
-      "title": "亚洲各国政府对英伟达首席执行官黄仁勋离职一事作出回应",
-      "summary": "一些政府已采取行动，以确认芯片供应承诺，而另一些政府则正在监测对本地项目的影响，或处理正在进行的调查。",
-      "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "publish_time": "2026-11-14T16:34:15+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-8d23e88a0f9b",
-      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
-      "summary": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资家正为更少的投资和更低的估值做好准备。",
-      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "publish_time": "2026-11-13T22:43:00+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-26d265ce671c",
-      "title": "AI代理初创公司LangChain估值达30亿美元",
-      "summary": "LangChain 目前声称其模型和平台无关的代理管理工具 LangSmith 拥有 7000 名客户。",
-      "source_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "publish_time": "2026-11-13T19:37:57+00:00",
-      "category": "ai_intl",
-      "is_important": false,
-      "tags": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "id": "ai_intl-3bcb8ca81cba",
-      "title": "被禁止出口的英伟达芯片是支撑中国最强大的人工智能模型——哎呀，Jensen！",
-      "summary": "一项新研究表明，中国最先进的人工智能模型是用被禁用的英伟达芯片训练出来的。",
-      "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "publish_time": "2026-11-13T18:40:30+00:00",
       "category": "ai_intl",
       "is_important": false,
       "tags": [
@@ -2882,6 +2882,164 @@
       ]
     },
     {
+      "id": "jp_football_euro-80658144af2e",
+      "title": "辛特赖恩的日本国家队门将小久保玲央布莱恩续约：“希望通过自己的表现为球队赢得积分”",
+      "summary": "圣特鲁登（比利时甲级联赛）于23日宣布，已与日本国家队门将小久保玲央·布莱恩（25岁）达成协议，将其合同延长至2030年。 小久保从柏雷素尔转会至本菲卡（葡萄牙甲级联赛），后于2024年7月加盟圣特鲁登。他从第一年起就作为主力球员出场，本赛…",
+      "source_url": "https://web.gekisaka.jp/news/world/detail/?463781-463781-fl",
+      "publish_time": "2026-11-24T02:32:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "シントトロイデンの日本代表GK小久保玲央ブライアンが契約延長「自分のプレーでチームに勝ち点を」",
+      "_raw_summary": "シントトロイデン(ベルギー1部)は23日、日本代表GK小久保玲央ブライアン(25)と2030年まで契約を延長することに合意したと発表した。 小久保は柏レイソルからベンフィカ(ポルトガル1部)を経て、2024年7月にシントトロイデンへ加入。初年度から主力としてプレーし、今季リーグ戦では開幕12試合連続で先発フル出場している。 契約延長に際してクラブ公式サイトを通じ、以下のようにコメントし"
+    },
+    {
+      "id": "jp_football_euro-2fd35bca6c18",
+      "title": "个性十足的U-17日本国家队花絮（38张）",
+      "summary": "U-17日本队于23日进行了U-17世界杯第二场对阵塞尔维亚的比赛的前日训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463776-463776-pn",
+      "publish_time": "2026-11-23T23:00:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-79b235270b5f",
+      "title": "U-17日本队在第二场比赛前一天进行训练！！ U-17世界杯小组出线关键一战（15张）",
+      "summary": "U-17日本队于23日进行了U-17世界杯第二场对阵塞尔维亚的比赛的前日训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463775-463775-pn",
+      "publish_time": "2026-11-23T22:55:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-e3597f0c4934",
+      "title": "U-17日本队今晚将迎来第二场比赛！！ 前一天进行训练的前锋（6张）",
+      "summary": "U-17日本队于23日进行了U-17世界杯第二场对阵塞尔维亚的比赛的前日训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463774-463774-pn",
+      "publish_time": "2026-11-23T22:54:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-cc9323a56d2d",
+      "title": "U-17日本队今晚将迎来第二场比赛！！ 前一天进行了训练的中场球员：第2辑（15张）",
+      "summary": "U-17日本队于23日进行了U-17世界杯第二场对阵塞尔维亚的比赛的前日训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463773-463773-pn",
+      "publish_time": "2026-11-23T22:53:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-4c434f2966ea",
+      "title": "U-17日本队今晚将迎来第二场比赛！！ 前一天进行了训练的中场球员：第1篇（7张照片）",
+      "summary": "U-17日本队于23日进行了U-17世界杯第二场对阵塞尔维亚的比赛的前日训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463772-463772-pn",
+      "publish_time": "2026-11-23T22:53:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-5469d5e77dce",
+      "title": "U-17日本队今晚将迎来第二场比赛！！ 前一天进行训练的后卫（18张）",
+      "summary": "U-17日本队于23日进行了U-17世界杯第二场对阵塞尔维亚的比赛的前日训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463771-463771-pn",
+      "publish_time": "2026-11-23T22:50:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-1e8b4c56eb3c",
+      "title": "U-17日本队今晚将迎来第二场比赛！！ 前一天进行训练的守门员（7张）",
+      "summary": "U-17日本队于23日进行了U-17世界杯第二场对阵塞尔维亚的比赛的前日训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463770-463770-pn",
+      "publish_time": "2026-11-23T22:50:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-65cd5b75cd28",
+      "title": "U-17世界杯第二场比赛，即使队长缺席，后卫仓桥幸晖（鹿岛青年队）也表示：“我已做好带队的准备，所以会像往常一样比赛。”",
+      "summary": "在对阵哥伦比亚的比赛中展现出的稳健表现，也将向欧洲球队展示。U-17 日本队后卫仓桥幸晖（鹿岛青年队）被寄予厚望，将作为后防领袖出战 U-17 世界杯的第二场比赛，对阵塞尔维亚。他信心满满地表示：“我觉得对方会传很多次中路，但只要我们能稳稳…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463769-463769-fl",
+      "publish_time": "2026-11-23T22:01:09+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-08cd85ef2bf8",
+      "title": "将首场比赛的反思化为U-17世界杯第二场比赛的养分……中场球员木村风斗（川崎F U-18）：“比赛的结果只取决于在球门前的表现。”",
+      "summary": "汲取首场比赛的教训，力争在本届赛事中取得首胜。U-17日本国家队的中场球员木村风斗（川崎F U-18）在对阵塞尔维亚的比赛前一天的训练结束后接受了采访，他严肃地表示：“比赛的结果完全取决于在禁区前的表现。” 木村在首场对阵哥伦比亚的比赛中作…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463768-463768-fl",
+      "publish_time": "2026-11-23T21:38:32+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-14e076dc6138",
+      "title": "从首场比赛失利到U-17世界杯第二场比赛仅隔两天……小野教练暗示将对首发阵容进行一定程度的调整：“感觉大家能做到。”",
+      "summary": "U-17日本队于23日进行了最后备战，为次日的U-17世界杯第二场比赛——对阵塞尔维亚的比赛做准备。小野信义主教练在暗示将在首战失利后迎来的第二场比赛中更换一定数量的首发球员的同时，表示“感觉球队有种能够做到的氛围”，表达了自己的期待。 在…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463767-463767-fl",
+      "publish_time": "2026-11-23T20:29:00+00:00",
+      "category": "jp_football_euro",
+      "is_important": true,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-ebc8af31f355",
+      "title": "U-17日本国家队首场比赛次日训练前后展现的放松表情（18张）",
+      "summary": "22日，日本U-17国家队与U-17世界杯首场对阵哥伦比亚的替补队员进行了训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463730-463730-pn",
+      "publish_time": "2026-11-22T22:45:58+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
+      "id": "jp_football_euro-0e1f9508b0de",
+      "title": "后卫桥本凛来（FC东京U-18）向小野信义教练学习传球（7张）",
+      "summary": "22日，日本U-17国家队与U-17世界杯首场对阵哥伦比亚的替补队员进行了训练。●2026年U-17世界杯专题",
+      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463728-463728-pn",
+      "publish_time": "2026-11-22T22:40:49+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-9ca07e5a6bba",
       "title": "首场比赛没有上场机会……为U-17世界杯首秀而训练的5名球员（25张照片）",
       "summary": "22日，日本U-17国家队与U-17世界杯首场对阵哥伦比亚的比赛的替补队员进行了训练。●2026年U-17世界杯专题",
@@ -3634,6 +3792,18 @@
       ]
     },
     {
+      "id": "jp_football_euro-8a60b5f137b8",
+      "title": "森保教练明确表示，在执教的最后一场比赛中，也将“一如既往”地大幅度更换球员。",
+      "summary": "自2018年9月首次出战以来，共进行了113场比赛，取得了78胜17平18负的战绩（点球大战计为平局。包括2023年3月对阵朝鲜的弃权胜利）——。以日本国家队史上最高胜率著称的森保日本队终于迎来了最后一战。 16日，森保一主教练出席了“MI…",
+      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463324-463324-fl",
+      "publish_time": "2026-11-16T07:55:57+00:00",
+      "category": "jp_football_euro",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ 日本代表"
+      ]
+    },
+    {
       "id": "jp_football_euro-b2529729d75e",
       "title": "在幕后支持同国队友后卫中野就斗的门将早川友基，从令人惊叹的维尼修斯射门中汲取经验，“又多了一项技能”。",
       "summary": "在与巴西队比赛的次日（15日）的训练结束后，日本国家队门将早川友基（鹿岛）接受了媒体的采访，谈及17日与巴拉圭队的比赛时表示：“我认为巴拉圭队也会派出相当有实力的阵容，这场比赛将与去年有所不同。我们自己也有一些地方改变了打法，所以我想展示出…",
@@ -3706,171 +3876,27 @@
       ]
     },
     {
-      "id": "jp_football_euro-af13da2b94c9",
-      "title": "前来观看日本对巴西激烈对决的球迷（30张）",
-      "summary": "6月14日，日本国家队在国际友谊赛中以3-2的比分战胜巴西国家队。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463290-463290-pn",
-      "publish_time": "2026-11-15T13:30:00+00:00",
-      "category": "jp_football_euro",
+      "id": "football_intl-1b1b2c0b9d58",
+      "title": "📹 咦？内马尔在失利后嘲讽格雷米奥：我以为稳赢的。",
+      "summary": "周一（23日），在2026年巴甲联赛倒数第三轮的比赛中，桑托斯在莫伦比体育场以0-2不敌格雷米奥。这一结果“辜负”了那些希望格雷米奥和国际队都能……的人的调侃。",
+      "source_url": "https://sports.yahoo.com/articles/eh-neymar-taunts-gr-mio-023800042.html",
+      "publish_time": "2026-11-24T02:38:00+00:00",
+      "category": "football_intl",
       "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
       ]
     },
     {
-      "id": "jp_football_euro-e3cc1ca9ceb6",
-      "title": "击败巴西的制胜一球！ 坂元达裕打入价值千金的A级国家队首粒进球：“这会给我带来极大的信心”（15 张）",
-      "summary": "6月14日，日本国家队在国际友谊赛中以3-2的比分战胜巴西国家队。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463289-463289-pn",
-      "publish_time": "2026-11-15T13:30:00+00:00",
-      "category": "jp_football_euro",
+      "id": "football_intl-6a6d33e0f137",
+      "title": "📊 谁将降级？查看第36轮比赛后的巴甲积分榜",
+      "summary": "周一（23日）又结束了三场比赛*，这是2026年巴甲联赛第36轮的赛事。周三（25日）晚8点（巴西利亚时间），米内罗竞技队和科林蒂安队将在MRV体育场交锋，正式拉开第36轮的序幕。",
+      "source_url": "https://sports.yahoo.com/articles/whos-going-down-see-brasileir-020500590.html",
+      "publish_time": "2026-11-24T02:05:00+00:00",
+      "category": "football_intl",
       "is_important": false,
       "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-03bc7e75b512",
-      "title": "中村敬斗在对阵巴西的比赛中再次进球：“我想感谢队友”（27张）",
-      "summary": "6月14日，日本国家队在国际友谊赛中以3-2的比分战胜巴西国家队。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463288-463288-pn",
-      "publish_time": "2026-11-15T13:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-b62645285418",
-      "title": "“要想展示实力，就必须进球。”久保建英打入先制球→向队友传达信息（30张）",
-      "summary": "6月14日，日本国家队在国际友谊赛中以3-2的比分战胜巴西国家队。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463287-463287-pn",
-      "publish_time": "2026-11-15T13:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-cc6deb46d9b9",
-      "title": "森保一的日本队向巴西队复仇！ 从2-0到一度扳平，坂元达裕打入戏剧性的制胜球：中场和前锋篇（18张）",
-      "summary": "6月14日，日本国家队在国际友谊赛中以3-2的比分战胜巴西国家队。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463286-463286-pn",
-      "publish_time": "2026-11-15T13:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-a97d254af347",
-      "title": "森保一的日本队向巴西队复仇！ 从 2-0 落后到一度扳平，坂元达裕打入戏剧性的制胜球：门将与后卫篇（15 张）",
-      "summary": "6月14日，日本国家队在国际友谊赛中以3-2的比分战胜巴西国家队。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463285-463285-pn",
-      "publish_time": "2026-11-15T13:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-6e6753abcd24",
-      "title": "森保一的日本队向巴西队复仇成功！ 从 2-0 落后到一度扳平，坂元达裕打入戏剧性的制胜球（57 张）",
-      "summary": "6月14日，日本国家队在国际友谊赛中以3-2的比分战胜巴西国家队。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463283-463283-pn",
-      "publish_time": "2026-11-15T13:30:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-f9c3dc681829",
-      "title": "“拼命去触球”以奋不顾身的铲球击败巴西的南野拓实，赛后与“膝盖伙伴”町田浩树的对话：“有点晚了。”",
-      "summary": "日本国家队中场球员南野拓实（摩纳哥）在与巴西队比赛（3-2 胜）的次日，即 15 日，接受了媒体的采访，回顾了他时隔一年重返国家队的比赛。他在下半场第 27 分钟作为前腰替补上场，并在伤停补时第 1 分钟奋力抢断皮球，为球队的制胜进球创造了…",
-      "source_url": "https://web.gekisaka.jp/news/japan/detail/?463281-463281-fl",
-      "publish_time": "2026-11-15T12:34:49+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-9ec3fc7fc34b",
-      "title": "收获教训的失利……日本U-21国家队以0比2不敌西班牙U-21国家队（20张图片）",
-      "summary": "由大岩刚执教的日本U-21国家队于13日在西班牙阿尔门德拉莱霍举行的国际友谊赛中对阵西班牙U-21国家队，以0-2落败。",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463217-463217-pn",
-      "publish_time": "2026-11-15T00:57:55+00:00",
-      "category": "jp_football_euro",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-0ebd2c7d9f46",
-      "title": "日本U-17国家队备战世界杯训练（25张）",
-      "summary": "11日，备战卡塔尔U-17世界杯的日本U-17国家队在千叶市集结。除当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463193-463193-pn",
-      "publish_time": "2026-11-14T11:58:18+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-3168f73b5676",
-      "title": "U-17世界杯训练搭档川崎F U-18后卫对马羽琉和大宫U18中场迫田凌和（8张）",
-      "summary": "11日，备战卡塔尔U-17世界杯的日本U-17国家队在千叶市集结。除当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463191-463191-pn",
-      "publish_time": "2026-11-14T11:41:55+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-f0e2767940fa",
-      "title": "U-17日本队备战世界杯正式启动！！ 首日训练：中场和前锋（18张）",
-      "summary": "11日，备战卡塔尔U-17世界杯的日本U-17国家队在千叶市集结。除当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463190-463190-pn",
-      "publish_time": "2026-11-14T11:38:12+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-4f711d67e617",
-      "title": "U-17日本队备战世界杯正式启动！！ 首日训练：守门员和后卫（18张）",
-      "summary": "11日，备战卡塔尔U-17世界杯的日本U-17国家队在千叶市集结。除当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463189-463189-pn",
-      "publish_time": "2026-11-14T11:32:00+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
-      ]
-    },
-    {
-      "id": "jp_football_euro-e5ad1397ce65",
-      "title": "以亚洲冠军的身份进军U-17世界杯！！ 身披10号球衣的藤枝中场北原槙（7张）",
-      "summary": "备战卡塔尔U-17世界杯的日本U-17国家队于11日在千叶市集结。除了当天在J联赛杯中首发的后卫元砂晏翔仁·乌登巴（鹿岛）之外，共有20名队员和2名陪练队员参加。他们于当天晚上离开日本。●2026年U-17世界杯专题",
-      "source_url": "https://web.gekisaka.jp/photonews/japan/detail/?463156-463156-pn",
-      "publish_time": "2026-11-14T04:14:22+00:00",
-      "category": "jp_football_euro",
-      "is_important": true,
-      "tags": [
-        "ゲキサカ 日本代表"
+        "Yahoo Sports"
       ]
     },
     {
@@ -4810,24 +4836,24 @@
       ]
     },
     {
-      "id": "football_intl-34e42cd0baa4",
-      "title": "库尔图瓦将皇马2-1逆转塞尔塔维戈的胜利归功于穆里尼奥：“他的中场讲话是关键。”",
-      "summary": "周六晚，在国际比赛日休赛期后的首场比赛中，皇家马德里在落后一球的情况下上演逆转，以2-1击败塞尔塔维戈。银河战舰在比赛初期落后，随后在下半场发起反攻……",
-      "source_url": "https://sports.yahoo.com/articles/courtois-credits-mourinho-real-madrid-080200515.html",
-      "publish_time": "2026-11-22T08:02:00+00:00",
-      "category": "football_intl",
+      "id": "nba-e032560ed69f",
+      "title": "Warriors star clowns on 杰森·塔图姆 with ‘Friday’ spoof after he miss at the buzzer",
+      "summary": "杰森·塔图姆 missed a chance to beat the Warriors at the buzzer. 吉米·巴特勒 had just the meme for the occasion. After…",
+      "source_url": "https://sports.yahoo.com/articles/warriors-star-clowns-jayson-tatum-005557787.html",
+      "publish_time": "2026-11-24T00:55:57+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
       ]
     },
     {
-      "id": "football_intl-65a883264954",
-      "title": "☕️帕雷德斯的惊吓、对老板的扼喉和今天的5️⃣个新闻",
-      "summary": "皇家马德里队昨天上演逆转好戏，切尔西队和曼城队则双双失利，巴塞罗那队今天将迎来比赛……但我们对足球新闻的渴望仍未得到满足，因此，我们为您奉上五条新闻，让您在周日享受最佳的……",
-      "source_url": "https://sports.yahoo.com/articles/paredes-scare-chokehold-boss-days-075500775.html",
-      "publish_time": "2026-11-22T07:55:00+00:00",
-      "category": "football_intl",
+      "id": "nba-a80de61ccb17",
+      "title": "安东尼·戴维斯 named Eastern Conference Player of the Week",
+      "summary": "On Monday, the NBA announced that Washington Wizards forward 安东尼·戴维斯 was named Eastern Conference Player of the We…",
+      "source_url": "https://sports.yahoo.com/articles/anthony-davis-named-eastern-conference-205243845.html",
+      "publish_time": "2026-11-23T20:52:43+00:00",
+      "category": "nba",
       "is_important": false,
       "tags": [
         "Yahoo Sports"
@@ -5770,28 +5796,88 @@
       ]
     },
     {
-      "id": "nba-5acafa02e8b3",
-      "title": "比赛讨论帖：尼克斯队对开拓者队，2026年11月21日",
-      "summary": "尼克斯队重返麦迪逊广场花园，与利拉德和状态出人意料的开拓者队交锋。",
-      "source_url": "https://sports.yahoo.com/articles/game-discussion-thread-knicks-vs-000000695.html",
-      "publish_time": "2026-11-22T00:00:00+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-98e873d7c91e",
+      "title": "[锦标赛预选赛]守门员久保上演精彩扑救！神村学园在点球大战中战胜鹿儿岛城西，实现鹿儿岛两连冠（30张）",
+      "summary": "第105届全国高中足球锦标赛鹿儿岛县预选赛决赛于11月8日举行，神村学园高中以3-3（点球5-4）的比分战胜鹿儿岛城西高中。他们将连续两年、第13次参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463790-463790-pn",
+      "publish_time": "2026-11-24T03:56:03+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]GK久保がビッグセーブ!神村学園が鹿児島城西とのPK戦を制し、鹿児島2連覇(30枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権鹿児島県予選決勝が11月8日に行われ、神村学園高が3-3(PK5-4)で鹿児島城西高に勝利。2年連続13回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
     },
     {
-      "id": "nba-f31e1b9bc1b6",
-      "title": "凯尔特人队将以缺少 3 名主力球员的阵容迎战国王队",
-      "summary": "在凯尔特人队连续两晚的比赛中，首晚对阵国王队时，杰森·塔图姆、德里克·怀特和米切尔·罗宾逊都将缺席。",
-      "source_url": "https://sports.yahoo.com/articles/celtics-without-3-key-players-233409522.html",
-      "publish_time": "2026-11-21T23:34:09+00:00",
-      "category": "nba",
+      "id": "jp_football_highschool-62d26778f8df",
+      "title": "【锦标赛预选赛】以现校名参加的“最后一届锦标赛”。鹿儿岛城西虽然在点球大战中落败，但这是一场感人的比赛（26张照片）",
+      "summary": "第105届全国高中足球锦标赛鹿儿岛县预选赛决赛于11月8日举行，神村学园高中以3-3（点球5-4）的比分战胜鹿儿岛城西高中。他们将连续两年、第13次参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463787-463787-pn",
+      "publish_time": "2026-11-24T03:22:28+00:00",
+      "category": "jp_football_highschool",
       "is_important": false,
       "tags": [
-        "Yahoo Sports"
-      ]
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]現校名で「最後の選手権」。鹿児島城西はPK戦で敗れるも、感動的な戦い(26枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権鹿児島県予選決勝が11月8日に行われ、神村学園高が3-3(PK5-4)で鹿児島城西高に勝利。2年連続13回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-d966790fc9f2",
+      "title": "【锦标赛预选赛】个性也闪耀的鹿儿岛城西。王牌前锋境、中场核心中场小林、10号后卫末吉（11张）",
+      "summary": "第105届全国高中足球锦标赛鹿儿岛县预选赛决赛于11月8日举行，神村学园高中以3-3（点球5-4）的比分战胜鹿儿岛城西高中。他们将连续两年、第13次参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463785-463785-pn",
+      "publish_time": "2026-11-24T03:03:38+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]個性も光った鹿児島城西。エースFW境、中盤の要・MF小林、10番DF末吉(11枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権鹿児島県予選決勝が11月8日に行われ、神村学園高が3-3(PK5-4)で鹿児島城西高に勝利。2年連続13回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-1d357b8d29a4",
+      "title": "[锦标赛预选赛]鹿儿岛城西队展现出惊人的韧性！替补上场的中场球员东在加时赛下半场第5分钟破门，将2球的差距追平！（12张）",
+      "summary": "第105届全国高中足球锦标赛鹿儿岛县预选赛决赛于11月8日举行，神村学园高中以3-3（点球5-4）的比分战胜鹿儿岛城西高中。他们将连续两年、第13次参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463784-463784-pn",
+      "publish_time": "2026-11-24T02:53:44+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]鹿児島城西が驚異の粘り!延長後半5分に交代出場MF東が決め、2点差を追いつく!(12枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権鹿児島県予選決勝が11月8日に行われ、神村学園高が3-3(PK5-4)で鹿児島城西高に勝利。2年連続13回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-9e57b80bad88",
+      "title": "【锦标赛预选赛】在落后2分的加时赛下半场，一记漂亮的右脚控球射门。替补上场的中场球员出原的超级进球让鹿儿岛城西的反击势头更猛（8 张）",
+      "summary": "第105届全国高中足球锦标赛鹿儿岛县预选赛决赛于11月8日举行，神村学园高中以3-3（点球5-4）的比分战胜鹿儿岛城西高中。他们将连续两年、第13次参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463783-463783-pn",
+      "publish_time": "2026-11-24T02:42:42+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]2点ビハインドの延長後半に鮮やかな右足コントロールショット。交代出場MF出原のスーパー弾で鹿児島城西が反撃を加速(8枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権鹿児島県予選決勝が11月8日に行われ、神村学園高が3-3(PK5-4)で鹿児島城西高に勝利。2年連続13回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
+    },
+    {
+      "id": "jp_football_highschool-b885ce1e6449",
+      "title": "【锦标赛预选赛】直到半决赛都未进球，但在决赛中来了一记振奋人心的进球。鹿儿岛城西前锋长渕队长打入扳平比分的一球（15张）",
+      "summary": "第105届全国高中足球锦标赛鹿儿岛县预选赛决赛于11月8日举行，神村学园高中以3-3（点球5-4）的比分战胜鹿儿岛城西高中。他们将连续两年、第13次参加全国大赛。●第105届全国高中足球锦标赛专题",
+      "source_url": "https://web.gekisaka.jp/photonews/highschool/detail/?463782-463782-pn",
+      "publish_time": "2026-11-24T02:31:36+00:00",
+      "category": "jp_football_highschool",
+      "is_important": false,
+      "tags": [
+        "ゲキサカ"
+      ],
+      "_raw_title": "[選手権予選]準決勝まで無得点も決勝で魂の一撃。鹿児島城西FW長渕主将が同点ゴール(15枚)",
+      "_raw_summary": "第105回全国高校サッカー選手権鹿児島県予選決勝が11月8日に行われ、神村学園高が3-3(PK5-4)で鹿児島城西高に勝利。2年連続13回目の全国大会出場を決めた。●第105回全国高校サッカー選手権特集"
     },
     {
       "id": "jp_football_highschool-8612c8124cce",
@@ -6830,90 +6916,6 @@
       "_raw_summary": "第105回全国高校サッカー選手権・和歌山県予選の決勝が15日に行われた。初芝橋本高と近大和歌山高の対戦は、0-0のPK戦の末に5-4で勝利した。 両チームの激戦は80分で決着つかず。延長戦でもスコアは動かず、PK戦に突入した。 PK戦で、初芝橋本はGK宮崎皓大(3年)が近大和歌山の1人目をセーブ。その後は両チームがシュートを決め切り、初芝橋本が2大会連続19回目の県制覇を果たした。[決"
     },
     {
-      "id": "jp_football_highschool-2efc6a6f1bc7",
-      "title": "柳浦时隔3年重夺大分霸主宝座！ 门将松田悠吾在点球大战中扑出2个点球，阻止了大分鹤崎实现三连冠：大分",
-      "summary": "第105届全国高中足球锦标赛大分县预选赛决赛于15日举行。柳浦高中战胜了大分鹤崎高中。双方以 1-1 打平，最终在点球大战中以 4-1 胜出，时隔 3 届赛事后第 3 次获得全国大赛的参赛资格。 柳浦高中在上半场第8分钟，由后卫坪井咲（高三…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463242-463242-fl",
-      "publish_time": "2026-11-15T05:21:11+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "柳ヶ浦が大分覇者の座を3年ぶりに奪還! PK戦でGK松田悠吾が2本セーブ、大分鶴崎の3連覇を阻む:大分",
-      "_raw_summary": "第105回全国高校サッカー選手権・大分県予選の決勝が15日に行われた。柳ヶ浦高が大分鶴崎高に勝利。1-1でPK戦の末に4-1で制して、3大会ぶり3回目の全国切符を掴んだ。 柳ヶ浦は前半8分、右CKをDF坪井咲(3年)がヘディングシュートで決め、先制に成功する。しかし大分鶴崎も35分に同点。FW安部銀之助(2年)が左サイドからドリブルで運び、折り返したボールをFW山下紫凰(3年)がファー"
-    },
-    {
-      "id": "jp_football_highschool-0395f828b120",
-      "title": "高川学园实现山口县8连冠！ 加时赛尾声，片渕缘攻入制胜球……西京未能时隔8年再次晋级全国大赛：山口",
-      "summary": "第105届全国高中足球锦标赛山口县预选赛决赛于15日举行。高川学园高中以1-0战胜西京高中，连续8年第32次获得全国大赛的参赛资格。 在0-0的比分下进入加时赛，比赛在下半场第5分钟有了转机。高川学园在中场球员片渕缘（高三）的带领下，从右侧…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463241-463241-fl",
-      "publish_time": "2026-11-15T05:18:08+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "高川学園が山口8連覇! 延長終盤に片渕縁が決勝ゴール…西京は8年ぶり全国ならず:山口",
-      "_raw_summary": "第105回全国高校サッカー選手権・山口県予選の決勝が15日に行われた。高川学園高が西京高に1-0で勝利し、8年連続32回目の全国切符を手にした。 0-0で迎えた延長後半5分に試合が動く。高川学園は右CKからMF片渕縁(3年)が混戦を押し込んだ。 試合はそのまま終了し、高川学園が激戦を制した。西京は8年ぶりの全国とはならなかった。[決勝](11月15日)西京高 0-1 高川学園高●第10"
-    },
-    {
-      "id": "jp_football_highschool-50e22f10cc6a",
-      "title": "堀越高中称霸东京都A组！ 小川稜太攻入制胜球……击败驹泽大学高等学校，连续四年第八次获得全国大赛参赛资格：东京A组",
-      "summary": "第105届全国高中足球锦标赛·东京都A组预选赛决赛于15日举行。堀越高中以 1-0 战胜驹泽大学高中，连续四年第八次获得全国大赛的参赛资格。 上半场以 0-0 结束，堀越在下半场第 26 分钟打破僵局。前锋小川稜太（高三）在球门前混战中将球…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463230-463230-fl",
-      "publish_time": "2026-11-15T03:42:57+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "堀越が東京都Aブロック制す! 小川稜太が決勝ゴール…駒澤大高を破り、4年連続8回目の全国切符:東京A",
-      "_raw_summary": "第105回全国高校サッカー選手権・東京都Aブロック予選の決勝が15日に行われた。堀越高が駒澤大高に1-0で勝利し、4年連続8回目の全国切符を掴んだ。 0-0で前半を折り返すと、堀越が後半26分に均衡を破る。ゴール前の混戦をFW小川稜太(3年)が押し込んだ。 堀越が残り時間を守り、1-0で逃げ切った。[決勝](11月15日)堀越高 1-0 駒澤大高●第105回全国高校サッカー選手権特集"
-    },
-    {
-      "id": "jp_football_highschool-4988c1d6c9e5",
-      "title": "前桥育英连续6年第29次晋级全国大赛！ 立石阳向和山本翼打出2支安打……健大高崎虽然由小野关扳回1分，但仍未能首次晋级：群马",
-      "summary": "第 105 届全国高中足球锦标赛群马县预选赛决赛于 15 日举行，前桥育英高中以 2-1 获胜，连续 6 年第 29 次获得全国赛参赛资格。他们赢得了县新人大赛、县高中综合运动会、全国高中综合体育大赛县预选赛以及锦标赛县预选赛，实现了县内四…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463225-463225-fl",
-      "publish_time": "2026-11-15T03:18:21+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "前橋育英が6年連続29回目の全国へ! 立石陽向&山本翼で2発…健大高崎は小野関が1点返すも初出場ならず:群馬",
-      "_raw_summary": "第105回全国高校サッカー選手権・群馬県予選の決勝が15日に行われ、前橋育英高が2-1で勝利し、6年連続29回目の全国切符を掴んだ。県新人大会、県高校総体、インターハイ県予選、そして選手権県予選を制覇し、県内4冠を果たした。 前橋育英は初出場を狙う健大高崎高と決勝で対戦した。前半21分にはDF結城快成(2年)のクロスをMF木下遙(3年)が敵陣PA内で収め、最後はFW立石陽向(3年)が押"
-    },
-    {
-      "id": "jp_football_highschool-d97c14f6e941",
-      "title": "去年参加过全国大赛的德岛市立高中前锋东海林莲率先破门！在高中生涯的最后一届锦标赛中，他以重返“那个舞台”为目标。",
-      "summary": "[11月14日 高中锦标赛德岛县预选赛决赛 德岛市立 2-0 鸣门 波卡利] 10号的一脚射门打破了开局的僵局。11月14日，全国高中足球锦标赛德岛县预选赛决赛举行。德岛市立高中的前锋东海林莲（高三）在与鸣门高中的比赛中于上半场第 24 分…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463224-463224-fl",
-      "publish_time": "2026-11-15T02:21:30+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "昨年の国立を知る徳島市立FW東海林蓮が先制弾!高校最後の選手権で目指す「あの舞台」への帰還",
-      "_raw_summary": "[11.14 高校選手権徳島県予選決勝 徳島市立2-0鳴門 ポカリ] 苦しい立ち上がりを打開したのは、背番号10の一撃だった。14日に行われた全国高校サッカー選手権徳島県予選決勝。徳島市立高のFW東海林蓮(3年)は、鳴門高との一戦で前半24分に先制ゴールを決め、2-0の勝利に貢献した。 序盤は鳴門の攻勢に苦しんだ。「相手が前に蹴ってきて、セカンドボールを拾いきれず、攻められる時間が多かっ"
-    },
-    {
-      "id": "jp_football_highschool-eb50209194df",
-      "title": "在国立体育场上收获的难忘的欢呼声……去年在全国大赛中连胜两场的185厘米高大后卫、来自德岛市立高中的柏木优一郎再次进军全国大赛",
-      "summary": "[11月14日 高中锦标赛德岛县预选赛决赛 德岛市立 2-0 鸣门 波卡利] 去年在全国锦标赛中连续两场比赛进球的高个子后卫再次迎来了得分的机会。11月14日，全国高中足球锦标赛德岛县预选赛决赛举行。在下半场即将结束时，德岛市立高中的后卫柏…",
-      "source_url": "https://web.gekisaka.jp/news/highschool/detail/?463223-463223-fl",
-      "publish_time": "2026-11-15T02:13:35+00:00",
-      "category": "jp_football_highschool",
-      "is_important": false,
-      "tags": [
-        "ゲキサカ"
-      ],
-      "_raw_title": "忘れられない国立で浴びた声援…昨年の全国で2戦連発の185cm大型DF、徳島市立・柏木優一朗が再び全国へ",
-      "_raw_summary": "[11.14 高校選手権徳島県予選決勝 徳島市立2-0鳴門 ポカリ] 昨年の全国選手権で2試合連続ゴールを記録した長身DFが、再び得点のチャンスを迎えた。14日に行われた全国高校サッカー選手権徳島県予選決勝。徳島市立高DF柏木優一朗(3年)は後半終盤、惜しくもゴールとはならなかったが、CKにファーサイドで合わせてヘディングシュートを放った。 身長185cmの柏木は、昨年度の全国選手権で早"
-    },
-    {
       "id": "biz_cn-a55ff337ca05",
       "title": "苹果确认：这类iPhone 18 Pro Max有问题，只能换机",
       "summary": "市场消息，美版iPhone 18 Pro Max出现断网问题，苹果公司确认，只能通过换机解决。（中新经纬）",
@@ -7276,36 +7278,6 @@
   ],
   "matchPreviews": [
     {
-      "id": "mp-nba-d7f21c51c02a",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "奥兰多魔术",
-      "away_team": "底特律活塞",
-      "match_time": "2026-11-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718181",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-45138da4afaf",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "华盛顿奇才",
-      "away_team": "波士顿凯尔特人",
-      "match_time": "2026-11-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718182",
-      "tags": []
-    },
-    {
-      "id": "mp-nba-f749226466fe",
-      "sport": "basketball",
-      "competition": "NBA常规赛",
-      "home_team": "丹佛掘金",
-      "away_team": "达拉斯独行侠",
-      "match_time": "2026-11-24T00:00:00+00:00",
-      "source_url": "https://www.nba.com/game/21718183",
-      "tags": []
-    },
-    {
       "id": "mp-fb-a7c470c07484",
       "sport": "football",
       "competition": "欧冠",
@@ -7423,6 +7395,16 @@
       "away_team": "萨克拉门托国王",
       "match_time": "2026-11-25T00:00:00+00:00",
       "source_url": "https://www.nba.com/game/21718191",
+      "tags": []
+    },
+    {
+      "id": "mp-nba-46c3232d6369",
+      "sport": "basketball",
+      "competition": "NBA常规赛",
+      "home_team": "波特兰开拓者",
+      "away_team": "圣安东尼奥马刺",
+      "match_time": "2026-11-25T00:00:00+00:00",
+      "source_url": "https://www.nba.com/game/21718192",
       "tags": []
     }
   ]
